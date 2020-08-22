@@ -44,29 +44,31 @@ Purchase:
 
     <!--srart theme style -->
 
-    <link rel="stylesheet" type="text/css" href="css/animate.css" />
+    <link rel="stylesheet" type="text/css" href="public/assets/css/animate.css" />
 
    
 
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="public/assets/css/bootstrap.css" />
 
-    <link rel="stylesheet" type="text/css" href="css/font-awesome.css" />
+    <link rel="stylesheet" type="text/css" href="public/assets/css/font-awesome.css" />
 
-    <link rel="stylesheet" type="text/css" href="css/fonts.css" />
+    <link rel="stylesheet" type="text/css" href="public/assets/css/fonts.css" />
 
-    <link rel="stylesheet" type="text/css" href="css/reset.css" />
+    <link rel="stylesheet" type="text/css" href="public/assets/css/reset.css" />
 
-    <link rel="stylesheet" type="text/css" href="css/owl.carousel.css" />
+    <link rel="stylesheet" type="text/css" href="public/assets/css/owl.carousel.css" />
 
-    <link rel="stylesheet" type="text/css" href="css/owl.theme.default.css" />
+    <link rel="stylesheet" type="text/css" href="public/assets/css/owl.theme.default.css" />
 
-    <link rel="stylesheet" type="text/css" href="css/flaticon.css" />
+    <link rel="stylesheet" type="text/css" href="public/assets/css/flaticon.css" />
 
-    <link rel="stylesheet" type="text/css" href="css/style_II.css" />
+    <link rel="stylesheet" type="text/css" href="public/assets/css/style.css" />
 
-    <link rel="stylesheet" type="text/css" href="css/responsive2.css" />
+    <link rel="stylesheet" type="text/css" href="public/assets/css/style_II.css" />
 
-    <link rel="stylesheet" type="text/css" href="css/preloader.css" />
+    <link rel="stylesheet" type="text/css" href="public/assets/css/responsive2.css" />
+
+    <link rel="stylesheet" type="text/css" href="public/assets/css/preloader.css" />
 
     <!-- UPDATED FONT AWESOME  -->
 
@@ -74,7 +76,7 @@ Purchase:
 
     <!-- favicon links -->
 
-    <link rel="icon" href="images/header/favicon.gif" />
+    <link rel="icon" href="public/assets/images/header/favicon.gif" />
 
 </head>
 
@@ -86,7 +88,7 @@ Purchase:
 
      <div id="preloader">
 
-        <div id="status"><img src="images/header/animated-logo-dark.png" id="preloader_image" alt="loader">
+        <div id="status"><img src="public/assets/images/header/animated-logo-dark.png" id="preloader_image" alt="loader">
 
         </div>
 
@@ -188,7 +190,7 @@ Purchase:
 
                             <div class="gc_logo">
 
-                                <a href="index.php "><img src="images/header/animated-logo-dark.png" alt="Logo" title="Workers Direct" class="img-responsive"></a>
+                                <a href="index.php "><img src="public/assets/images/header/animated-logo-dark.png" alt="Logo" title="Workers Direct" class="img-responsive"></a>
 
                             </div>
 
@@ -604,7 +606,7 @@ Purchase:
 
                           <div class="gc_logo">
 
-                              <a href="index.php "><img src="images/header/animated-logo-wd.png" alt="Logo" title="Grace Church"></a>
+                              <a href="index.php "><img src="public/assets/images/header/animated-logo-wd.png" alt="Logo" title="Grace Church"></a>
 
                           </div>
 
@@ -624,7 +626,7 @@ Purchase:
 
                                
 
-                              <a href="index.php "><img src="images/header/animated-logo-dark.gif" alt="Logo" title="Grace Church"></a>
+                              <a href="index.php "><img src="public/assets/images/header/animated-logo-dark.png" alt="Logo" title="Grace Church"></a>
 
                           
 

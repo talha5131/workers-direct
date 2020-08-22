@@ -1,13 +1,14 @@
+@include('header');
 <?php
+// $curPageName = substr($_SERVER["SCRIPT_NAME"], strrpos($_SERVER["SCRIPT_NAME"], "/") + 1);
+// if ($curPageName == 'index.php') {
+//     @include('shared.errors');
+// } else {
+//     // include('header.php');
 
-$curPageName = substr($_SERVER["SCRIPT_NAME"], strrpos($_SERVER["SCRIPT_NAME"], "/") + 1);
-if ($curPageName == 'index.php') {
-    // include('header-t.php'); 
-} else {
-    // include('header.php');
-
-}
+// }
 ?>
+
 <div class="jp_banner_heading_cont_wrapper">
     <div class="container">
         <div class="row">
@@ -3186,5 +3187,6 @@ if ($curPageName == 'index.php') {
     <script src="public/assets/js/jquery-2.1.1.js"></script>
     <script src="public/assets/js/main.js"></script>
     <?php
-        // include("footer.php");
+    // include("footer.php");
     ?>
+    @include('footer');

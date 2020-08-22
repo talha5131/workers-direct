@@ -410,25 +410,25 @@
 
     <!--main js file start-->
 
-    <script src="js/jquery_min.js"></script>
+    <script src="public/assets/js/jquery_min.js"></script>
 
-    <script src="js/bootstrap.js"></script>
+    <script src="public/assets/js/bootstrap.js"></script>
 
-    <script src="js/jquery.menu-aim.js"></script>
+    <script src="public/assets/js/jquery.menu-aim.js"></script>
 
-    <script src="js/jquery.countTo.js"></script>
+    <script src="public/assets/js/jquery.countTo.js"></script>
 
-    <script src="js/jquery.inview.min.js"></script>
+    <script src="public/assets/js/jquery.inview.min.js"></script>
 
-    <script src="js/owl.carousel.js"></script>
+    <script src="public/assets/js/owl.carousel.js"></script>
 
-    <script src="js/modernizr.js"></script>
+    <script src="public/assets/js/modernizr.js"></script>
 
-    <script src="js/jquery.magnific-popup.js"></script>
+    <script src="public/assets/js/jquery.magnific-popup.js"></script>
 
-    <script src="js/custom_II.js"></script>
+    <script src="public/assets/js/custom_II.js"></script>
 
-    <script src="js/hs.megamenu.js"></script>
+    <script src="public/assets/js/hs.megamenu.js"></script>
 
     <!--main js file end-->
 
