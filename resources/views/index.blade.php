@@ -1,4 +1,8 @@
-@include('header');
+@extends('layouts.base')
+@section('title','Workersss')
+@section('content')
+
+<!-- @include('header-t'); -->
 <?php
 // $curPageName = substr($_SERVER["SCRIPT_NAME"], strrpos($_SERVER["SCRIPT_NAME"], "/") + 1);
 // if ($curPageName == 'index.php') {
@@ -3189,4 +3193,5 @@
     <?php
     // include("footer.php");
     ?>
-    @include('footer');
+    <!-- @include('footer'); -->
+    @endsection
