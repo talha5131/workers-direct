@@ -1,4 +1,7 @@
-<?php include("header.php"); ?>
+@extends('layouts.base')
+@section('title','Blog')
+@section('content')
+
 
     <!-- jp blog_cate section Wrapper Start -->
 
@@ -932,4 +935,4 @@
 
     <!-- jp downlord Wrapper End -->
 
-    <?php include("footer.php"); ?>
+    @endsection

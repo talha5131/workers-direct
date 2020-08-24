@@ -1,4 +1,6 @@
-<?php include("header.php"); ?>
+@extends('layouts.base')
+@section('title','Submit A Job')
+@section('content')
 
     <!-- jp Tittle Wrapper Start -->
 
@@ -276,4 +278,4 @@
 
     <!-- jp downlord Wrapper End -->
 
-    <?php include("footer.php"); ?>
+    @endsection

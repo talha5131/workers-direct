@@ -1,4 +1,6 @@
-<?php include("header.php"); ?>
+@extends('layouts.base')
+@section('title','Client Review')
+@section('content')
 
     <!-- jp Tittle Wrapper Start -->
 
@@ -678,4 +680,4 @@
 
     <!-- client rivew wrapper end -->
 
-    <?php include("footer.php"); ?>
+    @endsection

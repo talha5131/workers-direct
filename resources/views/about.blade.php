@@ -1,4 +1,6 @@
-<?php include("header.php"); ?>
+@extends('layouts.base')
+@section('title','About Us')
+@section('content')
 
 <!-- Top Scroll End -->
 
@@ -1421,5 +1423,4 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 </div>
 
 <!-- jp downlord Wrapper End -->
-
-<?php include("footer.php"); ?>
+@endsection

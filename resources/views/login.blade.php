@@ -1,4 +1,6 @@
-<?php include("header.php"); ?>
+@extends('layouts.base')
+@section('title','Login')
+@section('content')
 
 	  <!-- jp Tittle Wrapper Start -->
 
@@ -164,4 +166,4 @@ you logout to prevent any un-authorized access to your account</p>
 
 	<!-- jp Newsletter Wrapper Start -->
 
-    <?php include("footer.php"); ?>
+    @endsection

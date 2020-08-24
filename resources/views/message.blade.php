@@ -1,4 +1,6 @@
-<?php include("header.php"); ?>
+@extends('layouts.base')
+@section('title','Message')
+@section('content')
 
     <!-- jp Tittle Wrapper Start -->
 
@@ -348,4 +350,4 @@
 
     <!-- jp Newsletter Wrapper Start -->
 
-    <?php include("footer.php"); ?>
+    @endsection

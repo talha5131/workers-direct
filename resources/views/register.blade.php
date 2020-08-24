@@ -1,4 +1,6 @@
-<?php include("header.php"); ?>
+@extends('layouts.base')
+@section('title','Register')
+@section('content')
 
     <!-- jp Tittle Wrapper Start -->
 
@@ -360,4 +362,4 @@
 
 
 
-    <?php include("footer.php"); ?>
+    @endsection

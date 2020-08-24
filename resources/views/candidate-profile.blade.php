@@ -1,4 +1,6 @@
-<?php include("header.php"); ?>
+@extends('layouts.base')
+@section('title','Candidates Profile')
+@section('content')
 
 	  <!-- jp Tittle Wrapper Start -->
 
@@ -396,4 +398,4 @@
 
     <!-- jp downlord Wrapper End -->
 
-	<?php include("footer.php"); ?>
+    @endsection

@@ -14,13 +14,16 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('index');
 });
 Route::get('/404-error', function () {
     return view('404_error');
 });
 Route::get('/about-us', function () {
     return view('about');
+});
+Route::get('/employer', function () {
+    return view('employer');
 });
 Route::get('/why-us', function () {
     return view('why-us');
@@ -70,9 +73,9 @@ Route::get('/index_iv', function () {
 Route::get('/index_II', function () {
     return view('index_II');
 });
-Route::get('/index', function () {
-    return view('index');
-});
+// Route::get('/index', function () {
+//     return view('index');
+// });
 Route::get('/cv-register', function () {
     return view('cv-registration');
 });

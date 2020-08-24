@@ -1,4 +1,6 @@
-<?php include("header.php"); ?>
+@extends('layouts.base')
+@section('title','Workersss')
+@section('content')
 
 	  <!-- jp Tittle Wrapper Start -->
 
@@ -94,4 +96,4 @@
 
 	<!-- jp 404 error wrapper end -->
 
-	<?php include("footer.php"); ?>
+    @endsection
