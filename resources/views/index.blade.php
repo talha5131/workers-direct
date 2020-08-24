@@ -2,7 +2,6 @@
 @section('title','Workersss')
 @section('content')
 
-<!-- @include('header-t'); -->
 <?php
 // $curPageName = substr($_SERVER["SCRIPT_NAME"], strrpos($_SERVER["SCRIPT_NAME"], "/") + 1);
 // if ($curPageName == 'index.php') {
@@ -3190,8 +3189,4 @@
     </div> <!-- jp downlord Wrapper End -->
     <script src="public/assets/js/jquery-2.1.1.js"></script>
     <script src="public/assets/js/main.js"></script>
-    <?php
-    // include("footer.php");
-    ?>
-    <!-- @include('footer'); -->
     @endsection
