@@ -96,7 +96,7 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
                 <div class="about_image_wrapper">
 
-                    <img class="img-responsive" src="images/content/about-workers-direct.jpg" alt="about-img">
+                    <img class="img-responsive" src="public/assets/images/content/about-workers-direct.jpg" alt="about-img">
 
                 </div>
 
@@ -220,7 +220,7 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
                                 <div class="jp_add_resume_cont">
 
-                                    <img src="images/content/resume_logo.png" alt="logo" />
+                                    <img src="public/assets/images/content/resume_logo.png" alt="logo" />
 
                                     <h4>Get Best Matched Jobs On your Email. Add Resume NOW!</h4>
 
@@ -254,7 +254,7 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
                                             <div class="jp_spotlight_slider_img_Wrapper">
 
-                                                <img src="images/content/spotlight_img.jpg" alt="spotlight_img" />
+                                                <img src="public/assets/images/content/spotlight_img.jpg" alt="spotlight_img" />
 
                                             </div>
 
@@ -294,7 +294,7 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
                                             <div class="jp_spotlight_slider_img_Wrapper">
 
-                                                <img src="images/content/spotlight_img.jpg" alt="spotlight_img" />
+                                                <img src="public/assets/images/content/spotlight_img.jpg" alt="spotlight_img" />
 
                                             </div>
 
@@ -334,7 +334,7 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
                                             <div class="jp_spotlight_slider_img_Wrapper">
 
-                                                <img src="images/content/spotlight_img.jpg" alt="spotlight_img" />
+                                                <img src="public/assets/images/content/spotlight_img.jpg" alt="spotlight_img" />
 
                                             </div>
 
@@ -520,7 +520,7 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
                             <div class="img-section">
 
-                                <img src="images/content/hospitality-&-catering-workers-direct.jpg" alt="Admin">
+                                <img src="public/assets/images/content/hospitality-&-catering-workers-direct.jpg" alt="Admin">
 
                                 <div class="middle">
 
@@ -580,7 +580,7 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
                                 <div class="img-section">
 
-                                    <img src="images/content/admin-&-reception-workers-direct.jpg" alt="Admin">
+                                    <img src="public/assets/images/content/admin-&-reception-workers-direct.jpg" alt="Admin">
 
                                     <div class="middle">
 
@@ -642,7 +642,7 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
                                 <div class="img-section">
 
-                                    <img src="images/content/school-&-academics-workers-direct.jpg" alt="Admin">
+                                    <img src="public/assets/images/content/school-&-academics-workers-direct.jpg" alt="Admin">
 
                                     <div class="middle">
 
@@ -704,7 +704,7 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
                                 <div class="img-section">
 
-                                    <img src="images/content/health-&-social-care-workers-direct.jpg" alt="Admin">
+                                    <img src="public/assets/images/content/health-&-social-care-workers-direct.jpg" alt="Admin">
 
                                     <div class="middle">
 
@@ -776,7 +776,7 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
                                 <div class="img-section">
 
-                                    <img src="images/content/trade-&-construction-workers-direct.jpg" alt="Admin">
+                                    <img src="public/assets/images/content/trade-&-construction-workers-direct.jpg" alt="Admin">
 
                                     <div class="middle">
 
@@ -836,7 +836,7 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
                                     <div class="img-section">
 
-                                        <img src="images/content/warehouse-&-logistics-workers-direct.jpg" alt="Admin">
+                                        <img src="public/assets/images/content/warehouse-&-logistics-workers-direct.jpg" alt="Admin">
 
                                         <div class="middle">
 
@@ -898,7 +898,7 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
                                     <div class="img-section">
 
-                                        <img src="images/content/it-&-technology-workers-direct.jpg" alt="Admin">
+                                        <img src="public/assets/images/content/it-&-technology-workers-direct.jpg" alt="Admin">
 
                                         <div class="middle">
 
@@ -960,7 +960,7 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
                                     <div class="img-section">
 
-                                        <img src="images/content/virtual-&-remote-employees-workers-direct.jpg" alt="Admin">
+                                        <img src="public/assets/images/content/virtual-&-remote-employees-workers-direct.jpg" alt="Admin">
 
                                         <div class="middle">
 
@@ -1020,7 +1020,7 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
                                     <div class="jp_career_img_wrapper">
 
-                                        <img src="images/content/car_img1.jpg" alt="career_img" />
+                                        <img src="public/assets/images/content/car_img1.jpg" alt="career_img" />
 
                                     </div>
 
@@ -1040,7 +1040,7 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
                                     <ul>
 
-                                        <li><img src="images/content/blog_small_img.jpg" alt="small_img" class="img-circle">&nbsp;&nbsp; <a href="#">Jhon Doe</a></li>
+                                        <li><img src="public/assets/images/content/blog_small_img.jpg" alt="small_img" class="img-circle">&nbsp;&nbsp; <a href="#">Jhon Doe</a></li>
 
                                     </ul>
 
@@ -1056,7 +1056,7 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
                                     <div class="jp_career_img_wrapper">
 
-                                        <img src="images/content/car_img2.jpg" alt="career_img" />
+                                        <img src="public/assets/images/content/car_img2.jpg" alt="career_img" />
 
                                     </div>
 
@@ -1076,7 +1076,7 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
                                     <ul>
 
-                                        <li><img src="images/content/blog_small_img.jpg" alt="small_img" class="img-circle">&nbsp;&nbsp; <a href="#">Jhon Doe</a></li>
+                                        <li><img src="public/assets/images/content/blog_small_img.jpg" alt="small_img" class="img-circle">&nbsp;&nbsp; <a href="#">Jhon Doe</a></li>
 
                                     </ul>
 
@@ -1092,7 +1092,7 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
                                     <div class="jp_career_img_wrapper">
 
-                                        <img src="images/content/car_img3.jpg" alt="career_img" />
+                                        <img src="public/assets/images/content/car_img3.jpg" alt="career_img" />
 
                                     </div>
 
@@ -1112,7 +1112,7 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
                                     <ul>
 
-                                        <li><img src="images/content/blog_small_img.jpg" alt="small_img" class="img-circle">&nbsp;&nbsp; <a href="#">Jhon Doe</a></li>
+                                        <li><img src="public/assets/images/content/blog_small_img.jpg" alt="small_img" class="img-circle">&nbsp;&nbsp; <a href="#">Jhon Doe</a></li>
 
                                     </ul>
 
@@ -1378,7 +1378,7 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
                 <div class="jp_down_mob_img_wrapper">
 
-                    <img src="images/content/mobail.png" alt="mobail_img" />
+                    <img src="public/assets/images/content/mobail.png" alt="mobail_img" />
 
                 </div>
 
@@ -1410,7 +1410,7 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
                 <div class="jp_down_mob_img_wrapper">
 
-                    <img src="images/content/mobail.png" class="img-responsive" alt="mobail_img" />
+                    <img src="public/assets/images/content/mobail.png" class="img-responsive" alt="mobail_img" />
 
                 </div>
 
