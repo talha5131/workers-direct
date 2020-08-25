@@ -112,9 +112,9 @@ Purchase:
 
                             <ul>
 
-                                <li><a href="employer.php "><i class="fa fa-sitemap"></i>&nbsp; Employer</a></li>
+                                <li><a href="employer "><i class="fa fa-sitemap"></i>&nbsp; Employer</a></li>
 
-                                <li><a href="job-seeker.php "><i class="fa fa-graduation-cap"></i>&nbsp; Job Seeker</a></li>
+                                <li><a href="job-seeker "><i class="fa fa-graduation-cap"></i>&nbsp; Job Seeker</a></li>
 
                             </ul>
 
@@ -150,9 +150,9 @@ Purchase:
 
                             <ul>
 
-                                <li><a href="register.php "><i class="fa fa-user"></i>&nbsp; SIGN UP</a></li>
+                                <li><a href="register "><i class="fa fa-user"></i>&nbsp; SIGN UP</a></li>
 
-                                <li><a href="login.php "><i class="fa fa-sign-in"></i>&nbsp; LOGIN</a></li>
+                                <li><a href="login "><i class="fa fa-sign-in"></i>&nbsp; LOGIN</a></li>
 
                             </ul>
 
@@ -188,7 +188,7 @@ Purchase:
 
                             <div class="gc_logo">
 
-                                <a href="index.php "><img src="public/assets/images/header/animated-logo-dark.png" alt="Logo" title="Workers Direct" class="img-responsive"></a>
+                                <a href="{{url('/')}}"><img src="public/assets/images/header/animated-logo-dark.png" alt="Logo" title="Workers Direct" class="img-responsive"></a>
 
                             </div>
 
@@ -212,7 +212,7 @@ Purchase:
 
 
 
-                                    <li class="gc_main_navigation parent"><a href="about.php " class="gc_main_navigation">About</a></li>
+                                    <li class="gc_main_navigation parent"><a href="about-us " class="gc_main_navigation">About</a></li>
 
 
 
@@ -584,7 +584,7 @@ Purchase:
 
                                     </li>
 
-                                    <li class="gc_main_navigation parent"><a href="contact-us.php " class="gc_main_navigation">Contact</a></li>
+                                    <li class="gc_main_navigation parent"><a href="contact-us " class="gc_main_navigation">Contact</a></li>
 
                                 </ul>
 
@@ -604,7 +604,7 @@ Purchase:
 
                                             <div class="gc_logo">
 
-                                                <a href="index.php "><img src="public/assets/images/header/animated-logo-wd.png" alt="Logo" title="Grace Church"></a>
+                                                <a href="{{url('/')}}"><img src="public/assets/images/header/animated-logo-wd.png" alt="Logo" title="Grace Church"></a>
 
                                             </div>
 
@@ -642,7 +642,7 @@ Purchase:
 
 
 
-                                                    <a href="index.php "><img src="public/assets/images/header/animated-logo-dark.png" alt="Logo" title="Grace Church"></a>
+                                                    <a href="{{url('/')}}"><img src="public/assets/images/header/animated-logo-dark.png" alt="Logo" title="Grace Church"></a>
 
 
 
@@ -660,17 +660,17 @@ Purchase:
 
                                                                 <li class="go-back"><a href="#0">Menu</a></li>
 
-                                                                <li><a href="index.php ">Home1</a></li>
+                                                                <li><a href="{{url('/')}}">Home1</a></li>
 
-                                                                <li><a href="index_II.php ">Home2</a></li>
+                                                                <li><a href="index_II ">Home2</a></li>
 
-                                                                <li><a href="index_map.php ">Home3</a></li>
+                                                                <li><a href="index_map ">Home3</a></li>
 
-                                                                <li><a href="index_iv.php ">Home4</a></li>
+                                                                <li><a href="index_iv ">Home4</a></li>
 
-                                                                <li><a href="index_v.php ">Home5</a></li>
+                                                                <li><a href="index_v ">Home5</a></li>
 
-                                                                <li><a href="index_vi.php ">Home6</a></li>
+                                                                <li><a href="index_vi ">Home6</a></li>
 
                                                                 <!-- .has-children -->
 
@@ -754,19 +754,19 @@ Purchase:
 
                                                                 <li class="go-back"><a href="#0">Menu</a></li>
 
-                                                                <li><a href="about.php ">About-Us</a></li>
+                                                                <li><a href="about-us ">About-Us</a></li>
 
-                                                                <li><a href="404_error.php ">404</a></li>
+                                                                <li><a href="404-error ">404</a></li>
 
-                                                                <li><a href="submit-a-job.php ">SUBMIT A JOB</a></li>
+                                                                <li><a href="submit-a-job ">SUBMIT A JOB</a></li>
 
-                                                                <li><a href="login.php ">Login</a></li>
+                                                                <li><a href="login ">Login</a></li>
 
-                                                                <li><a href="register.php ">Register</a></li>
+                                                                <li><a href="register ">Register</a></li>
 
-                                                                <li><a href="pricing.php ">Pricing</a></li>
+                                                                <li><a href="pricing ">Pricing</a></li>
 
-                                                                <li><a href="message.php ">message</a></li>
+                                                                <li><a href="message ">message</a></li>
 
                                                                 <li><a href="client_reivew.php ">client reivew</a></li>
 
@@ -830,19 +830,19 @@ Purchase:
 
                                                         <li>
 
-                                                            <a href="contact-us.php ">Contact</a>
+                                                            <a href="contact-us ">Contact</a>
 
                                                         </li>
 
                                                         <li>
 
-                                                            <a href="register.php ">Sign Up</a>
+                                                            <a href="register ">Sign Up</a>
 
                                                         </li>
 
                                                         <li>
 
-                                                            <a href="login.php ">Login</a>
+                                                            <a href="login ">Login</a>
 
                                                         </li>
 
@@ -878,7 +878,7 @@ Purchase:
 
                             <ul>
 
-                                <li><a href="submit-a-job.php "><i class="fa fa-plus-circle"></i>&nbsp; SUBMIT A JOB</a>
+                                <li><a href="submit-a-job "><i class="fa fa-plus-circle"></i>&nbsp; SUBMIT A JOB</a>
 
                                 </li>
 
