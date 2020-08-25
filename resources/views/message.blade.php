@@ -78,7 +78,7 @@
 
                                 <div class="thumb">
 
-                                    <img src="images/content/rc1.png" class="img-fluid" alt="">
+                                    <img src="public/assets/images/content/rc1.png" class="img-fluid" alt="">
 
                                 </div>
 
@@ -96,7 +96,7 @@
 
                                 <div class="thumb">
 
-                                    <img src="images/content/rc2.png" class="img-fluid" alt="">
+                                    <img src="public/assets/images/content/rc2.png" class="img-fluid" alt="">
 
                                 </div>
 
@@ -114,7 +114,7 @@
 
                                 <div class="thumb">
 
-                                    <img src="images/content/rc3.png" class="img-fluid" alt="">
+                                    <img src="public/assets/images/content/rc3.png" class="img-fluid" alt="">
 
                                 </div>
 
@@ -132,7 +132,7 @@
 
                                 <div class="thumb">
 
-                                    <img src="images/content/rc4.png" class="img-fluid" alt="">
+                                    <img src="public/assets/images/content/rc4.png" class="img-fluid" alt="">
 
                                 </div>
 
@@ -150,7 +150,7 @@
 
                                 <div class="thumb">
 
-                                    <img src="images/content/rs5.jpg" class="img-fluid" alt="">
+                                    <img src="public/assets/images/content/rs5.jpg" class="img-fluid" alt="">
 
                                 </div>
 
@@ -168,7 +168,7 @@
 
                                 <div class="thumb">
 
-                                    <img src="images/content/rs4.jpg" class="img-fluid" alt="">
+                                    <img src="public/assets/images/content/rs4.jpg" class="img-fluid" alt="">
 
                                 </div>
 
@@ -238,7 +238,7 @@
 
                                     <div class="avater">
 
-                                        <img src="images/content/rc3.png" class="img-fluid" alt="">
+                                        <img src="public/assets/images/content/rc3.png" class="img-fluid" alt="">
 
                                     </div>
 
@@ -252,7 +252,7 @@
 
                                     <div class="avater">
 
-                                        <img src="images/content/rc1.png" class="img-fluid" alt="">
+                                        <img src="public/assets/images/content/rc1.png" class="img-fluid" alt="">
 
                                     </div>
 
@@ -266,7 +266,7 @@
 
                                     <div class="avater">
 
-                                        <img src="images/content/rc3.png" class="img-fluid" alt="">
+                                        <img src="public/assets/images/content/rc3.png" class="img-fluid" alt="">
 
                                     </div>
 
@@ -280,7 +280,7 @@
 
                                     <div class="avater">
 
-                                        <img src="images/content/rc1.png" class="img-fluid" alt="">
+                                        <img src="public/assets/images/content/rc1.png" class="img-fluid" alt="">
 
                                     </div>
 
@@ -294,7 +294,7 @@
 
                                     <div class="avater">
 
-                                        <img src="images/content/rc3.png" class="img-fluid" alt="">
+                                        <img src="public/assets/images/content/rc3.png" class="img-fluid" alt="">
 
                                     </div>
 

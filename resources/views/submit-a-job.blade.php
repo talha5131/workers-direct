@@ -238,7 +238,7 @@
 
                     <div class="jp_down_mob_img_wrapper">
 
-                        <img src="images/content/mobail.png" alt="mobail_img" />
+                        <img src="public/assets/images/content/mobail.png" alt="mobail_img" />
 
                     </div>
 
@@ -264,7 +264,7 @@
 
                     <div class="jp_down_mob_img_wrapper">
 
-                        <img src="images/content/mobail.png" class="img-responsive" alt="mobail_img" />
+                        <img src="public/assets/images/content/mobail.png" class="img-responsive" alt="mobail_img" />
 
                     </div>
 

@@ -648,7 +648,7 @@
 
                                 <div class="jp_add_resume_cont">
 
-                                    <img src="images/content/resume_logo.png" alt="logo" />
+                                    <img src="public/assets/images/content/resume_logo.png" alt="logo" />
 
                                     <h4>Get Best Matched Jobs On your Email. Add Resume NOW!</h4>
 
@@ -756,7 +756,7 @@
 
                                                             <div class="jp_job_post_side_img">
 
-                                                                <img src="images/content/job_post_img1.jpg" alt="post_img" />
+                                                                <img src="public/assets/images/content/job_post_img1.jpg" alt="post_img" />
 
                                                             </div>
 
@@ -820,7 +820,7 @@
 
                                                             <div class="jp_job_post_side_img">
 
-                                                                <img src="images/content/job_post_img2.jpg" alt="post_img" />
+                                                                <img src="public/assets/images/content/job_post_img2.jpg" alt="post_img" />
 
                                                             </div>
 
@@ -884,7 +884,7 @@
 
                                                             <div class="jp_job_post_side_img">
 
-                                                                <img src="images/content/job_post_img3.jpg" alt="post_img" />
+                                                                <img src="public/assets/images/content/job_post_img3.jpg" alt="post_img" />
 
                                                             </div>
 
@@ -948,7 +948,7 @@
 
                                                             <div class="jp_job_post_side_img">
 
-                                                                <img src="images/content/job_post_img4.jpg" alt="post_img" />
+                                                                <img src="public/assets/images/content/job_post_img4.jpg" alt="post_img" />
 
                                                             </div>
 
@@ -1012,7 +1012,7 @@
 
                                                             <div class="jp_job_post_side_img">
 
-                                                                <img src="images/content/job_post_img5.jpg" alt="post_img" />
+                                                                <img src="public/assets/images/content/job_post_img5.jpg" alt="post_img" />
 
                                                             </div>
 
@@ -1076,7 +1076,7 @@
 
                                                             <div class="jp_job_post_side_img">
 
-                                                                <img src="images/content/job_post_img1.jpg" alt="post_img" />
+                                                                <img src="public/assets/images/content/job_post_img1.jpg" alt="post_img" />
 
                                                             </div>
 
@@ -1140,7 +1140,7 @@
 
                                                             <div class="jp_job_post_side_img">
 
-                                                                <img src="images/content/job_post_img2.jpg" alt="post_img" />
+                                                                <img src="public/assets/images/content/job_post_img2.jpg" alt="post_img" />
 
                                                             </div>
 
@@ -1204,7 +1204,7 @@
 
                                                             <div class="jp_job_post_side_img">
 
-                                                                <img src="images/content/job_post_img3.jpg" alt="post_img" />
+                                                                <img src="public/assets/images/content/job_post_img3.jpg" alt="post_img" />
 
                                                             </div>
 
@@ -1268,7 +1268,7 @@
 
                                                             <div class="jp_job_post_side_img">
 
-                                                                <img src="images/content/job_post_img4.jpg" alt="post_img" />
+                                                                <img src="public/assets/images/content/job_post_img4.jpg" alt="post_img" />
 
                                                             </div>
 
@@ -1332,7 +1332,7 @@
 
                                                             <div class="jp_job_post_side_img">
 
-                                                                <img src="images/content/job_post_img5.jpg" alt="post_img" />
+                                                                <img src="public/assets/images/content/job_post_img5.jpg" alt="post_img" />
 
                                                             </div>
 
@@ -1396,7 +1396,7 @@
 
                                                             <div class="jp_job_post_side_img">
 
-                                                                <img src="images/content/job_post_img1.jpg" alt="post_img" />
+                                                                <img src="public/assets/images/content/job_post_img1.jpg" alt="post_img" />
 
                                                             </div>
 
@@ -1460,7 +1460,7 @@
 
                                                             <div class="jp_job_post_side_img">
 
-                                                                <img src="images/content/job_post_img2.jpg" alt="post_img" />
+                                                                <img src="public/assets/images/content/job_post_img2.jpg" alt="post_img" />
 
                                                             </div>
 
@@ -1524,7 +1524,7 @@
 
                                                             <div class="jp_job_post_side_img">
 
-                                                                <img src="images/content/job_post_img3.jpg" alt="post_img" />
+                                                                <img src="public/assets/images/content/job_post_img3.jpg" alt="post_img" />
 
                                                             </div>
 
@@ -1588,7 +1588,7 @@
 
                                                             <div class="jp_job_post_side_img">
 
-                                                                <img src="images/content/job_post_img4.jpg" alt="post_img" />
+                                                                <img src="public/assets/images/content/job_post_img4.jpg" alt="post_img" />
 
                                                             </div>
 
@@ -1652,7 +1652,7 @@
 
                                                             <div class="jp_job_post_side_img">
 
-                                                                <img src="images/content/job_post_img5.jpg" alt="post_img" />
+                                                                <img src="public/assets/images/content/job_post_img5.jpg" alt="post_img" />
 
                                                             </div>
 
@@ -1716,7 +1716,7 @@
 
                                                             <div class="jp_job_post_side_img">
 
-                                                                <img src="images/content/job_post_img1.jpg" alt="post_img" />
+                                                                <img src="public/assets/images/content/job_post_img1.jpg" alt="post_img" />
 
                                                             </div>
 
@@ -1812,7 +1812,7 @@
 
                                                             <div class="jp_job_post_side_img">
 
-                                                                <img src="images/content/job_post_img2.jpg" alt="post_img" />
+                                                                <img src="public/assets/images/content/job_post_img2.jpg" alt="post_img" />
 
                                                             </div>
 
@@ -1888,7 +1888,7 @@
 
                                                             <div class="jp_job_post_side_img">
 
-                                                                <img src="images/content/job_post_img3.jpg" alt="post_img" />
+                                                                <img src="public/assets/images/content/job_post_img3.jpg" alt="post_img" />
 
                                                             </div>
 
@@ -1964,7 +1964,7 @@
 
                                                             <div class="jp_job_post_side_img">
 
-                                                                <img src="images/content/job_post_img4.jpg" alt="post_img" />
+                                                                <img src="public/assets/images/content/job_post_img4.jpg" alt="post_img" />
 
                                                             </div>
 
@@ -2040,7 +2040,7 @@
 
                                                             <div class="jp_job_post_side_img">
 
-                                                                <img src="images/content/job_post_img5.jpg" alt="post_img" />
+                                                                <img src="public/assets/images/content/job_post_img5.jpg" alt="post_img" />
 
                                                             </div>
 
@@ -2116,7 +2116,7 @@
 
                                                             <div class="jp_job_post_side_img">
 
-                                                                <img src="images/content/job_post_img1.jpg" alt="post_img" />
+                                                                <img src="public/assets/images/content/job_post_img1.jpg" alt="post_img" />
 
                                                             </div>
 
@@ -2192,7 +2192,7 @@
 
                                                             <div class="jp_job_post_side_img">
 
-                                                                <img src="images/content/job_post_img2.jpg" alt="post_img" />
+                                                                <img src="public/assets/images/content/job_post_img2.jpg" alt="post_img" />
 
                                                             </div>
 
@@ -2268,7 +2268,7 @@
 
                                                             <div class="jp_job_post_side_img">
 
-                                                                <img src="images/content/job_post_img3.jpg" alt="post_img" />
+                                                                <img src="public/assets/images/content/job_post_img3.jpg" alt="post_img" />
 
                                                             </div>
 
@@ -2344,7 +2344,7 @@
 
                                                             <div class="jp_job_post_side_img">
 
-                                                                <img src="images/content/job_post_img3.jpg" alt="post_img" />
+                                                                <img src="public/assets/images/content/job_post_img3.jpg" alt="post_img" />
 
                                                             </div>
 
@@ -2420,7 +2420,7 @@
 
                                                             <div class="jp_job_post_side_img">
 
-                                                                <img src="images/content/job_post_img4.jpg" alt="post_img" />
+                                                                <img src="public/assets/images/content/job_post_img4.jpg" alt="post_img" />
 
                                                             </div>
 
@@ -2496,7 +2496,7 @@
 
                                                             <div class="jp_job_post_side_img">
 
-                                                                <img src="images/content/job_post_img5.jpg" alt="post_img" />
+                                                                <img src="public/assets/images/content/job_post_img5.jpg" alt="post_img" />
 
                                                             </div>
 
@@ -3084,7 +3084,7 @@
 
                                 <div class="jp_add_resume_cont">
 
-                                    <img src="images/content/resume_logo.png" alt="logo" />
+                                    <img src="public/assets/images/content/resume_logo.png" alt="logo" />
 
                                     <h4>Get Best Matched Jobs On your Email. Add Resume NOW!</h4>
 
@@ -3150,7 +3150,7 @@
 
                     <div class="jp_down_mob_img_wrapper">
 
-                        <img src="images/content/mobail.png" alt="mobail_img" />
+                        <img src="public/assets/images/content/mobail.png" alt="mobail_img" />
 
                     </div>
 
@@ -3176,7 +3176,7 @@
 
                     <div class="jp_down_mob_img_wrapper">
 
-                        <img src="images/content/mobail.png" class="img-responsive" alt="mobail_img" />
+                        <img src="public/assets/images/content/mobail.png" class="img-responsive" alt="mobail_img" />
 
                     </div>
 

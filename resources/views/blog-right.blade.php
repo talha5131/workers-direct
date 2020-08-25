@@ -73,7 +73,7 @@
 
                                     <div class="jp_first_blog_post_img">
 
-                                        <img src="images/content/blog_img1.jpg" class="img-responsive" alt="blog_img" />
+                                        <img src="public/assets/images/content/blog_img1.jpg" class="img-responsive" alt="blog_img" />
 
                                     </div>
 
@@ -101,7 +101,7 @@
 
                                             <ul>
 
-                                                <li><img src="images/content/blog_small_img.jpg" alt="small_img" class="img-circle" />&nbsp;&nbsp; Jhon Doe</li>
+                                                <li><img src="public/assets/images/content/blog_small_img.jpg" alt="small_img" class="img-circle" />&nbsp;&nbsp; Jhon Doe</li>
 
                                             </ul>
 
@@ -151,19 +151,19 @@
 
                                             <div class="item">
 
-                                                <img src="images/content/blog_img1.jpg" class="img-responsive" alt="blog_img" />
+                                                <img src="public/assets/images/content/blog_img1.jpg" class="img-responsive" alt="blog_img" />
 
                                             </div>
 
                                             <div class="item">
 
-                                                <img src="images/content/blog_img2.jpg" class="img-responsive" alt="blog_img" />
+                                                <img src="public/assets/images/content/blog_img2.jpg" class="img-responsive" alt="blog_img" />
 
                                             </div>
 
                                             <div class="item">
 
-                                                <img src="images/content/blog_img3.jpg" class="img-responsive" alt="blog_img" />
+                                                <img src="public/assets/images/content/blog_img3.jpg" class="img-responsive" alt="blog_img" />
 
                                             </div>
 
@@ -195,7 +195,7 @@
 
                                             <ul>
 
-                                                <li><img src="images/content/blog_small_img.jpg" alt="small_img" class="img-circle" />&nbsp;&nbsp; Jhon Doe</li>
+                                                <li><img src="public/assets/images/content/blog_small_img.jpg" alt="small_img" class="img-circle" />&nbsp;&nbsp; Jhon Doe</li>
 
                                             </ul>
 
@@ -263,7 +263,7 @@
 
                                             <ul>
 
-                                                <li><img src="images/content/blog_small_img.jpg" alt="small_img" class="img-circle" />&nbsp;&nbsp; Jhon Doe</li>
+                                                <li><img src="public/assets/images/content/blog_small_img.jpg" alt="small_img" class="img-circle" />&nbsp;&nbsp; Jhon Doe</li>
 
                                             </ul>
 
@@ -311,11 +311,11 @@
 
                                         <div class="et_progress_video">
 
-                                            <img src="images/content/blog_img4.jpg" class="img-responsive" alt="service_img" />
+                                            <img src="public/assets/images/content/blog_img4.jpg" class="img-responsive" alt="service_img" />
 
                                             <div class="et_progress_video_cont_overlay">
 
-                                                <div class="et_progress_video_text"><a class="popup-youtube" href="https://www.youtube.com/embed/xImpyYRVGOc"><img src="images/content/play.png" alt="video"></a></div>
+                                                <div class="et_progress_video_text"><a class="popup-youtube" href="https://www.youtube.com/embed/xImpyYRVGOc"><img src="public/assets/images/content/play.png" alt="video"></a></div>
 
                                             </div>
 
@@ -347,7 +347,7 @@
 
                                             <ul>
 
-                                                <li><img src="images/content/blog_small_img.jpg" alt="small_img" class="img-circle" />&nbsp;&nbsp; Jhon Doe</li>
+                                                <li><img src="public/assets/images/content/blog_small_img.jpg" alt="small_img" class="img-circle" />&nbsp;&nbsp; Jhon Doe</li>
 
                                             </ul>
 
@@ -393,7 +393,7 @@
 
                                     <div class="jp_first_blog_post_img">
 
-                                        <img src="images/content/blog_img3.jpg" class="img-responsive" alt="blog_img" />
+                                        <img src="public/assets/images/content/blog_img3.jpg" class="img-responsive" alt="blog_img" />
 
                                     </div>
 
@@ -421,7 +421,7 @@
 
                                             <ul>
 
-                                                <li><img src="images/content/blog_small_img.jpg" alt="small_img" class="img-circle" />&nbsp;&nbsp; Jhon Doe</li>
+                                                <li><img src="public/assets/images/content/blog_small_img.jpg" alt="small_img" class="img-circle" />&nbsp;&nbsp; Jhon Doe</li>
 
                                             </ul>
 
@@ -569,7 +569,7 @@
 
                                         <div class="jp_rightside_career_img">
 
-                                            <img src="images/content/career_img1.jpg" alt="career_img" />
+                                            <img src="public/assets/images/content/career_img1.jpg" alt="career_img" />
 
                                         </div>
 
@@ -587,7 +587,7 @@
 
                                         <div class="jp_rightside_career_img">
 
-                                            <img src="images/content/career_img2.jpg" alt="career_img" />
+                                            <img src="public/assets/images/content/career_img2.jpg" alt="career_img" />
 
                                         </div>
 
@@ -605,7 +605,7 @@
 
                                         <div class="jp_rightside_career_img">
 
-                                            <img src="images/content/career_img3.jpg" alt="career_img" />
+                                            <img src="public/assets/images/content/career_img3.jpg" alt="career_img" />
 
                                         </div>
 
@@ -649,7 +649,7 @@
 
                                             <div class="jp_spotlight_slider_img_Wrapper">
 
-                                                <img src="images/content/spotlight_img.jpg" alt="spotlight_img" />
+                                                <img src="public/assets/images/content/spotlight_img.jpg" alt="spotlight_img" />
 
                                             </div>
 
@@ -689,7 +689,7 @@
 
                                             <div class="jp_spotlight_slider_img_Wrapper">
 
-                                                <img src="images/content/spotlight_img.jpg" alt="spotlight_img" />
+                                                <img src="public/assets/images/content/spotlight_img.jpg" alt="spotlight_img" />
 
                                             </div>
 
@@ -729,7 +729,7 @@
 
                                             <div class="jp_spotlight_slider_img_Wrapper">
 
-                                                <img src="images/content/spotlight_img.jpg" alt="spotlight_img" />
+                                                <img src="public/assets/images/content/spotlight_img.jpg" alt="spotlight_img" />
 
                                             </div>
 
@@ -829,7 +829,7 @@
 
                                         <div class="jp_rightside_career_img">
 
-                                            <img src="images/content/client_img1.jpg" alt="career_img" />
+                                            <img src="public/assets/images/content/client_img1.jpg" alt="career_img" />
 
                                         </div>
 
@@ -847,7 +847,7 @@
 
                                         <div class="jp_rightside_career_img">
 
-                                            <img src="images/content/client_img2.jpg" alt="career_img" />
+                                            <img src="public/assets/images/content/client_img2.jpg" alt="career_img" />
 
                                         </div>
 
@@ -865,7 +865,7 @@
 
                                         <div class="jp_rightside_career_img">
 
-                                            <img src="images/content/client_img3.jpg" alt="career_img" />
+                                            <img src="public/assets/images/content/client_img3.jpg" alt="career_img" />
 
                                         </div>
 
@@ -899,7 +899,7 @@
 
                                 <div class="jp_add_resume_cont">
 
-                                    <img src="images/content/resume_logo.png" alt="logo" />
+                                    <img src="public/assets/images/content/resume_logo.png" alt="logo" />
 
                                     <h4>Get Best Matched Jobs On your Email. Add Resume NOW!</h4>
 
@@ -965,7 +965,7 @@
 
                     <div class="jp_down_mob_img_wrapper">
 
-                        <img src="images/content/mobail.png" alt="mobail_img" />
+                        <img src="public/assets/images/content/mobail.png" alt="mobail_img" />
 
                     </div>
 
@@ -991,7 +991,7 @@
 
                     <div class="jp_down_mob_img_wrapper">
 
-                        <img src="images/content/mobail.png" class="img-responsive" alt="mobail_img" />
+                        <img src="public/assets/images/content/mobail.png" class="img-responsive" alt="mobail_img" />
 
                     </div>
 

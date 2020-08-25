@@ -66,7 +66,7 @@
 
 						<div class="jp_cp_left_pro_wallpaper">
 
-							<img src="images/content/cp1.png" alt="profile_img">
+							<img src="public/assets/images/content/cp1.png" alt="profile_img">
 
 							<h2>Farhan Shaikh</h2>
 
@@ -104,7 +104,7 @@
 
                         <div class="jp_add_resume_cont">
 
-                            <img src="images/content/resume_logo.png" alt="logo" />
+                            <img src="public/assets/images/content/resume_logo.png" alt="logo" />
 
                             <h4>Get Best Matched Jobs On your Email. Add Resume NOW!</h4>
 
@@ -358,7 +358,7 @@
 
                     <div class="jp_down_mob_img_wrapper">
 
-                        <img src="images/content/mobail.png" alt="mobail_img" />
+                        <img src="public/assets/images/content/mobail.png" alt="mobail_img" />
 
                     </div>
 
@@ -384,7 +384,7 @@
 
                     <div class="jp_down_mob_img_wrapper">
 
-                        <img src="images/content/mobail.png" class="img-responsive" alt="mobail_img" />
+                        <img src="public/assets/images/content/mobail.png" class="img-responsive" alt="mobail_img" />
 
                     </div>
 

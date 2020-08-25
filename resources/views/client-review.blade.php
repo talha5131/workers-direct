@@ -246,7 +246,7 @@
 
                                     <div class="col-md-5 col-sm-4 col-xs-5">
 
-                                        <img src="images/content/resume_img1.jpg" alt="img">
+                                        <img src="public/assets/images/content/resume_img1.jpg" alt="img">
 
                                     </div>
 
@@ -308,7 +308,7 @@
 
                                     <div class="col-md-5 col-sm-4 col-xs-5">
 
-                                        <img src="images/content/resume_img2.jpg" alt="img">
+                                        <img src="public/assets/images/content/resume_img2.jpg" alt="img">
 
                                     </div>
 
@@ -370,7 +370,7 @@
 
                                     <div class="col-md-5 col-sm-4 col-xs-5">
 
-                                        <img src="images/content/resume_img3.jpg" alt="img">
+                                        <img src="public/assets/images/content/resume_img3.jpg" alt="img">
 
                                     </div>
 
@@ -432,7 +432,7 @@
 
                                     <div class="col-md-5 col-sm-4 col-xs-5">
 
-                                        <img src="images/content/resume_img4.jpg" alt="img">
+                                        <img src="public/assets/images/content/resume_img4.jpg" alt="img">
 
                                     </div> 
 
@@ -494,7 +494,7 @@
 
                                     <div class="col-md-5 col-sm-4 col-xs-5">
 
-                                        <img src="images/content/resume_img5.jpg" alt="img">
+                                        <img src="public/assets/images/content/resume_img5.jpg" alt="img">
 
                                     </div>
 
@@ -554,7 +554,7 @@
 
                                     <div class="col-md-5 col-sm-4 col-xs-5">
 
-                                        <img src="images/content/resume_img2.jpg" alt="img">
+                                        <img src="public/assets/images/content/resume_img2.jpg" alt="img">
 
                                     </div>
 
@@ -614,7 +614,7 @@
 
                                     <div class="col-md-5 col-sm-4 col-xs-5">
 
-                                        <img src="images/content/resume_img6.jpg" alt="img">
+                                        <img src="public/assets/images/content/resume_img6.jpg" alt="img">
 
                                     </div>
 
