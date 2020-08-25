@@ -218,7 +218,7 @@ Purchase:
 
                                             
 
-                                        <li class="gc_main_navigation parent"><a href="about.php " class="gc_main_navigation">About</a></li>
+                                        <li class="gc_main_navigation parent"><a href="about-us" class="gc_main_navigation">About</a></li>
 
 
 
