@@ -112,3 +112,6 @@ Route::get('/blog-right', function () {
 Route::get('/blog-left', function () {
     return view('blog-left');
 });
+Route::get('/temporary-staffing', function () {
+    return view('temporary-staffing');
+});
