@@ -1,5 +1,5 @@
 @extends('layouts.base')
-@section('title','Turkish Grill Chef')
+@section('title','Thai Chef Jobs | Wok Chef Jobs | DChef Jobs')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +31,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Grill Chef</h2>
+                        <h2>Thai Chef Job</h2>
 
                     </div>
 
@@ -45,7 +45,7 @@
 
 
 
-                                <li>Grill Chef</li>
+                                <li>Thai Chef Job</li>
 
                             </ul>
 
@@ -79,7 +79,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Grill <span> Chef</span></h1>
+                        <h1>Thai Chef  <span> Job</span></h1>
 
                     </div>
 
@@ -93,79 +93,69 @@
 
                 <div class="about_text_wrapper abt_2_para">
 
-                    <div class="section_heading section_2_heading row">
-
-                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                            <table class="table table-bordered " style="width:100%">
-                                <tr>
-                                    <th>Job Titles</th>
-                                    <td>Grill Chef</td>
-                                </tr>
-                                <tr>
-                                    <th>Number of Vacancies</th>
-                                    <td>2</td>
-                                </tr>
-                                <tr>
-                                    <th>Job Started From</th>
-                                    <td>ASAP</td>
-                                </tr>
-                                <tr>
-                                    <th>Job Location</th>
-                                    <td>Peckham, SE15</td>
-                                </tr>
-                                <tr>
-                                    <th>Job Duration</th>
-                                    <td>Permanent</td>
-                                </tr>
-                                <tr>
-                                    <th>Hours</th>
-                                    <td>Shift Work</td>
-                                </tr>
-                                <tr>
-                                    <th>Wages</th>
-                                    <td>
-                                        From £12K to 18K
-                                    </td>
-                                </tr>
-                            </table>
-
-                        </div>
-
-                        
-
-                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                            <p>Two Experienced Turkish Grill chef required for newly opened Restaurant in Peckham.</p>
-                            <p>Brilliant opportunity to become a part of a business which has a vision to grow expands.</p>
-                            <p>Must Have Previous Experience as Chef.</p>
-                        </div>
-
-
-                    </div>
-
-                    
-
-                    <div class="section_heading section_2_heading margin-top-60">
-
-                        <div class="section_heading section_2_heading margin-bottom-60">
-
-                            <h2>Responsible<span> for</span></h2>
-
-                        </div>
+                    <div class="section_heading section_2_heading ">
 
                         <div>
+                            <p>Our client is a very well-known local restaurant in Bongor Regis area. They are hosting some Thai guests’ end of this month for this purpose they looking for a Temporary Thai chef who can cook Lunch and Dinner for all guests during their one month stay. If you are an Experienced Thai Chef with extensive Thai cooking experience and a passion for the industry we would really like to talk to you. This position will give you the creative freedom to produce authentic and creative dishes.</p>
+                        </div>
+
+                        <div class="section_heading section_2_heading margin-top-60">
+
+                            <h2>Thai Chef <span> Features</span></h2>
+
+                        </div>
+                        
+                        <div class="margin-top-60">
                             <ul>
-                                <li><i class="fa fa-caret-right"></i> To prepare, cook foods at open grill and run a service inside the restaurant kitchen.</li>
-                                <li><i class="fa fa-caret-right"></i> To manage your given section in a clean tidy and efficient manner.</li>
-                                <li><i class="fa fa-caret-right"></i> To learn new dishes and consistently strive to be the leading edge in food fashion.</li>
-                                <li><i class="fa fa-caret-right"></i> Maintaining very high standards of hygiene.</li>
-                                <li><i class="fa fa-caret-right"></i> Must have experience in all sections of the kitchen.</li>
-                                <li><i class="fa fa-caret-right"></i> A Minimum of 3 to 5 Years checkable work history needed for this position.</li>
+                                <li><i class="fa fa-caret-right"></i> Great Rates of pay-to reflect the high skill level and experience required</li>
+                                <li><i class="fa fa-caret-right"></i> Join a great team of temporary chefs</li>
+                                <li><i class="fa fa-caret-right"></i> Immediate Start</li>
+                                <li><i class="fa fa-caret-right"></i> NO split shifts</li>
+                                <li><i class="fa fa-caret-right"></i> Weekly Pay</li>
+                                <li><i class="fa fa-caret-right"></i> Free Accommodation</li>
+                            </ul>
+                        </div>
+
+                        <div class="section_heading section_2_heading margin-top-60">
+
+                            <h2>Thai Chef <span> Requirements</span></h2>
+
+                        </div>
+                        <div class="margin-top-60">
+                            <ul>
+                                <li><i class="fa fa-caret-right"></i> You must have previously worked as a Thai Chef</li>
+                                <li><i class="fa fa-caret-right"></i> Fully able to cook alone all kind of Thai foods</li>
+                                <li><i class="fa fa-caret-right"></i> Focus on quality and consistency</li>
+                                <li><i class="fa fa-caret-right"></i> Strong hospitality and banqueting background</li>
+                                <li><i class="fa fa-caret-right"></i> Own knives, chefs whites, and safety shoes</li>
+                                <li><i class="fa fa-caret-right"></i> Eligible to work in the UK</li>
                             
                             </ul>
                         </div>
 
+                        <div class="section_heading section_2_heading margin-top-60">
+
+                            <h2>Additional <span> Info</span></h2>
+
+                        </div>
+
                         <div>
-                            <p>For immediate placement send your CV Today at,</p>
+                            <p>We pay all our chefs £8.00 – £10.00 per hour plus accommodation (Depends). So if you are interested in this specialist position and are looking to earn great money doing temporary work then get in touch straight away.</p>
+                            <p>Because of high volumes of applicants only successful candidates will be contacted</p>
+                        </div>
+
+                        <div class="section_heading section_2_heading margin-top-60">
+
+                            <h2>Don’t keep a good thing to <span> yourself</span></h2>
+
+                        </div>
+
+                        <div>
+                            <p>We grow our business through referrals, so please don’t keep us to yourself. If you think we’re doing a good job and know of someone who would benefit from our services, please pass on their name and number to me and I promise we will follow it up. Many Thanks.</p>
+                        </div>
+
+                        <div>
+                            <p>To apply please forward CV to e-mail provided to arrange an immediate interview.</p>
                             <p><strong>jobs@ Workers-direct.com</strong></p>
                             <a href="# "><strong> OR Apply Online</strong></a>
                         </div>

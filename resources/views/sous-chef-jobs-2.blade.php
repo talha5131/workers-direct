@@ -1,5 +1,5 @@
 @extends('layouts.base')
-@section('title','Turkish Grill Chef')
+@section('title','Sous Chef Jobs - Immediate Start Chef & Catering Jobs Surrey')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +31,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Grill Chef</h2>
+                        <h2>Sous Chef Jobs</h2>
 
                     </div>
 
@@ -45,7 +45,7 @@
 
 
 
-                                <li>Grill Chef</li>
+                                <li>Sous Chef Jobs</li>
 
                             </ul>
 
@@ -79,7 +79,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Grill <span> Chef</span></h1>
+                        <h1>Sous Chef <span> Jobs</span></h1>
 
                     </div>
 
@@ -98,76 +98,82 @@
                         <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                             <table class="table table-bordered " style="width:100%">
                                 <tr>
-                                    <th>Job Titles</th>
-                                    <td>Grill Chef</td>
+                                    <th>Job Title</th>
+                                    <td>Sous Chef (Full Time)</td>
                                 </tr>
                                 <tr>
-                                    <th>Number of Vacancies</th>
-                                    <td>2</td>
-                                </tr>
-                                <tr>
-                                    <th>Job Started From</th>
-                                    <td>ASAP</td>
+                                    <th>Job Category</th>
+                                    <td>Catering & Hospitality</td>
                                 </tr>
                                 <tr>
                                     <th>Job Location</th>
-                                    <td>Peckham, SE15</td>
+                                    <td>Surbiton, KT6</td>
                                 </tr>
                                 <tr>
                                     <th>Job Duration</th>
-                                    <td>Permanent</td>
+                                    <td>Temporary to Permanent</td>
                                 </tr>
                                 <tr>
-                                    <th>Hours</th>
-                                    <td>Shift Work</td>
+                                    <th>Job Timing</th>
+                                    <td> 40 hours a week, Mon – Sun</td>
                                 </tr>
                                 <tr>
-                                    <th>Wages</th>
+                                    <th>Job Started</th>
+                                    <td> As soon as possible</td>
+                                </tr>
+                                <tr>
+                                    <th>Salary</th>
                                     <td>
-                                        From £12K to 18K
+                                        £10.00 to £12.00 per hour
                                     </td>
                                 </tr>
                             </table>
 
                         </div>
 
-                        
-
-                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                            <p>Two Experienced Turkish Grill chef required for newly opened Restaurant in Peckham.</p>
-                            <p>Brilliant opportunity to become a part of a business which has a vision to grow expands.</p>
-                            <p>Must Have Previous Experience as Chef.</p>
-                        </div>
-
 
                     </div>
 
-                    
+
 
                     <div class="section_heading section_2_heading margin-top-60">
 
-                        <div class="section_heading section_2_heading margin-bottom-60">
+                        <div class="section_heading section_2_heading ">
 
-                            <h2>Responsible<span> for</span></h2>
+                            <h2>Job <span> Summary</span></h2>
 
                         </div>
 
                         <div>
+                            <p>We are looking for couple of experienced sous Chef with excellent knowledge food preparation from scratch. Must be able to use own initiative and work part of a team in a fast past environment.An ideal sous chef will work from a set menu but offer ideas and input if needed, Chef will be required to work 11:00am – 10:30pm Mon – Sun 5 days a week on rota basis.</p>
+                        </div>
+
+                        <div class="section_heading section_2_heading margin-top-60 ">
+
+                            <h2>An ideal Candidate <span> will be</span></h2>
+
+                        </div>
+                        <div class="margin-top-60">
                             <ul>
-                                <li><i class="fa fa-caret-right"></i> To prepare, cook foods at open grill and run a service inside the restaurant kitchen.</li>
-                                <li><i class="fa fa-caret-right"></i> To manage your given section in a clean tidy and efficient manner.</li>
-                                <li><i class="fa fa-caret-right"></i> To learn new dishes and consistently strive to be the leading edge in food fashion.</li>
-                                <li><i class="fa fa-caret-right"></i> Maintaining very high standards of hygiene.</li>
-                                <li><i class="fa fa-caret-right"></i> Must have experience in all sections of the kitchen.</li>
-                                <li><i class="fa fa-caret-right"></i> A Minimum of 3 to 5 Years checkable work history needed for this position.</li>
-                            
+                                <li><i class="fa fa-caret-right"></i> Fully able to prepare all kind Foods from scratch</li>
+                                <li><i class="fa fa-caret-right"></i> Knowledge of health & food hygiene</li>
+                                <li><i class="fa fa-caret-right"></i> Special dietary cookery skills desirable</li>
+                                <li><i class="fa fa-caret-right"></i> Able to work on own initiative</li>
+                                <li><i class="fa fa-caret-right"></i> Committed to working with people</li>
+                                <li><i class="fa fa-caret-right"></i> Professional attitude</li>
+                                <li><i class="fa fa-caret-right"></i> Good interpersonal skills</li>
                             </ul>
                         </div>
 
+                        
+                        <div >
+                            <p>All applicants must be passionate about food, producing exceptional dishes and have previous experience working in kitchens producing high quality food for large numbers. If you think this sounds perfect and you think you are what we are looking for please apply on-line to be considered.</p>
+                        </div>
+
                         <div>
-                            <p>For immediate placement send your CV Today at,</p>
+                            <p>To apply Sous Chef Jobs Surrey forward your CV to arrange an immediate interview</p>
                             <p><strong>jobs@ Workers-direct.com</strong></p>
-                            <a href="# "><strong> OR Apply Online</strong></a>
+                            <a class="green" href="# "><strong> OR Apply Online</strong></a>
                         </div>
 
 

@@ -1,5 +1,5 @@
 @extends('layouts.base')
-@section('title','Turkish Grill Chef')
+@section('title','Construction Agency | Call Us For Trade & Construction Staff')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +31,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Grill Chef</h2>
+                        <h2>Construction Staff</h2>
 
                     </div>
 
@@ -45,7 +45,7 @@
 
 
 
-                                <li>Grill Chef</li>
+                                <li>Construction Staff</li>
 
                             </ul>
 
@@ -79,10 +79,19 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Grill <span> Chef</span></h1>
+                        <h1>Construction <span> Staff</span></h1>
 
                     </div>
 
+                </div>
+
+            </div>
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
+
+                <div class="about_text_wrapper">
+
+                    <p>Due to COVID-19 it is a difficult times right now for all the business activities and especially for trade construction industry. Site labourers and employers should be taking positive steps to ensure they remain attractive in the <a class="green" href="https://labourer.agency/jobs/">construction jobs</a> market. </p>
+                    <p><strong> The role of construction agencies</strong> during the pandemic should, therefore, be to encourage their clients to adapt to the changing landscape of work.</p>
                 </div>
 
             </div>
@@ -91,86 +100,282 @@
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="row about_text_wrapper abt_2_para">
 
-                    <div class="section_heading section_2_heading row">
+                    <div class="jp_best_deal_main_wrapper" style="padding-right: 10px; padding-left:10px;">
+                        <div class="row">
+                            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
 
-                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                            <table class="table table-bordered " style="width:100%">
-                                <tr>
-                                    <th>Job Titles</th>
-                                    <td>Grill Chef</td>
-                                </tr>
-                                <tr>
-                                    <th>Number of Vacancies</th>
-                                    <td>2</td>
-                                </tr>
-                                <tr>
-                                    <th>Job Started From</th>
-                                    <td>ASAP</td>
-                                </tr>
-                                <tr>
-                                    <th>Job Location</th>
-                                    <td>Peckham, SE15</td>
-                                </tr>
-                                <tr>
-                                    <th>Job Duration</th>
-                                    <td>Permanent</td>
-                                </tr>
-                                <tr>
-                                    <th>Hours</th>
-                                    <td>Shift Work</td>
-                                </tr>
-                                <tr>
-                                    <th>Wages</th>
-                                    <td>
-                                        From £12K to 18K
-                                    </td>
-                                </tr>
-                            </table>
+                                <a href="#">
 
+                                    <div class="box">
+
+                                        <div class="grid-box-custom">
+
+                                            <div class="iconn green">
+
+                                                <i class=" font-size-icon green far fa-check-square"></i>
+
+                                            </div>
+
+                                            <div class="heading">
+
+                                                <h2> <a> Site Labourers </a> </h2>
+
+                                            </div>
+
+                                            <div class="content margin-top-10">
+
+                                                <p>Our reliable & flexible labouring staff are ready to join any busy construction site.</p>
+
+                                            </div>
+
+
+                                        </div>
+
+                                        <div class="grid-box-1">
+
+                                            <div class="img-section">
+
+                                                <img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/general-laborer-ojg0hu4wvw8h0frwuqstka8wtb2hxmdjd3lx4un1ea.jpg" alt="Admin">
+
+                                                <div class="middle">
+
+                                                    <i class="green fa fa-plus-circle"></i>
+
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+                                        <div class="grid-box-custom">
+
+                                            <div class="heading">
+
+                                                <h2> <a> Experienced & Professionals </a> </h1>
+
+                                            </div>
+
+                                            <div class="content margin-top-10">
+
+                                                <p>At Workers Direct we retain a steady workforce of skilled tradespeople through the residential and commercial construction industries. We specialise in staffing carpenters, concrete professionals and electricians. Our multi-faceted hiring, selection and training process guarantees that no matter the size or length of your project, we are fully able to provide you with the right workers to get your job done, professionally and on time.</p>
+
+                                            </div>
+
+                                            <div style="float: left;" class="margin-top-20">
+                                                <ul>
+                                                    <li><i class="green fa fa-caret-right"></i> Electricians</li>
+                                                    <li><i class="green fa fa-caret-right"></i> Plumbers</li>
+                                                    <li><i class="green fa fa-caret-right"></i> Carpenters</li>
+                                                    <li><i class="green fa fa-caret-right"></i> Painters</li>
+                                                </ul>
+                                            </div>
+
+
+                                        </div>
+
+
+
+                                    </div>
+
+                                </a>
+                            </div>
+
+                            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+
+                                <a href="#">
+
+                                    <div class="box">
+
+
+
+                                        <div class="grid-box-custom">
+
+                                            <div class="iconn green">
+
+                                                <i class="font-size-icon green far fa-address-card"></i>
+
+                                            </div>
+
+                                            <div class="heading">
+
+                                                <h2> <a>Multi Skilled Operatives</a> </h2>
+
+                                            </div>
+
+                                            <div class="content margin-top-10">
+
+                                                <p>Hire temporary multi skilled operatives,carpenters,handyman, painters & decorators.</p>
+
+                                            </div>
+
+
+
+                                        </div>
+
+                                        <div class="grid-box-1">
+
+                                            <div class="img-section">
+
+                                                <img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Labouring-Agency-ojfzk3per8wuhlgwckghpt0itngndze1hyto058m3y.jpg" alt="Admin">
+
+                                                <div class="middle">
+
+                                                    <i class="fa fa-plus-circle"></i>
+
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+                                        <div class="grid-box-custom">
+
+                                            <div class="heading">
+
+                                                <h2> <a> Site Operatives we have available </a> </h2>
+
+                                            </div>
+
+                                            <div class="content margin-top-10">
+
+                                                <p>As one of the leading Labour Hire & Temping Agency we are the Trade & Construction Industry’s number one primary source for temporary and permanent semi skill Labour supply for Domestic, Interior and Commercial construction projects.  Either you are looking for an Individual or teams of experts; we have the goods to help you with your next development.</p>
+
+                                            </div>
+
+
+                                        </div>
+
+
+
+                                    </div>
+
+                                </a>
+
+                            </div>
+
+                            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+
+                                <a href="#">
+
+                                    <div class="box">
+
+
+
+                                        <div class="grid-box-custom">
+
+                                            <div class="iconn green">
+
+                                                <i class="font-size-icon green fas fa-truck"></i>
+
+                                            </div>
+
+                                            <div class="heading">
+
+                                                <h2> <a> Site Supervisors & Managers </a> </h2>
+
+                                            </div>
+
+                                            <div class="content margin-top-10">
+
+                                                <p>Hire professional site supervisors & Managers on short notice for temporary & permanent roles.</p>
+
+                                            </div>
+
+
+                                        </div>
+
+                                        <div class="grid-box-1">
+
+                                            <div class="img-section">
+
+                                                <img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/handyman-multi-skilled-labourer-agency-ojg0308l6dt7yw9l6f680a2fhhnysf80g78r26cmmc.jpg" alt="Admin">
+
+                                                <div class="middle">
+
+                                                    <i class="fa fa-plus-circle"></i>
+
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+                                        <div class="grid-box-custom">
+
+                                            <div class="heading">
+
+                                                <h2> <a> Right labourers on right time </a> </h2>
+
+                                            </div>
+
+                                            <div class="content margin-top-10">
+
+                                                <p>Workers Direct have experienced construction labourers ready to begin work. Growing orders are useless without staff numbers that also meet your customer’s needs – contact with our Professional construction recruitment team allows you access to a pool of perfect candidates that can help you. We match the right person to you and organise their time, so that you don’t have to waste yours advertising and interviewing.</p>
+
+                                            </div>
+
+
+                                        </div>
+
+
+
+                                    </div>
+
+                                </a>
+
+                            </div>
                         </div>
+                    </div>
 
-                        
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 section_heading section_2_heading margin-bottom-20 margin-top-60">
 
-                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                            <p>Two Experienced Turkish Grill chef required for newly opened Restaurant in Peckham.</p>
-                            <p>Brilliant opportunity to become a part of a business which has a vision to grow expands.</p>
-                            <p>Must Have Previous Experience as Chef.</p>
-                        </div>
-
+                        <h2>Hire Reliable & Flexible Administrative & <span> Receptionist Temps</span></h2>
 
                     </div>
 
-                    
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <table class=" table table-bordered margin-top-60 ">
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                            <tbody>
+                                <tr>
+                                    <td><i class="green fa fa-caret-right"></i> General Receptionist</td>
+                                    <td><i class="green fa fa-caret-right"></i> Hotel Receptionist</td>
+                                </tr>
 
-                        <div class="section_heading section_2_heading margin-bottom-60">
+                                <tr>
+                                    <td><i class="green fa fa-caret-right"></i> Office Receptionist</td>
+                                    <td><i class="green fa fa-caret-right"></i> Front Of house Staff</td>
+                                </tr>
 
-                            <h2>Responsible<span> for</span></h2>
+                                <tr>
+                                    <td><i class="green fa fa-caret-right"></i> Temporary Receptionist</td>
+                                    <td><i class="green fa fa-caret-right"></i> Virtual Receptionist</td>
+                                </tr>
 
-                        </div>
+                                <tr>
+                                    <td><i class="green fa fa-caret-right"></i> Reception Worker</td>
+                                    <td><i class="green fa fa-caret-right"></i> Meet & Greet Staff</td>
+                                </tr>
 
-                        <div>
-                            <ul>
-                                <li><i class="fa fa-caret-right"></i> To prepare, cook foods at open grill and run a service inside the restaurant kitchen.</li>
-                                <li><i class="fa fa-caret-right"></i> To manage your given section in a clean tidy and efficient manner.</li>
-                                <li><i class="fa fa-caret-right"></i> To learn new dishes and consistently strive to be the leading edge in food fashion.</li>
-                                <li><i class="fa fa-caret-right"></i> Maintaining very high standards of hygiene.</li>
-                                <li><i class="fa fa-caret-right"></i> Must have experience in all sections of the kitchen.</li>
-                                <li><i class="fa fa-caret-right"></i> A Minimum of 3 to 5 Years checkable work history needed for this position.</li>
-                            
-                            </ul>
-                        </div>
+                                <tr>
+                                    <td><i class="green fa fa-caret-right"></i> Day Receptionist</td>
+                                    <td><i class="green fa fa-caret-right"></i> Event Receptionist</td>
+                                </tr>
 
-                        <div>
-                            <p>For immediate placement send your CV Today at,</p>
-                            <p><strong>jobs@ Workers-direct.com</strong></p>
-                            <a href="# "><strong> OR Apply Online</strong></a>
-                        </div>
+                            </tbody>
+                        </table>
+                    </div>
 
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 section_heading section_2_heading margin-bottom-20 margin-top-100">
 
+                        <h2>Our <span> Guarantee</span></h2>
+
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <p>It goes without saying that we are willing to meet our clients’ needs in every way as long as we have a comprehensive brief and job spec. This will be used to <a href="#">find the right receptionist agency</a> for your company and guarantee a happy relationship with us for many years to come.</p>
                     </div>
 
                 </div>
@@ -399,18 +604,6 @@
 
             </div>
 
-
-
-
-
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
-
-
-
-            <!-- </div> -->
-
-
-
         </div>
 
     </div>
@@ -420,7 +613,6 @@
 
 
 <!-- jp best deal Wrapper Start -->
-
 
 
 <div class="jp_best_deal_main_wrapper">

@@ -247,3 +247,15 @@ Route::get('/waitress', function () {
 Route::get('/grill-chef', function () {
     return view('grill-chef');
 });
+Route::get('/nursery-nurses', function () {
+    return view('nursery-nurses');
+});
+Route::get('/thai-chef-job', function () {
+    return view('thai-chef-job');
+});
+Route::get('/sous-chef-jobs-2', function () {
+    return view('sous-chef-jobs-2');
+});
+Route::get('/construction-staff', function () {
+    return view('construction-staff');
+});

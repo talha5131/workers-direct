@@ -1,5 +1,5 @@
 @extends('layouts.base')
-@section('title','Turkish Grill Chef')
+@section('title','Nursery Nurses Jobs in London | Nursery Assistant Jobs')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +31,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Grill Chef</h2>
+                        <h2>Nursery Nurses</h2>
 
                     </div>
 
@@ -45,7 +45,7 @@
 
 
 
-                                <li>Grill Chef</li>
+                                <li>Nursery Nurses</li>
 
                             </ul>
 
@@ -79,7 +79,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Grill <span> Chef</span></h1>
+                        <h1>Nursery <span> Nurses</span></h1>
 
                     </div>
 
@@ -98,20 +98,16 @@
                         <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                             <table class="table table-bordered " style="width:100%">
                                 <tr>
-                                    <th>Job Titles</th>
-                                    <td>Grill Chef</td>
+                                    <th>Job Title</th>
+                                    <td>Nursery Nurse / Nursery Assistant X 3</td>
                                 </tr>
                                 <tr>
                                     <th>Number of Vacancies</th>
-                                    <td>2</td>
+                                    <td>3</td>
                                 </tr>
                                 <tr>
-                                    <th>Job Started From</th>
-                                    <td>ASAP</td>
-                                </tr>
-                                <tr>
-                                    <th>Job Location</th>
-                                    <td>Peckham, SE15</td>
+                                    <th>Location</th>
+                                    <td>Romford, RM8</td>
                                 </tr>
                                 <tr>
                                     <th>Job Duration</th>
@@ -119,53 +115,81 @@
                                 </tr>
                                 <tr>
                                     <th>Hours</th>
-                                    <td>Shift Work</td>
+                                    <td>Full Time, 40 Hours</td>
                                 </tr>
                                 <tr>
-                                    <th>Wages</th>
+                                    <th>Job Start</th>
+                                    <td> ASAP</td>
+                                </tr>
+                                <tr>
+                                    <th>Salary</th>
                                     <td>
-                                        From £12K to 18K
+                                        £17000 to £18500
                                     </td>
                                 </tr>
                             </table>
 
                         </div>
 
-                        
-
-                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                            <p>Two Experienced Turkish Grill chef required for newly opened Restaurant in Peckham.</p>
-                            <p>Brilliant opportunity to become a part of a business which has a vision to grow expands.</p>
-                            <p>Must Have Previous Experience as Chef.</p>
-                        </div>
-
 
                     </div>
 
-                    
+
 
                     <div class="section_heading section_2_heading margin-top-60">
 
-                        <div class="section_heading section_2_heading margin-bottom-60">
+                        <div class="section_heading section_2_heading ">
 
-                            <h2>Responsible<span> for</span></h2>
+                            <h2>Job <span> Description</span></h2>
 
                         </div>
 
                         <div>
+                            <p>We are recruiting level 2 / 3 qualified nursery nurses for a well-established children’s nursery in chad well heath area, we are looking for somebody who is passionate about working with children and is seeking further training and career progression opportunities.</p>
+                        </div>
+
+                        <div class="section_heading section_2_heading margin-top-60">
+
+                            <h2>Main Duties / Working <span> with children</span></h2>
+
+                        </div>
+                        <div>
+                            <p>Following early years curriculum and planning and implementing learning and creative activities for children, working as part of team, following safeguarding and health and safety policies and procedures, supervising play, carrying out observations of children. Interacting with parents and updating them on child’s day and monitoring progress.</p>
+                        </div>
+
+                        <div class="section_heading section_2_heading margin-top-60 ">
+
+                            <h2>An ideal Candidate <span> Must be</span></h2>
+
+                        </div>
+                        <div class="margin-top-60">
                             <ul>
-                                <li><i class="fa fa-caret-right"></i> To prepare, cook foods at open grill and run a service inside the restaurant kitchen.</li>
-                                <li><i class="fa fa-caret-right"></i> To manage your given section in a clean tidy and efficient manner.</li>
-                                <li><i class="fa fa-caret-right"></i> To learn new dishes and consistently strive to be the leading edge in food fashion.</li>
-                                <li><i class="fa fa-caret-right"></i> Maintaining very high standards of hygiene.</li>
-                                <li><i class="fa fa-caret-right"></i> Must have experience in all sections of the kitchen.</li>
-                                <li><i class="fa fa-caret-right"></i> A Minimum of 3 to 5 Years checkable work history needed for this position.</li>
+                                <li><i class="fa fa-caret-right"></i> Punctual & Reliable</li>
+                                <li><i class="fa fa-caret-right"></i> Well-presented at all times</li>
+                                <li><i class="fa fa-caret-right"></i> Able to liaise closely with the manager in implementing all Nursery Policies</li>
+                                <li><i class="fa fa-caret-right"></i> Able to liaise closely with parents and to update them daily on their child’s progress</li>
+                                <li><i class="fa fa-caret-right"></i> Participate in routines of nappy changing and diary writing</li>
+                                <li><i class="fa fa-caret-right"></i> Ensure the room(s) are clean and tidy at all times</li>
+                            </ul>
+                        </div>
+
+                        <div class="section_heading section_2_heading margin-top-60">
+
+                            <h2>Candidates Must<span> Have</span></h2>
+
+                        </div>
+                        <div class="margin-top-60">
+                            <ul>
+                                <li><i class="fa fa-caret-right"></i> Good understanding of the EYFS safeguarding young children & risk assessment</li>
+                                <li><i class="fa fa-caret-right"></i> Previous 2 years childcare experience</li>
+                                <li><i class="fa fa-caret-right"></i> Level  2 / 3 Childcare Qualification</li>
+                                <li><i class="fa fa-caret-right"></i> Clean DBS (CRD) check</li>
                             
                             </ul>
                         </div>
 
                         <div>
-                            <p>For immediate placement send your CV Today at,</p>
+                            <p>To apply please forward CV to e-mail provided to arrange an immediate interview with nursery.</p>
                             <p><strong>jobs@ Workers-direct.com</strong></p>
                             <a href="# "><strong> OR Apply Online</strong></a>
                         </div>
