@@ -262,3 +262,18 @@ Route::get('/construction-staff', function () {
 Route::get('/pages-links', function () {
     return view('pages-links');
 });
+Route::get('/upholsterer-upholstery-tailor', function () {
+    return view('upholsterer-upholstery-tailor');
+});
+Route::get('/london-recruitment-agencies', function () {
+    return view('london-recruitment-agencies');
+});
+Route::get('/qualified-electrician', function () {
+    return view('qualified-electrician');
+});
+Route::get('/kitchen-assistant-parttime', function () {
+    return view('kitchen-assistant-parttime');
+});
+Route::get('/carpenter-multi-skilled', function () {
+    return view('carpenter-multi-skilled');
+});
