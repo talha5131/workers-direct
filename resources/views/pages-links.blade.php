@@ -117,6 +117,11 @@
         <a class="btn btn-success" href="thai-chef-job">Thai Chef Job</a>
         <a class="btn btn-success" href="sous-chef-jobs-2">Sous Chef Jobs 2</a>
         <a class="btn btn-success" href="construction-staff">Construction Staff</a>
+        <a class="btn btn-success" href="upholsterer-upholstery-tailor">Upholsterer Upholstery Tailor</a>
+        <a class="btn btn-success" href="london-recruitment-agencies">London Recruitment Agencies</a>
+        <a class="btn btn-success" href="qualified-electrician">Qualified Electrician</a>
+        <a class="btn btn-success" href="kitchen-assistant-parttime">Kitchen Assistant Parttime</a>
+        <a class="btn btn-success" href="carpenter-multi-skilled">Carpenter Multi Skilled</a>
     </div>
 </div>
 
