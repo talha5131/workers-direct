@@ -1,14 +1,20 @@
 @extends('layouts.base')
-@section('title','About Us')
+@section('title','Temp Chef Agency')
 @section('content')
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
+<style>
+    .font-size-icon {
+        font-size: 55px;
+    }
+</style>
 
 <!-- Top Scroll End -->
 
 <!-- Top Header Wrapper Start -->
 
 
-
-  <!-- jp Tittle Wrapper Start -->
+<!-- jp Tittle Wrapper Start -->
 
 <div class="jp_tittle_main_wrapper">
 
@@ -24,7 +30,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>About-Us</h2>
+                        <h2>Temp Chef Agency </h2>
 
                     </div>
 
@@ -34,11 +40,11 @@
 
                             <ul>
 
-                                <li><a href="#">Home</a> <i class="fa fa-angle-right"></i></li>
+                                <li><a href="{{url('/')}}">Home</a> <i class="fa fa-angle-right"></i></li>
 
-                                
 
-                                <li>About-Us</li>
+
+                                <li>Temp Chef Agency </li>
 
                             </ul>
 
@@ -57,8 +63,7 @@
 </div>
 
 <!-- jp Tittle Wrapper End -->
-
-<!-- aboutus_section start-->
+<!-- TemporaryStaffing_section start-->
 
 <div class="aboutus_section">
 
@@ -66,147 +71,92 @@
 
         <div class="row">
 
-            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12  margin-bottom-20">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  ">
 
                 <div class="about_text_wrapper">
 
-                    <div class="section_heading section_2_heading">
+                    <div class="section_heading section_2_heading margin-bottom-20">
 
-                        <h1>Welcome <span>To workers Direct</span></h1>
+                        <h1>Temp Chef <span> Agency</span></h1>
 
                     </div>
 
-                    <p>Workers Direct specialised in temporary & short term staff recruitment. As one of the best Recruitment Agency London we provide temp & perm warehouse, catering staff across UK.</p>
+                    <div class="section_heading section_2_heading margin-top-60">
 
-                    <p>ABOUT WORKERS DIRECT ?
+                        <h4> WORKERS DIRECT – THE BEST CHEF <span> AGENCY LONDON</span></h4>
 
-Workers Direct specialised in temporary & short term staff recruitment. As one of the best Recruitment Agency London we provide temp & perm warehouse, catering staff across UK.
+                    </div>
+                    <p>At Workers Direct, we are a specialist chef Agency London that cares about our clients and candidates. We always pairing up clients and candidates to help keep running of a commercial kitchen. Through our experience, we are committed to meeting the extensive demands of all that we deal with. We can handle seasonal chefs and ad-hoc / relief chefs because our team of experts are flexible and very knowledgeable in hospitality and catering sector. We are one of the best catering agency that is here for you, when you need us.</p>
 
-
-
-Workers Direct are experts in recruitment with over a decade of experience in finding the best solution for our companies and candidates. Our temporary staff recruitment team work with employers and staff, both local to our site and across the UK, in order to match the right person to the right role. Our quick-response consultants are highly professional and knowledgeable. As one of the leading temping agency London We are committed to finding the answer for your recruitment needs, and cover a wide range of recruitment services from temporary, peak season or long-term work, including contract.</p>
-
-                   
 
                 </div>
 
             </div>
 
-            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-bottom-20">
 
-                <div class="about_image_wrapper">
-
-                    <img class="img-responsive" src="public/assets/images/content/about-workers-direct.jpg" alt="about-img">
-
-                </div>
-
-            </div>
-
-             
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                 <div class="about_text_wrapper abt_2_para">
-
-                   <div class="section_heading section_2_heading">
-
-                        <h1>why we<span> do it ?</span></h1>
-
-                    </div>
-
-                    <p class="margin-bottom-20">Workers Direct specialise in providing all kind of temporary & short terms staff across the UK. As one of the leading and cost effective temping agency, we have long list of satisfied clientele that includes Hospitals, Care homes, Charities, Hotels, country clubs, caterers, National & Internationals businesses and local schools. We find roles for office workers, administrators, kitchen staff, construction labourers, factory workers, warehouse team members, and teaching staff, as well as support workers in many other fields.</p>
-
-                    
+                <div class="about_text_wrapper abt_2_para">
 
                     <div class="section_heading section_2_heading">
 
-                        <h4> Temporary <span> Staffing Solution</span></h4>
+                        <h4> Hospitality and Catering <span> Recruitment</span></h4>
 
                     </div>
 
-                    <p class="margin-bottom-20"> Workers Direct is the authority when it comes to <a href="#"> temporary staffing</a>. We recruit for temporary, temp-to-perm and short-term roles across a range of specialisations and are dedicated to getting it right. We are as flexible as your needs, with workers that can fill a gap in any workforce from very next day.</p>
+                    <p> Our aim is to create an employment solution that is tailored to the specific needs of our clients and candidates. Through sheer determination and drive, we have created a reputation that sets us apart from the rest. Our service is thorough and can be trusted in every possible way because we are open and honest in all that we do. We are consistent in what we do and that means we can provide high quality candidates to our clients, ensuring that they fill the roles in a way that meets the increasing demands of our clients. Our service will also enable us to help individuals fulfil their career aspirations and that is something that we take great pride in.</p>
+                    <p> Our service is all about people and because we have a team that consists of experience and knowledge we can deliver exceptional results. Our team works closely with job seekers and employers to place the right people in the right jobs. Therefore, we invest in skilled people and provide our staff with training that enables them to offer you more. We aim to set the standards and that means that our competitors are always having to keep up with us but that is what makes us unique.</p>
+                    <p> We cover a wide range of industries and that makes us flexible and adaptable. It also means that we have a greater chance of finding <a href="#">temporary jobs</a> for our candidates and meeting the needs of our clients. Throughout these industries, we have specialists who know how they work and that enables us to further our ability to meet the ever-changing demands of businesses.</p>
+                    <p> Customer service is at the heart of what we do and it underpins our fundamentals and so, we are constantly looking at ways in which we can improve the whole experience for our clients and candidates. We aim to be market leaders and so, we are always forging new relationships, enhancing our working method and seeking new contacts because that is what is what makes us stand out.</p>
+
 
                     <div class="section_heading section_2_heading">
 
-                        <h4> Recruitment <span> Solution</span></h4>
+                        <h4> Are you a chef de partie <span> or sous chef?</span></h4>
 
                     </div>
 
-                    <p class="margin-bottom-20">
+                    <p>
 
-                    Our team will save your time, the stress of looking for an employee, as we can dedicate our entire time to the search perfect candidate. Rely on Workers Direct as a focused partner and we will guarantee to find a timely answer to your request. Our team find out and note each candidate’s ability and personality, and match workers to the company that will best suit their needs, skills. We are the recruitment solutions that make sense.
+                        Our complete service is designed around helping all levels of chefs who are looking for temporary or permanent chef jobs. We appreciate that being out of work can be tough for a number of reasons and so, we aim to make life easier for you by putting you into a job that provides you with complete satisfaction. Through working closely with local and national businesses, we can put you into a position that helps you to get back on track. Working closely with you, we can identify your key skills, find the right training for you and ensure that employers acknowledge what you have to offer. Employers are always looking for staff and so, through our experience as oneof the best temp chef agency we can pair you up with employers who are looking for someone just like you. We will keep you updated with suitable jobs, manage your applications and help you create a CV that will turn heads. There is no secret behind what we do, we are hard-working and that means that you benefit in a number of ways.
 
                     </p>
 
-                    <div class="section_heading section_2_heading">
+                    <img src="https://workers-direct.com/wp-content/uploads/2018/04/Agency-Cook.jpg" alt="Agency Work" width="100%" height="600px">
 
-                        <h4>Agency Workers  <span> & Job Placement </span></h4>
+                    <div class="section_heading section_2_heading margin-top-60">
 
-                    </div>
-
-                    <p class="margin-bottom-20">
-
-                    We are experts in job placement, with thousands of candidates placed in roles over the last 10 years. Our workers represent our agency, and therefore we have tough criteria and high standards for them to match – that they bring to your company. The <a href="#"> temporary workers we provide are adaptable and professionals</a>, our attention to detail over each placement means that the worker comes with right skills and very flexible according to client’s requirements.
-
-                    </p>
-
-                    <div class="section_heading section_2_heading">
-
-                        <h4> <span> Outsourcing </span></h4>
+                        <h4>Are your kitchen need an urgent chef or<span> kitchen assistant?</span></h4>
 
                     </div>
 
-                    <p class="margin-bottom-20">
+                    <p>
 
-                    By outsourcing your recruitment search, we take the stress and hassle out of your already complicated work life. By saving your time, the trouble, cost of advertising, interviewing and hiring. We oversee the entire process and give you the 100% result. We also have connections with universities, Job centres, Employment agencies, job boards and professional bodies that provide us with newly trained staff and graduates, meaning that Workers Direct has a <a href="#"> Database of Millions of temporary staff</a> that can help you.
+                        Our experience and professionalism will enable you to trust us. We are experts in our industry and so, when you turn to us, you can take great comfort from the fact that you are in good hands. We look at your specific needs and then set out to handle your recruitment needs. Whether you are looking for seasonal workers, temporary workers or someone to fill a skilled role, we have it all. You can save time and money through using our <a href="#">recruitment agency</a> because we take care of the whole process. Our reliability, knowledge and expert insight can help us to make decisions that benefit your business.
 
                     </p>
 
-                    <div class="section_heading section_2_heading">
+                    <div class="section_heading section_2_heading margin-bottom-60">
 
-                        <h4>CRB <span>  / DBS Check </span></h4>
+                        <h4>Call us to hire following catering <span> staff:</span></h4>
 
                     </div>
-
-                    <p class="margin-bottom-20">
-
-                    With a decade’s experience in matching teaching and support staff to businesses including schools, we know that it is vital to find an honest worker – and we understand the weight of responsibility that all of those roles entail. All employees are CRB/DBS checked, as standard. We organise the process, guiding candidates through the application and supporting them, and meaning that there is no cost or worry for an employer.
-
-                    </p>
-
-                    <div class="section_heading section_2_heading">
-
-                        <h4>Reference  <span>Check  </span></h4>
-
-                    </div>
-
-                    <p class="margin-bottom-20">
-
-                       Nothing is more frustrating, when recruiting, than finding a staff member has made a fraudulent claim on their CV or application. We vet and check all candidates, including contacting references – so that you can be assured that the experienced worker you receive is what you expect.  This guarantee also means that our candidates go to businesses that know that they will receive the best – offering them a better opportunity for professional development.
-
-                    </p>
-
-                    <div class="section_heading section_2_heading">
-
-                        <h4> Job  <span> Advertisement </span></h4>
-
-                    </div>
-
-                    <p class="margin-bottom-50">
-
-                       With varied sources on hand with which to advertise your vacancy, and the know-how to get it out there, Workers Direct get you the best quality workers. We advertise roles on our site and through the use of social media, as well as through traditional & latest methods, with our team matching candidates that come in every day to the roles that they know we have. We are champions for your business, putting applicant to advertisement and then into jobs quickly and aptly.
-
-                    </p>
-
-      
-
-               
+                    <ul>
+                        <li><i class="fa fa-caret-right"></i>Head chef</li>
+                        <li><i class="fa fa-caret-right"></i>Sous Chef</li>
+                        <li><i class="fa fa-caret-right"></i>Chef de partie</li>
+                        <li><i class="fa fa-caret-right"></i>Pastry chef</li>
+                        <li><i class="fa fa-caret-right"></i>Commis chef</li>
+                        <li><i class="fa fa-caret-right"></i>Kitchen assistant</li>
+                        <li><i class="fa fa-caret-right"></i>Kitchen porter</li>
+                    </ul>
 
                 </div>
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 ">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -418,9 +368,9 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
                         </div>
 
-                         
 
-                         
+
+
 
                     </div>
 
@@ -428,17 +378,26 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
             </div>
 
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="about_text_wrapper abt_2_para text-center">
+                    
+                    <img src="https://workers-direct.com/wp-content/uploads/2019/01/Chef-Agency-London.jpg" alt="#">
+
+                    <p>Jobs@ Workers-Direct.com OR Contact <a href="#">catering staff agency</a> for more informations.</p>
+                </div>
+            </div>
 
 
-             
+
+
 
             <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
 
-           
+
 
             <!-- </div> -->
 
-             
+
 
         </div>
 
@@ -446,547 +405,126 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
 </div>
 
-
-
-<!-- jp best deal Wrapper Start -->
-
 <div class="jp_best_deal_main_wrapper">
 
-<div class="container">
-
-<div class="row">
-
-    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-
-        <div class="jp_best_deal_heading_wrapper">
-
-            <div class="jp_best_deal_heading">
-
-                <h4>Industries & Sectors We Cover as Leading Recruitment Agency</h4>
-
-                <br>
-
-                
-
-            </div>
-
-        </div>
-
-    </div>
-
-    <div class="margin-top-100">
+    <div class="container">
 
         <div class="row">
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 text-center">
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
 
                 <a href="#">
 
                     <div class="box">
 
-                        
+
 
                         <div class="grid-box">
 
                             <div class="iconn green">
 
-                                <i class="green fa fa-h-square "></i>
+                                <i class=" font-size-icon green far fa-check-square"></i>
 
                             </div>
 
                             <div class="heading">
 
-                                <h1> <a>  	Hospitality & Catering </a> </h1>
+                                <h1> <a> Relevant Experience </a> </h1>
 
                             </div>
 
                             <div class="content margin-top-10">
 
-                                <p>If you want to hire you can Submit a Job. We have a large pool of candidates, who  ....</p>
-
-                            </div>
-
-                            <ul class=" margin-top-10">
-
-                                <li><i class="green fa fa-plus-circle"></i> <a class="green">&nbsp; READ MORE</a></li>
-
-                            </ul>
-
-                            
-
-                        </div>
-
-                        <div class="grid-box-1">
-
-                            <div class="img-section">
-
-                                <img src="public/assets/images/content/hospitality-&-catering-workers-direct.jpg" alt="Admin">
-
-                                <div class="middle">
-
-                                    <i class="green fa fa-plus-circle"></i>
-
-                                </div>
+                                <p>We make sure all our operatvies Must have minimum 2 - 5 years relevant Experience.</p>
 
                             </div>
 
                         </div>
-
-                        
 
                     </div>
 
-                </a>   </div>
+                </a>
 
-                <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 text-center">
+            </div>
 
-                    <a href="#">
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
 
-                        <div class="box">
+                <a href="#">
 
-                            
+                    <div class="box">
 
-                            <div class="grid-box">
 
-                                <div class="iconn green">
 
-                                    <i class="green fa fa-user "></i>
+                        <div class="grid-box">
 
-                                </div>
+                            <div class="iconn green">
 
-                                <div class="heading">
-
-                                    <h1> <a>  	Admin & Reception </a> </h1>
-
-                                </div>
-
-                                <div class="content margin-top-10">
-
-                                    <p>If you want to hire you can Submit a Job. We have a large pool of candidates, who always ready....</p>
-
-                                </div>
-
-                                <ul class=" margin-top-10">
-
-                                    <li><i class="green fa fa-plus-circle"></i> <a class="green">&nbsp; READ MORE</a></li>
-
-                                </ul>
-
-                                
+                                <i class="font-size-icon green far fa-hand-point-down"></i>
 
                             </div>
 
-                            <div class="grid-box-1">
+                            <div class="heading">
 
-                                <div class="img-section">
-
-                                    <img src="public/assets/images/content/admin-&-reception-workers-direct.jpg" alt="Admin">
-
-                                    <div class="middle">
-
-                                        <i class="fa fa-plus-circle"></i>
-
-                                    </div>
-
-                                </div>
+                                <h1> <a> 24/7 Availability </a> </h1>
 
                             </div>
 
-                            
+                            <div class="content margin-top-10">
+
+                                <p>Our Customer Service staff available online & on phone 24/7 to fill any urgent vacancy.</p>
+
+                            </div>
+
+
 
                         </div>
 
-                    </a>
 
-                </div>
 
-                <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 text-center">
+                    </div>
 
-                    <a href="#">
+                </a>
 
-                        <div class="box">
+            </div>
 
-                            
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
 
-                            <div class="grid-box">
+                <a href="#">
 
-                                <div class="iconn green">
+                    <div class="box">
 
-                                    <i class="green fa fa-graduation-cap" aria-hidden="true"></i>
 
-                                </div>
 
-                                <div class="heading">
+                        <div class="grid-box">
 
-                                    <h1> <a>  	Schools & Academics </a> </h1>
+                            <div class="iconn green">
 
-                                </div>
-
-                                <div class="content margin-top-10">
-
-                                    <p>If you want to hire you can Submit a Job. We have a large pool of candidates, who  ....</p>
-
-                                </div>
-
-                                <ul class=" margin-top-10">
-
-                                    <li><i class="green fa fa-plus-circle"></i> <a class="green">&nbsp; READ MORE</a></li>
-
-                                </ul>
-
-                                
+                                <i class="green font-size-icon fas fa-paper-plane"></i>
 
                             </div>
 
-                            <div class="grid-box-1">
+                            <div class="heading">
 
-                                <div class="img-section">
-
-                                    <img src="public/assets/images/content/school-&-academics-workers-direct.jpg" alt="Admin">
-
-                                    <div class="middle">
-
-                                        <i class="fa fa-plus-circle"></i>
-
-                                    </div>
-
-                                </div>
+                                <h1> <a> Flexible & Reliable </a> </h1>
 
                             </div>
 
-                            
+                            <div class="content margin-top-10">
+
+                                <p>All our temps are fully able to start on short noitce whenever require.</p>
+
+                            </div>
 
                         </div>
 
-                    </a>
+                    </div>
 
-                </div>
-
-                <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 text-center">
-
-                    <a href="#">
-
-                        <div class="box">
-
-                            
-
-                            <div class="grid-box">
-
-                                <div class="iconn green">
-
-                                    <i class="green fa fa-medkit" aria-hidden="true"></i>
-
-                                </div>
-
-                                <div class="heading">
-
-                                    <h1> <a>  	Health & Social Care </a> </h1>
-
-                                </div>
-
-                                <div class="content margin-top-10">
-
-                                    <p>If you want to hire you can Submit a Job. We have a large pool of candidates, who always ready....</p>
-
-                                </div>
-
-                                <ul class=" margin-top-10">
-
-                                    <li><i class="green fa fa-plus-circle"></i> <a class="green">&nbsp; READ MORE</a></li>
-
-                                </ul>
-
-                                
-
-                            </div>
-
-                            <div class="grid-box-1">
-
-                                <div class="img-section">
-
-                                    <img src="public/assets/images/content/health-&-social-care-workers-direct.jpg" alt="Admin">
-
-                                    <div class="middle">
-
-                                        <i class="green fa fa-plus-circle"></i>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            
-
-                        </div>
-
-                    </a>
-
-                </div>
+                </a>
 
             </div>
 
         </div>
 
-        <!-- ROW TWO   -->
-
-        <div class="margin-top-60">
-
-            <div class="row">
-
-                <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 text-center">
-
-                    <a href="#">
-
-                        <div class="box">
-
-                            
-
-                            <div class="grid-box">
-
-                                <div class="iconn green">
-
-                                    <i class="green fa fa-building" aria-hidden="true"></i>
-
-                                </div>
-
-                                <div class="heading">
-
-                                    <h1> <a>  	Trade & Construction </a> </h1>
-
-                                </div>
-
-                                <div class="content margin-top-10">
-
-                                    <p>If you want to hire you can Submit a Job. We have a large pool of candidates, who  ....</p>
-
-                                </div>
-
-                                <ul class=" margin-top-10">
-
-                                    <li><i class="green fa fa-plus-circle"></i> <a class="green">&nbsp; READ MORE</a></li>
-
-                                </ul>
-
-                                
-
-                            </div>
-
-                            <div class="grid-box-1">
-
-                                <div class="img-section">
-
-                                    <img src="public/assets/images/content/trade-&-construction-workers-direct.jpg" alt="Admin">
-
-                                    <div class="middle">
-
-                                        <i class="green fa fa-plus-circle"></i>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            
-
-                        </div>
-
-                    </a>   </div>
-
-                    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 text-center">
-
-                        <a href="#">
-
-                            <div class="box">
-
-                                
-
-                                <div class="grid-box">
-
-                                    <div class="iconn green">
-
-                                        <i class="green fa fa-bank" aria-hidden="true"></i>
-
-                                    </div>
-
-                                    <div class="heading">
-
-                                        <h1> <a>	Warehouse & Logistics </a> </h1>
-
-                                    </div>
-
-                                    <div class="content margin-top-10">
-
-                                        <p>If you want to hire you can Submit a Job. We have a large pool of candidates, who ....</p>
-
-                                    </div>
-
-                                    <ul class=" margin-top-10">
-
-                                        <li><i class="green fa fa-plus-circle"></i> <a class="green">&nbsp; READ MORE</a></li>
-
-                                    </ul>
-
-                                    
-
-                                </div>
-
-                                <div class="grid-box-1">
-
-                                    <div class="img-section">
-
-                                        <img src="public/assets/images/content/warehouse-&-logistics-workers-direct.jpg" alt="Admin">
-
-                                        <div class="middle">
-
-                                            <i class="fa fa-plus-circle"></i>
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                                
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-                    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 text-center">
-
-                        <a href="#">
-
-                            <div class="box">
-
-                                
-
-                                <div class="grid-box">
-
-                                    <div class="iconn green">
-
-                                        <i class="green fa fa-code" aria-hidden="true"></i>
-
-                                    </div>
-
-                                    <div class="heading">
-
-                                        <h1> <a> 	IT & Technology </a> </h1>
-
-                                    </div>
-
-                                    <div class="content margin-top-10">
-
-                                        <p>If you want to hire you can Submit a Job. We have a large pool of candidates, who always ready....</p>
-
-                                    </div>
-
-                                    <ul class=" margin-top-10">
-
-                                        <li><i class="green fa fa-plus-circle"></i> <a class="green">&nbsp; READ MORE</a></li>
-
-                                    </ul>
-
-                                    
-
-                                </div>
-
-                                <div class="grid-box-1">
-
-                                    <div class="img-section">
-
-                                        <img src="public/assets/images/content/it-&-technology-workers-direct.jpg" alt="Admin">
-
-                                        <div class="middle">
-
-                                            <i class="fa fa-plus-circle"></i>
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                                
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-                    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 text-center">
-
-                        <a href="#">
-
-                            <div class="box">
-
-                                
-
-                                <div class="grid-box">
-
-                                    <div class="iconn green">
-
-                                        <i class="green fa fa-american-sign-language-interpreting" aria-hidden="true"></i>
-
-                                    </div>
-
-                                    <div class="heading">
-
-                                        <h1> <a> Virtual & Remote Employees </a> </h1>
-
-                                    </div>
-
-                                    <div class="content margin-top-10">
-
-                                        <p>If you want to hire you can Submit a Job. We have a large pool of candidates, who  ....</p>
-
-                                    </div>
-
-                                    <ul class=" margin-top-10">
-
-                                        <li><i class="green fa fa-plus-circle"></i> <a class="green">&nbsp; READ MORE</a></li>
-
-                                    </ul>
-
-                                    
-
-                                </div>
-
-                                <div class="grid-box-1">
-
-                                    <div class="img-section">
-
-                                        <img src="public/assets/images/content/virtual-&-remote-employees-workers-direct.jpg" alt="Admin">
-
-                                        <div class="middle">
-
-                                            <i class="fa fa-plus-circle"></i>
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                                
-
-                            </div>
-
-                        </a>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-        </div>
-
-        
 
     </div>
 
@@ -1206,7 +744,7 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
                 <div class="aboutus_text_section abt_txt_page_2">
 
-                    <h1>How We <span>Work</span></h1>
+                    <h2>How We <span>Work</span></h2>
 
                     <p>We do not depend always on technology for candidate searches, preferring to use experience, industry acumen and intuition to identify what each individual could bring to a specific business. This intelligent & human approach pays surpluses time after time. We recognise the trust clients make in Workers Direct and our priority is always to make sure we attain the best results for all concerned.</p>
 
@@ -1264,9 +802,9 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
                                     <a class="collapsed" data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftone" aria-expanded="true">
 
-                              Our Visions and Missions
+                                        Our Visions and Missions
 
-                          </a>
+                                    </a>
 
                                 </h4>
 
@@ -1294,9 +832,9 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
                                     <a data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftTwo" aria-expanded="false">
 
-                             Our Corporate Responsibility
+                                        Our Corporate Responsibility
 
-                          </a>
+                                    </a>
 
                                 </h4>
 
@@ -1324,9 +862,9 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
                                     <a class="collapsed" data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftThree" aria-expanded="false">
 
-                            Visual Page Builder
+                                        Visual Page Builder
 
-                          </a>
+                                    </a>
 
                                 </h4>
 
@@ -1392,15 +930,15 @@ Workers Direct are experts in recruitment with over a decade of experience in fi
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 
-                    
+
 
                     <a href="https://play.google.com/store/apps/details?id=com.mst_developers.workers_direct&hl=en" class="ss_playstore"><span><i class="fa fa-android" aria-hidden="true"></i></span> Play Store</a>
 
-                    
 
 
 
-                    
+
+
 
                 </div>
 
