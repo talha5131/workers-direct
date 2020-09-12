@@ -163,7 +163,7 @@
 
                                             </div>
 
-                                            <div style="float: left;" class="margin-top-20">
+                                            <div style="float: left;" class="margin-top-60">
                                                 <ul>
                                                     <li><i class="green fa fa-caret-right"></i> Electricians</li>
                                                     <li><i class="green fa fa-caret-right"></i> Plumbers</li>
@@ -244,6 +244,15 @@
 
                                             </div>
 
+                                            <div style="float: left;" class="margin-top-60">
+                                                <ul>
+                                                    <li><i class="green fa fa-caret-right"></i> Casual Labour Hire</li>
+                                                    <li><i class="green fa fa-caret-right"></i> Contract / Temp Labourer</li>
+                                                    <li><i class="green fa fa-caret-right"></i> Site Cleaners</li>
+                                                    <li><i class="green fa fa-caret-right"></i> Part time / Full time Placement</li>
+                                                </ul>
+                                            </div>
+
 
                                         </div>
 
@@ -316,6 +325,15 @@
 
                                             </div>
 
+                                            <div style="float: left;" class="margin-top-60">
+                                                <ul>
+                                                    <li><i class="green fa fa-caret-right"></i> Handyman</li>
+                                                    <li><i class="green fa fa-caret-right"></i> Ground Workers</li>
+                                                    <li><i class="green fa fa-caret-right"></i> Banksman</li>
+                                                    <li><i class="green fa fa-caret-right"></i> CSCS Operatives</li>
+                                                </ul>
+                                            </div>
+
 
                                         </div>
 
@@ -331,51 +349,17 @@
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 section_heading section_2_heading margin-bottom-20 margin-top-60">
 
-                        <h2>Hire Reliable & Flexible Administrative & <span> Receptionist Temps</span></h2>
+                        <h2>Construction Recruitment Agency - Hire Skilled Labourers  <span> On Short Notice</span></h2>
 
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                        <table class=" table table-bordered margin-top-60 ">
-
-                            <tbody>
-                                <tr>
-                                    <td><i class="green fa fa-caret-right"></i> General Receptionist</td>
-                                    <td><i class="green fa fa-caret-right"></i> Hotel Receptionist</td>
-                                </tr>
-
-                                <tr>
-                                    <td><i class="green fa fa-caret-right"></i> Office Receptionist</td>
-                                    <td><i class="green fa fa-caret-right"></i> Front Of house Staff</td>
-                                </tr>
-
-                                <tr>
-                                    <td><i class="green fa fa-caret-right"></i> Temporary Receptionist</td>
-                                    <td><i class="green fa fa-caret-right"></i> Virtual Receptionist</td>
-                                </tr>
-
-                                <tr>
-                                    <td><i class="green fa fa-caret-right"></i> Reception Worker</td>
-                                    <td><i class="green fa fa-caret-right"></i> Meet & Greet Staff</td>
-                                </tr>
-
-                                <tr>
-                                    <td><i class="green fa fa-caret-right"></i> Day Receptionist</td>
-                                    <td><i class="green fa fa-caret-right"></i> Event Receptionist</td>
-                                </tr>
-
-                            </tbody>
-                        </table>
+                        <p>Despite the COVID-19 pandemic and the devastation it continues to cause around the UK, businesses must find a way to restart as soon as they can safely do so.</p>
+                        <p>In the UK, at least, there are subtle behavioural adjustments already being implemented in a variety of industries especially in trade & construction industry, as a result of social distancing that will most likely outlive the pandemic.</p>
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 section_heading section_2_heading margin-bottom-20 margin-top-100">
-
-                        <h2>Our <span> Guarantee</span></h2>
-
-                    </div>
-
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                        <p>It goes without saying that we are willing to meet our clients’ needs in every way as long as we have a comprehensive brief and job spec. This will be used to <a href="#">find the right receptionist agency</a> for your company and guarantee a happy relationship with us for many years to come.</p>
+                    <div>
+                        <img src="https://workers-direct.com/wp-content/uploads/2020/05/Construction-staff-agency.jpg" alt="Construction Staff" width="100%">
                     </div>
 
                 </div>
