@@ -259,3 +259,6 @@ Route::get('/sous-chef-jobs-2', function () {
 Route::get('/construction-staff', function () {
     return view('construction-staff');
 });
+Route::get('/pages-links', function () {
+    return view('pages-links');
+});
