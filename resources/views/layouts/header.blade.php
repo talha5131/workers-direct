@@ -536,6 +536,8 @@ Purchase:
 
                     <li class="gc_main_navigation parent"><a href="contact-us " class="gc_main_navigation">Contact</a></li>
 
+                    <li class="gc_main_navigation parent"><a href="pages-links " class="gc_main_navigation">Pages Links</a></li>
+
                 </ul>
 
             </div>
