@@ -277,3 +277,27 @@ Route::get('/kitchen-assistant-parttime', function () {
 Route::get('/carpenter-multi-skilled', function () {
     return view('carpenter-multi-skilled');
 });
+Route::get('/service-administrator', function () {
+    return view('service-administrator');
+});
+Route::get('/jobs', function () {
+    return view('jobs');
+});
+Route::get('/school-receptionist', function () {
+    return view('school-receptionist');
+});
+Route::get('/hr-assistant', function () {
+    return view('hr-assistant');
+});
+Route::get('/cscs-labourer', function () {
+    return view('cscs-labourer');
+});
+Route::get('/recruitment-agency-in-godalming', function () {
+    return view('recruitment-agency-godalming');
+});
+Route::get('/temporary-jobs', function () {
+    return view('temporary-jobs');
+});
+Route::get('/temp-agencies-near-me', function () {
+    return view('temp-agencies-near');
+});
