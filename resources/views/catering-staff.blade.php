@@ -777,31 +777,38 @@
 
                     </div>
                     <!-- ----------- -->
-                    <h3 class="green margin-top-60">
-                        KiChefs & Cooks
-                    </h3>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <h3 class="green margin-top-60">
+                            KiChefs & Cooks
+                        </h3>
 
-                    <p>We regularly provide the professionals chefs & cooks for restaurants, schools, canteens and pubs. Staff shortage in the kitchen can not only affect your revenue but your existing staff, adding pressure to them. Don’t get caught short – call Workers Direct and we can provide cooks on permanent, contract or short term agreements. Our experienced candidates are ready to cover your staff maternity leave, sick leave or holiday absence.</p>
+                        <p>We regularly provide the professionals chefs & cooks for restaurants, schools, canteens and pubs. Staff shortage in the kitchen can not only affect your revenue but your existing staff, adding pressure to them. Don’t get caught short – call Workers Direct and we can provide cooks on permanent, contract or short term agreements. Our experienced candidates are ready to cover your staff maternity leave, sick leave or holiday absence.</p>
+                    </div>
                     <!-- ----------- -->
-                    <h3 class="green margin-top-60">
-                        Kitchen Porters
-                    </h3>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <h3 class="green margin-top-60">
+                            Kitchen Porters
+                        </h3>
 
-                    <p>Do you need an extra pair of hands? Kitchen support staff such as porters are a vital component in ensuring that you have a smoothly running kitchen. Our catering recruitment specialists will make sure that your kitchen is never shorthanded. If someone is away on holiday or perhaps ill, a temporary Kitchen assistant could be the perfect solution to fill the gap. Let us take away the stress of unexpected or ill-timed absence by providing you with that extra bit of help.</p>
+                        <p>Do you need an extra pair of hands? Kitchen support staff such as porters are a vital component in ensuring that you have a smoothly running kitchen. Our catering recruitment specialists will make sure that your kitchen is never shorthanded. If someone is away on holiday or perhaps ill, a temporary Kitchen assistant could be the perfect solution to fill the gap. Let us take away the stress of unexpected or ill-timed absence by providing you with that extra bit of help.</p>
+                    </div>
                     <!-- ----------- -->
-                    <h3 class="green margin-top-60">
-                        Catering Assistants
-                    </h3>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <h3 class="green margin-top-60">
+                            Catering Assistants
+                        </h3>
 
-                    <p>Any large-scale kitchen will rely upon catering assistants to keep things ticking over efficiently and seamlessly, so a vacant Assistant role can mean catering chaos! If you have staff holidays or absence coming up, or have been left unexpectedly short-handed, call us. We can arrange temporary cover with experienced Catering Assistants, even for immediate starts.</p>
+                        <p>Any large-scale kitchen will rely upon catering assistants to keep things ticking over efficiently and seamlessly, so a vacant Assistant role can mean catering chaos! If you have staff holidays or absence coming up, or have been left unexpectedly short-handed, call us. We can arrange temporary cover with experienced Catering Assistants, even for immediate starts.</p>
+                    </div>
                     <!-- ----------- -->
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
                     <h3 class="green margin-top-60">
                         Our Guarantee
                     </h3>
 
                     <p>First and foremost in the mind of all staff at Workers Direct is our guarantee: to find and match the very best candidate to the right job, at a competitive cost, and as efficiently as possible, even on short notice. With over a decade of experience we are Catering Staff Agency, and consider ourselves partners to our clients. Workers Direct is not just another agency, but a team player that you can rely upon.</p>
 
-
+                    </div>
 
 
 
