@@ -72,7 +72,7 @@
 
         <div class="row">
 
-            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12  margin-bottom-20">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20">
 
                 <div class="about_text_wrapper">
 
@@ -82,29 +82,15 @@
 
                     </div>
 
-                    <p>Workers Direct is the one-stop resource for all your temporary staffing needs. In today’s economy, temporary staffing agencies offer a money saving solution to your employment needs. As one of the leading temp agency London we provide you with more operational flexibility, using temporary staff as a stopgap so that your business can maximise efficiency and profitability. We proactively work for you to find the solution and ultimately help you to grow your business.</p>
-
-
-
-
-
                 </div>
 
             </div>
 
-            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-bottom-20">
 
-                <div class="about_image_wrapper">
 
-                    <img class="img-responsive" src="public/assets/images/content/about-workers-direct.jpg" alt="about-img">
-
-                </div>
-
-            </div>
-
-            <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12 text-center">
+            <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
                 <div class="row">
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
                         <a href="#">
 
@@ -165,7 +151,7 @@
                         </a>
                     </div>
 
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
                         <a href="#">
 
@@ -226,14 +212,13 @@
                         </a>
 
                     </div>
-
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+                </div>
+                <div class="row">
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
                         <a href="#">
 
                             <div class="box">
-
-
 
                                 <div class="grid-box">
 
@@ -255,42 +240,15 @@
 
                                     </div>
 
-                                    <!-- <ul class=" margin-top-10">
-
-                                <li><i class="green fa fa-plus-circle"></i> <a class="green">&nbsp; READ MORE</a></li>
-
-                            </ul> -->
-
-
-
                                 </div>
-
-                                <!-- <div class="grid-box-1">
-
-                            <div class="img-section">
-
-                                <img src="public/assets/images/content/school-&-academics-workers-direct.jpg" alt="Admin">
-
-                                <div class="middle">
-
-                                    <i class="fa fa-plus-circle"></i>
-
-                                </div>
-
-                            </div>
-
-                        </div> -->
-
-
 
                             </div>
 
                         </a>
 
                     </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
                         <a href="#">
 
@@ -350,8 +308,9 @@
 
                         </a>
                     </div>
-
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+                </div>
+                <div class="row">
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
                         <a href="#">
 
@@ -412,7 +371,7 @@
                         </a>
                     </div>
 
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
                         <a href="#">
 
@@ -475,124 +434,93 @@
                 </div>
 
                 <div class="row margin-top-60">
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+                    <div class="box">
+                        <div class="grid-box">
 
+                            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+                                <div class="section_heading section_2_heading about_text_wrapper">
 
-
-                        <div class="box">
-
-
-
-                            <div class="grid-box">
-
-                                <div class="iconn green">
-
-                                    <a href="#"><img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Depositphotos_33435525_m-2-ojfzkodvsaubfnxwhesmlnhidyice0qfgz39nft0wi.jpg" alt="Chef Agency" width="100%" height="100%"></a>
-
+                                    <h2> Right chef on right time </h2>
 
                                 </div>
 
-                                <div class="heading">
-
-                                    <h1> <a> Right chef on right time </a> </h1>
-
-                                </div>
-
-                                <div class="content margin-top-10">
+                                <div class="content margin-top-60">
 
                                     <p>Workers Direct as one of the leading catering agency have a database of professional, fully trained and security screened catering staff. Whether you need a Chef, Cook, Kitchen assistant or Kitchen porter, we have the staff for you, and we always ensure that the staff member will be the right fit for your business.</p>
 
                                 </div>
+                            </div>
 
+                            <div class="iconn green col-lg-4 col-md-4 col-sm-12 col-xs-12">
 
-
+                                <a href="#"><img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Depositphotos_33435525_m-2-ojfzkodvsaubfnxwhesmlnhidyice0qfgz39nft0wi.jpg" alt="Chef Agency" width="100%" height="100%"></a>
 
 
                             </div>
 
 
-
-
-
                         </div>
 
 
+
+
+
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+
+                    <div class="box">
+
+                        <div class="grid-box">
+
+                            <div class="iconn green col-lg-4 col-md-4 col-sm-12 col-xs-12">
+
+                                <a href="#"><img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/xfs_550x350_s80_Wait-agency-ojg1lw1b91x5vmafhgo6g6p5kjrxmmbhn6fu83u1ny.jpg" alt="hospitality" width="100%" height="100%"></a>
 
 
+                            </div>
 
-                        <div class="box">
+                            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+                                <div class="section_heading section_2_heading about_text_wrapper">
 
-
-
-                            <div class="grid-box">
-
-                                <div class="iconn green">
-
-                                    <a href="#"><img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/xfs_550x350_s80_Wait-agency-ojg1lw1b91x5vmafhgo6g6p5kjrxmmbhn6fu83u1ny.jpg" alt="hospitality" width="100%" height="100%"></a>
-
-
-                                </div>
-
-                                <div class="heading">
-
-                                    <h1> <a> Hospitality & Catering temps we have available </a> </h1>
+                                    <h2> Hospitality & Catering temps we have available </h2>
 
                                 </div>
 
-                                <div class="content margin-top-10">
+                                <div class="content margin-top-60">
 
                                     <p>If you are looking for a chef, we will have the candidate for you. Our recruitment specialists will make sure that we get the right person for your kitchen, whether that is for a short term, contract or permanent position. Call the Workers Direct team and we will strive to match you with the right candidate. If you need a tandoori chef, a sushi master or a carvery king, tell us exactly what you are looking for and we will do the work of finding the best fit.</p>
 
                                 </div>
-
-
-
-
-
                             </div>
-
-
-
-
 
                         </div>
 
 
+
+
+
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
 
+                    <div class="box">
 
+                        <div class="grid-box">
 
-                        <div class="box">
+                            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+                                <div class="section_heading section_2_heading about_text_wrapper">
 
-
-
-                            <div class="grid-box">
-
-                                <div class="iconn green">
-
-                                    <a href="#"><img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/hospitality-agency-london-ojfzzk5w493ded9taxjgv5dl2mnikdjfz54npnglfo.jpg" alt="hospitality" width="100%" height="100%"></a>
-
+                                    <h2> Experienced & Professionals Kitchen Crew </h2>
 
                                 </div>
 
-                                <div class="heading">
-
-                                    <h1> <a> Experienced & Professionals Kitchen Crew </a> </h1>
-
-                                </div>
-
-                                <div class="content margin-top-10">
+                                <div class="content margin-top-60">
 
                                     <p>Any large-scale kitchen will rely upon catering assistants to keep things ticking over efficiently and seamlessly, so a vacant Assistant role can mean catering chaos! If you have staff holidays or absence coming up, or have been left unexpectedly short-handed, call us. We can arrange temporary cover with experienced Catering Assistants, even for immediate starts.</p>
 
                                 </div>
+                            </div>
 
+                            <div class="iconn green col-lg-4 col-md-4 col-sm-12 col-xs-12">
 
-
-
+                                <a href="#"><img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/hospitality-agency-london-ojfzzk5w493ded9taxjgv5dl2mnikdjfz54npnglfo.jpg" alt="hospitality" width="100%" height="100%"></a>
 
                             </div>
 
@@ -603,13 +531,19 @@
                         </div>
 
 
+
+
+
                     </div>
+
+
+
                 </div>
             </div>
 
 
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 ">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
