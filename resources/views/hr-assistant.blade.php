@@ -142,7 +142,7 @@
 
                         </div>
 
-                        <p>The primary responsibility of the resource would be proper HR administration and co-ordination for recruitment activities. This will include end to end employee HR life cycle including smooth onboarding, handbook maintenance, policy compliances, exit process etc.  Recruitment activities mainly include understanding the open positions and helping the recruitment team successfully interview and recruit the right candidates, help with scheduling the interviews and the associated logistics for the interviewers and interviewee</p>
+                        <p>The primary responsibility of the resource would be proper HR administration and co-ordination for recruitment activities. This will include end to end employee HR life cycle including smooth onboarding, handbook maintenance, policy compliances, exit process etc. Recruitment activities mainly include understanding the open positions and helping the recruitment team successfully interview and recruit the right candidates, help with scheduling the interviews and the associated logistics for the interviewers and interviewee</p>
                         <p>This role also includes overall operational activities that may be required from time to time such as supplier co-ordination, Maintaining calendars of the founders and directors as and when needed, maintaining travel desk, accounts & payroll coordination, employee expense management, HMRC payments and compliances, record maintenance, guest houses allocation & maintenance</p>
                         <p>Duration: 6 months contract with a very likely probability of a permanent hire following a successful performance.</p>
                     </div>
@@ -169,10 +169,10 @@
                             </ul>
                         </div>
 
-                        
 
-                        <div>
-                            <p>For immediate placement send your CV Today at,</p>
+
+                        <div style="margin-top: 40px;">
+                            <h2>For immediate placement send your CV Today at</h2>
                             <p><strong>jobs@ Workers-direct.com</strong></p>
                             <a href="# " class="green"><strong> OR Apply Online</strong></a>
                         </div>

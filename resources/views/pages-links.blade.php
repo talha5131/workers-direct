@@ -127,7 +127,6 @@
         <a class="btn btn-success" href="school-receptionist">School Receptionist</a>
         <a class="btn btn-success" href="hr-assistant">HR Assistant</a>
         <a class="btn btn-success" href="cscs-labourer">CSCS Labourer</a>
-        <a class="btn btn-success" href="recruitment-agency-in-godalming">Recruitment Agency In Godalming</a>
         <a class="btn btn-success" href="temporary-jobs">Temporary Jobs</a>
         <a class="btn btn-success" href="temp-agencies-near-me">Temp Agencies Near Me</a>
     </div>

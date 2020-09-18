@@ -148,7 +148,7 @@
 
                         <div class="section_heading section_2_heading">
 
-                            <h4>The duties of the Receptionist <span> will include</span></h4>
+                            <h4>The duties of the Receptionist <span> will include :</span></h4>
 
                         </div>
 
@@ -167,7 +167,7 @@
 
                         <div class="section_heading section_2_heading margin-top-60">
 
-                            <h4>AN IDEAL SCHOOL RECEPTIONIST  <span> MUST HAVE</span></h4>
+                            <h4>AN IDEAL SCHOOL RECEPTIONIST  <span> MUST HAVE :</span></h4>
 
                         </div>
 
@@ -181,7 +181,7 @@
                         </div>
 
                         <div>
-                            <p>Forward your CV to arrange an immediate interview for various full time & part time Temporary SCHOOL RECEPTIONIST JOBS.</p>
+                            <p><strong> Forward your CV to arrange an immediate interview for various full time & part time Temporary SCHOOL RECEPTIONIST JOBS. </strong></p>
                             <p><strong>jobs@ Workers-direct.com</strong></p>
                             <a href="# " class="green"><strong> OR Apply Online</strong></a>
                         </div>

@@ -100,71 +100,71 @@
                             <p>Please see below the latest temporary Jobs:</p>
                             <table class="table table-bordered margin-top-60 " style="width:100%">
                                 <tr>
-                                    <th> Job Title	</th>
+                                    <th> Job Title </th>
                                     <th>Job Duration</th>
                                     <th> Job Location</th>
-                                    <th> Salary	</th>
+                                    <th> Salary </th>
                                     <th></th>
                                 </tr>
                                 <tr>
                                     <th>General Cook</th>
-                                    <td> Temporary	</td>
-                                    <td>  North London	</td>
-                                    <td>  £9 – £12 p.h	</td>
+                                    <td> Temporary </td>
+                                    <td> North London </td>
+                                    <td> £9 – £12 p.h </td>
                                     <td><a href="#" class="green">Apply Online</a></td>
                                 </tr>
                                 <tr>
                                     <th>Kitchen Porter</th>
-                                    <td> Temporary	</td>
-                                    <td>  North London	</td>
-                                    <td>  £7.20 – £7.50 p.h	</td>
+                                    <td> Temporary </td>
+                                    <td> North London </td>
+                                    <td> £7.20 – £7.50 p.h </td>
                                     <td><a href="#" class="green">Apply Online</a></td>
 
                                 </tr>
                                 <tr>
                                     <th>Support Workers X 2</th>
-                                    <td> Temporary	</td>
-                                    <td>  North London	</td>
-                                    <td> £8.50 p.h	</td>
+                                    <td> Temporary </td>
+                                    <td> North London </td>
+                                    <td> £8.50 p.h </td>
                                     <td><a href="#" class="green">Apply Online</a></td>
 
                                 </tr>
                                 <tr>
                                     <th>Barista X 2</th>
-                                    <td> Temporary	</td>
-                                    <td>  Central London</td>
-                                    <td> £7.50 – £8 p.h		</td>
+                                    <td> Temporary </td>
+                                    <td> Central London</td>
+                                    <td> £7.50 – £8 p.h </td>
                                     <td><a href="#" class="green">Apply Online</a></td>
 
                                 </tr>
                                 <tr>
                                     <th>CSCS Labourer</th>
-                                    <td> Temporary	</td>
-                                    <td>  London</td>
-                                    <td> £7.50 – £8 p.h		</td>
+                                    <td> Temporary </td>
+                                    <td> London</td>
+                                    <td> £7.50 – £8 p.h </td>
                                     <td><a href="#" class="green">Apply Online</a></td>
 
                                 </tr>
                                 <tr>
                                     <th>Care Assistant (Part Time)</th>
-                                    <td> Temporary	</td>
-                                    <td>  North London</td>
-                                    <td> £8 – £9.50 p.h	</td>
+                                    <td> Temporary </td>
+                                    <td> North London</td>
+                                    <td> £8 – £9.50 p.h </td>
                                     <td><a href="#" class="green">Apply Online</a></td>
 
                                 </tr>
                                 <tr>
                                     <th>Office Admin</th>
-                                    <td> Temporary	</td>
-                                    <td>  Ilford, Essex		</td>
+                                    <td> Temporary </td>
+                                    <td> Ilford, Essex </td>
                                     <td>£7.50 – £8.00 p.h</td>
                                     <td><a href="#" class="green">Apply Online</a></td>
 
                                 </tr>
                                 <tr>
                                     <th>Kitchen Assistant</th>
-                                    <td> Temporary	</td>
-                                    <td> Central London	</td>
+                                    <td> Temporary </td>
+                                    <td> Central London </td>
                                     <td>£8 – £9.50 p.h</td>
                                     <td><a href="#" class="green">Apply Online</a></td>
 
@@ -209,192 +209,6 @@
                             </div>
 
                         </div>
-
-                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-
-                            <div class="jp_spotlight_main_wrapper">
-
-                                <div class="spotlight_header_wrapper">
-
-                                    <h4>Job Spotlight</h4>
-
-                                </div>
-
-                                <div class="jp_spotlight_slider_wrapper">
-
-                                    <div class="owl-carousel owl-theme">
-
-                                        <div class="item">
-
-                                            <div class="jp_spotlight_slider_img_Wrapper">
-
-                                                <img src="public/assets/images/content/spotlight_img.jpg" alt="spotlight_img" />
-
-                                            </div>
-
-                                            <div class="jp_spotlight_slider_cont_Wrapper">
-
-                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-
-                                                <p>Webstrot Technology Ltd.</p>
-
-                                                <ul>
-
-                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-
-                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-
-                                                </ul>
-
-                                            </div>
-
-                                            <div class="jp_spotlight_slider_btn_wrapper">
-
-                                                <div class="jp_spotlight_slider_btn">
-
-                                                    <ul>
-
-                                                        <li><a href="#"><i class="fa fa-plus-circle"></i> &nbsp;ADD RESUME</a></li>
-
-                                                    </ul>
-
-                                                </div>
-
-                                            </div>
-
-                                        </div>
-
-                                        <div class="item">
-
-                                            <div class="jp_spotlight_slider_img_Wrapper">
-
-                                                <img src="public/assets/images/content/spotlight_img.jpg" alt="spotlight_img" />
-
-                                            </div>
-
-                                            <div class="jp_spotlight_slider_cont_Wrapper">
-
-                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-
-                                                <p>Webstrot Technology Ltd.</p>
-
-                                                <ul>
-
-                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-
-                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-
-                                                </ul>
-
-                                            </div>
-
-                                            <div class="jp_spotlight_slider_btn_wrapper">
-
-                                                <div class="jp_spotlight_slider_btn">
-
-                                                    <ul>
-
-                                                        <li><a href="#"><i class="fa fa-plus-circle"></i> &nbsp;ADD RESUME</a></li>
-
-                                                    </ul>
-
-                                                </div>
-
-                                            </div>
-
-                                        </div>
-
-                                        <div class="item">
-
-                                            <div class="jp_spotlight_slider_img_Wrapper">
-
-                                                <img src="public/assets/images/content/spotlight_img.jpg" alt="spotlight_img" />
-
-                                            </div>
-
-                                            <div class="jp_spotlight_slider_cont_Wrapper">
-
-                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-
-                                                <p>Webstrot Technology Ltd.</p>
-
-                                                <ul>
-
-                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-
-                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-
-                                                </ul>
-
-                                            </div>
-
-                                            <div class="jp_spotlight_slider_btn_wrapper">
-
-                                                <div class="jp_spotlight_slider_btn">
-
-                                                    <ul>
-
-                                                        <li><a href="#"><i class="fa fa-plus-circle"></i> &nbsp;ADD RESUME</a></li>
-
-                                                    </ul>
-
-                                                </div>
-
-                                            </div>
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-
-                            <div class="jp_rightside_job_categories_wrapper">
-
-                                <div class="jp_rightside_job_categories_heading">
-
-                                    <h4>Jobs by Category</h4>
-
-                                </div>
-
-                                <div class="jp_rightside_job_categories_content">
-
-                                    <ul>
-
-                                        <li><i class="fa fa-caret-right"></i> <a href="#">Graphic Designer <span>(214)</span></a></li>
-
-                                        <li><i class="fa fa-caret-right"></i> <a href="#">Engineering Jobs <span>(514)</span></a></li>
-
-                                        <li><i class="fa fa-caret-right"></i> <a href="#">Mainframe Jobs <span>(554)</span></a></li>
-
-                                        <li><i class="fa fa-caret-right"></i> <a href="#">Legal Jobs <span>(457)</span></a></li>
-
-                                        <li><i class="fa fa-caret-right"></i> <a href="#">IT Jobs <span>(1254)</span></a></li>
-
-                                        <li><i class="fa fa-caret-right"></i> <a href="#">R&D Jobs <span>(554)</span></a></li>
-
-                                        <li><i class="fa fa-caret-right"></i> <a href="#">Government Jobs <span>(350)</span></a></li>
-
-                                        <li><i class="fa fa-caret-right"></i> <a href="#">PSU Jobs <span>(221)</span></a></li>
-
-                                        <li><i class="fa fa-plus-circle"></i> <a href="#">View All Categories</a></li>
-
-                                    </ul>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-
-
-
 
                     </div>
 
@@ -772,25 +586,11 @@
 
                             <ul>
 
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Audit &amp; Assurance</li>
+                                <li><i class="fa fa-caret-right"></i>&nbsp;&nbsp;Audit &amp; Assurance</li>
 
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Business Services</li>
+                                <li><i class="fa fa-caret-right"></i>&nbsp;&nbsp;Business Services</li>
 
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;IT Control Solutions</li>
-
-                            </ul>
-
-                        </div>
-
-                        <div class="col-md-6">
-
-                            <ul>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Audit &amp; Assurance</li>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Business Services</li>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;IT Control Solutions</li>
+                                <li><i class="fa fa-caret-right"></i>&nbsp;&nbsp;IT Control Solutions</li>
 
                             </ul>
 

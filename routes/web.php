@@ -292,9 +292,6 @@ Route::get('/hr-assistant', function () {
 Route::get('/cscs-labourer', function () {
     return view('cscs-labourer');
 });
-Route::get('/recruitment-agency-in-godalming', function () {
-    return view('recruitment-agency-godalming');
-});
 Route::get('/temporary-jobs', function () {
     return view('temporary-jobs');
 });

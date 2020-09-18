@@ -73,7 +73,7 @@
 
         <div class="row">
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
                 <div class="about_text_wrapper">
 
@@ -91,7 +91,7 @@
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper">
 
                     <div class="section_heading section_2_heading row">
 
@@ -104,25 +104,13 @@
 
                     </div>
 
-
-
-                    <div class="section_heading section_2_heading margin-top-60">
-
-                        <div class="section_heading section_2_heading margin-bottom-60">
-
-                            <h2>The Work will involve, but not be <span> limited to</span></h2>
+                    <div class="row">
+                        <div class="col-md-6">
 
                         </div>
-
-                        <div>
-                            <ul>
-                                <li><i class="fa fa-caret-right"></i> Installation of helical piling</li>
-                                <li><i class="fa fa-caret-right"></i> Ground works (digging, breaking and removal of ground, drainage installation</li>
-                                <li><i class="fa fa-caret-right"></i> Carpentry (fitting of studwork, wall boards, floor boards, skirting, architrave, etc)</li>
-                                <li><i class="fa fa-caret-right"></i> General construction work (cutting and fixing of materials, etc)</li>
-                            </ul>
-                        </div>
-
+                        <div class="col-md-6"></div>
+                    </div>
+                    
                         <div class="section_heading section_2_heading margin-bottom-60 margin-top-60">
 
                             <h2>An Ideal Carpenter <span> Must Have</span></h2>
@@ -142,7 +130,8 @@
                         </div>
 
                         <div>
-                            <p>£13 to £16 per hour (Depends on Experience & Skills).</p>
+                            <br>
+                            <p><strong>£13 to £16 per hour (Depends on Experience & Skills).</strong></p>
                             <p>Send your CV Today for immediate placement.</p>
                             <p><strong>jobs@ Workers-direct.com</strong></p>
                             <a href="# " class="green"><strong> OR Apply Online</strong></a>

@@ -73,7 +73,7 @@
 
         <div class="row">
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
                 <div class="about_text_wrapper">
 
@@ -92,44 +92,43 @@
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="row about_text_wrapper abt_2_para">
+                <div class="row about_text_wrapper">
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
 
-                        <img src="https://workers-direct.com/wp-content/uploads/2015/01/Temp-agency.jpg" alt="London Recruitment Agency" width="100%">
                         <p>At Workers Direct, we understand that everyone is different and so, we treat everyone as individuals. Our reputation means that Workers Direct is one of the best Employment Agency in London for temporary jobs. We are an established outfit with a team of experts who carry with them a lot of experience in the recruitment sector. Our ability to build stable relationships with our clients is what sets us out from the rest. We work with clients from a number of industries such as Construction and Cleaning. This makes us the first port of call for candidates and clients so make sure you select the right agencies in London.</p>
-
+                        <img style="border: 4px solid #7CC24D;border-radius: 5px;" src="https://workers-direct.com/wp-content/uploads/2015/01/Temp-agency.jpg" alt="London Recruitment Agency" width="100%">
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 section_heading section_2_heading margin-bottom-20 margin-top-60">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 section_heading section_2_heading margin-top-60">
 
                         <h2>Why should you choose <span> Workers Direct?</span></h2>
 
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <p>At the heart of our service is you. We thrive off working with clients and candidates because we believe in trying to make a difference. All of our personnel comes with an experience that enables them to make the right decisions when it comes to helping businesses and individuals with their employment or recruitment needs. We get to know you better, so whether that relates to the background of an individual and their working experience or the inner workings of a business, we know what is required. This enables us to encourage growth and success through selecting the right people for the right businesses.</p>
                         <p>Whether you are a business or an individual, we believe that continuous professional development is key to success. We offer training, advice and guidance to clients and candidates to help you get the most from your experience. Our focus driven service and personalised approach can provide you with the confidence you need to trust in our service. We can find you the right staff or we can put you in the right job.</p>
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 section_heading section_2_heading margin-bottom-20 margin-top-60">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 section_heading section_2_heading margin-top-60">
 
                         <h2>What will you get with Workers <span> Direct?</span></h2>
 
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <p>Team workers direct is professionals and reliable staff supply agency and whether you are looking for work or looking for staff, you will get exactly what you need. We do not pretend to offer the world and then under-deliver because we always meet our promises and the expectations of clients and candidates. If you are looking for staff then we have a reputation of deliver quality candidates. In order to achieve this, we also create close ties with clients so we all have a mutual understanding of what we want to achieve. Our team of experts are there to support you through the recruitment process and we like to get personal with our clients. This enables us to create a service that is tailored to the needs of all. We have the ability to provide high calibre individuals with the required skills but we also make sure that they are right for your recruitment needs.</p>
                         <p>We believe that a healthy working relationship is one where everyone works together. We take the specifics of your requirements and then consider the best way to meet your needs. You might be looking to work in a particular sector or your business might be searching for someone with a particular skillset. Regardless of your needs, we are on hand to provide you with everything that you require because that is what Workers Direct aims to offer.</p>
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 section_heading section_2_heading margin-bottom-20 margin-top-60">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 section_heading section_2_heading">
 
                         <h2>A service that <span> delivers</span></h2>
 
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <p>At Workers Direct, our consultants are the beating heart of our service. Their motivation is what helps us to deliver a service that ensures our clients are candidates are satisfied every time. Our passion and desire is unrivalled and so, we are dedicated to all that we offer. Our service evolves and grows within a competitive industry because we believe in offering more and standing out form the crowd. Professionalism and honesty underpins our very existence and that ensures that we provide a service that excels and delivers.</p>
                     </div>                    
 

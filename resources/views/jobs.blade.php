@@ -91,13 +91,13 @@
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper">
 
                     <div class="section_heading section_2_heading row">
 
                         <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                             <p>We know that in today’s economy, unemployment is a scary reality for many workers, both experienced and new to the world of work. We also know that you are driven to succeed, itching for work and keen to prove your skills and ability. Workers Direct have a decade of experience in finding the recruitment solution for our job seekers, whether that be temporary, temp-to-perm, or contract roles, and whatever specialisation you are looking for. We recruit for everything from data-entry to teaching roles, from packaging work to medical receptionists, and the employers we partner with offer opportunities to develop and learn in each role. Our team are here to support every job seeker.</p>
-                            
+
                         </div>
 
 
@@ -106,26 +106,32 @@
 
 
                     <div class="section_heading section_2_heading margin-top-60">
+                        <div class="row">
+                            <div class="col-sm-12 col-md-6">
+                                <div class="section_heading section_2_heading">
 
-                        <div class="section_heading section_2_heading margin-bottom-60">
+                                    <h2>Recruitment Agency<span> London</span></h2>
 
-                            <h2>Recruitment Agency<span> London</span></h2>
+                                </div>
 
+                                <div>
+                                    <p>Workers Direct are an experienced recruitment agency for London that more and more candidates are looking to, as we are driven to find you work that will fit in with your skills and needs. <a href="#" class="green"><strong> Submit Your CV</strong></a> today and we can connect you to employers and businesses across London that are looking for workers – promptly. No matter if you want short term, temp-to-perm, or contract roles, let us know your experience, qualifications, or abilities, and we’ll find you that job in London.</p>
+                                </div>
+
+                            </div>
+                            <div class="col-sm-12 col-md-6">
+                                <div class="section_heading section_2_heading">
+
+                                    <h2>Employment <span> Agency</span></h2>
+
+                                </div>
+
+                                <p>Our employment agency takes pride in offering efficient, friendly and supportive service to our candidates. We are here to work with you during what can be a stressful, difficult search, that we make easy by taking it on for you. You may only need temporary work for a couple of weeks, or perhaps you want to settle and commit to a contract role? Call our experienced employment agency and we will handle the process of finding you work with clients that expect the best.</p>
+
+                            </div>
                         </div>
 
-                        <div>
-                            <p>Workers Direct are an experienced recruitment agency for London that more and more candidates are looking to, as we are driven to find you work that will fit in with your skills and needs. <a href="#" class="green"><strong> Submit Your CV</strong></a> today and we can connect you to employers and businesses across London that are looking for workers – promptly. No matter if you want short term, temp-to-perm, or contract roles, let us know your experience, qualifications, or abilities, and we’ll find you that job in London.</p>
-                        </div>
-
-                        <div class="section_heading section_2_heading margin-bottom-60 margin-top-60">
-
-                            <h2>Employment <span> Agency</span></h2>
-
-                        </div>
-
-                        <p>Our employment agency takes pride in offering efficient, friendly and supportive service to our candidates. We are here to work with you during what can be a stressful, difficult search, that we make easy by taking it on for you. You may only need temporary work for a couple of weeks, or perhaps you want to settle and commit to a contract role? Call our experienced employment agency and we will handle the process of finding you work with clients that expect the best.</p>
-
-                        <div class="section_heading section_2_heading margin-bottom-60 margin-top-60">
+                        <div class="section_heading section_2_heading margin-top-60">
 
                             <h2>Interested To <span> Become a Temp?</span></h2>
 

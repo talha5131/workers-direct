@@ -96,7 +96,6 @@
                     <div class="section_heading section_2_heading row">
 
                         <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                            <img src="https://staff-direct.co.uk/wp-content/uploads/2019/09/general-laborer-1-1024x576.jpg" width="100%" alt="CSCS Labourer">
                             <table class="table table-bordered margin-top-60 " style="width:100%">
                                 <tr>
                                     <th>Title</th>
@@ -128,22 +127,25 @@
                                 </tr>
 
                             </table>
-
                         </div>
 
                     </div>
 
                     <div class="section_heading section_2_heading margin-top-60">
-
-                        <div class="section_heading section_2_heading">
-
-                            <h2>JOB <span> PURPOSE</span></h2>
-
+                        <div class="row">
+                            <div class="col-sm-12 col-md-8">
+                                <div class="section_heading section_2_heading">
+                                    <h2>JOB <span> PURPOSE</span></h2>
+                                </div>
+                                <p> We are looking for a strong and experienced CSCS Labourer to manifest his physical strength in carrying out construction tasks at site. General Laborers’ responsibilities include receiving goods, performing construction site duties and operating construction vehicles</p>
+                            </div>
+                            <div class="col-sm-12 col-md-4">
+                                <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="https://staff-direct.co.uk/wp-content/uploads/2019/09/general-laborer-1-1024x576.jpg" width="100%" alt="CSCS Labourer">
+                            </div>
                         </div>
-                        <p> We are looking for a strong and experienced CSCS Labourer to manifest his physical strength in carrying out construction tasks at site. General Laborers’ responsibilities include receiving goods, performing construction site duties and operating construction vehicles</p>
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="section_heading section_2_heading ">
 
                         <div class="margin-bottom-60">
                             <h2>Main <span> Responsibilities</span></h2>
@@ -164,7 +166,7 @@
 
                         <h2 class="margin-bottom-60">Candidate <span> Requirement</span></h2>
 
-                        <div class="margin-bottom-60">
+                        <div class="">
                             <ul>
                                 <li><i class="fa fa-caret-right"></i> Must have CSCS Labourer card</li>
                                 <li><i class="fa fa-caret-right"></i> Ability to understand, comprehend and follow instructions properly</li>
@@ -177,8 +179,8 @@
 
 
 
-                        <div>
-                            <p>For immediate placement send your CV Today at,</p>
+                        <div style="margin-top: 40px;">
+                            <h2>For immediate placement send your CV Today at</h2>
                             <p><strong>jobs@ Workers-direct.com</strong></p>
                             <a href="# " class="green"><strong> OR Apply Online</strong></a>
                         </div>

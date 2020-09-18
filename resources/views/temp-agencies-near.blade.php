@@ -99,7 +99,7 @@
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="section_heading section_2_heading">
 
                         <p> The temporary work sector is understandably a difficult arena for recruiters to work in, due to the rapid turnaround times and seasonal requirements Temp Agencies Near Me one of the best option to start. Businesses across many industries require workers on temporary contracts, but the process of finding and hiring them alone can be difficult for a business to do themselves.</p>
                         <p>This is where a temp agency comes in. A professional temp consultant will be clever to handle every one of process of temp recruitment, from searching for candidates to going through anything the paperwork. This is where a temp agency comes in. A professional temp consultant will be able to handle the entire process of temp recruitment, from searching for candidates to going through all the paperwork.</p>
@@ -107,7 +107,7 @@
 
                     <div class="section_heading section_2_heading margin-top-60">
 
-                        <div class="margin-bottom-60">
+                        <div class="">
                             <h2>What Is A Temp <span> Agency?</span></h2>
                         </div>
 
@@ -126,11 +126,11 @@
                             </ul>
                         </div>
 
-                        <div class="margin-bottom-60">
+                        <div class="">
                             <h2>Maximise The Job Search With Help Of Expert Recruiters Temp <span> Agencies Near Me</span></h2>
                         </div>
 
-                        <div class="margin-bottom-60">
+                        <div class="">
                             <p>A temporary agency can sometimes specialise in certain areas of the temp sector, such as construction or hospitality.</p>
                             <p>On the other hand, many recruiters will have experts across all fields to cater to the needs of all industries.</p>
                             <p>Temp agencies have become an integral share of the UK economy, and are particularly vital in a number of sectors such as agriculture and construction. A lot of companies will put on an act long-term gone a particular agency, as their dependence for temp workers will remain consistent year after year.</p>
@@ -140,7 +140,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -364,65 +364,67 @@
 
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="about_text_wrapper abt_2_para">
-                    <div class="margin-bottom-60">
+                    <div class="">
                         <h2>Workers-Direct – Leading <span> Recruitment Agency</span></h2>
                     </div>
 
-                    <div class="margin-bottom-60">
+                    <div class="">
                         <p>Workers-Direct is one of the leading temp recruiting agencies in the country.</p>
                         <p>Additionally, the agency also handles permanent roles, and many temp jobs can develop into permanent positions.</p>
                         <p><a href="#" class="green">Workers-Direct</a> has been noted as a highly professional and successful recruiter working with leading clients from across the nation.</p>
                     </div>
 
-                    <div class="margin-bottom-60">
+                    <div class="">
                         <h2>How Temp <span> Recruitment Works</span></h2>
                     </div>
 
-                    <div class="margin-bottom-60">
+                    <div class="">
                         <p>Unlike conventional recruiting which involves long-term contracts, getting things done in the temping sector requires a different approach.</p>
                     </div>
 
-                    <div class="margin-bottom-60">
+                    <div class="">
                         <h2>Quick <span> Action</span></h2>
                     </div>
 
-                    <div class="margin-bottom-60">
+                    <div class="">
                         <p>Unlike long-term jobs which can take a number of months to be filled, temp recruitment often requires a answer within a thing of days. Businesses requiring urgent workers can read temp consultants to locate a speedy solution. Many temp agencies, such as Workers-Direct, pride themselves on their brusque turnaround times.</p>
                     </div>
 
-                    <div class="margin-bottom-60">
+                    <div class="">
                         <h2>Intermediaries <span></span></h2>
                     </div>
 
-                    <div class="margin-bottom-60">
+                    <div class="">
                         <p>Going through all the administrative tasks of recruitment can be difficult for those who aren’t professionals in the industry, becoming an unnecessary burden for a company to carry. <a href="https://temping-agency.com/" class="green">A temp agency</a> provides the vital service of taking care of the entire <a href="https://www.bbc.co.uk/bitesize/guides/z3s9fcw/revision/2" class="green">recruitment process</a> from start to finish, including all the paperwork. This relieves companies from the time-consuming burden of recruitment, and free to tackle their daily objectives. Temp Agencies Near Me.</p>
                     </div>
 
-                    <div class="margin-bottom-60">
+                    <div class="">
                         <h2>Candidate <span>Evaluation</span></h2>
                     </div>
 
-                    <div class="margin-bottom-60">
+                    <div class="">
                         <p>Assessing the tolerability of a candidate requires a trained eye and wealth of experience. A the stage agency will adequately evaluate anything candidates under their consideration. This will entail assessing their qualifications and their character, to ensure and no-one else the best candidates make it through. Additionally, most temp recruiters will maintain a large database of clients which have accumulated higher than the years, so adequate workers can be matched up to jobs on the order of instantly.</p>
                     </div>
 
-                    <div class="margin-bottom-60">
+                    <div class="">
                         <h2>Matchmaking <span></span></h2>
                     </div>
 
-                    <div class="margin-bottom-60">
-                        <p>Typically, a business will approach a temp agency regarding their employment needs.</p>
-                        <p>After informing the agency of their specific requirements, the agency will then search through their list of candidates on file and look for ideal matches. </p>
-                        <p>If there aren’t any suitable matches on file, an agency will utilise their professional networks to search the market for talent.</p>
-                        <p>This can entail everything from using advertising slots, to tracking down ideal individuals through social platforms.</p>
-                        <p>Finding the ideal temporary agency if you are looking for Temp Agencies Near Me.</p>
-                        <p>It’s important to find a <a href="https://temporary-staff.agency/" class="green">top temporary agency</a> when looking for new workers, particularly if you plan on sourcing temp workers frequently over the years.</p>
-                        <p>Most businesses enter into partnerships with a particular agency, as this helps to streamline the process as the professional relationship grows.</p>
-                        <p>With several temp agencies out there, it’s worth looking at your options past settling upon a particular recruiter.</p>
-                        <p>There are several important qualities to see out for in an agency.</p>
+                    <div class="">
+                        <ul style="margin-top: 30px;">
+                            <li><i class="fa fa-caret-right"></i>Typically, a business will approach a temp agency regarding their employment needs.</li>
+                            <li><i class="fa fa-caret-right"></i>After informing the agency of their specific requirements, the agency will then search through their list of candidates on file and look for ideal matches.</li>
+                            <li><i class="fa fa-caret-right"></i>If there aren’t any suitable matches on file, an agency will utilise their professional networks to search the market for talent.</li>
+                            <li><i class="fa fa-caret-right"></i>This can entail everything from using advertising slots, to tracking down ideal individuals through social platforms.</li>
+                            <li><i class="fa fa-caret-right"></i>Finding the ideal temporary agency if you are looking for Temp Agencies Near Me.</li>
+                            <li><i class="fa fa-caret-right"></i>It’s important to find a <a href="https://temporary-staff.agency/" class="green">top temporary agency</a> when looking for new workers, particularly if you plan on sourcing temp workers frequently over the years.</li>
+                            <li><i class="fa fa-caret-right"></i>Most businesses enter into partnerships with a particular agency, as this helps to streamline the process as the professional relationship grows.</li>
+                            <li><i class="fa fa-caret-right"></i>With several temp agencies out there, it’s worth looking at your options past settling upon a particular recruiter.</li>
+                            <li><i class="fa fa-caret-right"></i>There are several important qualities to see out for in an agency.</li>
+                        </ul>
                     </div>
 
-                    <h4 class="margin-bottom-60">Workers-Direct is a top-quality temp agency in the UK for a <span> number of reasons:</span></h4>
+                    <h4 class="margin-bottom-60 margin-top-60">Workers-Direct is a top-quality temp agency in the UK for a <span> number of reasons:</span></h4>
 
                     <div class="margin-bottom-60">
                         <ul>
@@ -434,33 +436,33 @@
                         </ul>
                     </div>
 
-                    <h2 class="margin-bottom-60">Costs<span></span></h2>
+                    <h2 class="">Costs<span></span></h2>
 
                     <p>One of the best parts of working with Workers-Direct is the no upfront costs policy. This means clients won’t need to pay a penny to start off a working relationship.</p>
                     <p>In addition to this, a no placement, no fee policy also ensures you won’t need to pay anything if your employment needs are not properly met.</p>
                     <img src="https://workers-direct.com/wp-content/uploads/2019/10/progressive-travel-recruitment-travel-industry-recruitment-agency-uk-london-manchester-travel-jobs-blog-secrets-of-a-travel-headhunter-300x111.png" width="100%" alt="recruitment">
 
-                    <h2 class="margin-bottom-60 margin-top-60">Response <span>Times</span></h2>
+                    <h2 class=" margin-top-60">Response <span>Times</span></h2>
                     <p>A crucial feel of any stand-in agency is the carrying out to get back to clients rapidly. Many companies have urgent employment requirements that need to be dealt subsequently immediately. At Workers-Direct, we endeavour to get back to enquiries in just minutes, and will be skilful to meet the expense of up employment solutions within a business of days.</p>
 
-                    <h2 class="margin-bottom-60">Expertise <span></span></h2>
+                    <h2 class="">Expertise <span></span></h2>
                     <p> Providing the best recruitment utility involves a high degree of knowledge and specialism in the sector. Our highly-trained and experienced recruitment experts bring decades of experience across a variety of industries to the table. We can help our clients to stay ahead of the competition in the song of our unique insights in recruitment.</p>
 
-                    <h2 class="margin-bottom-60">Personal Touch <span></span></h2>
+                    <h2 class="">Personal Touch <span></span></h2>
                     <p>Every client has unique needs to be met, so it always helps to approach the problem with a personalised touch.</p>
                     <p>We work very closely with all clients to get to the heart of what they really need. There are no generalised approaches here.</p>
                     <p>As we seek to implement tailor-made employment solutions to keep all clients happy.</p>
 
-                    <h2 class="margin-bottom-60">Enquire <span>Today</span></h2>
+                    <h2 class="">Enquire <span>Today</span></h2>
                     <p>At Workers-Direct, we love to hear from new clients. Whether you’re a business looking for fresh employees, or an individual hunting in the job market, our fantastic recruitment service can skyrocket you in a new direction.</p>
 
-                    <h2 class="margin-bottom-60">Quick Response <span>Time</span></h2>
+                    <h2 class="">Quick Response <span>Time</span></h2>
                     <p>All you need to do is contact us and we’ll be happy to hear your enquiry.</p>
                     <p>Workers-Direct is renowned for incredibly quick response times, as we strive to respond to all employment enquiries in just 15 minutes.</p>
 
-                    <p><a href="#" class="green">Employment Agencies Near Me</a></p>
-                    <p><a href="#" class="green">Job Agencies Near Me</a></p>
-                    <p><a href="#" class="green">Work Agencies</a></p>
+                    <a href="#" class="green">Employment Agencies Near Me</a><br><br>
+                    <a href="#" class="green">Job Agencies Near Me</a><br><br>
+                    <a href="#" class="green">Work Agencies</a><br>
                 </div>
             </div>
 
@@ -834,25 +836,11 @@
 
                             <ul>
 
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Audit &amp; Assurance</li>
+                                <li><i class="fa fa-caret-right"></i>&nbsp;&nbsp;Audit &amp; Assurance</li>
 
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Business Services</li>
+                                <li><i class="fa fa-caret-right"></i>&nbsp;&nbsp;Business Services</li>
 
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;IT Control Solutions</li>
-
-                            </ul>
-
-                        </div>
-
-                        <div class="col-md-6">
-
-                            <ul>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Audit &amp; Assurance</li>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Business Services</li>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;IT Control Solutions</li>
+                                <li><i class="fa fa-caret-right"></i>&nbsp;&nbsp;IT Control Solutions</li>
 
                             </ul>
 

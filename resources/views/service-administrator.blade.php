@@ -1,5 +1,5 @@
 @extends('layouts.base')
-@section('title','Temporary Admin Jobs in London | Admin Jobs London | Admin Agency')
+@section('title','Service Administrative')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -73,7 +73,7 @@
 
         <div class="row">
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
                 <div class="about_text_wrapper">
 
@@ -91,13 +91,13 @@
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper">
 
                     <div class="section_heading section_2_heading row">
 
                         <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                             <p>One of our client a well-known international firm looking for an Experienced Service Administrator on temporary to permanent basis for their east London depot.</p>
-                            
+
                         </div>
 
 
@@ -105,9 +105,9 @@
 
 
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="section_heading section_2_heading">
 
-                        <div class="section_heading section_2_heading margin-bottom-60">
+                        <div class="section_heading section_2_heading">
 
                             <h2>General <span> Role</span></h2>
 
@@ -117,81 +117,87 @@
                             <p>To ensure that the day to day administration at the designated Service centre runs efficiently in accordance with Company procedures and policies.</p>
                         </div>
 
-                        <div class="section_heading section_2_heading margin-bottom-60 margin-top-60">
+                        <div class="section_heading section_2_heading">
 
-                            <h2>Relationships and Personal <span> Activities</span></h2>
+                            <h2>Relationships and Personal <span> Activities :</span></h2>
 
                         </div>
 
-                        <div class="section_heading section_2_heading margin-bottom-60 margin-top-60">
+                        <div class="section_heading section_2_heading margin-top-60">
 
-                            <h4>Directly responsible <span> to</span></h4>
+                            <h4>Directly responsible <span> to :</span></h4>
 
                         </div>
                         <p>Service Centre Manager / Regional Manager</p>
 
-                        <div class="section_heading section_2_heading margin-bottom-60 margin-top-60">
+                        <div class="section_heading section_2_heading  margin-top-60">
 
-                            <h4>Responsible <span> for</span></h4>
+                            <h4>Responsible <span> for :</span></h4>
 
                         </div>
                         <p>All administration/organisational duties pertaining to the successful operation of the Service Centre.</p>
 
-                        <div class="section_heading section_2_heading margin-bottom-60 margin-top-60">
+                        <div class="section_heading secti   on_2_heading margin-top-60">
 
-                            <h4>Relationships <span> with</span></h4>
+                            <h4>Relationships <span> with :</span></h4>
 
                         </div>
                         <p>Management, customers, all employees and visitors to site</p>
 
 
-                        <div class="section_heading section_2_heading margin-bottom-60 margin-top-60">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="section_heading section_2_heading margin-bottom-60 margin-top-60">
 
-                            <h4>Objectives and <span> Key Tasks</span></h4>
+                                    <h4>Objectives and <span> Key Tasks</span></h4>
 
-                        </div>
+                                </div>
 
-                        <div>
-                            <ul>
-                                <li><i class="fa fa-caret-right"></i> Fulfil administrative duties within the Service Centre Function</li>
-                                <li><i class="fa fa-caret-right"></i> Processing all non-chargeable jobs</li>
-                                <li><i class="fa fa-caret-right"></i> Assist with processing all chargeable jobs</li>
-                                <li><i class="fa fa-caret-right"></i> Liaise with third party repairers / suppliers</li>
-                                <li><i class="fa fa-caret-right"></i> Supplying / raising order numbers to all suppliers in all locations</li>
-                                <li><i class="fa fa-caret-right"></i> Responding to head office queries quickly & efficiently</li>
-                                <li><i class="fa fa-caret-right"></i> Maintain holiday / sickness planner</li>
-                                <li><i class="fa fa-caret-right"></i> Provision of general typing for service / workshop, and other specified managers</li>
-                                <li><i class="fa fa-caret-right"></i> Good housekeeping of department and general tidiness of department</li>
-                                <li><i class="fa fa-caret-right"></i> To be polite and courteous to all visitors to site at all times</li>
-                                <li><i class="fa fa-caret-right"></i> Efficient telephone manner and sense of urgency when a phone is ringing</li>
-                                <li><i class="fa fa-caret-right"></i> Any other non-defined duties that may be required from time to time</li>
-                            </ul>
-                        </div>
+                                <div>
+                                    <ul>
+                                        <li><i class="fa fa-caret-right"></i> Fulfil administrative duties within the Service Centre Function</li>
+                                        <li><i class="fa fa-caret-right"></i> Processing all non-chargeable jobs</li>
+                                        <li><i class="fa fa-caret-right"></i> Assist with processing all chargeable jobs</li>
+                                        <li><i class="fa fa-caret-right"></i> Liaise with third party repairers / suppliers</li>
+                                        <li><i class="fa fa-caret-right"></i> Supplying / raising order numbers to all suppliers in all locations</li>
+                                        <li><i class="fa fa-caret-right"></i> Responding to head office queries quickly & efficiently</li>
+                                        <li><i class="fa fa-caret-right"></i> Maintain holiday / sickness planner</li>
+                                        <li><i class="fa fa-caret-right"></i> Provision of general typing for service / workshop, and other specified managers</li>
+                                        <li><i class="fa fa-caret-right"></i> Good housekeeping of department and general tidiness of department</li>
+                                        <li><i class="fa fa-caret-right"></i> To be polite and courteous to all visitors to site at all times</li>
+                                        <li><i class="fa fa-caret-right"></i> Efficient telephone manner and sense of urgency when a phone is ringing</li>
+                                        <li><i class="fa fa-caret-right"></i> Any other non-defined duties that may be required from time to time</li>
+                                    </ul>
+                                </div>
 
-                        <div class="section_heading section_2_heading margin-bottom-60 margin-top-60">
+                            </div>
+                            <div class="col-md-6">
+                                <div class="section_heading section_2_heading margin-bottom-60 margin-top-60">
 
-                            <h4>An ideal Candidate Must have <span> Following Skills</span></h4>
+                                    <h4>An ideal Candidate Must have <span> Following Skills</span></h4>
 
-                        </div>
+                                </div>
 
-                        <div>
-                            <ul>
-                                <li><i class="fa fa-caret-right"></i> NVQ Business studies</li>
-                                <li><i class="fa fa-caret-right"></i> Working knowledge of Microsoft applications</li>
-                                <li><i class="fa fa-caret-right"></i> Systematic and organised</li>
-                                <li><i class="fa fa-caret-right"></i> Able to prioritise and work to deadlines</li>
-                                <li><i class="fa fa-caret-right"></i> Ability to produce accurate, well presented documents</li>
-                                <li><i class="fa fa-caret-right"></i> Good communication skills at all levels</li>
-                                <li><i class="fa fa-caret-right"></i> Excellent telephone manner</li>
-                                <li><i class="fa fa-caret-right"></i> Able to work on own initiative and/or part of team</li>
-                                <li><i class="fa fa-caret-right"></i> Willing, helpful ‘can do attitude’</li>
-                                <li><i class="fa fa-caret-right"></i> General administration duties and Word processing</li>
-                                <li><i class="fa fa-caret-right"></i> Invoice management</li>
-                                <li><i class="fa fa-caret-right"></i> Basic accountancy processes</li>
-                                <li><i class="fa fa-caret-right"></i> Professional manner</li>
-                                <li><i class="fa fa-caret-right"></i> Helpful, co-operative attitude</li>
-                                <li><i class="fa fa-caret-right"></i> Eager to learn</li>
-                            </ul>
+                                <div>
+                                    <ul>
+                                        <li><i class="fa fa-caret-right"></i> NVQ Business studies</li>
+                                        <li><i class="fa fa-caret-right"></i> Working knowledge of Microsoft applications</li>
+                                        <li><i class="fa fa-caret-right"></i> Systematic and organised</li>
+                                        <li><i class="fa fa-caret-right"></i> Able to prioritise and work to deadlines</li>
+                                        <li><i class="fa fa-caret-right"></i> Ability to produce accurate, well presented documents</li>
+                                        <li><i class="fa fa-caret-right"></i> Good communication skills at all levels</li>
+                                        <li><i class="fa fa-caret-right"></i> Excellent telephone manner</li>
+                                        <li><i class="fa fa-caret-right"></i> Able to work on own initiative and/or part of team</li>
+                                        <li><i class="fa fa-caret-right"></i> Willing, helpful ‘can do attitude’</li>
+                                        <li><i class="fa fa-caret-right"></i> General administration duties and Word processing</li>
+                                        <li><i class="fa fa-caret-right"></i> Invoice management</li>
+                                        <li><i class="fa fa-caret-right"></i> Basic accountancy processes</li>
+                                        <li><i class="fa fa-caret-right"></i> Professional manner</li>
+                                        <li><i class="fa fa-caret-right"></i> Helpful, co-operative attitude</li>
+                                        <li><i class="fa fa-caret-right"></i> Eager to learn</li>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
 
                         <div class="section_heading section_2_heading margin-bottom-60 margin-top-60">
@@ -211,13 +217,13 @@
                                 <li><i class="fa fa-caret-right"></i> Coaching</li>
                                 <li><i class="fa fa-caret-right"></i> Problem solving attitude</li>
                                 <li><i class="fa fa-caret-right"></i> Continued personal development</li>
-                               
+
                             </ul>
                         </div>
 
                         <div>
-                        
-                            <p>It is a temporary to permanent job opportunity and temp role duration is 3 months initially, if candidate perform well then permanent contract will be offered for £18000 to £20000 per annum.</p>
+                            <br>
+                            <p><strong>It is a temporary to permanent job opportunity and temp role duration is 3 months initially, if candidate perform well then permanent contract will be offered for £18000 to £20000 per annum. </strong></p>
                             <p>As a temp service administrator candidate will get from £8 to £9 per hour. If you are interested send your CV Today for immediate interview and quick placement.</p>
                             <p>Send your CV at,</p>
                             <p><strong>jobs@ Workers-direct.com</strong></p>

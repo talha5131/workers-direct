@@ -170,40 +170,46 @@
                             </ul>
                         </div>
 
-                        <div class="section_heading section_2_heading margin-bottom-60 margin-top-60">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="section_heading section_2_heading margin-bottom-60 margin-top-60">
 
-                            <h2>Qualifications & <span> Experience</span></h2>
+                                    <h2>Qualifications & <span> Experience</span></h2>
 
+                                </div>
+
+                                <div>
+                                    <ul>
+                                        <li><i class="fa fa-caret-right"></i> C&G 2391 or equivalent</li>
+                                        <li><i class="fa fa-caret-right"></i> C&G 2382,C&G 236 parts 1+2 (preferable but not essential)</li>
+                                        <li><i class="fa fa-caret-right"></i> Minimum of 2 years’ experience working as an electrician preferred.</li>
+                                        <li><i class="fa fa-caret-right"></i> 5 GCSE/O Level passes including Maths & English/ or equivalent.</li>
+                                        <li><i class="fa fa-caret-right"></i> Full UK driving licence.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="section_heading section_2_heading margin-bottom-60 margin-top-60">
+
+                                    <h2>Required <span> Skills</span></h2>
+
+                                </div>
+
+                                <div>
+                                    <ul>
+                                        <li><i class="fa fa-caret-right"></i> Knowledge of EAWR and Health and Safety at Work Act.</li>
+                                        <li><i class="fa fa-caret-right"></i> High quality of work and attention to detail.</li>
+                                        <li><i class="fa fa-caret-right"></i> Self-motivator with ability to achieve good productivity levels consistently.</li>
+                                        <li><i class="fa fa-caret-right"></i> Good communication skills</li>
+
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
 
                         <div>
-                            <ul>
-                                <li><i class="fa fa-caret-right"></i> C&G 2391 or equivalent</li>
-                                <li><i class="fa fa-caret-right"></i> C&G 2382,C&G 236 parts 1+2 (preferable but not essential)</li>
-                                <li><i class="fa fa-caret-right"></i> Minimum of 2 years’ experience working as an electrician preferred.</li>
-                                <li><i class="fa fa-caret-right"></i> 5 GCSE/O Level passes including Maths & English/ or equivalent.</li>
-                                <li><i class="fa fa-caret-right"></i> Full UK driving licence.</li>
-                            </ul>
-                        </div>
-
-                        <div class="section_heading section_2_heading margin-bottom-60 margin-top-60">
-
-                            <h2>Required <span> Skills</span></h2>
-
-                        </div>
-
-                        <div>
-                            <ul>
-                                <li><i class="fa fa-caret-right"></i> Knowledge of EAWR and Health and Safety at Work Act.</li>
-                                <li><i class="fa fa-caret-right"></i> High quality of work and attention to detail.</li>
-                                <li><i class="fa fa-caret-right"></i> Self-motivator with ability to achieve good productivity levels consistently.</li>
-                                <li><i class="fa fa-caret-right"></i> Good communication skills</li>
-                                
-                            </ul>
-                        </div>
-
-                        <div>
-                            <p>Send your CV Today for immediate placement.</p>
+                            <br>
+                            <p><strong>Send us your CV Today for immediate placement.</strong></p>
                             <p><strong>jobs@ Workers-direct.com</strong></p>
                             <a href="# " class="green"><strong> OR Apply Online</strong></a>
                         </div>

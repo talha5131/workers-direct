@@ -73,7 +73,7 @@
 
         <div class="row">
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
                 <div class="about_text_wrapper">
 
@@ -90,8 +90,8 @@
 
                 <div class="about_text_wrapper">
 
-                    <p>Due to COVID-19 it is a difficult times right now for all the business activities and especially for trade construction industry. Site labourers and employers should be taking positive steps to ensure they remain attractive in the <a class="green" href="https://labourer.agency/jobs/">construction jobs</a> market. </p>
-                    <p><strong> The role of construction agencies</strong> during the pandemic should, therefore, be to encourage their clients to adapt to the changing landscape of work.</p>
+                    <p style="margin: 0;">Due to COVID-19 it is a difficult times right now for all the business activities and especially for trade construction industry. Site labourers and employers should be taking positive steps to ensure they remain attractive in the <a class="green" href="https://labourer.agency/jobs/">construction jobs</a> market. </p>
+                    <p style="margin: 0;"><strong> The role of construction agencies</strong> during the pandemic should, therefore, be to encourage their clients to adapt to the changing landscape of work.</p>
                 </div>
 
             </div>
@@ -133,47 +133,7 @@
 
                                         </div>
 
-                                        <div class="grid-box-1">
 
-                                            <div class="img-section">
-
-                                                <img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/general-laborer-ojg0hu4wvw8h0frwuqstka8wtb2hxmdjd3lx4un1ea.jpg" alt="Admin">
-
-                                                <div class="middle">
-
-                                                    <i class="green fa fa-plus-circle"></i>
-
-                                                </div>
-
-                                            </div>
-
-                                        </div>
-
-                                        <div class="grid-box-custom">
-
-                                            <div class="heading">
-
-                                                <h2> <a> Experienced & Professionals </a> </h1>
-
-                                            </div>
-
-                                            <div class="content margin-top-10">
-
-                                                <p>At Workers Direct we retain a steady workforce of skilled tradespeople through the residential and commercial construction industries. We specialise in staffing carpenters, concrete professionals and electricians. Our multi-faceted hiring, selection and training process guarantees that no matter the size or length of your project, we are fully able to provide you with the right workers to get your job done, professionally and on time.</p>
-
-                                            </div>
-
-                                            <div style="float: left;" class="margin-top-60">
-                                                <ul>
-                                                    <li><i class="green fa fa-caret-right"></i> Electricians</li>
-                                                    <li><i class="green fa fa-caret-right"></i> Plumbers</li>
-                                                    <li><i class="green fa fa-caret-right"></i> Carpenters</li>
-                                                    <li><i class="green fa fa-caret-right"></i> Painters</li>
-                                                </ul>
-                                            </div>
-
-
-                                        </div>
 
 
 
@@ -240,7 +200,7 @@
 
                                             <div class="content margin-top-10">
 
-                                                <p>As one of the leading Labour Hire & Temping Agency we are the Trade & Construction Industry’s number one primary source for temporary and permanent semi skill Labour supply for Domestic, Interior and Commercial construction projects.  Either you are looking for an Individual or teams of experts; we have the goods to help you with your next development.</p>
+                                                <p>As one of the leading Labour Hire & Temping Agency we are the Trade & Construction Industry’s number one primary source for temporary and permanent semi skill Labour supply for Domestic, Interior and Commercial construction projects. Either you are looking for an Individual or teams of experts; we have the goods to help you with your next development.</p>
 
                                             </div>
 
@@ -346,10 +306,52 @@
                             </div>
                         </div>
                     </div>
+                    <div class="col-md-12">
+                        <div class="grid-box-1">
 
+                            <div class="img-section">
+
+                                <img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/general-laborer-ojg0hu4wvw8h0frwuqstka8wtb2hxmdjd3lx4un1ea.jpg" alt="Admin">
+
+                                <div class="middle">
+
+                                    <i class="green fa fa-plus-circle"></i>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                        <div class="grid-box-custom">
+
+                            <div class="heading">
+
+                                <h2> <a> Experienced & Professionals </a> </h1>
+
+                            </div>
+
+                            <div class="content margin-top-10">
+
+                                <p>At Workers Direct we retain a steady workforce of skilled tradespeople through the residential and commercial construction industries. We specialise in staffing carpenters, concrete professionals and electricians. Our multi-faceted hiring, selection and training process guarantees that no matter the size or length of your project, we are fully able to provide you with the right workers to get your job done, professionally and on time.</p>
+
+                            </div>
+
+                            <div style="float: left;" class="margin-top-60">
+                                <ul>
+                                    <li><i class="green fa fa-caret-right"></i> Electricians</li>
+                                    <li><i class="green fa fa-caret-right"></i> Plumbers</li>
+                                    <li><i class="green fa fa-caret-right"></i> Carpenters</li>
+                                    <li><i class="green fa fa-caret-right"></i> Painters</li>
+                                </ul>
+                            </div>
+
+
+                        </div>
+                    </div>
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 section_heading section_2_heading margin-bottom-20 margin-top-60">
 
-                        <h2>Construction Recruitment Agency - Hire Skilled Labourers  <span> On Short Notice</span></h2>
+                        <h2>Construction Recruitment Agency - Hire Skilled Labourers <span> On Short Notice</span></h2>
 
                     </div>
 
@@ -363,6 +365,8 @@
                     </div>
 
                 </div>
+
+
 
             </div>
 
@@ -587,7 +591,6 @@
                 </div>
 
             </div>
-
         </div>
 
     </div>

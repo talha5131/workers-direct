@@ -147,7 +147,7 @@
 
                         <div class="section_heading section_2_heading margin-bottom-60">
 
-                            <h2>The tasks will include among other <span> things</span></h2>
+                            <h2>The tasks will include among other things :</h2>
 
                         </div>
 
