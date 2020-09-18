@@ -93,84 +93,100 @@
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper">
 
 
-                    <div class="section_heading section_2_heading">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <div class="section_heading section_2_heading">
 
-                        <h4> Kitchen <span> Assistant</span></h4>
+                            <h4> Kitchen <span> Assistant</span></h4>
 
-                    </div>
+                        </div>
 
-                    <p> Working under the supervision of the Chef de Partie, the Kitchen Assistant is responsible for keeping the kitchen clean, organised and operational. In some cases that Kitchen Assistant & kitchen porter will also help with the preparation of food. Another part of his / her duties will be to wash, dry and pack away the utensils used in the preparation of the food. All of this activity (and experience) can be a good stepping stone towards becoming a chef.</p>
-
-                    <div class="section_heading section_2_heading">
-
-                        <h4> Kitchen <span> Helper</span></h4>
+                        <p> Working under the supervision of the Chef de Partie, the Kitchen Assistant is responsible for keeping the kitchen clean, organised and operational. In some cases that Kitchen Assistant & kitchen porter will also help with the preparation of food. Another part of his / her duties will be to wash, dry and pack away the utensils used in the preparation of the food. All of this activity (and experience) can be a good stepping stone towards becoming a chef.</p>
 
                     </div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <div class="section_heading section_2_heading">
 
-                    <p>
+                            <h4> Kitchen <span> Helper</span></h4>
 
-                        As a Kitchen Helper, s/he will be responsible for helping with the preparation of the food, washing the utensils as well as the dishes after every meal, as well as distributing food and snacks to the kitchen staff as directed by the Kitchen Supervisor / Chef de Partie. After every meal s/he is responsible for removing the garbage and cleaning the whole kitchen in preparation for the next meal. There are no special qualifications for this position and it could be a good start on the road to becoming a chef.
+                        </div>
 
-                    </p>
+                        <p>
 
-                    <img src="https://workers-direct.com/wp-content/uploads/2018/06/Catering-staff-agencies-1024x700.jpg" alt="Agency Work" width="100%" height="600px">
+                            As a Kitchen Helper, s/he will be responsible for helping with the preparation of the food, washing the utensils as well as the dishes after every meal, as well as distributing food and snacks to the kitchen staff as directed by the Kitchen Supervisor / Chef de Partie. After every meal s/he is responsible for removing the garbage and cleaning the whole kitchen in preparation for the next meal. There are no special qualifications for this position and it could be a good start on the road to becoming a chef.
 
-                    <div class="section_heading section_2_heading margin-top-60">
-
-                        <h4>Kitchen <span> Porters</span></h4>
-
+                        </p>
                     </div>
 
-                    <p>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <div class="section_heading section_2_heading ">
 
-                        Kitchen Porters work under the supervision of the Sous Chef and then the Head Chef. Their general duties are to make sure that the kitchen is thoroughly cleaned after each meal and that all the work stations comply with the hygiene policies of the restaurant. If there are any maintenance issues, these should be reported to the Sous Chef immediately. In addition to these duties, the Kitchen Porters may also be required to assist in food preparation in busy times.
+                            <h4>Kitchen <span> Porters</span></h4>
 
-                    </p>
+                        </div>
 
-                    <div class="section_heading section_2_heading">
+                        <p>
 
-                        <h4>Dish <span> Washer</span></h4>
+                            Kitchen Porters work under the supervision of the Sous Chef and then the Head Chef. Their general duties are to make sure that the kitchen is thoroughly cleaned after each meal and that all the work stations comply with the hygiene policies of the restaurant. If there are any maintenance issues, these should be reported to the Sous Chef immediately. In addition to these duties, the Kitchen Porters may also be required to assist in food preparation in busy times.
 
+                        </p>
                     </div>
 
-                    <p>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <div class="section_heading section_2_heading">
 
-                        The Dish Washer’s primary responsibility is to make sure that all dishes, utensils, pots, pans and other wares that the chefs used preparing the food is washed, dried and stored in the correct places in the kitchen. Reporting to the Kitchen Supervisor, the Dish Washer should keep him / her apprised of the state of the maintenance of the kitchen, abuse of kitchenware and other areas of concern in the kitchen. No special qualifications are needed for this position.
+                            <h4>Dish <span> Washer</span></h4>
 
-                    </p>
+                        </div>
 
-                    <div class="section_heading section_2_heading">
+                        <p>
 
-                        <h4>Cleaner <span></span></h4>
+                            The Dish Washer’s primary responsibility is to make sure that all dishes, utensils, pots, pans and other wares that the chefs used preparing the food is washed, dried and stored in the correct places in the kitchen. Reporting to the Kitchen Supervisor, the Dish Washer should keep him / her apprised of the state of the maintenance of the kitchen, abuse of kitchenware and other areas of concern in the kitchen. No special qualifications are needed for this position.
 
+                        </p>
                     </div>
 
-                    <p>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <div class="section_heading section_2_heading">
 
-                        The Cleaner’s job complements those of the kitchen porters and the dish washer. Throughout the day, the Cleaner is responsible for cleaning the work stations, emptying and cleaning bins, washing the floor and making sure that all dishes and kitchenware that needs to be washed is delivered to the Dish Washer. The cleaner reports to the Kitchen Supervisor and will need to report any maintenance or other kitchen-related problems. This position doesn’t require any special qualifications.
+                            <h4>Cleaner <span></span></h4>
 
-                    </p>
+                        </div>
 
-                    <div class="section_heading section_2_heading margin-bottom-60">
+                        <p>
 
-                        <h4>Please see below the lattest Kitchen Porter Jobs<span> London :-</span></h4>
+                            The Cleaner’s job complements those of the kitchen porters and the dish washer. Throughout the day, the Cleaner is responsible for cleaning the work stations, emptying and cleaning bins, washing the floor and making sure that all dishes and kitchenware that needs to be washed is delivered to the Dish Washer. The cleaner reports to the Kitchen Supervisor and will need to report any maintenance or other kitchen-related problems. This position doesn’t require any special qualifications.
+
+                        </p>
 
                     </div>
-                    <ul>
-                        <li><i class="fa fa-caret-right"></i><strong>Job Titles:</strong> Kitchen Porters X 2 (Full Time)</li>
-                        <li><i class="fa fa-caret-right"></i><strong>Job Category:</strong> Catering & Hospitality</li>
-                        <li><i class="fa fa-caret-right"></i><strong>Job Location:</strong> Central London</li>
-                        <li><i class="fa fa-caret-right"></i><strong>Job Duration:</strong> 1 year</li>
-                        <li><i class="fa fa-caret-right"></i><strong>Job Timing:</strong> 12pm to 9pm (Mon to Fri)</li>
-                        <li><i class="fa fa-caret-right"></i><strong>Job Started:</strong> As soon as possible</li>
-                        <li><i class="fa fa-caret-right"></i><strong>Salary:</strong> £8 to £9 per hour</li>
-                    </ul>
+                    <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
+                        <div class="section_heading section_2_heading margin-bottom-60">
 
-                    <p>We are looking for a hard working Kitchen Porters to join growing team who are available to work day shifts in Central London.</p>
+                            <h4>Please see below the lattest Kitchen Porter Jobs<span> London :-</span></h4>
 
+                        </div>
+                        <ul>
+                            <li><i class="fa fa-caret-right"></i><strong>Job Titles:</strong> Kitchen Porters X 2 (Full Time)</li>
+                            <li><i class="fa fa-caret-right"></i><strong>Job Category:</strong> Catering & Hospitality</li>
+                            <li><i class="fa fa-caret-right"></i><strong>Job Location:</strong> Central London</li>
+                            <li><i class="fa fa-caret-right"></i><strong>Job Duration:</strong> 1 year</li>
+                            <li><i class="fa fa-caret-right"></i><strong>Job Timing:</strong> 12pm to 9pm (Mon to Fri)</li>
+                            <li><i class="fa fa-caret-right"></i><strong>Job Started:</strong> As soon as possible</li>
+                            <li><i class="fa fa-caret-right"></i><strong>Salary:</strong> £8 to £9 per hour</li>
+                        </ul>
+
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 margin-top-60">
+                        <img style="border: 4px solid #7CC24D; border-radius:5px;" src="https://workers-direct.com/wp-content/uploads/2018/06/Catering-staff-agencies-1024x700.jpg" alt="Agency Work" width="100%" height="auto">
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <p>We are looking for a hard working Kitchen Porters to join growing team who are available to work day shifts in Central London.</p>
+
+                    </div>
                 </div>
 
             </div>
@@ -388,9 +404,6 @@
                         </div>
 
 
-
-
-
                     </div>
 
                 </div>
@@ -444,7 +457,7 @@
 
                     </p>
 
-                    <p>Jobs@ Workers-Direct.com OR Contact <a href="#">catering staff agency</a> for more informations.</p>
+                    <p><strong> Jobs@ Workers-Direct.com </strong><br> OR <br> Contact<a href="#" class="green"> catering staff agency</a> for more informations.</p>
                 </div>
             </div>
 

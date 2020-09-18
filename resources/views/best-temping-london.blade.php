@@ -274,8 +274,7 @@
     <div class="container">
 
         <div class="row">
-
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20">
+            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
                 <div class="about_text_wrapper">
 
@@ -290,19 +289,11 @@
                     <p>Many job seekers sign up with agencies that offer them work on a short term even as they hunt for permanent or long term appointment. This to some extent gives them the opportunity to make choices whenever they are available to take on work and for how long.</p>
                     <p>Individuals who consistently turn down offers are removed from the agencies data base. Temps who display high reputation and are both willing and reliable will likely be offered more work opportunities.</p>
 
-                    <img src="https://workers-direct.com/wp-content/uploads/2018/12/Agency-Work.jpg" alt="Agency Work" width="100%" height="600px">
-                </div>
-
-            </div>
+                    <img style="border: 4px solid #7CC24D; border-radius:5px;" src="https://workers-direct.com/wp-content/uploads/2018/12/Agency-Work.jpg" alt="Agency Work"  width="100%" height="300px">
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
-
-                <div class="about_text_wrapper abt_2_para">
-
-
-                    <div class="section_heading section_2_heading">
+                    <div class="section_heading section_2_heading margin-top-60">
 
                         <h4> Advantages Using <span> Workers Direct</span></h4>
 
@@ -357,7 +348,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 ">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -724,13 +715,13 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h1> <a> Flexible & Reliable Staffing </a> </h1>
 
                             </div>
 
                             <div class="content margin-top-10">
 
-                                <p>All our temps are fully able to start on short noitce whenever require.</p>
+                                <p>As one of the leading staffing agency in UK, All our temps are fully able to start on short notice whenever require.</p>
 
                             </div>
 

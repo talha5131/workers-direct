@@ -93,72 +93,150 @@
 
                 <div class="about_text_wrapper abt_2_para">
 
-                    <div class="section_heading section_2_heading">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <div class="section_heading section_2_heading">
 
-                        <h2>Staffing Agency - Hire Logistics & Warehouse Staff On<span> Short Notice</span></h2>
+                            <h2>Staffing Agency - Hire Logistics & Warehouse Staff On<span> Short Notice</span></h2>
+
+                        </div>
+
+                        <p class="margin-bottom-20">Stock management is a key part of any business. Does your warehouse need more staff to meet a seasonal demand? Is a member of your warehouse team on leave? Call Workers Direct today to be sure you have the manpower to cover the demands of your stock movement; we have general and skilled staff that can temporarily join your team and ease the pressure.</p>
+
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <div class="section_heading section_2_heading margin-top-20">
+
+                            <h4> Temp Agency – Skilled & Semi <span> Skilled Workers</span></h4>
+
+                        </div>
+
+                        <p class="margin-bottom-20"> Workers direct have access to numerous skilled & semi-skilled workers for any industry or sector. It’s of the utmost importance that your business has the correctly trained and experience staff on site when you need them, when you need them, and we know that. Our recruitment specialists are ready to help right now – and passionate about supplying only the best workers for your business.</p>
+
+
+
+                        <table class="table table-bordered ">
+
+                            <tbody>
+                                <tr>
+                                    <td><i class="green fa fa-caret-right"></i> Picking & Packing</td>
+                                    <td><i class="green fa fa-caret-right"></i> Supervisors & Managers</td>
+                                    <td><i class="green fa fa-caret-right"></i> Sorting & Repacking</td>
+                                </tr>
+                                <tr>
+                                    <td><i class="green fa fa-caret-right"></i> Inventory Control</td>
+                                    <td><i class="green fa fa-caret-right"></i> Forklift Operators</td>
+                                    <td><i class="green fa fa-caret-right"></i> Driver/Driver Helper</td>
+                                </tr>
+                                <tr>
+                                    <td><i class="green fa fa-caret-right"></i> General Labourers</td>
+                                    <td><i class="green fa fa-caret-right"></i> Inventory Clerks</td>
+                                    <td><i class="green fa fa-caret-right"></i> Machine Operator</td>
+                                </tr>
+
+                            </tbody>
+                        </table>
 
                     </div>
 
-                    <p class="margin-bottom-20">Stock management is a key part of any business. Does your warehouse need more staff to meet a seasonal demand? Is a member of your warehouse team on leave? Call Workers Direct today to be sure you have the manpower to cover the demands of your stock movement; we have general and skilled staff that can temporarily join your team and ease the pressure.</p>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <div class="section_heading section_2_heading">
 
+                            <h4> Factory Workers <span> Staffing Agency</span></h4>
 
-                    <img class="img-responsive" src="https://workers-direct.com/wp-content/uploads/2014/02/Warehouse-Staffing-1024x683.jpg" alt="#">
+                        </div>
 
+                        <p class="margin-bottom-20">
 
-                    <div class="section_heading section_2_heading margin-top-20">
+                            Workers Direct have Skilled, Semi-skilled and Non-skilled workers available to fill the vacancy in your factory or manufacturing plant. We know how crucial it is to ensure that your business has enough staff to fulfil your orders, and can provide flexible staff that are ready to work, to help you to stay on top of demand.
 
-                        <h4> Temp Agency – Skilled & Semi <span> Skilled Workers</span></h4>
-
-                    </div>
-
-                    <p class="margin-bottom-20"> Workers direct have access to numerous skilled & semi-skilled workers for any industry or sector. It’s of the utmost importance that your business has the correctly trained and experience staff on site when you need them, when you need them, and we know that. Our recruitment specialists are ready to help right now – and passionate about supplying only the best workers for your business.</p>
-
-                    <table class="table table-bordered ">
-
-                        <tbody>
-                            <tr>
-                                <td><i class="green fa fa-caret-right"></i> Picking & Packing</td>
-                                <td><i class="green fa fa-caret-right"></i> Supervisors & Managers</td>
-                                <td><i class="green fa fa-caret-right"></i> Sorting & Repacking</td>
-                            </tr>
-                            <tr>
-                                <td><i class="green fa fa-caret-right"></i> Inventory Control</td>
-                                <td><i class="green fa fa-caret-right"></i> Forklift Operators</td>
-                                <td><i class="green fa fa-caret-right"></i> Driver/Driver Helper</td>
-                            </tr>
-                            <tr>
-                                <td><i class="green fa fa-caret-right"></i> General Labourers</td>
-                                <td><i class="green fa fa-caret-right"></i> Inventory Clerks</td>
-                                <td><i class="green fa fa-caret-right"></i> Machine Operator</td>
-                            </tr>
-
-                        </tbody>
-                    </table>
-
-
-                    <div class="section_heading section_2_heading">
-
-                        <h4> Factory Workers <span> Staffing Agency</span></h4>
+                        </p>
 
                     </div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <div class="section_heading section_2_heading">
 
-                    <p class="margin-bottom-20">
+                            <h4>Picker / Packer <span> Warehouse Jobs</span></h4>
 
-                        Workers Direct have Skilled, Semi-skilled and Non-skilled workers available to fill the vacancy in your factory or manufacturing plant. We know how crucial it is to ensure that your business has enough staff to fulfil your orders, and can provide flexible staff that are ready to work, to help you to stay on top of demand.
+                        </div>
 
-                    </p>
+                        <p class="margin-bottom-20">
 
-                    <div class="section_heading section_2_heading">
+                            Are you experiencing a boom in orders? Workers Direct have experienced Pickers and Packers ready to begin work. Growing orders are useless without staff numbers that also meet your customer’s needs – contact with our <a href="#">temp agency</a> allows you access to a candidate that can help you. We match the right person to you and organise their time, so that you don’t have to waste yours advertising and interviewing.
 
-                        <h4>Picker / Packer <span> Warehouse Jobs</span></h4>
-
+                        </p>
                     </div>
 
-                    <p class="margin-bottom-20">
+                    <div class="row">
 
-                        Are you experiencing a boom in orders? Workers Direct have experienced Pickers and Packers ready to begin work. Growing orders are useless without staff numbers that also meet your customer’s needs – contact with our <a href="#">temp agency</a> allows you access to a candidate that can help you. We match the right person to you and organise their time, so that you don’t have to waste yours advertising and interviewing.
+                        <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 ">
+                            <img style="border: 4px solid #7CC24D; border-radius:5px; " class="img-responsive " src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Factory-Workers-ojg1gvkbry2vy3tryz7nap0u3fv16b7bz1a5ooeohw.jpg" width="100%" alt="#">
 
-                    </p>
+                        </div>
+                        <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
+
+                            <div class="section_heading section_2_heading">
+
+                                <h2> <a> Right temp on right time </a> </h2>
+
+                            </div>
+
+                            <div class="content margin-top-10">
+
+                                <p>We all know the year is becoming roughest each month since it flinched. Saying that; would you be not sending-off that anxiety our way instead of for yourself? Why having HR to pay for sitting doing nothing throughout the year when we can do all the same in much better price and time composed? Your necessity is what we accomplish so after all we objectively being here for yourself.</p>
+
+                            </div>
+
+
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
+
+                            <div class="section_heading section_2_heading">
+
+                                <h2> <a> Operatives we have available </a> </h2>
+
+                            </div>
+
+                            <div class="content margin-top-10">
+
+                                <p>Workers Direct have Skilled, Semi-skilled and Non-skilled workers available to fill the vacancy in your factory or manufacturing plant. We know how crucial it is to ensure that your business has enough staff to fulfill your orders, and can provide flexible staff that are ready to work, to help you to stay on top of demand.</p>
+
+                            </div>
+
+
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
+                            <img style="border: 4px solid #7CC24D; border-radius:5px;" class="img-responsive " src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Temp-Agency-ojg0et3mv437lo6ajfo3j1rfwlzx4qcoa3xlgr4pg2.png" width="100%" alt="#">
+
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 ">
+                            <img style="border: 4px solid #7CC24D; border-radius:5px; height:200px;" class="img-responsive " src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Picker-and-Packer-agency-ojfzxkq4prcswdwdoe3zgemdch21psvjcng7mx9gxa.jpg" width="100%" alt="#">
+
+                        </div>
+                        <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
+
+                            <div class="section_heading section_2_heading">
+
+                                <h2> <a> Experienced & Professionals </a> </h2>
+
+                            </div>
+
+                            <div class="content margin-top-10">
+
+                                <p>Are you experiencing a boom in orders? Workers Direct have experienced Pickers and Packers ready to begin work. Growing orders are useless without staff numbers that also meet your customer’s needs – contact with our <a href="#">staffing agency</a> allows you access to a candidate that can help you. We match the right person to you and organise their time, so that you don’t have to waste yours advertising and interviewing.</p>
+
+                            </div>
+
+
+                        </div>
+                    </div>
+
+
+
 
 
                 </div>
@@ -452,8 +530,6 @@
 
                                 <div class="img-section">
 
-                                    <img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Temp-Agency-ojg0et3mv437lo6ajfo3j1rfwlzx4qcoa3xlgr4pg2.png" alt="Admin">
-
                                     <div class="middle">
 
                                         <i class="green fa fa-plus-circle"></i>
@@ -464,22 +540,7 @@
 
                             </div>
 
-                            <div class="grid-box">
 
-                                <div class="heading">
-
-                                    <h1> <a> Right temp on right time </a> </h1>
-
-                                </div>
-
-                                <div class="content margin-top-10">
-
-                                    <p>We all know the year is becoming roughest each month since it flinched. Saying that; would you be not sending-off that anxiety our way instead of for yourself? Why having HR to pay for sitting doing nothing throughout the year when we can do all the same in much better price and time composed? Your necessity is what we accomplish so after all we objectively being here for yourself.</p>
-
-                                </div>
-
-
-                            </div>
 
 
 
@@ -523,8 +584,6 @@
 
                                 <div class="img-section">
 
-                                    <img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Picker-and-Packer-agency-ojfzxkq4prcswdwdoe3zgemdch21psvjcng7mx9gxa.jpg" alt="Admin">
-
                                     <div class="middle">
 
                                         <i class="fa fa-plus-circle"></i>
@@ -535,22 +594,7 @@
 
                             </div>
 
-                            <div class="grid-box">
 
-                                <div class="heading">
-
-                                    <h1> <a> Operatives we have available </a> </h1>
-
-                                </div>
-
-                                <div class="content margin-top-10">
-
-                                    <p>Workers Direct have Skilled, Semi-skilled and Non-skilled workers available to fill the vacancy in your factory or manufacturing plant. We know how crucial it is to ensure that your business has enough staff to fulfill your orders, and can provide flexible staff that are ready to work, to help you to stay on top of demand.</p>
-
-                                </div>
-
-
-                            </div>
 
 
 
@@ -595,8 +639,6 @@
 
                                 <div class="img-section">
 
-                                    <img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Factory-Workers-ojg1gvkbry2vy3tryz7nap0u3fv16b7bz1a5ooeohw.jpg" alt="Admin">
-
                                     <div class="middle">
 
                                         <i class="fa fa-plus-circle"></i>
@@ -607,22 +649,7 @@
 
                             </div>
 
-                            <div class="grid-box">
 
-                                <div class="heading">
-
-                                    <h1> <a> Experienced & Professionals </a> </h1>
-
-                                </div>
-
-                                <div class="content margin-top-10">
-
-                                    <p>Are you experiencing a boom in orders? Workers Direct have experienced Pickers and Packers ready to begin work. Growing orders are useless without staff numbers that also meet your customer’s needs – contact with our <a href="#">staffing agency</a> allows you access to a candidate that can help you. We match the right person to you and organise their time, so that you don’t have to waste yours advertising and interviewing.</p>
-
-                                </div>
-
-
-                            </div>
 
 
 
@@ -643,6 +670,12 @@
     </div>
 
 </div>
+<div class="col-lg-3 col-md-3 col-xs-12 col-sm-12 "></div>
+<div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 ">
+    <img style="border: 4px solid #7CC24D; border-radius:5px; height:300px;" class="img-responsive " src="https://workers-direct.com/wp-content/uploads/2014/02/Warehouse-Staffing-1024x683.jpg" width="100%" alt="#">
+
+</div>
+<div class="col-lg-3 col-md-3 col-xs-12 col-sm-12 "></div>
 
 <div class="jp_best_deal_main_wrapper">
 
@@ -742,13 +775,13 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h1> <a> Flexible & Reliable Staffing </a> </h1>
 
                             </div>
 
                             <div class="content margin-top-10">
 
-                                <p>All our temps are fully able to start on short noitce whenever require.</p>
+                                <p>As one of the leading staffing agency in UK, All our temps are fully able to start on short notice whenever require.</p>
 
                             </div>
 

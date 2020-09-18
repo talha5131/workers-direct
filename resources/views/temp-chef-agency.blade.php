@@ -97,7 +97,7 @@
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper ">
 
                     <div class="section_heading section_2_heading">
 
@@ -123,8 +123,6 @@
 
                     </p>
 
-                    <img src="https://workers-direct.com/wp-content/uploads/2018/04/Agency-Cook.jpg" alt="Agency Work" width="100%" height="600px">
-
                     <div class="section_heading section_2_heading margin-top-60">
 
                         <h4>Are your kitchen need an urgent chef or<span> kitchen assistant?</span></h4>
@@ -139,7 +137,7 @@
 
                     <div class="section_heading section_2_heading margin-bottom-60">
 
-                        <h4>Call us to hire following catering <span> staff:</span></h4>
+                        <h4>Call us to hire following catering <span> staff</span></h4>
 
                     </div>
                     <ul>
@@ -378,30 +376,33 @@
 
             </div>
 
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <div class="about_text_wrapper abt_2_para text-center">
-                    
-                    <img src="https://workers-direct.com/wp-content/uploads/2019/01/Chef-Agency-London.jpg" alt="#">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-60">
 
-                    <p>Jobs@ Workers-Direct.com OR Contact <a href="#">catering staff agency</a> for more informations.</p>
-                </div>
+                <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="https://workers-direct.com/wp-content/uploads/2018/04/Agency-Cook.jpg" alt="Agency Work" width="100%" height="300px">
             </div>
-
-
-
-
-
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
-
-
-
-            <!-- </div> -->
-
-
-
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-60">
+                <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="https://workers-direct.com/wp-content/uploads/2019/01/Chef-Agency-London.jpg" alt="#" width="100%" height="300px">
+            </div>
+            <div class="about_text_wrapper abt_2_para text-center">
+                <p><strong> Jobs@ Workers-Direct.com</strong><br> OR <br> Contact <a href="#" class="green">catering staff agency</a> for more informations.</p>
+            </div>
         </div>
 
+
+
+
+
+        <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
+
+
+
+        <!-- </div> -->
+
+
+
     </div>
+
+</div>
 
 </div>
 
