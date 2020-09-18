@@ -72,7 +72,7 @@
 
         <div class="row">
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20 ">
 
                 <div class="about_text_wrapper">
 
@@ -106,7 +106,7 @@
 
                                     </div>
 
-                                    <div class="heading">
+                                    <div class="heading ">
 
                                         <h1> <a> Chefs All Levels </a> </h1>
 
@@ -118,11 +118,7 @@
 
                                     </div>
 
-                                    <!-- <ul class=" margin-top-10">
-
-                                <li><i class="green fa fa-plus-circle"></i> <a class="green">&nbsp; READ MORE</a></li>
-
-                            </ul> -->
+                                
 
 
 
@@ -479,13 +475,13 @@
                             </div>
 
                             <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
-                                <div class="section_heading section_2_heading about_text_wrapper">
+                                <div class="section_heading section_2_heading about_text_wrapper ">
 
                                     <h2> Hospitality & Catering temps we have available </h2>
 
                                 </div>
 
-                                <div class="content margin-top-60">
+                                <div class="content margin-top-60 ">
 
                                     <p>If you are looking for a chef, we will have the candidate for you. Our recruitment specialists will make sure that we get the right person for your kitchen, whether that is for a short term, contract or permanent position. Call the Workers Direct team and we will strive to match you with the right candidate. If you need a tandoori chef, a sushi master or a carvery king, tell us exactly what you are looking for and we will do the work of finding the best fit.</p>
 
@@ -809,8 +805,6 @@
                     <p>First and foremost in the mind of all staff at Workers Direct is our guarantee: to find and match the very best candidate to the right job, at a competitive cost, and as efficiently as possible, even on short notice. With over a decade of experience we are Catering Staff Agency, and consider ourselves partners to our clients. Workers Direct is not just another agency, but a team player that you can rely upon.</p>
 
                     </div>
-
-
 
                 </div>
 

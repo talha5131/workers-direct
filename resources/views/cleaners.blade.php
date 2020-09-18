@@ -82,21 +82,15 @@
 
                     </div>
 
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-
-
-
-
-
                 </div>
 
             </div>
 
-            
 
-            <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12 text-center margin-top-60">
+
+            <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12  margin-top-60">
                 <div class="row">
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
                         <a href="#">
                             <div class="box">
                                 <div class="grid-box">
@@ -118,12 +112,6 @@
                                         <p>We have experienced office cleaners for day to day cleaning.</p>
 
                                     </div>
-
-                                    <!-- <ul class=" margin-top-10">
-
-                                <li><i class="green fa fa-plus-circle"></i> <a class="green">&nbsp; READ MORE</a></li>
-
-                            </ul> -->
 
 
 
@@ -152,7 +140,7 @@
                         </a>
                     </div>
 
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
                         <a href="#">
 
@@ -214,7 +202,7 @@
 
                     </div>
 
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
                         <a href="#">
 
@@ -275,9 +263,9 @@
                         </a>
 
                     </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+
+
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
                         <a href="#">
 
@@ -338,7 +326,7 @@
                         </a>
                     </div>
 
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
                         <a href="#">
 
@@ -399,7 +387,7 @@
                         </a>
                     </div>
 
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
                         <a href="#">
 
@@ -462,135 +450,97 @@
                 </div>
 
                 <div class="row margin-top-60">
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+                    <div class="box">
 
+                        <div class="grid-box">
+                            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+                                <div class="section_heading section_2_heading about_text_wrapper">
 
-
-                        <div class="box">
-
-
-
-                            <div class="grid-box">
-
-                                <div class="iconn green">
-
-                                    <a href="#"><img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Cleaning-Jobs-London-ojg0fn6gxt8dx6ylnso5qu66wxvnz1o328t4tlw3wy.png" alt="Cleaning Job London" width="100%" height="100%"></a>
-
+                                    <h2> Right temp on right time </h2>
 
                                 </div>
 
-                                <div class="heading">
-
-                                    <h1> <a> Right temp on right time </a> </h1>
-
-                                </div>
-
-                                <div class="content margin-top-10">
+                                <div class="content margin-top-60">
 
                                     <p>We all know the year is becoming roughest each month since it flinched. Saying that; would you be not sending-off that anxiety our way instead of for yourself? Why having HR to pay for sitting doing nothing throughout the year when we can do all the same in much better price and time composed? Your necessity is what we accomplish so after all we objectively being here for yourself.</p>
 
                                 </div>
+                            </div>
+
+                            <div class="iconn green col-lg-4 col-md-4 col-sm-12 col-xs-12">
+
+                                <a href="#"><img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Cleaning-Jobs-London-ojg0fn6gxt8dx6ylnso5qu66wxvnz1o328t4tlw3wy.png" alt="Cleaning Job London" width="100%" height="100%"></a>
+
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="box">
 
 
 
+                        <div class="grid-box">
+
+                            <div class="iconn green col-lg-4 col-md-4 col-sm-12 col-xs-12">
+
+                                <a href="#"><img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Hosekeeping-agencies-ojg0f69co3g29kc4wzyj4yr1q6bftsqmfr5h3f64fi.png" alt="housekeeping agency" width="100%" height="100%"></a>
 
 
                             </div>
 
+                            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+                                <div class="section_heading section_2_heading about_text_wrapper">
 
-
-
-
-                        </div>
-
-
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
-
-
-
-                        <div class="box">
-
-
-
-                            <div class="grid-box">
-
-                                <div class="iconn green">
-
-                                    <a href="#"><img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Hosekeeping-agencies-ojg0f69co3g29kc4wzyj4yr1q6bftsqmfr5h3f64fi.png" alt="housekeeping agency" width="100%" height="100%"></a>
-
+                                    <h2> Cleaners we have available </h2>
 
                                 </div>
 
-                                <div class="heading">
-
-                                    <h1> <a> Cleaners we have available </a> </h1>
-
-                                </div>
-
-                                <div class="content margin-top-10">
+                                <div class="content margin-top-60">
 
                                     <p>We have all sorts of cleaning staff always available for еvеnіng оr оn thе wееkеnds, dереndіng оn whаt suіts уоur sсhеdulе bеst. On the flip side, if you endeavor to wash the warehouse on your own, you're going to be taking time from your work or professional schedule to complete the task. Even if you pay your staff for cleaning, you cannot be sure they have the abilities or experience required to do the work properly.</p>
 
                                 </div>
-
-
-
-
-
                             </div>
-
-
-
-
-
                         </div>
 
-
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
 
+                    <div class="box">
 
+                        <div class="grid-box">
 
-                        <div class="box">
+                            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+                                <div class="section_heading section_2_heading about_text_wrapper">
 
-
-
-                            <div class="grid-box">
-
-                                <div class="iconn green">
-
-                                    <a href="#"><img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Housekeeping-staff-ojg08hmp1lbfp0av5shvjw988en1ouzn7c8pua7ybo.jpg" alt="maid making bed on hotel room" width="100%" height="100%"></a>
-
+                                    <h2> Experienced & Professionals </h2>
 
                                 </div>
 
-                                <div class="heading">
-
-                                    <h1> <a> Experienced & Professionals </a> </h1>
-
-                                </div>
-
-                                <div class="content margin-top-10">
+                                <div class="content margin-top-60">
 
                                     <p>Fetching aptitude in all sorts of jobs is rigid, specifically when market is being so vulnerable plus exclusively when time is bounded. Hence, we provide you access to more information about candidates you’re trying to reach as soon as you confirm with us about any job role. Initially with CV we commence leading on your declaration, interview and/or trial to carve your trademark.</p>
 
                                 </div>
+                            </div>
 
+                            <div class="iconn green col-lg-4 col-md-4 col-sm-12 col-xs-12">
 
-
+                                <a href="#"><img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Housekeeping-staff-ojg08hmp1lbfp0av5shvjw988en1ouzn7c8pua7ybo.jpg" alt="maid making bed on hotel room" width="100%" height="100%"></a>
 
 
                             </div>
 
-
-
-
-
                         </div>
 
 
+
+
+
                     </div>
+
+
+
                 </div>
             </div>
 
@@ -820,45 +770,6 @@
 
             <!-- <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20 margin-top-100"> -->
 
-                <div class="about_text_wrapper">
-
-                    <div class="section_heading section_2_heading margin-bottom-20">
-
-                        <h1>Hire Reliable & Flexible Hospitality,
-                            <span>Catering Agency Temps</span>
-                        </h1>
-
-                    </div>
-                    <!-- ----------- -->
-                    <h3 class="green margin-top-60">
-                        KiChefs & Cooks
-                    </h3>
-
-                    <p>We regularly provide the professionals chefs & cooks for restaurants, schools, canteens and pubs. Staff shortage in the kitchen can not only affect your revenue but your existing staff, adding pressure to them. Don’t get caught short – call Workers Direct and we can provide cooks on permanent, contract or short term agreements. Our experienced candidates are ready to cover your staff maternity leave, sick leave or holiday absence.</p>
-                    <!-- ----------- -->
-                    <h3 class="green margin-top-60">
-                        Kitchen Porters
-                    </h3>
-
-                    <p>Do you need an extra pair of hands? Kitchen support staff such as porters are a vital component in ensuring that you have a smoothly running kitchen. Our catering recruitment specialists will make sure that your kitchen is never shorthanded. If someone is away on holiday or perhaps ill, a temporary Kitchen assistant could be the perfect solution to fill the gap. Let us take away the stress of unexpected or ill-timed absence by providing you with that extra bit of help.</p>
-                    <!-- ----------- -->
-                    <h3 class="green margin-top-60">
-                        Catering Assistants
-                    </h3>
-
-                    <p>Any large-scale kitchen will rely upon catering assistants to keep things ticking over efficiently and seamlessly, so a vacant Assistant role can mean catering chaos! If you have staff holidays or absence coming up, or have been left unexpectedly short-handed, call us. We can arrange temporary cover with experienced Catering Assistants, even for immediate starts.</p>
-                    <!-- ----------- -->
-                    <h3 class="green margin-top-60">
-                        Our Guarantee
-                    </h3>
-
-                    <p>First and foremost in the mind of all staff at Workers Direct is our guarantee: to find and match the very best candidate to the right job, at a competitive cost, and as efficiently as possible, even on short notice. With over a decade of experience we are Catering Staff Agency, and consider ourselves partners to our clients. Workers Direct is not just another agency, but a team player that you can rely upon.</p>
-
-
-
-
-
-                </div>
 
             <!-- </div> -->
 
@@ -1227,44 +1138,16 @@
 
                     <p>We are recruiting <strong> temporary part time cleaners </strong> from (9am to 2pm) on temporary basis in central London, Old street area.</p>
                     <p><strong> Main Purpose: </strong> You will be responsible to ensure and provide a very high standard of cleaning.</p>
-                    <p><strong> Key Responsibilities: </strong> </p>
-
-                    <ul>
-                        <li>To carry out the daily planned and adhoc cleaning duties</li>
-                        <li>Cleaning</li>
-                        <li>Vacuuming</li>
-                        <li>Wiping down</li>
-                        <li>Mopping</li>
-                        <li>Litter picking</li>
-
-                    </ul>
-                    
-                    <p><strong> Experience/Knowledge:</strong> </p>
-
-                    <ul>
-                        <li>Experience as a professional cleaner</li>
-                        <li>Ability to perform well within a pressurised environment</li>
-
-                    </ul>
-
-                    <p><strong> Personal skills & Essential Requirements:</strong> </p>
-
-                    <ul>
-                        <li>Must be self-motivated and have a ‘can do’ attitude</li>
-                        <li>Flexibility</li>
-                        <li>Must be able to provide TWO employment references</li>
 
 
-                    </ul>
 
                     <p><strong> Hours of Work:</strong>Mon To Fri – 09.00 – 14.00 </p>
                     <p><strong> Pay Rate:</strong>Competitive</p>
                     <p>Please contact Bill for more details on <strong>+44203089080</strong></p>
                     <p>To apply forward your CV to arrange an immediate interview.</p>
                     <p><strong>jobs@ Workers-direct.com</strong></p>
-
-
-
+                    <br>
+                    <a href="#" class="green"><strong> OR Apply Online </strong></a>
                 </div>
 
             </div>
@@ -1285,7 +1168,7 @@
 
                                     <a class="collapsed" data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftone" aria-expanded="true">
 
-                                        Our Visions and Missions
+                                        Experience/Knowledge
 
                                     </a>
 
@@ -1297,7 +1180,11 @@
 
                                 <div class="panel-body">
 
-                                    Praesent in nisl egestas mauris aliquam luctus. Ut auctor faucibus orci, nec semper purus ultrices idorbi nec lorem risus orbi vitae felis gravida Pellentesque id eros quis massa convallis feugiat eu quis urna.
+                                    <ul>
+                                        <li><i class="fa fa-caret-right green"></i> Experience as a professional cleaner</li>
+                                        <li><i class="fa fa-caret-right green"></i> Ability to perform well within a pressurised environment</li>
+
+                                    </ul>
 
                                 </div>
 
@@ -1315,7 +1202,7 @@
 
                                     <a data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftTwo" aria-expanded="false">
 
-                                        Our Corporate Responsibility
+                                        Key Responsibilities
 
                                     </a>
 
@@ -1327,7 +1214,15 @@
 
                                 <div class="panel-body">
 
-                                    Praesent in nisl egestas mauris aliquam luctus. Ut auctor faucibus orci, nec semper purus ultrices idorbi nec lorem risus orbi vitae felis gravida Pellentesque id eros quis massa convallis feugiat eu quis urna.
+                                    <ul>
+                                        <li><i class="fa fa-caret-right green"></i> To carry out the daily planned and adhoc cleaning duties</li>
+                                        <li><i class="fa fa-caret-right green"></i> Cleaning</li>
+                                        <li><i class="fa fa-caret-right green"></i> Vacuuming</li>
+                                        <li><i class="fa fa-caret-right green"></i> Wiping down</li>
+                                        <li><i class="fa fa-caret-right green"></i> Mopping</li>
+                                        <li><i class="fa fa-caret-right green"></i> Litter picking</li>
+
+                                    </ul>
 
                                 </div>
 
@@ -1345,7 +1240,7 @@
 
                                     <a class="collapsed" data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftThree" aria-expanded="false">
 
-                                        Visual Page Builder
+                                        Personal skills & Essential Requirements
 
                                     </a>
 
@@ -1357,7 +1252,11 @@
 
                                 <div class="panel-body">
 
-                                    Praesent in nisl egestas mauris aliquam luctus. Ut auctor faucibus orci, nec semper purus ultrices idorbi nec lorem risus orbi vitae felis gravida Pellentesque id eros quis massa convallis feugiat eu quis urna.
+                                    <ul>
+                                        <li><i class="fa fa-caret-right green"></i> Must be self-motivated and have a ‘can do’ attitude</li>
+                                        <li><i class="fa fa-caret-right green"></i> Flexibility</li>
+                                        <li><i class="fa fa-caret-right green"></i> Must be able to provide TWO employment references</li>
+                                    </ul>
 
                                 </div>
 
