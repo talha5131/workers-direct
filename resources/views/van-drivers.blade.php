@@ -133,16 +133,16 @@
 
                         <div class="section_heading section_2_heading">
 
-                            <h2>Job <span> Summary</span></h2>
+                            <h2>Job <spanSummary</span></h2>
 
                         </div>
 
-                        <p>We are recruiting two temporary Van Drivers for one our client based in East London area.</p>
-                        <p>The main duties will be to drive a 3.5t luton van around London area dropping off and collecting boxes. Additionally, general warehouse duties if and when required. Light to medium lifting will be involved.</p>
-                        <p>Ideal candidates must hold clean full B1 driving license, with at least three years experience of driving a 3.5t vehicle, preferably luton van. Good command of spoken and written English is a must. Reach truck/ Forklift driving experience will be an advantage.</p>
-                        <p>Working days are <strong> Monday- Friday</strong> (may require overtime on busy days).</p>
+                        <p style="margin: 0;">We are recruiting two temporary Van Drivers for one our client based in East London area.</p>
+                        <p style="margin: 0;">The main duties will be to drive a 3.5t luton van around London area dropping off and collecting boxes. Additionally, general warehouse duties if and when required. Light to medium lifting will be involved.</p>
+                        <p style="margin: 0;">Ideal candidates must hold clean full B1 driving license, with at least three years experience of driving a 3.5t vehicle, preferably luton van. Good command of spoken and written English is a must. Reach truck/ Forklift driving experience will be an advantage.</p>
+                        <p style="margin: 0;">Working days are <strong> Monday- Friday</strong> (may require overtime on busy days).</p>
                         
-                        <p>If you are interested send your CV or Call us on <strong>(020)30869080</strong> for immediate placement.</p>
+                        <p style="margin: 0;">If you are interested send your CV or Call us on <strong>(020)30869080</strong> for immediate placement.</p>
                         
                         <p><strong>jobs@ Workers-direct.com</strong></p>
                         <a href="# " class="green"><strong> OR Apply Online</strong></a>

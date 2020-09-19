@@ -91,7 +91,7 @@
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper margin-top-30">
 
                     <div>
                         <table class="table table-bordered " style="width:100%">
@@ -112,12 +112,12 @@
                         </table>
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="section_heading section_2_heading margin-top-40">
 
                         <h2>CORE <span> DELIVERABLES</span></h2>
 
                     </div>
-                    <div class="margin-top-60">
+                    <div class="margin-top-30">
                         <ul>
                             <li><i class="fa fa-caret-right"></i> Process and organise faulty equipment returned from sites.</li>
                             <li><i class="fa fa-caret-right"></i> Setting up and completing spreadsheet’s keeping up to date records of all serialised items.</li>
@@ -129,15 +129,15 @@
                         </ul>
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="section_heading section_2_heading margin-top-40">
                         <h2>EXPERIENCE, SKILLS & ATTRIBUTES REQUIRED</h2>
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="section_heading section_2_heading margin-top-40">
                         <h4>ESSENTIAL</h4>
                     </div>
 
-                    <div class="margin-top-60">
+                    <div class="margin-top-30">
                         <ul>
                             <li><i class="fa fa-caret-right"></i> Must have own transport / car.</li>
                             <li><i class="fa fa-caret-right"></i> Possession of a current Forklift driving license is essential.</li>
@@ -147,22 +147,22 @@
                         </ul>
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="section_heading section_2_heading margin-top-40">
                         <h4>Desirable</h4>
                     </div>
 
-                    <div class="margin-top-60">
+                    <div class="margin-top-30">
                         <ul>
                             <li><i class="fa fa-caret-right"></i> Previous experience of working in a similar role would be ideal, but is not essential Knowledge and experience of working with stock management processes.</li>
                             <li><i class="fa fa-caret-right"></i> Previous commercial experience of working in a customer service environment is essential.</li>
                         </ul>
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="section_heading section_2_heading margin-top-40">
                         <h4>PERSONAL ATTRIBUTES AND BEHAVIOURS</h4>
                     </div>
 
-                    <div class="margin-top-60">
+                    <div class="margin-top-30">
                         <ul>
                             <li><i class="fa fa-caret-right"></i> Ability to adopt a professional and service-focused style towards internal and external customers Organisational awareness with the ability to communicate effectively with a range of internal teams.</li>
                             <li><i class="fa fa-caret-right"></i> A good level of verbal and written communication skills, with the ability to form a rapport with others with ease.</li>
@@ -396,7 +396,7 @@
                 </div>
 
             </div>
-            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-60 ">
+            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30 ">
                 <div class="section_heading section_2_heading about_text_wrapper">
                     <h4>STRUCTURE CHART</h4>
                 </div>
@@ -406,7 +406,7 @@
                 </div>
 
             </div>
-            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-60">
+            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
                 <div class="section_heading section_2_heading about_text_wrapper">
                     <h4>DIMENSIONS</h4>
                 </div>
@@ -416,7 +416,7 @@
 
             </div>
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                 <div class="section_heading section_2_heading about_text_wrapper">
                     <h4>Other</h4>
                 </div>

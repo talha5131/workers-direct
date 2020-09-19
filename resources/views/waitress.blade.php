@@ -91,13 +91,13 @@
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper">
 
 
                     <div class="section_heading section_2_heading">
 
-                        <p>One of our client looking for an Experience Waitress in Central London area.</p>
-                        <p>Competitive Pay Rate.</p>
+                        <p style="margin: 0;">One of our client looking for an Experience Waitress in Central London area.</p>
+                        <p style="margin: 0;">Competitive Pay Rate.</p>
 
                         <div class="margin-top-60">
                             <h2>Main Job Responsibilities As Waitress / Front of House Staff</h2>
@@ -111,9 +111,10 @@
                                 <li><i class="fa fa-caret-right"></i> Help in Kitchen (if require)</li>
                             </ul>
                         </div>
-                        <p>Send Your CV for waitress jobs at,</p>
 
-                        <p><strong>jobs@ Workers-direct.com</strong></p>
+                        <p style="margin: 0;"><strong>Send Your CV for waitress jobs at</strong></p>
+
+                        <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
                         <a href="# " class="green"><strong> OR Apply Online</strong></a>
                     </div>
 

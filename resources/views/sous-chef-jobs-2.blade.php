@@ -150,7 +150,7 @@
 
                         <div class="section_heading section_2_heading margin-top-60 ">
 
-                            <h2>An ideal Candidate <span> will be</span></h2>
+                            <h2>An ideal Candidate <span> will be :</span></h2>
 
                         </div>
                         <div class="margin-top-60">
@@ -171,8 +171,8 @@
                         </div>
 
                         <div>
-                            <p>To apply Sous Chef Jobs Surrey forward your CV to arrange an immediate interview</p>
-                            <p><strong>jobs@ Workers-direct.com</strong></p>
+                            <p style="margin: 0;"><strong>To apply Sous Chef Jobs Surrey forward your CV to arrange an immediate interview</strong></p>
+                            <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
                             <a class="green" href="# "><strong> OR Apply Online</strong></a>
                         </div>
 

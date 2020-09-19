@@ -91,7 +91,7 @@
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper margin-top-30">
 
                     <div class="section_heading section_2_heading">
 
@@ -135,13 +135,13 @@
 
                     
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="section_heading section_2_heading margin-top-30">
 
                         <h2>Suitable candidates must have the <span> following</span></h2>
 
                     </div>
 
-                    <div class="margin-top-60">
+                    <div class="margin-top-30">
                         <ul>
                             <li><i class="fa fa-caret-right"></i> Have a valid PCV (D) license.</li>
                             <li><i class="fa fa-caret-right"></i> Have full CPC.</li>
@@ -153,11 +153,11 @@
 
                     
 
-                    <div class="margin-top-60">
+                    <div class="margin-top-30">
                         <h2>Duties shall include the following</h2>
                     </div>
 
-                    <div class="margin-top-60">
+                    <div class="margin-top-30">
                         <ul>
                             <li><i class="fa fa-caret-right"></i> To collect children from home and take them to school in the morning.</li>
                             <li><i class="fa fa-caret-right"></i> To collect children from school in the afternoon and take them home.</li>
@@ -168,8 +168,8 @@
                     <hr>
 
                     <div>
-                        <p>Successful candidate will be paid a rate of <strong> £10 per hour</strong>.</p>
-                        <p>This is an excellent opportunity to work with a massive client and is not to be missed. Please send in your CV as soon as possible at,</p>
+                        <p style="margin: 0;">Successful candidate will be paid a rate of <strong> £10 per hour</strong>.</p>
+                        <p style="margin: 0;"><strong>This is an excellent opportunity to work with a massive client and is not to be missed. Please send in your CV as soon as possible at</strong></p>
                         <p><strong> jobs@Workers-direct.com</strong></p>
                         <a href="#" class="green"><strong> OR Apply online now</strong></a>
                     </div>

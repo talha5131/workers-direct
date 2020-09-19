@@ -91,7 +91,7 @@
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper margin-top-30">
 
                     <div class="section_heading section_2_heading">
 
@@ -149,7 +149,7 @@
                         <p>Organise varied activities within the Home to cater for a variety of interests for small groups and large numbers of residents, including games, crafts, parties, entertainment and outings, encouraging relatives and visitors to be involved.</p>
                     </div>
 
-                    <div class="margin-top-60">
+                    <div class="margin-top-30">
                         <ul>
                             <li><i class="fa fa-caret-right"></i> Arrange trips and excursions with varied destinations and purposes to involve as many residents in activity outside the confines of the Home as possible.</li>
                             <li><i class="fa fa-caret-right"></i> Undertake fundraising activity for the Residents’ Fund.</li>
@@ -175,7 +175,7 @@
                         <h4>Knowledge & Qualifications</h4>
                     </div>
 
-                    <div class="margin-top-60">
+                    <div class="margin-top-30">
                         <ul>
                             <li><i class="fa fa-caret-right"></i> Demonstrate understanding of the role social interaction plays in the general well-being of people.</li>
                             <li><i class="fa fa-caret-right"></i> Previous involvement in voluntary or community activities and roles.</li>
@@ -191,7 +191,7 @@
 
                     </div>
 
-                    <div class="margin-top-60">
+                    <div class="margin-top-40">
                         <ul>
                             <li><i class="fa fa-caret-right"></i> Exude enthusiasm, commitment and energy.</li>
                             <li><i class="fa fa-caret-right"></i> Demonstrate influencing and persuasive skills.</li>
@@ -204,8 +204,8 @@
                     </div>
 
                     <div>
-                        <p>To apply forward your CV to arrange an immediate interview at,</p>
-                        <p><strong> jobs@Workers-direct.com</strong></p>
+                        <p style="margin: 0;"><strong>To apply forward your CV to arrange an immediate interview at</strong></p>
+                        <p><strong>jobs@Workers-direct.com</strong></p>
                         <a href="#" class="green"><strong> OR Apply online now</strong></a>
                     </div>
 

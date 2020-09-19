@@ -182,15 +182,15 @@
                             <ul>
                                 <li><i class="fa fa-caret-right"></i> Good understanding of the EYFS safeguarding young children & risk assessment</li>
                                 <li><i class="fa fa-caret-right"></i> Previous 2 years childcare experience</li>
-                                <li><i class="fa fa-caret-right"></i> Level  2 / 3 Childcare Qualification</li>
+                                <li><i class="fa fa-caret-right"></i> Level 2 / 3 Childcare Qualification</li>
                                 <li><i class="fa fa-caret-right"></i> Clean DBS (CRD) check</li>
-                            
+
                             </ul>
                         </div>
 
                         <div>
-                            <p>To apply please forward CV to e-mail provided to arrange an immediate interview with nursery.</p>
-                            <p><strong>jobs@ Workers-direct.com</strong></p>
+                            <p style="margin: 0;"><strong>To apply please forward CV to e-mail provided to arrange an immediate interview with nursery.</strong></p>
+                            <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
                             <a href="# "><strong> OR Apply Online</strong></a>
                         </div>
 

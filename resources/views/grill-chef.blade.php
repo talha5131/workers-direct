@@ -134,9 +134,9 @@
                         
 
                         <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                            <p>Two Experienced Turkish Grill chef required for newly opened Restaurant in Peckham.</p>
-                            <p>Brilliant opportunity to become a part of a business which has a vision to grow expands.</p>
-                            <p>Must Have Previous Experience as Chef.</p>
+                            <p style="margin: 0;">Two Experienced Turkish Grill chef required for newly opened Restaurant in Peckham.</p>
+                            <p style="margin: 0;">Brilliant opportunity to become a part of a business which has a vision to grow expands.</p>
+                            <p style="margin: 0;">Must Have Previous Experience as Chef.</p>
                         </div>
 
 
@@ -165,8 +165,8 @@
                         </div>
 
                         <div>
-                            <p>For immediate placement send your CV Today at,</p>
-                            <p><strong>jobs@ Workers-direct.com</strong></p>
+                            <p style="margin: 0;"><strong>For immediate placement send your CV Today at</strong></p>
+                            <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
                             <a href="# "><strong> OR Apply Online</strong></a>
                         </div>
 

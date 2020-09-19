@@ -91,7 +91,7 @@
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper margin-top-30">
 
                     <div>
                         <table class="table table-bordered " style="width:100%">
@@ -121,10 +121,10 @@
 
                    
 
-                    <div class="margin-top-100">
-                        <p>One of client looking for experienced level 2 / 3  beauticians ASAP in West End Central London area.</p>
-                        <p>Main responsibilities will involve Manicure, Pedicure and Waxing, etc.</p>
-                        <p>If you’re interested please send your CV to arrange an immediate interview.</p>
+                    <div class="margin-top-50">
+                        <p style="margin: 0;">One of client looking for experienced level 2 / 3  beauticians ASAP in West End Central London area.</p>
+                        <p style="margin: 0;">Main responsibilities will involve Manicure, Pedicure and Waxing, etc.</p>
+                        <p style="margin: 0;"><strong>If you’re interested please send your CV to arrange an immediate interview.</strong></p>
                     </div>
 
                     

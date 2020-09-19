@@ -91,10 +91,9 @@
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper">
 
                     <div>
-                        <img src="https://workers-direct.com/wp-content/uploads/2019/04/Virtual-Assistant-Jobs-1024x357.jpg" width="100%" alt="Virtual Assistant Jobs">
                     </div>
 
                     
@@ -103,14 +102,16 @@
 
                         <h2>Find Experinced Administrators / Personal Assistants – Who Can Work On <span> Reomte Basis</span></h2>
 
+                        <img class="margin-top-50" src="https://workers-direct.com/wp-content/uploads/2019/04/Virtual-Assistant-Jobs-1024x357.jpg" width="100%" alt="Virtual Assistant Jobs">
+
                     </div>
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="section_heading section_2_heading margin-top-30">
 
                         <h4>Main Responsibilities of <span> Virtual Assistants</span></h4>
 
                     </div>
 
-                    <div class="margin-top-60">
+                    <div class="margin-top-30">
                         <ul>
                             <li><i class="fa fa-caret-right"></i> Interacts with hiring managers and supervisors regarding a recruitment strategy to ensure a complete understanding of their needs in order to find a suitable match for their open position.</li>
                             <li><i class="fa fa-caret-right"></i> Coordinates full cycle recruiting process to include: prepares employment advertisements and places them in an appropriate distribution channel to attract best applicant pool; oversees the routing of all position requisitions in compliance with ATS requirements; Administer on line assessments and track completion and success rates , conducts video interviews with candidates to further assess qualifications for the job and fit; initiates employment offers and ensures new hire paperwork is complete promptly and accurately.</li>
@@ -129,11 +130,11 @@
 
                     
 
-                    <div class="margin-top-60">
+                    <div class="margin-top-40">
                         <h4>What skills you will need</h4>
                     </div>
 
-                    <div class="margin-top-60">
+                    <div class="margin-top-40">
                         <ul>
                             <li><i class="fa fa-caret-right"></i> 2 year of call center agent hiring and virtual assistant jobs experience.</li>
                             <li><i class="fa fa-caret-right"></i> Maintain regular and reliable attendance, including the daily schedule as assigned.</li>

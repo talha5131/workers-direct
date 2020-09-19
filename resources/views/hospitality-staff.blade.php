@@ -92,76 +92,52 @@
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
                 <div class="about_text_wrapper abt_2_para">
-                    <div class="row">
 
-                        <div class=" col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                    <div style="padding-left: 0px !important;" class="col-md-12">
+                        <div style="padding-left: 0px !important;" class="col-md-7">
+                            <div class="section_heading section_2_heading">
 
-                            <div>
-
-                                <img src="https://workers-direct.com/wp-content/uploads/2019/03/Hospitality-agency-1024x576.jpg" width="100%" alt="career_img" />
-
-                            </div>
-
-
-                        </div>
-
-                        <div class=" col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                            <div>
-
-                                <img src="https://workers-direct.com/wp-content/uploads/2019/03/Housekeeping-Agencies-1024x683.jpg" width="100%" alt="career_img" />
+                                <h2>Housekeeping Agency Can Find <span> Temporary Staff</span></h2>
 
                             </div>
+                            <div>
+                                <p>We know that when you work in the hospitality staff agency, you need to make sure that you have staff who are as passionate with your industry as you are and this is why we do everything we can to source the right staff for your company. We won’t stop until we find someone who is the perfect fit and this is one of the reasons why we have achieved so much success in the past.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-5">
+                            <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="https://workers-direct.com/wp-content/uploads/2019/03/Hospitality-agency-1024x576.jpg" width="100%" alt="career_img" />
+                        </div>
+                    </div>
+                    <div style="padding-left: 0px !important;" class="col-md-12">
+                        <div style="padding-left: 0px !important;" class="col-md-5">
+                            <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="https://workers-direct.com/wp-content/uploads/2019/03/Housekeeping-Agencies-1024x683.jpg" width="100%" alt="career_img" />
 
                         </div>
-
-                        <div class=" col-lg-4 col-md-4 col-sm-12 col-xs-12">
-
-                            <div>
-
-                                <img src="https://workers-direct.com/wp-content/uploads/2019/03/Wait-Agencies-London-1024x683.jpg" width="100%" alt="career_img" />
-
+                        <div class="col-md-7">
+                            <div class="section_heading section_2_heading">
+                                <h4>Holiday Homes, Cruise Ships, Travel Agents and More</h4>
                             </div>
 
-                        </div>
-
-                        <div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12">
-
                             <div>
-
-                                <img src="https://workers-direct.com/wp-content/uploads/2019/03/Wait-Agencies-London-1024x683.jpg" width="100%" alt="career_img" />
-
+                                <p>Our hospitality staff are very well-versed when it comes to operating holiday homes and they also have the ability to complete any given task with flawless efficiency. They can meet and greet your customers, they can work with you to book in clients and they can also work the bar. If you have staff who are ill, unable to do the job or if you are just busy in general then we can work with you to get everything sorted out.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div style="padding-left: 0px !important;" class="col-md-12">
+                        <div style="padding-left: 0px !important;" class="col-md-7">
+                            <div class="section_heading section_2_heading">
+                                <h4>Our Hospitality Experience and Track Record</h4>
                             </div>
 
+                            <div>
+                                <p>Our team are very experienced when it comes to hospitality and they are continually doing everything they can to exceed your expectations. Our team won’t stop until you have the talent you need and they will also introduce you to new staff who would have otherwise not known about your position or in some instances, your company. We have already helped independent businesses, top event caterers and even hotels to build the team they need.</p>
+                            </div>
                         </div>
-
+                        <div class="col-md-5">
+                            <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="https://workers-direct.com/wp-content/uploads/2019/03/Wait-Agencies-London-1024x683.jpg" width="100%" alt="career_img" />
+                        </div>
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
-
-                        <h2>Housekeeping Agency Can Find <span> Temporary Staff</span></h2>
-
-                    </div>
-                    <div>
-                        <p>We know that when you work in the hospitality staff agency, you need to make sure that you have staff who are as passionate with your industry as you are and this is why we do everything we can to source the right staff for your company. We won’t stop until we find someone who is the perfect fit and this is one of the reasons why we have achieved so much success in the past.</p>
-                    </div>
-
-
-
-                    <div class="section_heading section_2_heading margin-top-60">
-                        <h4>Holiday Homes, Cruise Ships, Travel Agents and More</h4>
-                    </div>
-
-                    <div>
-                        <p>Our hospitality staff are very well-versed when it comes to operating holiday homes and they also have the ability to complete any given task with flawless efficiency. They can meet and greet your customers, they can work with you to book in clients and they can also work the bar. If you have staff who are ill, unable to do the job or if you are just busy in general then we can work with you to get everything sorted out.</p>
-                    </div>
-
-                    <div class="section_heading section_2_heading margin-top-60">
-                        <h4>Our Hospitality Experience and Track Record</h4>
-                    </div>
-
-                    <div>
-                        <p>Our team are very experienced when it comes to hospitality and they are continually doing everything they can to exceed your expectations. Our team won’t stop until you have the talent you need and they will also introduce you to new staff who would have otherwise not known about your position or in some instances, your company. We have already helped independent businesses, top event caterers and even hotels to build the team they need.</p>
-                    </div>
 
                     <div class="section_heading section_2_heading margin-top-60">
                         <h4>Do You want To Work In Hospitality?</h4>
