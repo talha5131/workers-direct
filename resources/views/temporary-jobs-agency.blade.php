@@ -91,13 +91,13 @@
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper ">
 
                     <div class="section_heading section_2_heading">
 
                         <p>If you are looking for temporary or permanent work then you Workers Direct can provide you with all that you need. We know that being out of work can be tough Our aim is to put you in a role that gives you a purpose and could lead to you forging a career that provides you with complete satisfaction.</p>
 
-                        <div class="section_heading section_2_heading margin-top-60">
+                        <div class="section_heading section_2_heading margin-top-20">
 
                             <h2>At workers direct our job is to match the right job according to your <span> skills and experience</span></h2>
 
@@ -105,7 +105,7 @@
 
                         <p>Our team of experts understand your needs and so, they handle the whole process in a confident and professional way. Working closely with you, we help you to identify your skills and abilities and then match it up with roles that work for you. Forming a relationship with you enables us to get to know you better and that means we can make employers aware of just how valuable you can be to them. We recognise your skills and we make sure that you receive the service you deserve. We don’t judge we simply make sure that we find you a role that ticks every box.</p>
 
-                        <div class="section_heading section_2_heading margin-top-60">
+                        <div class="section_heading section_2_heading margin-top-20">
 
                             <h2>Temporary jobs <span> specialist</span></h2>
 
@@ -113,7 +113,7 @@
 
                         <p>Our focus is on creating a personalise approach that incorporates our passion and desire. This ensure that we successfully put the right people in the right jobs, adding value to the recruitment process.Workers Direct is one of the leading temping agencies in London, We have various temporary jobs available to start ASAP basis across the country.</p>
 
-                        <div class="section_heading section_2_heading margin-top-60">
+                        <div class="section_heading section_2_heading margin-top-2 class="green"0">
 
                             <h2>Latest temporary <span> jobs</span></h2>
 
@@ -121,47 +121,47 @@
                         <div class="margin-top-60">
                             <table class="table table-bordered " style="width:100%">
                                 <tr>
-                                    <th>Job Title</th>
-                                    <th>Job Duration</th>
-                                    <th>Job Location</th>
+                                    <th class="green">Job Title</th>
+                                    <th class="green">Job Duration</th>
+                                    <th class="green">Job Location</th>
                                 </tr>
                                 <tr>
-                                    <th>Sous Chef</th>
+                                    <th class="green">Sous Chef</th>
                                     <td>Temporary </td>
                                     <td>North London	 </td>
                                 </tr>
                                 <tr>
-                                    <th>Kitchen Porter</th>
+                                    <th class="green">Kitchen Porter</th>
                                     <td>Temporary </td>
                                     <td>Central London	 </td>
                                 </tr>
                                 <tr>
-                                    <th>Chef de partie X 2</th>
+                                    <th class="green">Chef de partie X 2</th>
                                     <td>Temporary To Permanent </td>
                                     <td>Esher	 </td>
                                 </tr>
                                 <tr>
-                                    <th>Sous Chef</th>
+                                    <th class="green">Sous Chef</th>
                                     <td>Temporary To Permanent </td>
                                     <td>Esher	</td>
                                 </tr>
                                 <tr>
-                                    <th>CSCS Labourer</th>
+                                    <th class="green">CSCS Labourer</th>
                                     <td>Temporary </td>
                                     <td>South West London	 </td>
                                 </tr>
                                 <tr>
-                                    <th>Bus Driver / Caretaker</th>
+                                    <th class="green">Bus Driver / Caretaker</th>
                                     <td>Temporary </td>
                                     <td>North London	 </td>
                                 </tr>
                                 <tr>
-                                    <th>Office Administrator</th>
+                                    <th class="green">Office Administrator</th>
                                     <td>Temporary To Permanent	 </td>
                                     <td>North London		 </td>
                                 </tr>
                                 <tr>
-                                    <th>Kitchen Assistant</th>
+                                    <th class="green">Kitchen Assistant</th>
                                     <td>Temporary </td>
                                     <td>West London	 </td>
                                 </tr>
@@ -174,23 +174,10 @@
 
                     <div class="section_heading section_2_heading margin-top-60">
 
-                        <div class="section_heading section_2_heading">
-
-                            <h2>Job <span> Description</span></h2>
-
-                        </div>
-
-                        <p>We are recruiting a part time mortgage administrator, Ideally someone that has worked for an adviser before or bank or building society. The role will be to administer the mortgage applications and liaise with the clients during the mortgage process. Someone who could work 15 hours a week, possible 5 hours Monday, Wednesday and Friday, However days / time could be changed on mutual understanding.</p>
-
-
-                    </div>
-
-                    <div class="section_heading section_2_heading margin-top-60">
-
                         <div>
-                            <p>Send Your CV Today for immediate placement.</p>
-                            <p><strong>jobs@ Workers-direct.com</strong></p>
-                            <a href="# "><strong> OR Apply Online</strong></a>
+                            <p style="margin: 0;">Send Your CV Today for immediate placement.</p>
+                            <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
+                            <a href="# " class="green"><strong> OR Apply Online</strong></a>
                         </div>
 
                     </div>
@@ -199,7 +186,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 

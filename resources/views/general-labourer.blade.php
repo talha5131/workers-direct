@@ -92,217 +92,209 @@
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
                 <div class="row about_text_wrapper ">
-                    <div class="row">
-                        <div class="col-lg-4 col-md-12 col-sm-4 col-xs-12 text-center">
 
-                            <a href="#">
+                    <div class="col-lg-4 col-md-12 col-sm-4 col-xs-12 text-center">
 
-                                <div class="box">
+                        <div class="box">
 
-                                    <div class="grid-box-custom">
+                            <div class="grid-box-custom">
 
-                                        <div class="iconn green">
+                                <div class="iconn green">
 
-                                            <i class=" font-size-icon green far fa-check-square"></i>
-
-                                        </div>
-
-                                        <div class="heading">
-
-                                            <h2> <a> Site Operatives </a> </h2>
-
-                                        </div>
-
-                                        <div class="content margin-top-10">
-
-                                            <p>We have various site operatives & labourer jobs are available on temporary basis.</p>
-
-                                        </div>
-
-
-                                    </div>
-
+                                    <i class=" font-size-icon green far fa-check-square"></i>
 
                                 </div>
 
-                            </a>
-                        </div>
+                                <div class="heading">
 
-                        <div class="col-lg-4 col-md-12 col-sm-4 col-xs-12 text-center">
-
-                            <a href="#">
-
-                                <div class="box">
-
-
-
-                                    <div class="grid-box-custom">
-
-                                        <div class="iconn green">
-
-                                            <i class="font-size-icon green far fa-address-card"></i>
-
-                                        </div>
-
-                                        <div class="heading">
-
-                                            <h2> <a>CSCS Labourers</a> </h2>
-
-                                        </div>
-
-                                        <div class="content margin-top-10">
-
-                                            <p>If you have valid CSCS card and interested in temporary labouring roles register your CV today.</p>
-
-                                        </div>
-
-
-
-                                    </div>
-
-
-
-
-
-                                </div>
-
-                            </a>
-
-                        </div>
-
-                        <div class="col-lg-4 col-md-12 col-sm-4 col-xs-12 text-center">
-
-                            <a href="#">
-
-                                <div class="box">
-
-
-
-                                    <div class="grid-box-custom">
-
-                                        <div class="iconn green">
-
-                                            <i class="font-size-icon green fas fa-truck"></i>
-
-                                        </div>
-
-                                        <div class="heading">
-
-                                            <h2> <a> Site Cleaners </a> </h2>
-
-                                        </div>
-
-                                        <div class="content margin-top-10">
-
-                                            <p>We recruit temporary site cleaners on time to time basis for construction site cleaning work.</p>
-
-                                        </div>
-
-
-                                    </div>
-
-
-
-
-
-                                </div>
-
-                            </a>
-
-                        </div>
-
-                        <div class="row">
-                            <div class="col-lg-4 col-md-12 col-sm-4 col-xs-12 ">
-
-                                <div class="img-section">
-
-                                    <img style="border: 4px solid #7CC24D; border-radius:5px;" src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Agency-Labourers-ojg1j4efzb9xjlm74v02gvj53jan9ee8hn7afzcuky.jpg" width="100%" height="420px" alt="Admin">
-
-                                </div>
-
-                            </div>
-
-                            <div class="col-lg-8 col-md-8 col-sm-4 col-xs-12 ">
-
-                                <div class="">
-
-                                    <h2> <a> Temp & Perm Labourers </a> </h1>
+                                    <h2>  Site Operatives  </h2>
 
                                 </div>
 
                                 <div class="content margin-top-10">
 
-                                    <p style="margin: 0;">If your needs to increase staffing levels are of a speculative / long term nature or purely to meet a short-term Labourer Jobs, we can assist promptly to ensure this is as painless as possible, allowing you to concentrate on your core activities as general labourer. Immediately upon the provision of a job brief (written or verbally) we ask specific questions to ascertain the requirements that the candidates must fulfil. Automated pre-searches, supported by manual filtering will be carried out to identify potential candidates, followed immediately by initial contact with the candidate to check availability. The employer’s identity is kept anonymous at this stage, prior to forwarding by e –mail CV’s of interested & available general labourers to the Client for consideration. Arranging of telephone pre-interviews /interviews, together with negotiating satisfactory offers of employment up-to and including the start date are provided by our Consultants.</p>
+                                    <p>We have various site operatives & labourer jobs are available on temporary basis.</p>
 
                                 </div>
 
 
                             </div>
 
+
                         </div>
-                        <div class="row margin-top-60">
-                            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 ">
 
-                                <div class="">
 
-                                    <h2> <a> Labouring Staff On Demand </a> </h2>
+                    </div>
+
+                    <div class="col-lg-4 col-md-12 col-sm-4 col-xs-12 text-center">
+
+                        <div class="box">
+
+
+
+                            <div class="grid-box-custom">
+
+                                <div class="iconn green">
+
+                                    <i class="font-size-icon green far fa-address-card"></i>
+
+                                </div>
+
+                                <div class="heading">
+
+                                    <h2> CSCS Labourers </h2>
 
                                 </div>
 
                                 <div class="content margin-top-10">
 
-                                    <p style="margin: 0;">The initial processes of securing contract / temporary staff are essentially the same, albeit to a different target audience. On occasions this can also provide a valuable means for both candidate and client to try each other out, with a permanent position on offer if agreeable by both parties. If the Contract Candidate is not operating via a Ltd. Company, we can provide arrangements for umbrella / composite organisations that can simplify the transition to this tax efficient method of employment.</p>
-                                    <p style="margin: 0;">Our focus is on creating a personalise approach that incorporates our passion and desire. This ensure that we successfully put the right people in the right jobs, adding value to the recruitment process.</p>
+                                    <p>If you have valid CSCS card and interested in temporary labouring roles register your CV today.</p>
+
                                 </div>
+
 
 
                             </div>
 
-                            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 ">
 
-                                <div class="img-section">
 
-                                    <img style="border: 4px solid #7CC24D; border-radius:5px;" src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Trade-Staffing-ojg1ax93imwqfe7viq0vcybk2ptrtqs84wfwnw3e9a.jpg" width="100%" height="340px" alt="Admin">
 
-                                    
-
-                                </div>
-
-                            </div>
 
                         </div>
-                        <div class="row margin-top-60">
-                            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 ">
 
-                                <div class="img-section">
 
-                                    <img style="border: 4px solid #7CC24D; border-radius:5px;" src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/general-laborer-ojg0hu4x0a435eq2ktybcjc8wckg8i3jtlsjncd0g4.jpg" width="100%" height="350px" alt="Admin">
 
-                                    
+                    </div>
+
+                    <div class="col-lg-4 col-md-12 col-sm-4 col-xs-12 text-center">
+
+                        <div class="box">
+
+                            <div class="grid-box-custom">
+
+                                <div class="iconn green">
+
+                                    <i class="font-size-icon green fas fa-truck"></i>
 
                                 </div>
 
-                            </div>
+                                <div class="heading">
 
-                            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 ">
-
-                                <div class="">
-
-                                    <h2> <a> Find Labourers Jobs With Workers Direct </a> </h2>
+                                    <h2> Site Cleaners </h2>
 
                                 </div>
 
                                 <div class="content margin-top-10">
 
-                                    <p style="margin: 0;">At Workers Direct, we appreciate the differing needs of employers and employees. We understand the importance of helping your business find the right person for your role but we also understand that it is important for individuals to find work.</p>
-                                    <p style="margin: 0;">Our goal is to bring local and national businesses together with individuals seeking work and help to build relationships that benefits both parties. As one of the best <a href="#">labour agency</a> our experience and knowledge enable us to work effectively in an environment that is extremely competitive. We can help your business to find site operatives, warehouse operatives in no time at all because that is what we do.</p>
+                                    <p>We recruit temporary site cleaners on time to time basis for construction site cleaning work.</p>
 
                                 </div>
 
 
                             </div>
+
+
+
+
+
+                        </div>
+
+
+
+                    </div>
+
+                    <div class="row margin-top-60">
+                        <div class="col-lg-4 col-md-12 col-sm-4 col-xs-12 ">
+
+                            <div class="img-section">
+
+                                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Agency-Labourers-ojg1j4efzb9xjlm74v02gvj53jan9ee8hn7afzcuky.jpg" width="100%" height="420px" alt="Admin">
+
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-8 col-md-8 col-sm-4 col-xs-12 ">
+
+                            <div class="about_text_wrapper">
+
+                                <h2>  Temp & Perm Labourers  </h1>
+
+                            </div>
+
+                            <div class="content margin-top-10">
+
+                                <p style="margin: 0;">If your needs to increase staffing levels are of a speculative / long term nature or purely to meet a short-term Labourer Jobs, we can assist promptly to ensure this is as painless as possible, allowing you to concentrate on your core activities as general labourer. Immediately upon the provision of a job brief (written or verbally) we ask specific questions to ascertain the requirements that the candidates must fulfil. Automated pre-searches, supported by manual filtering will be carried out to identify potential candidates, followed immediately by initial contact with the candidate to check availability. The employer’s identity is kept anonymous at this stage, prior to forwarding by e –mail CV’s of interested & available general labourers to the Client for consideration. Arranging of telephone pre-interviews /interviews, together with negotiating satisfactory offers of employment up-to and including the start date are provided by our Consultants.</p>
+
+                            </div>
+
+
+                        </div>
+
+                    </div>
+                    <div class="row margin-top-60">
+                        <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 ">
+
+                            <div class="section_heading section_2_heading about_text_wrapper">
+
+                                <h2>  Labouring Staff On Demand  </h2>
+
+                            </div>
+
+                            <div class="content margin-top-10">
+
+                                <p style="margin: 0;">The initial processes of securing contract / temporary staff are essentially the same, albeit to a different target audience. On occasions this can also provide a valuable means for both candidate and client to try each other out, with a permanent position on offer if agreeable by both parties. If the Contract Candidate is not operating via a Ltd. Company, we can provide arrangements for umbrella / composite organisations that can simplify the transition to this tax efficient method of employment.</p>
+                                <p style="margin: 0;">Our focus is on creating a personalise approach that incorporates our passion and desire. This ensure that we successfully put the right people in the right jobs, adding value to the recruitment process.</p>
+                            </div>
+
+
+                        </div>
+
+                        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 ">
+
+                            <div class="img-section">
+
+                                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Trade-Staffing-ojg1ax93imwqfe7viq0vcybk2ptrtqs84wfwnw3e9a.jpg" width="100%" height="340px" alt="Admin">
+
+
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                    <div class="row margin-top-60">
+                        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 ">
+
+                            <div class="img-section">
+
+                                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/general-laborer-ojg0hu4x0a435eq2ktybcjc8wckg8i3jtlsjncd0g4.jpg" width="100%" height="350px" alt="Admin">
+
+
+
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 ">
+
+                            <div class="">
+
+                                <h2>  Find Labourers Jobs With Workers Direct </h2>
+
+                            </div>
+
+                            <div class="content margin-top-10">
+
+                                <p style="margin: 0;">At Workers Direct, we appreciate the differing needs of employers and employees. We understand the importance of helping your business find the right person for your role but we also understand that it is important for individuals to find work.</p>
+                                <p style="margin: 0;">Our goal is to bring local and national businesses together with individuals seeking work and help to build relationships that benefits both parties. As one of the best <a href="#">labour agency</a> our experience and knowledge enable us to work effectively in an environment that is extremely competitive. We can help your business to find site operatives, warehouse operatives in no time at all because that is what we do.</p>
+
+                            </div>
+
+
                         </div>
                     </div>
+
 
 
                 </div>

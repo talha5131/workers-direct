@@ -94,23 +94,37 @@
                 <div class="about_text_wrapper abt_2_para">
 
                     <div>
+                        <table class="table table-bordered">
 
-                        <p><strong>Job Title:</strong> IT Support Technician</p>
-                        <p><strong>Job Duration:</strong> Temporary to permanent</p>
-                        <p><strong>Job Location:</strong> West End, London</p>
-                        <p><strong>Salary:</strong>  £11 to £13 per hour (Depends on Experience)</p>
+                            <tr>
+                                <th>Job Title</th>
+                                <td>IT Support Technician</td>
+                            </tr>
+                            <tr>
+                                <th>Job Duration</th>
+                                <td>Temporary to permanent</td>
+                            </tr>
+                            <tr>
+                                <th>Job Location</th>
+                                <td>West End, London</td>
+                            </tr>
+                            <tr>
+                                <th>Salary</th>
+                                <td>£11 to £13 per hour (Depends on Experience)</td>
+                            </tr>
+                        </table>
 
                     </div>
 
                     <div class="section_heading section_2_heading margin-top-20">
 
-                        <h4 class="margin-bottom-60"> Job Summary</span></h4>
+                        <h4> Job Summary</span></h4>
 
-                        <p>We are recruiting an experienced IT Support Technician to provide a high level of technical support. This is a technical role requiring proven support experience using W10 desktop environment, support with Office 2016 along with printers/scanners & mobile communications. The company is approximately 30 users and has a refreshed server/storage/network infrastructure.</p>
-                        
+                        <p style="margin: 0;">We are recruiting an experienced IT Support Technician to provide a high level of technical support. This is a technical role requiring proven support experience using W10 desktop environment, support with Office 2016 along with printers/scanners & mobile communications. The company is approximately 30 users and has a refreshed server/storage/network infrastructure.</p>
+
                     </div>
 
-                    <div class="margin-bottom-60">
+                    <div class="margin-bottom-60 margin-top-20">
                         <h4>Responsibilities</h4>
 
                     </div>
@@ -156,11 +170,11 @@
                     </div>
 
                     <div>
-                        <p>To apply, forward your CV to arrange an immediate interview.</p>
-                        <p><strong>jobs@ Workers-direct.com</strong></p>
-                        <a href="# "><strong> OR Apply Online</strong></a>
-                        <p><strong>http://workers-direct.com/cv-registration</strong></p>
-                        
+                        <p style="margin: 0;">To apply, forward your CV to arrange an immediate interview.</p>
+                        <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
+                        <a href="# " class="green"><strong> OR Apply Online</strong></a>
+                        <p style="margin: 0;"><strong>http://workers-direct.com/cv-registration</strong></p>
+
                     </div>
                 </div>
 

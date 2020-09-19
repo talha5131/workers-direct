@@ -91,13 +91,13 @@
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper ">
 
-                    <div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 alert">
                         <p>Teachers and staff can have the most profound and positive effect upon a child’s early years, and Workers Direct know how vital it is to find the right staff for a school setting. Our adaptable, patient employees are fully CRB/DBS checked, as according to your requirements, and we offer Full Time and Part Time staff recruitment services. We are adept at finding and matching workers to a school, handling the whole process, vetting and checking the employees we then recommend. We can hire out on a short term, contract and on-going basis – let us know your requirements for your school, and our team will do the rest.</p>
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-20">
+                    <div class="col-lg-7 col-md-7 col-xs-12 col-sm-12 margin-top-20">
 
                         <div class="section_heading section_2_heading">
 
@@ -109,13 +109,13 @@
 
                     </div>
 
-                    <div class="text-center">
-                        <img src="http://workers-direct.com/wp-content/uploads/2014/02/Teaching-Staff-Agency-1024x683.jpg" width="100%" alt="#">
+                    <div class="col-lg-5 col-md-5 col-xs-12 col-sm-12 margin-top-30">
+                        <img style="border: 4px solid #7CC24D; border-radius:5px;" src="http://workers-direct.com/wp-content/uploads/2014/02/Teaching-Staff-Agency-1024x683.jpg" width="100%" height="250px" alt="#">
                     </div>
 
                     
 
-                    <div class="section_heading section_2_heading margin-top-20">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
                         <div class="section_heading section_2_heading">
 
@@ -128,7 +128,7 @@
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-20">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
                         <div class="section_heading section_2_heading">
 
@@ -141,7 +141,7 @@
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-20">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
                         <div class="section_heading section_2_heading">
 

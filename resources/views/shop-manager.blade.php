@@ -95,7 +95,7 @@
 
                     <div class="section_heading section_2_heading row">
 
-                        <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+                        <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
                             <table class="table table-bordered " style="width:100%">
                                 <tr>
                                     <th>Job Titles:</th>
@@ -134,12 +134,12 @@
 
                         </div>
 
-                        <div class="col-lg-3 col-md-3 col-xs-12 col-sm-12">
-                            <img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/xfs_550x350_s80_Wait-agency-ojg1lw1cepsqoxirjr8yyjim7k54isqfnb52igvv2g.jpg" alt="hospitality agency" height="315px" width="100%">
+                        <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
+                            <img style="border: 4px solid #7CC24D; border-radius:5px;" src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/xfs_550x350_s80_Wait-agency-ojg1lw1cepsqoxirjr8yyjim7k54isqfnb52igvv2g.jpg" alt="hospitality agency" height="350px" width="100%">
                         </div>
 
                         <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                            <p>We are recruiting an experienced Shop Manager Urgently basis for one of our client based in Central London. This is a temporary role requiring previous retail supervisory experience in food / hospitapity sector.</p>
+                            <p style="margin: 0;">We are recruiting an experienced Shop Manager Urgently basis for one of our client based in Central London. This is a temporary role requiring previous retail supervisory experience in food / hospitapity sector.</p>
                         </div>
 
 
@@ -149,11 +149,11 @@
 
                         <div class="section_heading section_2_heading">
 
-                            <h2>THE <span> PERSON:</span></h2>
+                            <h2>THE <span> PERSON</span></h2>
 
                         </div>
 
-                        <p>We are looking for an individual who is passionate about food, customers service and driving growth.</p>
+                        <p style="margin: 0;">We are looking for an individual who is passionate about food, customers service and driving growth.</p>
 
 
                     </div>
@@ -181,9 +181,9 @@
                         </div>
 
                         <div>
-                            <p>To apply forward your CV to arrange an immediate interview.</p>
-                            <p><strong>jobs@ Workers-direct.com</strong></p>
-                            <a href="# "><strong> OR Apply Online</strong></a>
+                            <p style="margin: 0;">To apply forward your CV to arrange an immediate interview.</p>
+                            <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
+                            <a href="# " class="green"><strong> OR Apply Online</strong></a>
                         </div>
 
 
@@ -461,13 +461,13 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h1> <a> Retail Experience </a> </h1>
 
                             </div>
 
                             <div class="content margin-top-10">
 
-                                <p>We make sure all our operatvies Must have minimum 2 - 5 years relevant Experience.</p>
+                                <p>Must have Management / Supervisory Experience in Retail</p>
 
                             </div>
 
@@ -497,13 +497,13 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h1> <a> Customer Services </a> </h1>
 
                             </div>
 
                             <div class="content margin-top-10">
 
-                                <p>Our Customer Service staff available online & on phone 24/7 to fill any urgent vacancy.</p>
+                                <p>Customer Services & Basic IT Skills including Microsoft Office, Excel is Essential</p>
 
                             </div>
 
@@ -543,7 +543,7 @@
 
                             <div class="content margin-top-10">
 
-                                <p>All our temps are fully able to start on short noitce whenever require.</p>
+                                <p>Fully able to start on short noitce on temporary basis</p>
 
                             </div>
 

@@ -91,41 +91,41 @@
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper">
 
-                    <div>
-                        <p>Workers Direct have been recruiting and organising Pickers and <a href="https://workers-direct.com/staffing-services/packing-staff/">Packing Staff</a> to assist local businesses and companies from many years.</p>
-                        <p>We ensure that our candidates are as observant and tenacious as we are! No matter what role you have for them, they do not miss the small details, and neither will we.</p>
-                        <p>We have short term and contract staff that can join your team, and we manage the entire hiring process, leaving you the benefits of an employee that is appropriate for your warehouse.</p>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <p style="margin: 0;">Workers Direct have been recruiting and organising Pickers and <a href="https://workers-direct.com/staffing-services/packing-staff/">Packing Staff</a> to assist local businesses and companies from many years.</p>
+                        <p style="margin: 0;">We ensure that our candidates are as observant and tenacious as we are! No matter what role you have for them, they do not miss the small details, and neither will we.</p>
+                        <p style="margin: 0;">We have short term and contract staff that can join your team, and we manage the entire hiring process, leaving you the benefits of an employee that is appropriate for your warehouse.</p>
                     </div>
 
-                    <div class="text-center">
-                        <img src="https://workers-direct.com/wp-content/uploads/2014/02/Warehouse-Staffing1-1024x683.jpg" width="100%" alt="#">
-                    </div>
+                    <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12 margin-top-20">
 
-                    <div class="section_heading section_2_heading margin-top-20">
+                        <h2 class="margin-bottom-20"> Picker and Packing <span>  Staff</span></h2>
 
-                        <h4 class="margin-bottom-20"> Picker and Packing <span>  Staff</span></h4>
-
-                        <p>Workers Direct have contact with a number of picker and packing staff. All with the stamina required for physical work, and the attention to detail that means you can trust them to do the job perfectly. We insist upon high standards and will find you a worker with the same.</p>
-                        <p>Are you looking for temporary help with packing? Do you have a vacancy to fill? Let us find you packing staff that will fit seamlessly in.</p>
+                        <p style="margin: 0;">Workers Direct have contact with a number of picker and packing staff. All with the stamina required for physical work, and the attention to detail that means you can trust them to do the job perfectly. We insist upon high standards and will find you a worker with the same.</p>
+                        <p style="margin: 0;">Are you looking for temporary help with packing? Do you have a vacancy to fill? Let us find you packing staff that will fit seamlessly in.</p>
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-20">
+                    <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-20">
+                        <img style="border: 4px solid #7CC24D; border-radius: 5px" src="https://workers-direct.com/wp-content/uploads/2014/02/Warehouse-Staffing1-1024x683.jpg" width="100%" height="260px" alt="#">
+                    </div>
 
-                        <h4 class="margin-bottom-20"> Warehouse <span> helpers</span></h4>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
-                        <p>Ensuring that you have enough team members increases production and efficiency – and takes away the stress of that extra-long day for your existing team that you already rely upon. Let us know our requirements and we will send an appropriate worker, whatever your need.</p>
-                        <p>Workers Direct provide a quick, reliable service, assisting you in recruiting <a href="https://labourer.agency/services/Warehouse/">warehouse staff</a> . So that your team is at optimum capacity and your warehouse is running smoothly.</p>
+                        <h2 class="margin-bottom-20"> Warehouse <span> helpers</span></h2>
+
+                        <p style="margin: 0;">Ensuring that you have enough team members increases production and efficiency – and takes away the stress of that extra-long day for your existing team that you already rely upon. Let us know our requirements and we will send an appropriate worker, whatever your need.</p>
+                        <p style="margin: 0;">Workers Direct provide a quick, reliable service, assisting you in recruiting <a href="https://labourer.agency/services/Warehouse/">warehouse staff</a> . So that your team is at optimum capacity and your warehouse is running smoothly.</p>
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-20">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
-                        <h4 class="margin-bottom-20"> Agency <span> Drivers</span></h4>
+                        <h2 class="margin-bottom-20"> Agency <span> Drivers</span></h2>
 
-                        <p>We know that you need to be able to trust your Drivers implicitly. With our decade of experience we are well-versed in checking, recruiting and matching new team members to active businesses, ready to take on journeys practically and sensibly.</p>
+                        <p style="margin: 0;">We know that you need to be able to trust your Drivers implicitly. With our decade of experience we are well-versed in checking, recruiting and matching new team members to active businesses, ready to take on journeys practically and sensibly.</p>
 
                     </div>
 
@@ -133,7 +133,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 ">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 

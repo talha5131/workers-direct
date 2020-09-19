@@ -93,90 +93,84 @@
 
                 <div class="about_text_wrapper abt_2_para">
 
-                    <div class="text-center">
-                        <img src="https://workers-direct.com/wp-content/uploads/2015/01/Depositphotos_33435525_m-2.jpg" width="100%" alt="#">
-                    </div>
-
-                    <div>
-                        <p>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <p style="margin: 0;">
                             If you are seeking a role as a kitchen assistant, it is crucial that you use the best kitchen assistant recruitment agency to help you find the role that is right for you.
                         </p>
-                        <p>
+                        <p style="margin: 0;">
                             The top catering agency will help you to find kitchen assistant temporary roles in an efficient and effective way because they have relationships with catering businesses throughout London. When you turn to temporary catering assistant agencies, you can be sure that you are in the right place because they will help you to determine your specific skills and needs and then pair you up with an employer that suits you.
                         </p>
                     </div>
 
-                    <div class="margin-top-60 alert alert-success">
-                        <a href="#dataCollapse" data-toggle="collapse"><i class="green fa fa-caret-right"></i><strong> Job Title </strong></a>
-                        <div id="dataCollapse" class="collapse margin-top-20">
-                            Kitchen Assistant (Full Time)
-                        </div>
+                    <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12 margin-top-20">
+                        <table class="table table-bordered">
+
+                            <tr>
+                                <th>Job Title</th>
+                                <td>Kitchen Assistant (Full Time)</td>
+
+                            </tr>
+
+
+                            <tr>
+                                <th>Job Location</th>
+                                <td>Central London</td>
+
+                            </tr>
+                            <tr>
+                                <th>Job Duration</th>
+                                <td>Full time, Mon to Fri – 9am to 3pm & Temporary to Permanent basis</td>
+
+                            </tr>
+                            <tr>
+                                <th>Job Start</th>
+                                <td>ASAP</td>
+
+                            </tr>
+                            <tr>
+                                <th>Salary</th>
+                                <td>8 – 9 per hour</td>
+
+                            </tr>
+                            <tr>
+                                <th>Requirments</th>
+                                <td>
+                                    <ul>
+                                        <li><i class="green fa fa-caret-right"></i> Must have 1 – 2 years experience as a Kitchen Assist</li>
+                                        <li><i class="green fa fa-caret-right"></i> Two Employment References</li>
+                                        <li><i class="green fa fa-caret-right"></i> DBS certificate</li>
+                                        <li><i class="green fa fa-caret-right"></i> Immediate availability</li>
+                                    </ul>
+                                </td>
+
+                            </tr>
+                            <tr>
+                                <th>Responsible for</th>
+                                <td>
+                                    <ul>
+                                        <li><i class="green fa fa-caret-right"></i> Help Chef in Food Preparation As Kitchen Assistant</li>
+                                        <li><i class="green fa fa-caret-right"></i> Help in Cleaning & Washing up etc</li>
+
+                                    </ul>
+                                </td>
+
+                            </tr>
+
+                        </table>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-20">
+                        <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="https://workers-direct.com/wp-content/uploads/2015/01/Depositphotos_33435525_m-2.jpg" width="100%" height="300px" alt="#">
                     </div>
 
-                    <hr>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
-                    <div class="margin-top-60 alert alert-success">
-                        <a href="#dataCollapse1" data-toggle="collapse"><i class="green fa fa-caret-right"></i><strong> Job Location </strong></a>
-                        <div id="dataCollapse1" class="collapse margin-top-20">
-                            Central London
-                        </div>
-                    </div>
-
-                    <hr>
-                    <div class="margin-top-60 alert alert-success">
-                        <a href="#dataCollapse2" data-toggle="collapse"><i class="green fa fa-caret-right"></i><strong> Job Duration </strong></a>
-                        <div id="dataCollapse2" class="collapse margin-top-20">
-                            Full time, Mon to Fri – 9am to 3pm & Temporary to Permanent basis
-                        </div>
-                    </div>
-                    <hr>
-                    <div class="margin-top-60 alert alert-success">
-                        <a href="#dataCollapse3" data-toggle="collapse"><i class="green fa fa-caret-right"></i><strong> Job Start </strong></a>
-                        <div id="dataCollapse3" class="collapse margin-top-20">
-                            ASAP
-                        </div>
-                    </div>
-                    <hr>
-                    <div class="margin-top-60 alert alert-success">
-                        <a href="#dataCollapse4" data-toggle="collapse"><i class="green fa fa-caret-right"></i><strong> Salary </strong></a>
-                        <div id="dataCollapse4" class="collapse margin-top-20">
-                            8 – 9 per hour
-                        </div>
-                    </div>
-                    <hr>
-                    <div class="margin-top-60 alert alert-success">
-                        <a href="#dataCollapse5" data-toggle="collapse"><i class="green fa fa-caret-right"></i><strong> Requirments </strong></a>
-                        <div id="dataCollapse5" class="collapse margin-top-20">
-                            <ul>
-                                <li> <i class="green fa fa-caret-right"></i>Must have 1 – 2 years experience as a Kitchen Assist</li>
-                                <li> <i class="green fa fa-caret-right"></i>Two Employment References</li>
-                                <li> <i class="green fa fa-caret-right"></i>DBS certificate </li>
-                                <li> <i class="green fa fa-caret-right"></i>Immediate availability </li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <hr>
-
-                    <div class="margin-top-60 alert alert-success">
-                        <a href="#dataCollapse6" data-toggle="collapse"><i class="green fa fa-caret-right"></i><strong> Responsible for </strong></a>
-                        <div id="dataCollapse6" class="collapse margin-top-20">
-                            <p>Help Chef in Food Preparation As Kitchen Assistant</p>
-                            <p>Help in Cleaning & Washing up etc</p>
-                        </div>
-                    </div>
-
-                    <hr>
-
-                    <p>We are looking for a hard working Kitchen Assistant to join growing team who are available to work day shifts in Central London.</p>
-
-                    <div class="section_heading section_2_heading margin-top-20">
+                        <p style="margin: 0;">We are looking for a hard working Kitchen Assistant to join growing team who are available to work day shifts in Central London.</p>
 
                         <h4 class="margin-top-60"> Summary of <span> Post</span></h4>
 
                         <p>Assist with food preparation and the effective delivery of service and standards</p>
 
-                        <h4 class="margin-bottom-60 margin-top-60"> Main Responsibilities &  <span> Job Requirement</span></h4>
+                        <h4 class="margin-bottom-60 margin-top-60"> Main Responsibilities & <span> Job Requirement</span></h4>
 
                         <ul>
 
@@ -184,21 +178,21 @@
 
                             <li><i class="green fa fa-caret-right"></i>Work in a safe manner, seeking to minimise hazards to ensure the safety of other staff and customers.</li>
 
-                            <li><i class="green fa fa-caret-right"></i>Assist  with  receiving  stock  deliveries  including  the  verification  of delivery goods.</li>
+                            <li><i class="green fa fa-caret-right"></i>Assist with receiving stock deliveries including the verification of delivery goods.</li>
 
                             <li><i class="green fa fa-caret-right"></i>To help the chef in prepare,cook the food and serve food.</li>
                             <li><i class="green fa fa-caret-right"></i>Assist in the running of external functions as and when required.</li>
                             <li><i class="green fa fa-caret-right"></i>To carry out daily and weekly procedures, including temperature checks, food and storage – ensuring food quality is kept to the highest standards at all times.</li>
                             <li><i class="green fa fa-caret-right"></i>It’s really important that you have very high personal and professional standards and the ability to work very quickly and efficiently.</li>
-                            <li><i class="green fa fa-caret-right"></i>Undertake  any  other  task appropriate for the grade and responsibilities of the post that may from time to time be reasonably.</li>
-                            <li><i class="green fa fa-caret-right"></i>Operate in accordance  with  health  and  safety  practices  and regulations at all times.</li>
+                            <li><i class="green fa fa-caret-right"></i>Undertake any other task appropriate for the grade and responsibilities of the post that may from time to time be reasonably.</li>
+                            <li><i class="green fa fa-caret-right"></i>Operate in accordance with health and safety practices and regulations at all times.</li>
                             <li><i class="green fa fa-caret-right"></i>Have a flexible approach to duties and work and, in particular, adopt a teamwork style with departments and activities across the Organisation. This may involve undertaking duties in support of the activities and services of other departments.</li>
 
                         </ul>
 
                     </div>
 
-                
+
 
 
                 </div>
@@ -509,13 +503,13 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h1> <a> Immediate Availability </a> </h1>
 
                             </div>
 
                             <div class="content margin-top-10">
 
-                                <p>Our Customer Service staff available online & on phone 24/7 to fill any urgent vacancy.</p>
+                                <p>An ideal kitchen assistant must available to start on immediate basis.</p>
 
                             </div>
 
@@ -555,7 +549,7 @@
 
                             <div class="content margin-top-10">
 
-                                <p>All our temps are fully able to start on short noitce whenever require.</p>
+                                <p>Are you flexible on weekdays & weekends shifts and also fully able to start on short noitce whenever require.</p>
 
                             </div>
 

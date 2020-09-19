@@ -94,31 +94,55 @@
                 <div class="about_text_wrapper abt_2_para">
 
                     <div>
+                        <table class="table table-bordered">
 
-                        <p><strong>Job Title:</strong> CPCS Industrial Forklift Driver (Reach & Counterbalance truck experience)</p>
-                        <p><strong>Number of Vacancies:</strong> 1</p>
-                        <p><strong>Job Duration:</strong> Temporary</p>
-                        <p><strong>Job Location:</strong> Chelsea, Central London</p>
-                        <p><strong>Job Start:</strong> ASAP</p>
-                        <p><strong>Job Days:</strong> Mon to Fri – 8am to 5pm</p>
-                        <p><strong>Pay Rate:</strong>  £13 – £14 per hour</p>
+                            <tr>
+                                <th><strong>Job Title</strong></th>
+                                <td>CPCS Industrial Forklift Driver (Reach & Counterbalance truck experience)</td>
 
+                            </tr>
+                            <tr>
+                                <th><strong>Number of Vacancies</strong></th>
+                                <td>1</td>
+                            </tr>
+                            <tr>
+                                <th><strong>Job Duration</strong></th>
+                                <td>Temporary</td>
+                            </tr>
+                            <tr>
+                                <th><strong>Job Location</strong></th>
+                                <td>Chelsea, Central London </td>
+                            </tr>
+                            <tr>
+                                <th><strong>Job Start</strong></th>
+                                <td>ASAP</td>
+                            </tr>
+                            <tr>
+                                <th><strong>Job Days</strong></th>
+                                <td>Mon to Fri – 8am to 5pm</td>
+                            </tr>
+                            <tr>
+                                <th><strong>Pay Rate</strong></th>
+                                <td>£13 – £14 per hour</td>
+                            </tr>
+
+                        </table>
                     </div>
 
                     <div class="section_heading section_2_heading margin-top-20">
 
-                        <p>We are looking for a temporary CPCS industrial Forklift Operator URGENTLY (with reach & counterbalance truck experience) for minimum three months to work for our Client in Chelsea, central London.</p>
-                        <p>An ideal candidate must be able to operate all kind of forklift trucks (with CPCS industrial forklift [ A16 ] License) Telehandler experience will be an advantage but not essential.</p>
-                        <p>As this role will involve the operation of a <strong> Counterbalance & Reach Forklift Truck,</strong> holding valid license / certificate is important for this position.</p>
-                        <p>Minimum one year Forklift driving experience (reach & counterbalance) is essential, working from <strong> Monday to Friday 08:00-17:00,</strong> this will be an on-going temporary assignment (initially for three months).</p>
+                        <p style="margin: 0;">We are looking for a temporary CPCS industrial Forklift Operator URGENTLY (with reach & counterbalance truck experience) for minimum three months to work for our Client in Chelsea, central London.</p>
+                        <p style="margin: 0;">An ideal candidate must be able to operate all kind of forklift trucks (with CPCS industrial forklift [ A16 ] License) Telehandler experience will be an advantage but not essential.</p>
+                        <p style="margin: 0;">As this role will involve the operation of a <strong> Counterbalance & Reach Forklift Truck,</strong> holding valid license / certificate is important for this position.</p>
+                        <p style="margin: 0;">Minimum one year Forklift driving experience (reach & counterbalance) is essential, working from <strong> Monday to Friday 08:00-17:00,</strong> this will be an on-going temporary assignment (initially for three months).</p>
                     </div>
 
                     <div>
-                        <p>Please send your CV today for quick start.</p>
-                        <p><strong>jobs@ Workers-direct.com</strong></p>
-                        <a href="# "><strong> OR Apply Online</strong></a>
-                        <p><strong>http://workers-direct.com/cv-registration</strong></p>
-                        
+                        <p style="margin: 0;">Please send your CV today for quick start.</p>
+                        <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
+                        <a href="# " class="green"><strong> OR Apply Online</strong></a>
+                        <p style="margin: 0;"><strong>http://workers-direct.com/cv-registration</strong></p>
+
                     </div>
                 </div>
 

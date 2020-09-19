@@ -91,15 +91,15 @@
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper ">
 
-                    <div class="section_heading section_2_heading">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
                         <p>The team at Workers Direct specialists in matching talented office and support candidates with companies for temporary and temp-to-hire positions. We have workers with proven skills that can fill a range of positions, offering top-notch admin support for your business.</p>
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
                         <div class="section_heading section_2_heading">
 
@@ -112,7 +112,7 @@
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
                         <div class="section_heading section_2_heading">
 
@@ -123,12 +123,12 @@
                         <p>
                             A skilled office assistant ensures that processes are followed, requirements met and the day-to-day operation runs smoothly. One of our experienced temporary office assistants can help with your administrative work, data entry, answering phone calls or deal with customer service responsibilities.
                         </p>
+                    </div>
 
-                        <div>
-                            <img src="http://workers-direct.com/wp-content/uploads/2015/01/Temp-agency-1024x731.jpg" alt="Temp Agency London" width="100%">
-                        </div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-                        <div class="section_heading section_2_heading margin-top-60">
+
+                        <div class="section_heading section_2_heading margin-top-20">
 
                             <h2>Temporary & Contractual <span> Workforce</span></h2>
 
@@ -138,8 +138,9 @@
                             As a temping agency, hundreds of temps are registered with us and they are ready to work on very short notice. All temps have relevant Experienced and expert in their fields. Whenever we receive any request for a job (either is on temporary /permanent basis) before placement one of our recruitment expert match it
                             very carefully with a most suitable candidate.
                         </p>
-
-                        <div class="margin-top-60">
+                    </div>
+                    <div class="col-lg-7 col-md-7 col-xs-12 col-sm-12">
+                        <div class="margin-top-20">
                             <ul>
                                 <li><i class="fa fa-caret-right"></i> Receptionists</li>
                                 <li><i class="fa fa-caret-right"></i> Personal Assistants</li>
@@ -149,23 +150,23 @@
                                 <li><i class="fa fa-caret-right"></i> IT Specialists</li>
                             </ul>
                         </div>
-
-
-
+                    </div>
+                    <div class="col-lg-5 col-md-5 col-xs-12 col-sm-12 margin-top-20">
+                        <img style="border:4px solid #7CC24D; border-radius:5px;" src="http://workers-direct.com/wp-content/uploads/2015/01/Temp-agency-1024x731.jpg" alt="Temp Agency London" height="230px" width="100%">
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">   
                         <div>
-                            <p>To apply forward your CV to arrange an immediate interview.</p>
-                            <p><strong>jobs@ Workers-direct.com</strong></p>
-                            <a href="# "><strong> OR Apply Online</strong></a>
+                            <p style="margin: 0;">To apply forward your CV to arrange an immediate interview.</p>
+                            <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
+                            <a href="# " class="green"><strong> OR Apply Online</strong></a>
                         </div>
-
-
                     </div>
 
                 </div>
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 

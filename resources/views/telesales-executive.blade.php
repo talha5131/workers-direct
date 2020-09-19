@@ -93,26 +93,59 @@
 
                 <div class="about_text_wrapper abt_2_para">
 
-                    <div class="text-center">
-                        <img src="https://workers-direct.com/wp-content/uploads/2017/01/Call-Centre-Staffing.jpg" alt="#">
+                    <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
+                        <table class="table table-bordered">
+                            <tr>
+                                <th>Job Title</th>
+                                <th>Telesales Executive</th>
+
+                            </tr>
+                            <tr>
+                                <th>Numbers of Vacancies</th>
+                                <td>2</td>
+
+                            </tr>
+                            <tr>
+                                <th>Job Location</th>
+                                <td>London Shoreditch, N1</td>
+
+                            </tr>
+                            <tr>
+                                <th>Job Duration</th>
+                                <td>Temporary To Permanent</td>
+
+                            </tr>
+                            <tr>
+                                <th>Job Start</th>
+                                <td>ASAP</td>
+
+                            </tr>
+                            <tr>
+                                <th>Job Days</th>
+                                <td>Mon to Fri – (25 – 30 hours a week)</td>
+
+                            </tr>
+                            <tr>
+                                <th>Pay Rate</th>
+                                <td>£9 – £12 per hour</td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
+                        <div class="text-center">
+                            <img style="border: 4px solid #7CC24D; border-radius:5px;" src="https://workers-direct.com/wp-content/uploads/2017/01/Call-Centre-Staffing.jpg" width="100%" height="270px" alt="#">
+                        </div>
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+
+
+                        <p style="margin: 0;">Our client is one of the leading providers of soft skills / eLibrary to corporate sectors. They are looking for couple of Telesales Executives to approach HR decision makers through outbound calls to offer learning solutions of their employees.</p>
+                        <p style="margin: 0;">The successful applicants must have a very good command on German language & previous experience in telesales field. This role will need someone who can multi tasks and work to a variety of deadlines and product offerings, whilst reporting into and the Team Leader ensuring best practices are maintained, commercial strategies are followed and the targets achieved.</p>
+
+
                     </div>
 
-                    <div>
-                        <p><strong> Job Title:</strong> Telesales Executive</p>
-                        <p><strong>Numbers of Vacancies:</strong> 2</p>
-                        <p><strong>Job Location:</strong> London Shoreditch, N1</p>
-                        <p><strong>Job Duration:</strong> Temporary To Permanent</p>
-                        <p><strong>Job Start:</strong> ASAP</p>
-                        <p><strong>Job Days:</strong> Mon to Fri – (25 – 30 hours a week)</p>
-                        <p><strong>Pay Rate:</strong> £9 – £12 per hour</p>
-
-                        <p>Our client is one of the leading providers of soft skills / eLibrary to corporate sectors. They are looking for couple of Telesales Executives to approach HR decision makers through outbound calls to offer learning solutions of their employees.</p>
-                        <p>The successful applicants must have a very good command on German language & previous experience in telesales field. This role will need someone who can multi tasks and work to a variety of deadlines and product offerings, whilst reporting into and the Team Leader ensuring best practices are maintained, commercial strategies are followed and the targets achieved.</p>
-
-
-                    </div>
-
-                    <div class="section_heading section_2_heading margin-top-20">
+                    <div class="section_heading section_2_heading col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
                         <h4 class="margin-bottom-60"> Main <span> Responsibilities</span></h4>
 
@@ -130,7 +163,7 @@
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-20">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 section_heading section_2_heading margin-top-20">
 
                         <h4 class="margin-bottom-60"> Skills &<span> Experience</span></h4>
 
@@ -151,13 +184,13 @@
 
                     </div>
 
-                    <div>
-                        
-                        <p>If this role interests you please email your CV and we will arrange an immediate interview.</p>
-                        <p><strong>jobs@ Workers-direct.com</strong></p>
-                        <a href="# "><strong> OR Apply Online</strong></a>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+
+                        <p style="margin: 0;">If this role interests you please email your CV and we will arrange an immediate interview.</p>
+                        <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
+                        <a href="# " class="green"><strong> OR Apply Online</strong></a>
                     </div>
-                
+
 
                 </div>
 

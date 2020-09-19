@@ -96,8 +96,8 @@
                     
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
                         
-                        <p>We are recruiting a talented Sous Chefs X 2 on permanent basis for a well-known busy restaurant based in central London area.</p>
-                        <p>Sous chef will work alongside with Head Chef to create fresh, seasonal menus for residents and growing regular customers. An ideal candidate must be ambitious and have real passion for creating great food also must be a team player and be able to assist with any section within the Kitchen.</p>
+                        <p style="margin: 0;">We are recruiting a talented Sous Chefs X 2 on permanent basis for a well-known busy restaurant based in central London area.</p>
+                        <p style="margin: 0;">Sous chef will work alongside with Head Chef to create fresh, seasonal menus for residents and growing regular customers. An ideal candidate must be ambitious and have real passion for creating great food also must be a team player and be able to assist with any section within the Kitchen.</p>
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
@@ -119,10 +119,10 @@
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
-                        <p>For immediate placement sends your CV Today.</p>
-                        <p><strong>jobs@ Workers-direct.com</strong></p>
+                        <p style="margin: 0;">For immediate placement sends your CV Today.</p>
+                        <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
                         <a href="# "><strong> OR Apply Online</strong></a>
-                        <p><strong>http://workers-direct.com/cv-registration</strong></p>
+                        <p style="margin: 0;"><strong>http://workers-direct.com/cv-registration</strong></p>
 
                     </div>
                 </div>

@@ -97,23 +97,23 @@
 
                         <table class="table table-bordered " style="width:100%">
                             <tr>
-                                <th>Job Titles</th>
+                                <th class="green">Job Titles</th>
                                 <td>Hairdresser</td>
                             </tr>
                             <tr>
-                                <th>Job Location</th>
+                                <th class="green">Job Location</th>
                                 <td>West End – Central London</td>
                             </tr>
                             <tr>
-                                <th>Job Duration</th>
+                                <th class="green">Job Duration</th>
                                 <td>Permanent</td>
                             </tr>
                             <tr>
-                                <th>Number Of Vacancies</th>
+                                <th class="green">Number Of Vacancies</th>
                                 <td>2</td>
                             </tr>
                             <tr>
-                                <th>Salary</th>
+                                <th class="green">Salary</th>
                                 <td>£8.00 to £10.50 per hour (depends on experience)</td>
                             </tr>
 
@@ -137,9 +137,9 @@
                     </div>
 
                     <div>
-                        <p>If you’re interested please send your CV to arrange an immediate interview for <strong> hairdresser jobs </strong> at,</p>
-                        <p><strong> jobs@Workers-direct.com</strong></p>
-                        <a href="#"><strong> OR Apply online now</strong></a>
+                        <p style="margin: 0;">If you’re interested please send your CV to arrange an immediate interview for <strong> hairdresser jobs </strong> at,</p>
+                        <p style="margin: 0;"><strong> jobs@Workers-direct.com</strong></p>
+                        <a href="#" class="green"><strong> OR Apply online now</strong></a>
                     </div>
 
                 </div>

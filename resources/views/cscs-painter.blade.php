@@ -94,14 +94,45 @@
                 <div class="about_text_wrapper abt_2_para">
 
                     <div>
-
-                        <p><strong>Job Title:</strong> CSCS Painter</p>
-                        <p><strong>Requirements:</strong> CSCS Card & relevant experience</p>
-                        <p><strong>Job Location:</strong> Central London, NC1</p>
-                        <p><strong>Tools & Full PPE:</strong> Will be provided</p>
-                        <p><strong>Job Duration:</strong> Temporary / On-Going Basis</p>
-                        <p><strong>Job Type:</strong> Full Time</p>
-                        <p><strong>Salary:</strong> £10 to £12 per hour</p>
+                        <table class="table table-bordered">
+                            
+                                <tr>
+                                    <th>Job Title</th>
+                                    <td>CSCS Painter</td>
+                                    
+                                </tr>
+                                <tr>
+                                    <th>Requirements</th>
+                                    <td>CSCS Card & relevant experience</td>
+                                    
+                                </tr>
+                                <tr>
+                                    <th>Job Location</th>
+                                    <td>Central London, NC1</td>
+                                    
+                                </tr>
+                                <tr>
+                                    <th>Tools & Full PPE</th>
+                                    <td>Will be provided</td>
+                                    
+                                </tr>
+                                <tr>
+                                    <th>Job Duration</th>
+                                    <td>Temporary / On-Going Basis</td>
+                                    
+                                </tr>
+                                <tr>
+                                    <th>Job Type</th>
+                                    <td>Full Time</td>
+                                    
+                                </tr>
+                                <tr>
+                                    <th>Salary</th>
+                                    <td>£10 to £12 per hour</td>
+                                    
+                                </tr>
+                            
+                        </table>
 
                     </div>
 
@@ -113,14 +144,14 @@
                             <li><i class="fa fa-caret-right"></i>Candidates must have had experience in Painting and Decorating.</li>
                             <li><i class="fa fa-caret-right"></i>Hold a valid CSCS card.</li>
                             <li><i class="fa fa-caret-right"></i>Must be reliable and punctual.</li>
-                            
+
                         </ul>
                     </div>
 
                     <div>
                         <p>Please email CV or Contact details to <strong>jobs@ Workers-direct.com</strong>if you are interested in this Painting position Or call bill for more details on <strong> 0203 617 1518</strong>.</p>
-                        
-                        <a href="#"><strong> OR Apply Online</strong></a>
+
+                        <a href="#" class="green"><strong> OR Apply Online</strong></a>
                     </div>
                 </div>
 

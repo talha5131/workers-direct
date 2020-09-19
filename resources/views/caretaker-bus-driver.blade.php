@@ -97,23 +97,23 @@
 
                         <table class="table table-bordered " style="width:100%">
                             <tr>
-                                <th>Job Titles</th>
+                                <th class="green">Job Titles</th>
                                 <td>School Caretaker & Bus Driver</td>
                             </tr>
                             <tr>
-                                <th>Job Location</th>
+                                <th class="green">Job Location</th>
                                 <td>London</td>
                             </tr>
                             <tr>
-                                <th>Employment Type</th>
+                                <th class="green">Employment Type</th>
                                 <td>Temporary</td>
                             </tr>
                             <tr>
-                                <th>Minimum Salary</th>
+                                <th class="green">Minimum Salary</th>
                                 <td>£10.20 per hour</td>
                             </tr>
                             <tr>
-                                <th>Experience (year)</th>
+                                <th class="green">Experience (year)</th>
                                 <td>2 -3 years</td>
                             </tr>
 
@@ -121,19 +121,19 @@
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="section_heading section_2_heading margin-top-20">
 
                         <h2>Duties and Responsibilities Of School <span> Caretaker Job</span></h2>
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="section_heading section_2_heading margin-top-40">
 
                         <h4>Driving<span></span></h4>
 
                     </div>
 
-                    <div class="margin-top-60">
+                    <div class="margin-top-30">
                         <ul>
                             <li><i class="fa fa-caret-right"></i> Transport students and teachers to and from the main campus to the diploma college</li>
                             <li><i class="fa fa-caret-right"></i> Ensure the shuttle schedule is adhered to, making sure students and teachers are on time for lessons</li>
@@ -141,13 +141,13 @@
                         </ul>
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="section_heading section_2_heading margin-top-40">
 
                         <h4>Maintenance<span></span></h4>
 
                     </div>
 
-                    <div class="margin-top-60">
+                    <div class="margin-top-30">
                         <ul>
                             <li><i class="fa fa-caret-right"></i> Drawing the attention of the school principal to any repair or maintenance work required at the school which is beyond the caretaker’s ability to deal with. To carry out minor or temporary repairs as directed</li>
                             <li><i class="fa fa-caret-right"></i> Carrying out routine maintenance procedures according to the daily and termly checklists</li>
@@ -156,13 +156,13 @@
                         </ul>
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="section_heading section_2_heading margin-top-40">
 
                         <h4>Storekeeping<span></span></h4>
 
                     </div>
 
-                    <div class="margin-top-60">
+                    <div class="margin-top-30">
                         <ul>
                             <li><i class="fa fa-caret-right"></i> Ensuring that all parcels delivered to the school reach the addressee by the end of the day</li>
                             <li><i class="fa fa-caret-right"></i> Taking delivery of stores, materials and other goods and safely storing  them</li>
@@ -172,13 +172,13 @@
                         </ul>
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="section_heading section_2_heading margin-top-40">
 
                         <h4>Security<span></span></h4>
 
                     </div>
 
-                    <div class="margin-top-60">
+                    <div class="margin-top-30">
                         <ul>
                             <li><i class="fa fa-caret-right"></i> Preventing trespassers on school premises or grounds and ensuring that unauthorised parking of vehicles does not occur</li>
                             <li><i class="fa fa-caret-right"></i> Responding when the school alarm system is set off and arrange for the system to be reset</li>
@@ -187,13 +187,13 @@
                         </ul>
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="section_heading section_2_heading margin-top-40">
 
                         <h4>Cleaning<span></span></h4>
 
                     </div>
 
-                    <div class="margin-top-60">
+                    <div class="margin-top-30">
                         <ul>
                             <li><i class="fa fa-caret-right"></i> Cleaning graffiti and other defacing marks on the campus</li>
                             <li><i class="fa fa-caret-right"></i> Keep the corridors and staircases clean and tidy during the afternoon</li>
@@ -203,13 +203,13 @@
                         </ul>
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="section_heading section_2_heading margin-top-40">
 
                         <h4>Miscellaneous<span></span></h4>
 
                     </div>
 
-                    <div class="margin-top-60">
+                    <div class="margin-top-30">
                         <ul>
                             <li><i class="fa fa-caret-right"></i> Make note of the enquiries from teaching staff, students, parents, workmen, contractors and members of the public as well as with the emergency services (e.g. Police, Fire Brigade, etc) as and when required and direct them to the Site Supervisor</li>
                             <li><i class="fa fa-caret-right"></i> Help set up for school events, assemblies and concerts; arranging furniture in rooms wherever necessary</li>
@@ -219,13 +219,13 @@
                         </ul>
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="section_heading section_2_heading margin-top-40">
 
                         <h4>Suitable candidates must have the following<span></span></h4>
 
                     </div>
 
-                    <div class="margin-top-60">
+                    <div class="margin-top-30">
                         <ul>
                             <li><i class="fa fa-caret-right"></i> Have a valid PCV (D) license</li>
                             <li><i class="fa fa-caret-right"></i> Have full CPC</li>
@@ -235,9 +235,9 @@
                     </div>
 
                     <div>
-                        <p>Successful candidate will be paid a rate of <strong> £10.20 per hour</strong>.</p>
-                        <p>This is an excellent opportunity to work with a massive client and is not to be missed. Please send in your CV as soon as possible at, <strong> jobs@Workers-direct.com</strong></p>
-                        <a href="#"><strong> OR Apply online now</strong></a>
+                        <p style="margin: 0;">Successful candidate will be paid a rate of <strong> £10.20 per hour</strong>.</p>
+                        <p style="margin: 0;">This is an excellent opportunity to work with a massive client and is not to be missed. Please send in your CV as soon as possible at, <strong> jobs@Workers-direct.com</strong></p>
+                        <a href="#" class="green"><strong> OR Apply online now</strong></a>
                     </div>
 
                 </div>

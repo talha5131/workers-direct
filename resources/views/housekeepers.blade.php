@@ -125,36 +125,36 @@
 
                         <table class="table table-bordered text-center" style="width:100%">
                             <tr>
-                                <th>Job Titles:</th>
+                                <th>Job Titles</th>
                                 <td>Housekeepers X 3</td>
                             </tr>
                             <tr>
-                                <th>Job Location:</th>
+                                <th>Job Location</th>
                                 <td>Central London</td>
                             </tr>
                             <tr>
-                                <th>Job Duration:</th>
+                                <th>Job Duration</th>
                                 <td>Temporary</td>
                             </tr>
                             <tr>
-                                <th>Job Started:</th>
+                                <th>Job Started</th>
                                 <td>As soon as possible</td>
                             </tr>
                             <tr>
-                                <th>Salary:</th>
+                                <th>Salary</th>
                                 <td>£8.50 to £9.00 per hour</td>
                             </tr>
                         </table>
 
-                        <p>We are looking for experienced <strong>Housekeepers URGENTLY</strong>  on temporary basis in Central London area. competitive hourly salary £8.50 to £9.00 Previous experience as housekeeper or room attendant is essential, Immediate start available.</p>
+                        <p style="margin: 0;">We are looking for experienced <strong>Housekeepers URGENTLY</strong>  on temporary basis in Central London area. competitive hourly salary £8.50 to £9.00 Previous experience as housekeeper or room attendant is essential, Immediate start available.</p>
 
                     </div>
 
                     <div>
 
-                        <p>To apply forward your CV to arrange an immediate interview.</p>
-                        <p><strong>jobs@ Workers-direct.com</strong></p>
-                        <a href="# "><strong> OR Apply Online</strong></a>
+                        <p style="margin: 0;">To apply forward your CV to arrange an immediate interview.</p>
+                        <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
+                        <a href="# " class="green"><strong> OR Apply Online</strong></a>
                     </div>
 
 

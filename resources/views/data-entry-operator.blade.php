@@ -95,10 +95,32 @@
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-                        <p><strong>Job Title:</strong> Data Entry Operator</p>
-                        <p><strong>Job Duration:</strong> Temporary</p>
-                        <p><strong>Job Location:</strong> Victoria, Central London</p>
-                        <p><strong>Pay Rate:</strong> £8.50 to £10 per hour (Depends on Experience & Skills)</p>
+                        <table class="table table-bordered">
+                            
+                                <tr>
+                                    <th>Job Title</th>
+                                    <td>Data Entry Operator</td>
+                                    
+                                </tr>
+                        
+                            
+                                <tr>
+                                    <th>Job Duration</th>
+                                    <td>Temporary</td>
+                                    
+                                </tr>
+                                <tr>
+                                    <th>Job Location</th>
+                                    <td>Victoria, Central London</td>
+                                    
+                                </tr>
+                                <tr>
+                                    <th>Pay Rate</th>
+                                    <td>£8.50 to £10 per hour (Depends on Experience & Skills)</td>
+                                    
+                                </tr>
+                            
+                        </table>
 
                     </div>
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
@@ -144,10 +166,10 @@
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
-                        <p>To apply forward your CV to arrange an immediate interview.</p>
-                        <p><strong>jobs@ Workers-direct.com</strong></p>
-                        <a href="# "><strong> OR Apply Online</strong></a>
-                        <p><strong>http://workers-direct.com/cv-registration</strong></p>
+                        <p style="margin: 0;">To apply forward your CV to arrange an immediate interview.</p>
+                        <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
+                        <a href="#" class="green"><strong> OR Apply Online</strong></a>
+                        <p style="margin: 0;"><strong>http://workers-direct.com/cv-registration</strong></p>
 
                     </div>
                 </div>

@@ -97,31 +97,31 @@
 
                         <table class="table table-bordered " style="width:100%">
                             <tr>
-                                <th>Job Title</th>
+                                <th class="green">Job Title</th>
                                 <td>Telesales Executive</td>
                             </tr>
                             <tr>
-                                <th>Number of Vacancies</th>
+                                <th class="green">Number of Vacancies</th>
                                 <td>3</td>
                             </tr>
                             <tr>
-                                <th>Job Started From</th>
+                                <th class="green">Job Started From</th>
                                 <td>Sep 2015</td>
                             </tr>
                             <tr>
-                                <th>Job Location</th>
+                                <th class="green">Job Location</th>
                                 <td>Central London</td>
                             </tr>
                             <tr>
-                                <th>Job Duration</th>
+                                <th class="green">Job Duration</th>
                                 <td>Temp To Permanent</td>
                             </tr>
                             <tr>
-                                <th>Hours</th>
+                                <th class="green">Hours</th>
                                 <td>9am to 5pm – Mon to Fri</td>
                             </tr>
                             <tr>
-                                <th>Wages</th>
+                                <th class="green">Wages</th>
                                 <td>Competitive</td>
                             </tr>
 
@@ -171,9 +171,9 @@
                     </div>
 
                     <div>
-                        <p>This position is best suited to a person with a Telesales / Telemarketing background and creative personality with excellent Communication skills. To book an immediate interview please sends your CV Today at,</p>
-                        <p><strong> jobs@Workers-direct.com</strong></p>
-                        <a href="#" class="green"><strong> OR Apply online now</strong></a>
+                        <p style="margin: 0;">This position is best suited to a person with a Telesales / Telemarketing background and creative personality with excellent Communication skills. To book an immediate interview please sends your CV Today at,</p>
+                        <p style="margin: 0;"><strong> jobs@Workers-direct.com</strong></p>
+                        <a href="#" class="green"><strong> OR Apply online</strong></a>
                     </div>
 
                 </div>

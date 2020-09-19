@@ -93,18 +93,18 @@
 
                 <div class="about_text_wrapper abt_2_para">
 
-                    <div>
-                        <p>Qualifications, background, ability and experience are key when searching for healthcare staff.</p>
-                        <p>At Workers Direct our recruitment team for the healthcare sector can find you permanent, casual and contract workers that are available across the UK.</p>
-                        <p>We ensure that all of our candidates are trained, practised and proficient before matching them to our clients – we know that you need the right staff for a healthcare facility, and are committed to finding them for you. We also follow up to confirm that you are satisfied.</p>
+                    <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
+                        <p style="margin: 0;">Qualifications, background, ability and experience are key when searching for healthcare staff.</p>
+                        <p style="margin: 0;">At Workers Direct our recruitment team for the healthcare sector can find you permanent, casual and contract workers that are available across the UK.</p>
+                        <p style="margin: 0;">We ensure that all of our candidates are trained, practised and proficient before matching them to our clients – we know that you need the right staff for a healthcare facility, and are committed to finding them for you. We also follow up to confirm that you are satisfied.</p>
 
                     </div>
 
-                    <div class="text-center">
-                        <img src="http://workers-direct.com/wp-content/uploads/2014/02/Nursing-Agency-1024x683.jpg" width="100%" alt="#">
+                    <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-30">
+                        <img style="border: 4px solid #7CC24D; border-radius:5px;" src="http://workers-direct.com/wp-content/uploads/2014/02/Nursing-Agency-1024x683.jpg" width="100%" height="250px" alt="#">
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-20">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
                         <div class="section_heading section_2_heading">
 
@@ -112,13 +112,13 @@
 
                         </div>
 
-                        <p>Workers Direct have qualified professionals ready to start nursing work today.</p>
-                        <p>We work with skilled candidates that are experienced in their fields, for temporary or permanent roles, offering a cost-effective, stress-free solution to that search for nursing staff.</p>
-                        <p>Let our team know what you need, long or short-term, and we will recruit a nurse for you.</p>
+                        <p style="margin: 0;">Workers Direct have qualified professionals ready to start nursing work today.</p>
+                        <p style="margin: 0;">We work with skilled candidates that are experienced in their fields, for temporary or permanent roles, offering a cost-effective, stress-free solution to that search for nursing staff.</p>
+                        <p style="margin: 0;">Let our team know what you need, long or short-term, and we will recruit a nurse for you.</p>
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-20">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
                         <div class="section_heading section_2_heading">
 
@@ -126,14 +126,14 @@
 
                         </div>
 
-                        <p>The candidates on the books of Workers Direct are highly adaptable, hardworking and range from veteran to newly qualify.</p>
-                        <p>If you are looking for medical staff then we are the healthcare recruitment experts to provide you with staff.</p>
-                        <p>Our agency find only the best workers and we have high placement rates and a history of contented medical employers.</p>
-                        <p>Contact us today to let us know your staffing needs!</p>
+                        <p style="margin: 0;">The candidates on the books of Workers Direct are highly adaptable, hardworking and range from veteran to newly qualify.</p>
+                        <p style="margin: 0;">If you are looking for medical staff then we are the healthcare recruitment experts to provide you with staff.</p>
+                        <p style="margin: 0;">Our agency find only the best workers and we have high placement rates and a history of contented medical employers.</p>
+                        <p style="margin: 0;">Contact us today to let us know your staffing needs!</p>
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-20">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
                         <div class="section_heading section_2_heading">
 
@@ -141,9 +141,9 @@
 
                         </div>
 
-                        <p>At Workers Direct our criteria for all staff that we sign up are strict, but particularly so with healthcare staff and care workers.</p>
-                        <p>We select based on skill, ability and knowledge and we only recruit care workers that are prepared to put in the high level of sensitivity, attention that you are looking for, and take on the long hours.</p>
-                        <p>We have many qualified care workers ready to be matched to roles and we handpick them for you.</p>
+                        <p style="margin: 0;">At Workers Direct our criteria for all staff that we sign up are strict, but particularly so with healthcare staff and care workers.</p>
+                        <p style="margin: 0;">We select based on skill, ability and knowledge and we only recruit care workers that are prepared to put in the high level of sensitivity, attention that you are looking for, and take on the long hours.</p>
+                        <p style="margin: 0;">We have many qualified care workers ready to be matched to roles and we handpick them for you.</p>
 
                     </div>
 

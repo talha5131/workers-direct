@@ -77,7 +77,7 @@
             </div>
 
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center margin-top-60">
-                <img src="http://workers-direct.com/wp-content/uploads/2015/01/Contact-Workers-Direct1-1024x688.jpg" alt="workers direct">
+                <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="http://workers-direct.com/wp-content/uploads/2015/01/Contact-Workers-Direct1-1024x688.jpg" height="600px" alt="workers direct">
             </div>
 
         </div>
@@ -92,7 +92,7 @@
 
         <div style="width:100%; float:left; height:600px;">
 
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2480.4054139491323!2d0.08116921520262564!3d51.56080101461914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a6863c22706b%3A0xdfb224d6cd4eee4c!2s344-348%20High%20Rd%2C%20Ilford%20IG1%201QP%2C%20UK!5e0!3m2!1sen!2s!4v1580738057832!5m2!1sen!2s" width="100%" height="600" frameborder="0"></iframe></div>
+            <iframe style="border: 4px solid #7CC24D; border-radius: 5px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2480.4054139491323!2d0.08116921520262564!3d51.56080101461914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a6863c22706b%3A0xdfb224d6cd4eee4c!2s344-348%20High%20Rd%2C%20Ilford%20IG1%201QP%2C%20UK!5e0!3m2!1sen!2s!4v1580738057832!5m2!1sen!2s" width="100%" height="600" frameborder="0"></iframe></div>
 
         <div class="jp_map_cont_label">
 

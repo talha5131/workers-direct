@@ -98,37 +98,37 @@
                         <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                             <table class="table table-bordered " style="width:100%">
                                 <tr>
-                                    <th>Job Title:</th>
+                                    <th>Job Title</th>
                                     <td>Mortgage Administrator (Part Time)</td>
                                 </tr>
                                 <tr>
-                                    <th>Region:</th>
+                                    <th>Region</th>
                                     <td>Greater London</td>
                                 </tr>
                                 <tr>
-                                    <th>Location details:</th>
+                                    <th>Location details</th>
                                     <td>Edgware</td>
                                 </tr>
                                 <tr>
-                                    <th>Job Sector:</th>
+                                    <th>Job Sector</th>
                                     <td>Administration & PA</td>
                                 </tr>
                                 <tr>
-                                    <th>Period:</th>
+                                    <th>Period</th>
                                     <td>4+ Months</td>
                                 </tr>
                                 <tr>
-                                    <th>Type:</th>
+                                    <th>Type</th>
                                     <td>Part-time</td>
                                 </tr>
                                 <tr>
-                                    <th>Remuneration:</th>
+                                    <th>Remuneration</th>
                                     <td>
                                         £10 per hour
                                     </td>
                                 </tr>
                                 <tr>
-                                    <th>Job Start date:</th>
+                                    <th>Job Start date</th>
                                     <td>
                                         23/10/2014
                                     </td>
@@ -140,7 +140,7 @@
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="section_heading section_2_heading margin-top-20">
 
                         <div class="section_heading section_2_heading">
 
@@ -153,7 +153,7 @@
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="section_heading section_2_heading margin-top-20">
 
                         <div class="section_heading section_2_heading ">
 
@@ -169,7 +169,7 @@
 
                         </div>
 
-                        <div class="margin-top-60">
+                        <div class="margin-top-30">
                             <ul>
                                 <li><i class="fa fa-caret-right"></i> Mortgage Advisory Experience in a Bank, Building Society or in any private firm</li>
                                 <li><i class="fa fa-caret-right"></i> Communication skills and good telephone manner</li>
@@ -185,7 +185,7 @@
                         <div>
                             <p>Send Your CV Today for immediate placement.</p>
                             <p><strong>jobs@ Workers-direct.com</strong></p>
-                            <a href="# "><strong> OR Apply Online</strong></a>
+                            <a href="# " class="green"><strong> OR Apply Online</strong></a>
                         </div>
 
 

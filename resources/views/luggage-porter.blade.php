@@ -95,34 +95,34 @@
 
                     <div class="section_heading section_2_heading row">
 
-                        <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+                        <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
                             <table class="table table-bordered " style="width:100%">
                                 <tr>
-                                    <th>Job Titles:</th>
+                                    <th>Job Titles</th>
                                     <td>Luggage Porter</td>
                                 </tr>
                                 <tr>
-                                    <th>Job Location:</th>
+                                    <th>Job Location</th>
                                     <td>Central London</td>
                                 </tr>
                                 <tr>
-                                    <th>Job Start:</th>
+                                    <th>Job Start</th>
                                     <td>ASAP</td>
                                 </tr>
                                 <tr>
-                                    <th>Pay Rate:</th>
+                                    <th>Pay Rate</th>
                                     <td>£8.75 – £9 per hour</td>
                                 </tr>
                                 <tr>
-                                    <th>Job Type:</th>
+                                    <th>Job Type</th>
                                     <td>Full Time, Temporary</td>
                                 </tr>
                                 <tr>
-                                    <th>Job Days and Timings:</th>
+                                    <th>Job Days and Timings</th>
                                     <td>Monday to Friday, 8am to 5pm</td>
                                 </tr>
                                 <tr>
-                                    <th>Job Requirements:</th>
+                                    <th>Job Requirements</th>
                                     <td>
                                         Previous Experiece as Hotel Porter/ Luggage Porter
                                     </td>
@@ -131,8 +131,8 @@
 
                         </div>
 
-                        <div class="col-lg-3 col-md-3 col-xs-12 col-sm-12">
-                            <img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/temping-agency-london-ojg1nk70k433bz3dsh93e4c487wm7fd97kw586eo08.jpg" alt="hospitality agency"  width="100%">
+                        <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
+                            <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/temping-agency-london-ojg1nk70k433bz3dsh93e4c487wm7fd97kw586eo08.jpg" alt="hospitality agency" height="270px"  width="100%">
                         </div>
 
                         
@@ -142,9 +142,9 @@
 
                     
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="section_heading section_2_heading margin-top-20">
 
-                        <div>
+                        <div class="alert alert-success">
                             <ul>
                                 <li><i class="fa fa-caret-right"></i> To take suitcases and bags from guests or passengers checking in and, where applicable, tags it and provides customer identification slips</li>
                                 <li><i class="fa fa-caret-right"></i> To carries luggage while escorting guests or passengers to their rooms</li>
@@ -161,9 +161,9 @@
                         </div>
 
                         <div>
-                            <p>To apply forward your CV to arrange an immediate interview.</p>
-                            <p><strong>jobs@ Workers-direct.com</strong></p>
-                            <a href="# "><strong> OR Apply Online</strong></a>
+                            <p style="margin: 0;">To apply forward your CV to arrange an immediate interview.</p>
+                            <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
+                            <a href="#" class="green"><strong> OR Apply Online</strong></a>
                         </div>
 
 

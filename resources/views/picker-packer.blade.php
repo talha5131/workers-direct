@@ -93,67 +93,69 @@
 
                 <div class="about_text_wrapper abt_2_para">
 
-                    <div class="text-center">
-                        <img src="https://workers-direct.com/wp-content/uploads/2018/10/Warehouse-staff-Agency-1024x683.jpg" width="100%" alt="#">
-                    </div>
-
-                    <div class="margin-top-60">
-                        <a href="#dataCollapse" data-toggle="collapse"><i class="green fa fa-caret-right"></i><strong> Job Title </strong></a>
-                        <div id="dataCollapse" class="collapse margin-top-20">
-                            Picker & Packers
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <div>
+                            <a href="#dataCollapse" data-toggle="collapse"><i class="green fa fa-caret-right"></i><strong> Job Title </strong></a>
+                            <div id="dataCollapse" class="collapse margin-top-20">
+                                Picker & Packers
+                            </div>
                         </div>
-                    </div>
 
-                    <hr>
+                        <hr>
 
-                    <div class="margin-top-60">
-                        <a href="#dataCollapse1" data-toggle="collapse"><i class="green fa fa-caret-right"></i><strong> Job Location </strong></a>
-                        <div id="dataCollapse1" class="collapse margin-top-20">
-                            North West London
+                        <div>
+                            <a href="#dataCollapse1" data-toggle="collapse"><i class="green fa fa-caret-right"></i><strong> Job Location </strong></a>
+                            <div id="dataCollapse1" class="collapse margin-top-20">
+                                North West London
 
+                            </div>
                         </div>
-                    </div>
 
-                    <hr>
-                    <div class="margin-top-60">
-                        <a href="#dataCollapse2" data-toggle="collapse"><i class="green fa fa-caret-right"></i><strong> Job Duration </strong></a>
-                        <div id="dataCollapse2" class="collapse margin-top-20">
-                            Full time, Mon to Fri – 9am to 6pm & Temporary to Permanent basis
+                        <hr>
+                        <div>
+                            <a href="#dataCollapse2" data-toggle="collapse"><i class="green fa fa-caret-right"></i><strong> Job Duration </strong></a>
+                            <div id="dataCollapse2" class="collapse margin-top-20">
+                                Full time, Mon to Fri – 9am to 6pm & Temporary to Permanent basis
+                            </div>
                         </div>
-                    </div>
-                    <hr>
-                    <div class="margin-top-60">
-                        <a href="#dataCollapse3" data-toggle="collapse"><i class="green fa fa-caret-right"></i><strong> Job Start </strong></a>
-                        <div id="dataCollapse3" class="collapse margin-top-20">
-                            ASAP
+                        <hr>
+                        <div>
+                            <a href="#dataCollapse3" data-toggle="collapse"><i class="green fa fa-caret-right"></i><strong> Job Start </strong></a>
+                            <div id="dataCollapse3" class="collapse margin-top-20">
+                                ASAP
+                            </div>
                         </div>
-                    </div>
-                    <hr>
-                    <div class="margin-top-60">
-                        <a href="#dataCollapse4" data-toggle="collapse"><i class="green fa fa-caret-right"></i><strong> Salary </strong></a>
-                        <div id="dataCollapse4" class="collapse margin-top-20">
-                            £8.50 to £9.50
+                        <hr>
+                        <div>
+                            <a href="#dataCollapse4" data-toggle="collapse"><i class="green fa fa-caret-right"></i><strong> Salary </strong></a>
+                            <div id="dataCollapse4" class="collapse margin-top-20">
+                                £8.50 to £9.50
+                            </div>
                         </div>
-                    </div>
-                    <hr>
-                    <div class="margin-top-60">
-                        <a href="#dataCollapse5" data-toggle="collapse"><i class="green fa fa-caret-right"></i><strong> Requirments </strong></a>
-                        <div id="dataCollapse5" class="collapse margin-top-20">
-                            <ul>
-                                <li> <i class="green fa fa-caret-right"></i>Experience as warehouse operative / picker and packer</li>
-                                <li> <i class="green fa fa-caret-right"></i>Flexible</li>
-                                <li> <i class="green fa fa-caret-right"></i>Forklift driving </li>
-                            </ul>
+                        <hr>
+                        <div>
+                            <a href="#dataCollapse5" data-toggle="collapse"><i class="green fa fa-caret-right"></i><strong> Requirments </strong></a>
+                            <div id="dataCollapse5" class="collapse margin-top-20">
+                                <ul>
+                                    <li> <i class="green fa fa-caret-right"></i>Experience as warehouse operative / picker and packer</li>
+                                    <li> <i class="green fa fa-caret-right"></i>Flexible</li>
+                                    <li> <i class="green fa fa-caret-right"></i>Forklift driving </li>
+                                </ul>
+                            </div>
                         </div>
+
+                        <hr>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="https://workers-direct.com/wp-content/uploads/2018/10/Warehouse-staff-Agency-1024x683.jpg" width="100%" height="365px" alt="#">
                     </div>
 
-                    <hr>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <p style="margin: 0;">We are recruiting a Warehouse Helper / Picker & Packer on temporary basis in across the London.</p>
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
-                    <p>We are recruiting a Warehouse Helper / Picker & Packer on temporary basis in across the London.</p>
-
-                    <div class="section_heading section_2_heading margin-top-20">
-
-                        <h4 class="margin-bottom-60"> Key <span> Responsibilities</span></h4>
+                        <h2 class="margin-bottom-60"> Key <span> Responsibilities</span></h2>
 
                         <ul>
 
@@ -172,9 +174,9 @@
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-20">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
-                        <h4 class="margin-bottom-60"> Candidate <span> Specification:</span></h4>
+                        <h2 class="margin-bottom-60"> Candidate <span> Specification</span></h2>
 
                         <ul>
 
@@ -194,26 +196,24 @@
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-20">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
-                        <h4 class="margin-bottom-60"> Other<span></span></h4>
+                        <h2 class="margin-bottom-60"> Other<span></span></h2>
 
                         <ul>
-
                             <li><i class="green fa fa-caret-right"></i>Any other duties required or directed to deliver the business objectives of the company.</li>
 
                             <li><i class="green fa fa-caret-right"></i>This job profile is intended as a guide to inform of the likely type of work for this position and should not be seen as restrictive and as such will be subject to regular review.</li>
-
                         </ul>
 
                     </div>
 
-                    <div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-                        <p>To book an immediate interview for <a href="#">picker and packers jobs</a> Please contact Bill for more details on 02030869080.</p>
-                        <p>Alternatively Email your CV at,</p>
-                        <p><strong>jobs@ Workers-direct.com</strong></p>
-                        <a href="# "><strong> OR Apply Online</strong></a>
+                        <p style="margin: 0;">To book an immediate interview for <a href="#">picker and packers jobs</a> Please contact Bill for more details on <strong> 02030869080</strong>.</p>
+                        <p style="margin: 0;">Alternatively Email your CV at,</p>
+                        <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
+                        <a href="# " class="green"><strong> OR Apply Online</strong></a>
                     </div>
 
 
