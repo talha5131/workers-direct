@@ -103,6 +103,12 @@
                         <p class="margin-bottom-20">Stock management is a key part of any business. Does your warehouse need more staff to meet a seasonal demand? Is a member of your warehouse team on leave? Call Workers Direct today to be sure you have the manpower to cover the demands of your stock movement; we have general and skilled staff that can temporarily join your team and ease the pressure.</p>
 
                     </div>
+
+                    <div class="margin-top-20 col-lg-12 col-md-12 col-xs-12 col-sm-12">
+
+                        <img class="image-style-border" src="public/assets/images/page-pictures/WAREHOUSE STAFF/warehouse_staff_1.jpg" width="100%" height="270px" alt="about-img">
+
+                    </div>
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <div class="section_heading section_2_heading margin-top-20">
 
@@ -138,7 +144,13 @@
 
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                    <div class="margin-top-20 col-lg-12 col-md-12 col-xs-12 col-sm-12">
+
+                        <img class="image-style-border" src="public/assets/images/page-pictures/WAREHOUSE STAFF/warehouse_staff_6.jpeg" width="100%" height="270px" alt="about-img">
+
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
                         <div class="section_heading section_2_heading">
 
                             <h4> Factory Workers <span> Staffing Agency</span></h4>
@@ -169,7 +181,7 @@
                     <div class="row">
 
                         <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 ">
-                            <img style="border: 4px solid #7CC24D; border-radius:5px; " class="img-responsive " src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Factory-Workers-ojg1gvkbry2vy3tryz7nap0u3fv16b7bz1a5ooeohw.jpg" width="100%" alt="#">
+                            <img style="border: 4px solid #7CC24D; border-radius:5px; " class="img-responsive " src="public/assets/images/page-pictures/WAREHOUSE STAFF/warehouse_staff_2.jpg" width="100%" alt="#">
 
                         </div>
                         <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
@@ -208,13 +220,13 @@
 
                         </div>
                         <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
-                            <img style="border: 4px solid #7CC24D; border-radius:5px;" class="img-responsive " src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Temp-Agency-ojg0et3mv437lo6ajfo3j1rfwlzx4qcoa3xlgr4pg2.png" width="100%" alt="#">
+                            <img style="border: 4px solid #7CC24D; border-radius:5px;" class="img-responsive " src="public/assets/images/page-pictures/WAREHOUSE STAFF/warehouse_staff_3.jpg" width="100%" alt="#">
 
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 ">
-                            <img style="border: 4px solid #7CC24D; border-radius:5px; height:200px;" class="img-responsive " src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Picker-and-Packer-agency-ojfzxkq4prcswdwdoe3zgemdch21psvjcng7mx9gxa.jpg" width="100%" alt="#">
+                            <img style="border: 4px solid #7CC24D; border-radius:5px; height:200px;" class="img-responsive " src="public/assets/images/page-pictures/WAREHOUSE STAFF/warehouse_staff_5.jpg" width="100%" alt="#">
 
                         </div>
                         <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">

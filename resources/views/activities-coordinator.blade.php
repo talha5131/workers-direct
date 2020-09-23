@@ -93,7 +93,7 @@
 
                 <div class="about_text_wrapper margin-top-30">
 
-                    <div class="section_heading section_2_heading">
+                    <div class="col-lg-7 col-md-7 col-xs-12 col-sm-12">
 
                         <table class="table table-bordered " style="width:100%">
                             <tr>
@@ -129,91 +129,79 @@
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
-
-                        <h2>JOB SUMMARY ACTIVITIEIS <span> COORDINATOR</span></h2>
-
+                    <div class="col-lg-5 col-md-5 col-xs-12 col-sm-12">
+                        <img style="border:4px solid #7CC24D; border-radius:5px;"  src="public/assets/images/page-pictures/Activities Coordinator/activities_coordinator_2.jpg" width="100%" height="270px" alt="activities coordinator">
                     </div>
 
-                    <div>
-                        <p>To contribute to the pleasant environment of the Home with a particular remit for involving the residents in a variety of activities designed to address a wide range of interests and varied limitations on physical and mental agility.</p>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <div class="section_heading section_2_heading margin-top-60">
+
+                            <h2>JOB SUMMARY ACTIVITIEIS <span> COORDINATOR</span></h2>
+
+                        </div>
+
+                        <div>
+                            <p>To contribute to the pleasant environment of the Home with a particular remit for involving the residents in a variety of activities designed to address a wide range of interests and varied limitations on physical and mental agility.</p>
+                        </div>
+
+                        <div class="section_heading section_2_heading margin-top-60">
+
+                            <h2>KEY RESPONSIBILITIES OF <span> ACTIVITIEIS COORDINATOR</span></h2>
+
+                        </div>
+
+                        <div>
+                            <p>Organise varied activities within the Home to cater for a variety of interests for small groups and large numbers of residents, including games, crafts, parties, entertainment and outings, encouraging relatives and visitors to be involved.</p>
+                        </div>
+
+                        <div class="margin-top-30">
+                            <ul>
+                                <li><i class="fa fa-caret-right"></i> Arrange trips and excursions with varied destinations and purposes to involve as many residents in activity outside the confines of the Home as possible.</li>
+                                <li><i class="fa fa-caret-right"></i> Undertake fundraising activity for the Residents’ Fund.</li>
+                                <li><i class="fa fa-caret-right"></i> Participate as an active member of the Residents’ Committee for Activities.</li>
+                                <li><i class="fa fa-caret-right"></i> Understand personal responsibilities in relation to the Health & Safety at Work legislation, fire and safety and evacuation procedures and be aware of the need to provide a safe and healthy environment for residents, particularly with regard to external activities.</li>
+                                <li><i class="fa fa-caret-right"></i> Act accordingly towards residents and their visitors, respecting the dignity and individuality of each resident.</li>
+                                <li><i class="fa fa-caret-right"></i> Contribute fully to team working, and be aware of the care-staff routines necessary to provide continuity of service to residents.</li>
+                                <li><i class="fa fa-caret-right"></i> Ensure supplies and equipment are stored in a safe and tidy manner.</li>
+                            </ul>
+                        </div>
+
+                        <div>
+                            <p>This is not intended as an exhaustive description of duties and responsibilities and may be amended following consultation with the jobholder / Activities Coordinator.</p>
+                        </div>
+
+                        <div class="section_heading section_2_heading margin-top-60">
+
+                            <h2>PERSON <span> SPECIFICATION</span></h2>
+
+                        </div>
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="col-lg-7 col-md-7 col-xs-12 col-sm-12">
+                        <div class="margin-top-60">
+                            <h4>Knowledge & Qualifications</h4>
+                        </div>
 
-                        <h2>KEY RESPONSIBILITIES OF <span> ACTIVITIEIS COORDINATOR</span></h2>
+                        <div class="margin-top-30">
+                            <ul>
+                                <li><i class="fa fa-caret-right"></i> Demonstrate understanding of the role social interaction plays in the general well-being of people.</li>
+                                <li><i class="fa fa-caret-right"></i> Previous involvement in voluntary or community activities and roles.</li>
+                                <li><i class="fa fa-caret-right"></i> Knowledge of Health and Safety, particularly Moving and Handling techniques, and COSHH assessments.</li>
+                                <li><i class="fa fa-caret-right"></i> Hold or work towards achieving NVQ Level 2 in Support Services in Healthcare.</li>
 
+                            </ul>
+                        </div>
                     </div>
 
-                    <div>
-                        <p>Organise varied activities within the Home to cater for a variety of interests for small groups and large numbers of residents, including games, crafts, parties, entertainment and outings, encouraging relatives and visitors to be involved.</p>
-                    </div>
-
-                    <div class="margin-top-30">
-                        <ul>
-                            <li><i class="fa fa-caret-right"></i> Arrange trips and excursions with varied destinations and purposes to involve as many residents in activity outside the confines of the Home as possible.</li>
-                            <li><i class="fa fa-caret-right"></i> Undertake fundraising activity for the Residents’ Fund.</li>
-                            <li><i class="fa fa-caret-right"></i> Participate as an active member of the Residents’ Committee for Activities.</li>
-                            <li><i class="fa fa-caret-right"></i> Understand personal responsibilities in relation to the Health & Safety at Work legislation, fire and safety and evacuation procedures and be aware of the need to provide a safe and healthy environment for residents, particularly with regard to external activities.</li>
-                            <li><i class="fa fa-caret-right"></i> Act accordingly towards residents and their visitors, respecting the dignity and individuality of each resident.</li>
-                            <li><i class="fa fa-caret-right"></i> Contribute fully to team working, and be aware of the care-staff routines necessary to provide continuity of service to residents.</li>
-                            <li><i class="fa fa-caret-right"></i> Ensure supplies and equipment are stored in a safe and tidy manner.</li>
-                        </ul>
-                    </div>
-
-                    <div>
-                        <p>This is not intended as an exhaustive description of duties and responsibilities and may be amended following consultation with the jobholder / Activities Coordinator.</p>
-                    </div>
-
-                    <div class="section_heading section_2_heading margin-top-60">
-
-                        <h2>PERSON <span> SPECIFICATION</span></h2>
-
-                    </div>
-
-                    <div class="margin-top-60">
-                        <h4>Knowledge & Qualifications</h4>
-                    </div>
-
-                    <div class="margin-top-30">
-                        <ul>
-                            <li><i class="fa fa-caret-right"></i> Demonstrate understanding of the role social interaction plays in the general well-being of people.</li>
-                            <li><i class="fa fa-caret-right"></i> Previous involvement in voluntary or community activities and roles.</li>
-                            <li><i class="fa fa-caret-right"></i> Knowledge of Health and Safety, particularly Moving and Handling techniques, and COSHH assessments.</li>
-                            <li><i class="fa fa-caret-right"></i> Hold or work towards achieving NVQ Level 2 in Support Services in Healthcare.</li>
-
-                        </ul>
-                    </div>
-
-                    <div class="section_heading section_2_heading margin-top-60">
-
-                        <h2>Skills<span></span></h2>
-
-                    </div>
-
-                    <div class="margin-top-40">
-                        <ul>
-                            <li><i class="fa fa-caret-right"></i> Exude enthusiasm, commitment and energy.</li>
-                            <li><i class="fa fa-caret-right"></i> Demonstrate influencing and persuasive skills.</li>
-                            <li><i class="fa fa-caret-right"></i> Display a positive and flexible attitude to teamwork.</li>
-                            <li><i class="fa fa-caret-right"></i> Demonstrate initiative and imagination.</li>
-                            <li><i class="fa fa-caret-right"></i> Exhibit a caring and understanding attitude towards the elderly.</li>
-
-                        </ul>
-
-                    </div>
-
-                    <div>
-                        <p style="margin: 0;"><strong>To apply forward your CV to arrange an immediate interview at</strong></p>
-                        <p><strong>jobs@Workers-direct.com</strong></p>
-                        <a href="#" class="green"><strong> OR Apply online now</strong></a>
+                    <div class="col-lg-5 col-md-5 col-xs-12 col-sm-12 margin-top-60">
+                        <img style="border:4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/Activities Coordinator/activities_coordinator_1.jpg" width="100%" alt="Activities Coordinator">
                     </div>
 
                 </div>
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-30">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -433,6 +421,42 @@
 
                 </div>
 
+            </div>
+
+
+
+            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                <div class="about_text_wrapper section_heading section_2_heading margin-top-60 margin-bottom-60">
+
+                    <h2>Skills<span></span></h2>
+
+                </div>
+
+                <div class="about_text_wrapper">
+                    <ul>
+                        <li><i class="fa fa-caret-right"></i> Exude enthusiasm, commitment and energy.</li>
+                        <li><i class="fa fa-caret-right"></i> Demonstrate influencing and persuasive skills.</li>
+                        <li><i class="fa fa-caret-right"></i> Display a positive and flexible attitude to teamwork.</li>
+                        <li><i class="fa fa-caret-right"></i> Demonstrate initiative and imagination.</li>
+                        <li><i class="fa fa-caret-right"></i> Exhibit a caring and understanding attitude towards the elderly.</li>
+
+                    </ul>
+
+                </div>
+            </div>
+
+            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-60">
+                <img style="border:4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/Activities Coordinator/activities_coordinator_5.jpg" width="100%" height="300px" alt="Activities Coordinator">
+            </div>
+
+            <div class="about_text_wrapper col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                <p style="margin: 0;"><strong>To apply forward your CV to arrange an immediate interview at,</strong></p>
+                <p style="margin: 0;"><strong>jobs@Workers-direct.com</strong></p>
+                <a href="#" class="green"><strong> OR Apply online</strong></a>
+            </div>
+
+            <div class="margin-top-60 col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                <img style="border:4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/Activities Coordinator/activities_coordinator_3.jpg" width="100%" alt="Activities Coordinator">
             </div>
 
 

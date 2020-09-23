@@ -89,39 +89,44 @@
 
 
 
+
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
                 <div class="row about_text_wrapper abt_2_para">
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                    <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
 
                         <table class="table table-bordered">
-                            
-                                <tr>
-                                    <th>Job Title</th>
-                                    <td>Data Entry Operator</td>
-                                    
-                                </tr>
-                        
-                            
-                                <tr>
-                                    <th>Job Duration</th>
-                                    <td>Temporary</td>
-                                    
-                                </tr>
-                                <tr>
-                                    <th>Job Location</th>
-                                    <td>Victoria, Central London</td>
-                                    
-                                </tr>
-                                <tr>
-                                    <th>Pay Rate</th>
-                                    <td>£8.50 to £10 per hour (Depends on Experience & Skills)</td>
-                                    
-                                </tr>
-                            
+
+                            <tr>
+                                <th>Job Title</th>
+                                <td>Data Entry Operator</td>
+
+                            </tr>
+
+
+                            <tr>
+                                <th>Job Duration</th>
+                                <td>Temporary</td>
+
+                            </tr>
+                            <tr>
+                                <th>Job Location</th>
+                                <td>Victoria, Central London</td>
+
+                            </tr>
+                            <tr>
+                                <th>Pay Rate</th>
+                                <td>£8.50 to £10 per hour (Depends on Experience & Skills)</td>
+
+                            </tr>
+
                         </table>
 
+                    </div>
+
+                    <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/DATA ENTRY OPERATOR/data_entry_operator_1.jpg" width="100%" height="160px" alt="Data Entry">
                     </div>
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
                         <div class="section_heading section_2_heading">
@@ -146,6 +151,10 @@
                             </ul>
                         </div>
 
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/DATA ENTRY OPERATOR/data_entry_operator_2.jpg" width="100%" height="490px" alt="Data Entry">
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">

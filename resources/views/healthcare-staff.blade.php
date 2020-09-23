@@ -87,22 +87,30 @@
 
             </div>
 
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-30">
+                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/HEALTHCARE STAFF/healthcare_staff_1.jpg" width="100%" height="250px" alt="#">
+            </div>
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-30">
+                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/HEALTHCARE STAFF/healthcare_staff_2.jpg" width="100%" height="250px" alt="#">
+            </div>
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-30">
+                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/HEALTHCARE STAFF/healthcare_staff_3.jpeg" width="100%" height="250px" alt="#">
+            </div>
+
 
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper ">
 
-                    <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <p style="margin: 0;">Qualifications, background, ability and experience are key when searching for healthcare staff.</p>
                         <p style="margin: 0;">At Workers Direct our recruitment team for the healthcare sector can find you permanent, casual and contract workers that are available across the UK.</p>
                         <p style="margin: 0;">We ensure that all of our candidates are trained, practised and proficient before matching them to our clients – we know that you need the right staff for a healthcare facility, and are committed to finding them for you. We also follow up to confirm that you are satisfied.</p>
 
                     </div>
 
-                    <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-30">
-                        <img style="border: 4px solid #7CC24D; border-radius:5px;" src="http://workers-direct.com/wp-content/uploads/2014/02/Nursing-Agency-1024x683.jpg" width="100%" height="250px" alt="#">
-                    </div>
+
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
@@ -117,6 +125,11 @@
                         <p style="margin: 0;">Let our team know what you need, long or short-term, and we will recruit a nurse for you.</p>
 
                     </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30">
+                        <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/HEALTHCARE STAFF/healthcare_staff_4.jpg" width="100%" height="350px" alt="#">
+                    </div>
+
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
@@ -151,7 +164,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -371,6 +384,10 @@
 
                 </div>
 
+            </div>
+
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30">
+                <img class="image-style-border" src="public/assets/images/page-pictures/HEALTHCARE STAFF/healthcare_staff_5.jpg" height="270px" width="100%" alt="Hairdresser">
             </div>
 
 

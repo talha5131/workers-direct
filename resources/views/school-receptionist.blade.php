@@ -99,7 +99,7 @@
                             <h2>SCHOOL RECEPTIONIST JOBS LONDON (Temporary)</h2>
                         </div>
 
-                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
                             <table class="table table-bordered " style="width:100%">
                                 <tr>
                                     <th>JOB LOCATION</th>
@@ -115,18 +115,23 @@
                                 </tr>
                                 <tr>
                                     <th>WORK DAYS & HOURS</th>
-                                    <td>7:30am to 3:30pm  – Mon to Fri</td>
+                                    <td>7:30am to 3:30pm – Mon to Fri</td>
                                 </tr>
                                 <tr>
                                     <th>PAY RATE</th>
                                     <td>£8.50 TO £10.50 PER HOUR (DEPENDS ON EXPEDIENCE & SKILLS)</td>
                                 </tr>
-                            
+
                             </table>
 
                         </div>
 
-                    
+                        <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/SCHOOL RECEPTIONIST/school_receptionist_1.jpg" width="100%" height="240px" alt="BUS DRIVER">
+
+                        </div>
+
+
 
 
                     </div>
@@ -165,9 +170,14 @@
                             </ul>
                         </div>
 
+                        <div class="margin-top-40">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/SCHOOL RECEPTIONIST/school_receptionist_2.jpg" width="100%" height="340px" alt="BUS DRIVER">
+
+                        </div>
+
                         <div class="section_heading section_2_heading margin-top-60">
 
-                            <h4>AN IDEAL SCHOOL RECEPTIONIST  <span> MUST HAVE :</span></h4>
+                            <h4>AN IDEAL SCHOOL RECEPTIONIST <span> MUST HAVE :</span></h4>
 
                         </div>
 

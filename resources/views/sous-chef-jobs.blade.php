@@ -91,13 +91,17 @@
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="row about_text_wrapper abt_2_para">
+                <div class="row about_text_wrapper ">
 
-                    
+
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
-                        
+
                         <p style="margin: 0;">We are recruiting a talented Sous Chefs X 2 on permanent basis for a well-known busy restaurant based in central London area.</p>
                         <p style="margin: 0;">Sous chef will work alongside with Head Chef to create fresh, seasonal menus for residents and growing regular customers. An ideal candidate must be ambitious and have real passion for creating great food also must be a team player and be able to assist with any section within the Kitchen.</p>
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
+                        <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/SOUS CHEF JOBS/sous_chef_jobs_2.jpg" width="100%" height="380px" alt="#">
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
@@ -129,7 +133,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 

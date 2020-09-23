@@ -93,7 +93,7 @@
 
                 <div class="about_text_wrapper abt_2_para">
 
-                    <div>
+                    <div class="col-lg-7 col-md-7 col-xs-12 col-sm-12">
                         <table class="table table-bordered">
 
                             <tr>
@@ -116,7 +116,11 @@
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-20">
+                    <div class="col-lg-5 col-md-5 col-xs-12 col-sm-12">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/IT SUPPORT SPECIALIST/it_support_specialist_1.jpg" width="100%" height="200px" alt="">
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
                         <h4> Job Summary</span></h4>
 
@@ -124,12 +128,17 @@
 
                     </div>
 
-                    <div class="margin-bottom-60 margin-top-20">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/IT SUPPORT SPECIALIST/it_support_specialist_2.jpg" width="100%" height="350px" alt="IT Support">
+                    </div>
+
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-bottom-60 margin-top-20">
                         <h4>Responsibilities</h4>
 
                     </div>
 
-                    <div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <ul>
 
                             <li><i class="fa fa-caret-right"></i>Provide a courteous and professional service to our clients at all time.</li>
@@ -149,33 +158,6 @@
                         </ul>
                     </div>
 
-                    <div class="margin-bottom-60 margin-top-20">
-                        <h4>Requirements</h4>
-                    </div>
-                    <div>
-                        <ul>
-
-                            <li><i class="fa fa-caret-right"></i>Certifications in: Cisco CCNA, Mac OS, CompTIA A+, Microsoft Certified IT, Network security (degree in IT is desirable but not required.)</li>
-                            <li><i class="fa fa-caret-right"></i>Min 3 years experience.</li>
-                            <li><i class="fa fa-caret-right"></i>Proven experience as <a href="#">IT Support Technician.</a> </li>
-                            <li><i class="fa fa-caret-right"></i>Excellent diagnostic and problem solving skills.</li>
-                            <li><i class="fa fa-caret-right"></i>Fast learner as we continuously evaluating and installing new products.</li>
-                            <li><i class="fa fa-caret-right"></i>Excellent communication ability.</li>
-                            <li><i class="fa fa-caret-right"></i>Outstanding organizational and time-management skills.</li>
-                            <li><i class="fa fa-caret-right"></i>In depth understanding of diverse computer systems and networks.</li>
-                            <li><i class="fa fa-caret-right"></i>Good knowledge of internet security and data privacy principles.</li>
-
-
-                        </ul>
-                    </div>
-
-                    <div>
-                        <p style="margin: 0;">To apply, forward your CV to arrange an immediate interview.</p>
-                        <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
-                        <a href="# " class="green"><strong> OR Apply Online</strong></a>
-                        <p style="margin: 0;"><strong>http://workers-direct.com/cv-registration</strong></p>
-
-                    </div>
                 </div>
 
             </div>
@@ -399,6 +381,42 @@
                     </div>
 
                 </div>
+
+            </div>
+
+            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                <img class="image-style-border" src="public/assets/images/page-pictures/IT SUPPORT SPECIALIST/it_support_specialist_4.jpg" width="100%" height="350px" alt="IT Support">
+            </div>
+
+            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                <img class="image-style-border" src="public/assets/images/page-pictures/IT SUPPORT SPECIALIST/it_support_specialist_3.jpg" width="100%" height="350px" alt="IT Support">
+            </div>
+
+            <div class="about_text_wrapper col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-bottom-60 margin-top-20">
+                <h4>Requirements</h4>
+            </div>
+            <div class="about_text_wrapper col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                <ul>
+
+                    <li><i class="fa fa-caret-right"></i>Certifications in: Cisco CCNA, Mac OS, CompTIA A+, Microsoft Certified IT, Network security (degree in IT is desirable but not required.)</li>
+                    <li><i class="fa fa-caret-right"></i>Min 3 years experience.</li>
+                    <li><i class="fa fa-caret-right"></i>Proven experience as <a href="#">IT Support Technician.</a> </li>
+                    <li><i class="fa fa-caret-right"></i>Excellent diagnostic and problem solving skills.</li>
+                    <li><i class="fa fa-caret-right"></i>Fast learner as we continuously evaluating and installing new products.</li>
+                    <li><i class="fa fa-caret-right"></i>Excellent communication ability.</li>
+                    <li><i class="fa fa-caret-right"></i>Outstanding organizational and time-management skills.</li>
+                    <li><i class="fa fa-caret-right"></i>In depth understanding of diverse computer systems and networks.</li>
+                    <li><i class="fa fa-caret-right"></i>Good knowledge of internet security and data privacy principles.</li>
+
+
+                </ul>
+            </div>
+
+            <div class="about_text_wrapper col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                <p style="margin: 0;">To apply, forward your CV to arrange an immediate interview.</p>
+                <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
+                <a href="# " class="green"><strong> OR Apply Online</strong></a>
+                <p style="margin: 0;"><strong>http://workers-direct.com/cv-registration</strong></p>
 
             </div>
 

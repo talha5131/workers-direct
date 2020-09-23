@@ -73,7 +73,7 @@
 
         <div class="row">
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-bottom-20">
 
                 <div class="about_text_wrapper">
 
@@ -85,6 +85,15 @@
 
                 </div>
 
+            </div>
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-10">
+                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/beautician/beautician_1.jpg" width="100%" alt="Beautician">
+            </div>
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-10">
+                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/beautician/beautician_2.jpg" width="100%" alt="Beautician">
+            </div>
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-10">
+                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/beautician/beautician_3.jpg" width="100%" alt="Beautician">
             </div>
 
 
@@ -138,7 +147,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-30">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 

@@ -86,6 +86,12 @@
                 </div>
 
             </div>
+            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
+                <img class="image-style-border" src="public/assets/images/page-pictures/CSCS PAINTER/cscs_painter_2.jpg" width="100%" alt="CSCS PAINTER">
+            </div>
+            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
+                <img class="image-style-border" src="public/assets/images/page-pictures/CSCS PAINTER/cscs_painter_3.jpg" width="100%" alt="CSCS PAINTER">
+            </div>
 
 
 
@@ -93,52 +99,57 @@
 
                 <div class="about_text_wrapper abt_2_para">
 
-                    <div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <table class="table table-bordered">
-                            
-                                <tr>
-                                    <th>Job Title</th>
-                                    <td>CSCS Painter</td>
-                                    
-                                </tr>
-                                <tr>
-                                    <th>Requirements</th>
-                                    <td>CSCS Card & relevant experience</td>
-                                    
-                                </tr>
-                                <tr>
-                                    <th>Job Location</th>
-                                    <td>Central London, NC1</td>
-                                    
-                                </tr>
-                                <tr>
-                                    <th>Tools & Full PPE</th>
-                                    <td>Will be provided</td>
-                                    
-                                </tr>
-                                <tr>
-                                    <th>Job Duration</th>
-                                    <td>Temporary / On-Going Basis</td>
-                                    
-                                </tr>
-                                <tr>
-                                    <th>Job Type</th>
-                                    <td>Full Time</td>
-                                    
-                                </tr>
-                                <tr>
-                                    <th>Salary</th>
-                                    <td>£10 to £12 per hour</td>
-                                    
-                                </tr>
-                            
+
+                            <tr>
+                                <th>Job Title</th>
+                                <td>CSCS Painter</td>
+
+                            </tr>
+                            <tr>
+                                <th>Requirements</th>
+                                <td>CSCS Card & relevant experience</td>
+
+                            </tr>
+                            <tr>
+                                <th>Job Location</th>
+                                <td>Central London, NC1</td>
+
+                            </tr>
+                            <tr>
+                                <th>Tools & Full PPE</th>
+                                <td>Will be provided</td>
+
+                            </tr>
+                            <tr>
+                                <th>Job Duration</th>
+                                <td>Temporary / On-Going Basis</td>
+
+                            </tr>
+                            <tr>
+                                <th>Job Type</th>
+                                <td>Full Time</td>
+
+                            </tr>
+                            <tr>
+                                <th>Salary</th>
+                                <td>£10 to £12 per hour</td>
+
+                            </tr>
+
                         </table>
 
                     </div>
 
-                    <p>Experienced Painter URGENTLY required for on TEMPORARY basis in Central London area.</p>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/CSCS PAINTER/cscs_painter_1.jpg" width="100%" alt="CSCS PAINTER">
+                    </div>
 
-                    <div>
+
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <p>Experienced Painter URGENTLY required for on TEMPORARY basis in Central London area.</p>
                         <ul>
 
                             <li><i class="fa fa-caret-right"></i>Candidates must have had experience in Painting and Decorating.</li>
@@ -148,7 +159,7 @@
                         </ul>
                     </div>
 
-                    <div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <p>Please email CV or Contact details to <strong>jobs@ Workers-direct.com</strong>if you are interested in this Painting position Or call bill for more details on <strong> 0203 617 1518</strong>.</p>
 
                         <a href="#" class="green"><strong> OR Apply Online</strong></a>

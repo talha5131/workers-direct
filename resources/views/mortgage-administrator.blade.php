@@ -95,7 +95,7 @@
 
                     <div class="section_heading section_2_heading row">
 
-                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
                             <table class="table table-bordered " style="width:100%">
                                 <tr>
                                     <th>Job Title</th>
@@ -137,10 +137,16 @@
 
                         </div>
 
+                        <div class=" col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/MORTGAGE ADMINISTRATOR/mortgage_admin_1.jpg" width="100%" height="310px" alt="IT Support">
+                        </div>
+
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-20">
+
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
                         <div class="section_heading section_2_heading">
 
@@ -153,7 +159,11 @@
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-20">
+                    <div class=" col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/MORTGAGE ADMINISTRATOR/mortgage_admin_3.jpg" width="100%" height="310px" alt="IT Support">
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
                         <div class="section_heading section_2_heading ">
 
@@ -162,7 +172,9 @@
                         </div>
 
                         <p>The tasks can vary on a daily basis and may include any of the following tasks: typing, faxing, scanning, copying, taking notes, ordering supplies, filing, assisting with answering the phones, transferring calls and setting up appointments.</p>
-                        
+
+                    </div>
+                    <div class="col-lg-7 col-md-7 col-xs-12 col-sm-12">
                         <div class="section_heading section_2_heading ">
 
                             <h2>Skills <span> Required</span></h2>
@@ -189,6 +201,10 @@
                         </div>
 
 
+                    </div>
+
+                    <div class=" col-lg-5 col-md-5 col-xs-12 col-sm-12 margin-top-60">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/MORTGAGE ADMINISTRATOR/mortgage_admin_2.jpg" width="100%" height="310px" alt="IT Support">
                     </div>
 
                 </div>

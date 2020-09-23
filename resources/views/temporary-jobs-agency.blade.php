@@ -97,6 +97,10 @@
 
                         <p>If you are looking for temporary or permanent work then you Workers Direct can provide you with all that you need. We know that being out of work can be tough Our aim is to put you in a role that gives you a purpose and could lead to you forging a career that provides you with complete satisfaction.</p>
 
+                        <div class="margin-top-20">
+                            <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/TEMPORARY JOBS/temporary_jobs_4.jpg" width="100%" height="420px" alt="#">
+                        </div>
+
                         <div class="section_heading section_2_heading margin-top-20">
 
                             <h2>At workers direct our job is to match the right job according to your <span> skills and experience</span></h2>
@@ -113,7 +117,7 @@
 
                         <p>Our focus is on creating a personalise approach that incorporates our passion and desire. This ensure that we successfully put the right people in the right jobs, adding value to the recruitment process.Workers Direct is one of the leading temping agencies in London, We have various temporary jobs available to start ASAP basis across the country.</p>
 
-                        <div class="section_heading section_2_heading margin-top-2 class="green"0">
+                        <div class="section_heading section_2_heading margin-top-2 class=" green"0">
 
                             <h2>Latest temporary <span> jobs</span></h2>
 
@@ -128,42 +132,42 @@
                                 <tr>
                                     <th class="green">Sous Chef</th>
                                     <td>Temporary </td>
-                                    <td>North London	 </td>
+                                    <td>North London </td>
                                 </tr>
                                 <tr>
                                     <th class="green">Kitchen Porter</th>
                                     <td>Temporary </td>
-                                    <td>Central London	 </td>
+                                    <td>Central London </td>
                                 </tr>
                                 <tr>
                                     <th class="green">Chef de partie X 2</th>
                                     <td>Temporary To Permanent </td>
-                                    <td>Esher	 </td>
+                                    <td>Esher </td>
                                 </tr>
                                 <tr>
                                     <th class="green">Sous Chef</th>
                                     <td>Temporary To Permanent </td>
-                                    <td>Esher	</td>
+                                    <td>Esher </td>
                                 </tr>
                                 <tr>
                                     <th class="green">CSCS Labourer</th>
                                     <td>Temporary </td>
-                                    <td>South West London	 </td>
+                                    <td>South West London </td>
                                 </tr>
                                 <tr>
                                     <th class="green">Bus Driver / Caretaker</th>
                                     <td>Temporary </td>
-                                    <td>North London	 </td>
+                                    <td>North London </td>
                                 </tr>
                                 <tr>
                                     <th class="green">Office Administrator</th>
-                                    <td>Temporary To Permanent	 </td>
-                                    <td>North London		 </td>
+                                    <td>Temporary To Permanent </td>
+                                    <td>North London </td>
                                 </tr>
                                 <tr>
                                     <th class="green">Kitchen Assistant</th>
                                     <td>Temporary </td>
-                                    <td>West London	 </td>
+                                    <td>West London </td>
                                 </tr>
                             </table>
 

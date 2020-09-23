@@ -91,7 +91,7 @@
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper ">
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <p style="margin: 0;">
@@ -102,38 +102,38 @@
                         </p>
                     </div>
 
-                    <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12 margin-top-20">
+                    <div class="col-lg-7 col-md-7 col-xs-12 col-sm-12 margin-top-20">
                         <table class="table table-bordered">
 
                             <tr>
-                                <th>Job Title</th>
+                                <th class="green">Job Title</th>
                                 <td>Kitchen Assistant (Full Time)</td>
 
                             </tr>
 
 
                             <tr>
-                                <th>Job Location</th>
+                                <th class="green">Job Location</th>
                                 <td>Central London</td>
 
                             </tr>
                             <tr>
-                                <th>Job Duration</th>
+                                <th class="green">Job Duration</th>
                                 <td>Full time, Mon to Fri – 9am to 3pm & Temporary to Permanent basis</td>
 
                             </tr>
                             <tr>
-                                <th>Job Start</th>
+                                <th class="green">Job Start</th>
                                 <td>ASAP</td>
 
                             </tr>
                             <tr>
-                                <th>Salary</th>
+                                <th class="green">Salary</th>
                                 <td>8 – 9 per hour</td>
 
                             </tr>
                             <tr>
-                                <th>Requirments</th>
+                                <th class="green">Requirments</th>
                                 <td>
                                     <ul>
                                         <li><i class="green fa fa-caret-right"></i> Must have 1 – 2 years experience as a Kitchen Assist</li>
@@ -145,7 +145,7 @@
 
                             </tr>
                             <tr>
-                                <th>Responsible for</th>
+                                <th class="green">Responsible for</th>
                                 <td>
                                     <ul>
                                         <li><i class="green fa fa-caret-right"></i> Help Chef in Food Preparation As Kitchen Assistant</li>
@@ -158,19 +158,21 @@
 
                         </table>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-20">
-                        <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="https://workers-direct.com/wp-content/uploads/2015/01/Depositphotos_33435525_m-2.jpg" width="100%" height="300px" alt="#">
+                    <div class="col-lg-5 col-md-5 col-xs-12 col-sm-12 margin-top-20">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/KITCHEN ASSISTANT/kitchen-assistant_1.jpg" width="100%" height="240px" alt="IT Support">
+                        <img class="image-style-border margin-top-20" src="public/assets/images/page-pictures/KITCHEN ASSISTANT/kitchen-assistant_2.jpg" width="100%" height="240px" alt="IT Support">
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
 
                         <p style="margin: 0;">We are looking for a hard working Kitchen Assistant to join growing team who are available to work day shifts in Central London.</p>
 
-                        <h4 class="margin-top-60"> Summary of <span> Post</span></h4>
+                        <h4 class="margin-top-20"> Summary of <span> Post</span></h4>
 
                         <p>Assist with food preparation and the effective delivery of service and standards</p>
 
-                        <h4 class="margin-bottom-60 margin-top-60"> Main Responsibilities & <span> Job Requirement</span></h4>
+                        <h4 class="margin-bottom-60 margin-top-20"> Main Responsibilities & <span> Job Requirement</span></h4>
 
                         <ul>
 
@@ -199,7 +201,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -419,6 +421,13 @@
 
                 </div>
 
+            </div>
+
+            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
+                <img class="image-style-border" src="public/assets/images/page-pictures/KITCHEN ASSISTANT/kitchen-assistant_3.jpg" width="100%" height="300px" alt="IT Support">
+            </div>
+            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
+                <img class="image-style-border" src="public/assets/images/page-pictures/KITCHEN ASSISTANT/kitchen-assistant_4.jpg" width="100%" height="300px" alt="IT Support">
             </div>
 
 

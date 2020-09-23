@@ -146,8 +146,8 @@
 
                         <hr>
                     </div>
-                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
-                        <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="https://workers-direct.com/wp-content/uploads/2018/10/Warehouse-staff-Agency-1024x683.jpg" width="100%" height="365px" alt="#">
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_1.jpg" width="100%" height="340px" alt="IT Support">
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
@@ -174,6 +174,10 @@
 
                     </div>
 
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-top-30">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_5.jpg" width="100%" height="340px" alt="IT Support">
+                    </div>
+
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
                         <h2 class="margin-bottom-60"> Candidate <span> Specification</span></h2>
@@ -194,26 +198,6 @@
 
                         </ul>
 
-                    </div>
-
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
-
-                        <h2 class="margin-bottom-60"> Other<span></span></h2>
-
-                        <ul>
-                            <li><i class="green fa fa-caret-right"></i>Any other duties required or directed to deliver the business objectives of the company.</li>
-
-                            <li><i class="green fa fa-caret-right"></i>This job profile is intended as a guide to inform of the likely type of work for this position and should not be seen as restrictive and as such will be subject to regular review.</li>
-                        </ul>
-
-                    </div>
-
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-
-                        <p style="margin: 0;">To book an immediate interview for <a href="#">picker and packers jobs</a> Please contact Bill for more details on <strong> 02030869080</strong>.</p>
-                        <p style="margin: 0;">Alternatively Email your CV at,</p>
-                        <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
-                        <a href="# " class="green"><strong> OR Apply Online</strong></a>
                     </div>
 
 
@@ -443,15 +427,34 @@
 
             </div>
 
+            <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12 margin-top-40">
+                <div class="about_text_wrapper">
+                    <h2 class="margin-bottom-60"> Other<span></span></h2>
+                </div>
+                <div class="about_text_wrapper">
+                    <ul>
+                        <li><i class="green fa fa-caret-right"></i>Any other duties required or directed to deliver the business objectives of the company.</li>
+
+                        <li><i class="green fa fa-caret-right"></i>This job profile is intended as a guide to inform of the likely type of work for this position and should not be seen as restrictive and as such will be subject to regular review.</li>
+                    </ul>
+                </div>
+
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 margin-top-40 ">
+                <img class="image-style-border" src="public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_2.jpg" width="100%" height="240px" alt="IT Support">
+            </div>
 
 
 
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 about_text_wrapper">
 
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
+                <p style="margin: 0;">To book an immediate interview for <a href="#">picker and packers jobs</a> Please contact Bill for more details on <strong> 02030869080</strong>.</p>
+                <p style="margin: 0;">Alternatively Email your CV at,</p>
+                <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
+                <a href="# " class="green"><strong> OR Apply Online</strong></a>
+            </div>
 
-
-
-            <!-- </div> -->
 
 
 

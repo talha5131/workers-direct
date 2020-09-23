@@ -95,7 +95,7 @@
 
                     <div class="section_heading section_2_heading row">
 
-                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
                             <table class="table table-bordered " style="width:100%">
                                 <tr>
                                     <th>Job Titles</th>
@@ -131,7 +131,11 @@
 
                         </div>
 
-                        
+                        <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 ">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/GRILL CHEF/grill_chef_2.jpg" height="270px" width="100%" alt="">
+                        </div>
+
+
 
                         <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                             <p style="margin: 0;">Two Experienced Turkish Grill chef required for newly opened Restaurant in Peckham.</p>
@@ -139,10 +143,14 @@
                             <p style="margin: 0;">Must Have Previous Experience as Chef.</p>
                         </div>
 
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/GRILL CHEF/grill_chef_4.jpg" height="370px" width="100%" alt="">
+                        </div>
+
 
                     </div>
 
-                    
+
 
                     <div class="section_heading section_2_heading margin-top-60">
 
@@ -160,14 +168,14 @@
                                 <li><i class="fa fa-caret-right"></i> Maintaining very high standards of hygiene.</li>
                                 <li><i class="fa fa-caret-right"></i> Must have experience in all sections of the kitchen.</li>
                                 <li><i class="fa fa-caret-right"></i> A Minimum of 3 to 5 Years checkable work history needed for this position.</li>
-                            
+
                             </ul>
                         </div>
 
                         <div>
                             <p style="margin: 0;"><strong>For immediate placement send your CV Today at</strong></p>
                             <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
-                            <a href="# "><strong> OR Apply Online</strong></a>
+                            <a href="#" class="green"><strong> OR Apply Online</strong></a>
                         </div>
 
 
@@ -400,14 +408,9 @@
             </div>
 
 
-
-
-
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
-
-
-
-            <!-- </div> -->
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30 ">
+                <img class="image-style-border" src="public/assets/images/page-pictures/GRILL CHEF/grill_chef_1.jpg" height="400px" width="100%" alt="">
+            </div>
 
 
 

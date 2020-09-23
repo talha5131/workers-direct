@@ -79,7 +79,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Waxing  / Beauty Therapist Jobs in <span> London</span></h1>
+                        <h1>Waxing / Beauty Therapist Jobs in <span> London</span></h1>
 
                     </div>
 
@@ -118,6 +118,12 @@
                             </tr>
 
                         </table>
+
+                    </div>
+
+                    <div class="margin-top-20">
+
+                        <img class="image-style-border" src="public/assets/images/page-pictures/WAXING  BEAUTY THERAPIST JOBS IN LONDON/waxing_beauty_1.jpg" width="100%" height="370px" alt="about-img">
 
                     </div>
 

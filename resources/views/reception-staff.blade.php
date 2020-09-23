@@ -126,7 +126,7 @@
 
                                         <div class="img-section">
 
-                                            <img style="border: 4px solid #7CC24D; border-radius:5px;" src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/agency-receptionist-ojg1qye0xlzyam8le8w58wdfb4orelhpkewyezqqqa.jpg" alt="Admin">
+                                            <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/RECEPTION STAFF/reception_staff_1.JPG" width="100%" alt="Admin">
 
                                             <div class="middle">
 
@@ -198,7 +198,7 @@
 
                                         <div class="img-section">
 
-                                            <img style="border: 4px solid #7CC24D; border-radius:5px;" src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/staff-agency-ojg1q2fih8s7bvj0kv2tw4fr412a4vyu40qg3l24lu.jpg" alt="Admin">
+                                            <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/RECEPTION STAFF/reception_staff_3.JPG" width="100%" alt="Admin">
 
                                             <div class="middle">
 
@@ -270,7 +270,7 @@
 
                                         <div class="img-section">
 
-                                            <img style="border: 4px solid #7CC24D; border-radius:5px;" src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Administrative-Staff-Agency-London-ojg03qk2dcxmv0976nea5uc018kah2ehfbbpzfjmqa.jpg" alt="Admin">
+                                            <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/RECEPTION STAFF/reception_staff_2.JPG" width="100%" alt="Admin">
 
                                             <div class="middle">
 
@@ -537,13 +537,13 @@
 
             </div>
 
-            <div class="about_text_wrapper col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20 margin-top-60">
+            <div class="about_text_wrapper col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20 margin-top-20">
 
                 <h2>Hire Reliable & Flexible Administrative & <span> Receptionist Temps</span></h2>
 
             </div>
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+            <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
                 <table class=" table table-bordered margin-top-60 ">
 
                     <tbody>
@@ -575,8 +575,9 @@
                     </tbody>
                 </table>
             </div>
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12"></div>
 
-            <div class="about_text_wrapper col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-bottom-20 ">
+            <div class="about_text_wrapper col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-bottom-40 ">
 
                 <h2>Our <span> Guarantee</span></h2>
 

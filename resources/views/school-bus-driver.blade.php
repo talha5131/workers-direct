@@ -93,7 +93,7 @@
 
                 <div class="about_text_wrapper margin-top-30">
 
-                    <div class="section_heading section_2_heading">
+                    <div class="col-lg-7 col-md-7 col-xs-12 col-sm-12">
 
                         <table class="table table-bordered " style="width:100%">
                             <tr>
@@ -120,44 +120,50 @@
 
                     </div>
 
-                    
+                    <div class="col-lg-5 col-md-5 col-xs-12 col-sm-12">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/SCHOOL BUS DRIVER/school-bus-driver_1.jpg" width="100%" height="200px" alt="BUS DRIVER">
+                    </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
                         <h2>Description<span></span></h2>
 
                     </div>
 
-                    <div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <p>We are currently recruiting for experienced mini bus driver on temporary basis who have previous driving experience with in a school/nursery environment. Candidate should be friendly flexible approachable to working as part of a team. Candidate must hold a current clean DV1 driving license. Successful candidate will start work in Sep 2016 to drive a 16 seater mini bus.</p>
                         <p>We have both full time and part time positions the ideal Driver shall be transporting children to and from home to school during term-time. Each bus has a driver and a Passenger Assistant, who is responsible for ensuring the children are safe whilst on the bus</p>
                     </div>
 
-                    
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/SCHOOL BUS DRIVER/school-bus-driver_2.jpg" width="100%" height="400px" alt="BUS DRIVER">
 
-                    <div class="section_heading section_2_heading margin-top-30">
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30">
 
                         <h2>Suitable candidates must have the <span> following</span></h2>
 
                     </div>
 
-                    <div class="margin-top-30">
+                    <div class="margin-top-30 col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <ul>
                             <li><i class="fa fa-caret-right"></i> Have a valid PCV (D) license.</li>
                             <li><i class="fa fa-caret-right"></i> Have full CPC.</li>
                             <li><i class="fa fa-caret-right"></i> Have a full enhanced CRB/DBS (or willing to apply).</li>
                             <li><i class="fa fa-caret-right"></i> Previous experience.</li>
-                            
+
                         </ul>
                     </div>
 
-                    
 
-                    <div class="margin-top-30">
+
+                    <div class="margin-top-30 col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <h2>Duties shall include the following</h2>
                     </div>
 
-                    <div class="margin-top-30">
+                    <div class="margin-top-30 col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <ul>
                             <li><i class="fa fa-caret-right"></i> To collect children from home and take them to school in the morning.</li>
                             <li><i class="fa fa-caret-right"></i> To collect children from school in the afternoon and take them home.</li>
@@ -167,7 +173,7 @@
 
                     <hr>
 
-                    <div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <p style="margin: 0;">Successful candidate will be paid a rate of <strong> £10 per hour</strong>.</p>
                         <p style="margin: 0;"><strong>This is an excellent opportunity to work with a massive client and is not to be missed. Please send in your CV as soon as possible at</strong></p>
                         <p><strong> jobs@Workers-direct.com</strong></p>
@@ -178,7 +184,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-30">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 

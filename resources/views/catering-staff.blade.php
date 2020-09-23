@@ -118,7 +118,7 @@
 
                                     </div>
 
-                                
+
 
 
 
@@ -447,9 +447,9 @@
                                 </div>
                             </div>
 
-                            <div class="iconn green col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                            <div class="iconn green col-lg-4 col-md-4 col-sm-12 col-xs-12 image-style-border">
 
-                                <a href="#"><img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Depositphotos_33435525_m-2-ojfzkodvsaubfnxwhesmlnhidyice0qfgz39nft0wi.jpg" alt="Chef Agency" width="100%" height="100%"></a>
+                                <a href="#"><img src="public/assets/images/page-pictures/Catering Staff/catering_staff_1.png" alt="Catering Staff" width="100%" height="100%"></a>
 
 
                             </div>
@@ -467,9 +467,9 @@
 
                         <div class="grid-box">
 
-                            <div class="iconn green col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                            <div class="iconn green col-lg-4 col-md-4 col-sm-12 col-xs-12 image-style-border">
 
-                                <a href="#"><img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/xfs_550x350_s80_Wait-agency-ojg1lw1b91x5vmafhgo6g6p5kjrxmmbhn6fu83u1ny.jpg" alt="hospitality" width="100%" height="100%"></a>
+                                <a href="#"><img src="public/assets/images/page-pictures/Catering Staff/catering_staff_3.jpg" alt="hospitality" width="100%" height="210px"></a>
 
 
                             </div>
@@ -514,7 +514,7 @@
                                 </div>
                             </div>
 
-                            <div class="iconn green col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                            <div class="iconn green col-lg-4 col-md-4 col-sm-12 col-xs-12 image-style-border">
 
                                 <a href="#"><img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/hospitality-agency-london-ojfzzk5w493ded9taxjgv5dl2mnikdjfz54npnglfo.jpg" alt="hospitality" width="100%" height="100%"></a>
 
@@ -798,11 +798,11 @@
                     </div>
                     <!-- ----------- -->
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
-                    <h3 class="green margin-top-60">
-                        Our Guarantee
-                    </h3>
+                        <h3 class="green margin-top-60">
+                            Our Guarantee
+                        </h3>
 
-                    <p>First and foremost in the mind of all staff at Workers Direct is our guarantee: to find and match the very best candidate to the right job, at a competitive cost, and as efficiently as possible, even on short notice. With over a decade of experience we are Catering Staff Agency, and consider ourselves partners to our clients. Workers Direct is not just another agency, but a team player that you can rely upon.</p>
+                        <p>First and foremost in the mind of all staff at Workers Direct is our guarantee: to find and match the very best candidate to the right job, at a competitive cost, and as efficiently as possible, even on short notice. With over a decade of experience we are Catering Staff Agency, and consider ourselves partners to our clients. Workers Direct is not just another agency, but a team player that you can rely upon.</p>
 
                     </div>
 

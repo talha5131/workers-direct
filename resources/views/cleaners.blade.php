@@ -453,7 +453,7 @@
                     <div class="box">
 
                         <div class="grid-box">
-                            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+                            <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
                                 <div class="section_heading section_2_heading about_text_wrapper">
 
                                     <h2> Right temp on right time </h2>
@@ -467,9 +467,9 @@
                                 </div>
                             </div>
 
-                            <div class="iconn green col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                            <div class="iconn green col-lg-5 col-md-5 col-sm-12 col-xs-12">
 
-                                <a href="#"><img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Cleaning-Jobs-London-ojg0fn6gxt8dx6ylnso5qu66wxvnz1o328t4tlw3wy.png" alt="Cleaning Job London" width="100%" height="100%"></a>
+                                <a href="#"><img class="image-style-border" src="public/assets/images/page-pictures/Cleaners/cleaners_1.jpeg" alt="Cleaning Job London" width="100%" height="220px"></a>
 
 
                             </div>
@@ -482,9 +482,9 @@
 
                         <div class="grid-box">
 
-                            <div class="iconn green col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                            <div class=" col-lg-4 col-md-4 col-sm-12 col-xs-12">
 
-                                <a href="#"><img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Hosekeeping-agencies-ojg0f69co3g29kc4wzyj4yr1q6bftsqmfr5h3f64fi.png" alt="housekeeping agency" width="100%" height="100%"></a>
+                                <a href="#"><img class="image-style-border" src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Hosekeeping-agencies-ojg0f69co3g29kc4wzyj4yr1q6bftsqmfr5h3f64fi.png" alt="housekeeping agency" width="100%" height="220px"></a>
 
 
                             </div>
@@ -510,7 +510,7 @@
 
                         <div class="grid-box">
 
-                            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+                            <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
                                 <div class="section_heading section_2_heading about_text_wrapper">
 
                                     <h2> Experienced & Professionals </h2>
@@ -524,9 +524,9 @@
                                 </div>
                             </div>
 
-                            <div class="iconn green col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                            <div class="green col-lg-5 col-md-5 col-sm-12 col-xs-12 ">
 
-                                <a href="#"><img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Housekeeping-staff-ojg08hmp1lbfp0av5shvjw988en1ouzn7c8pua7ybo.jpg" alt="maid making bed on hotel room" width="100%" height="100%"></a>
+                                <a href="#"><img class="image-style-border" src="public/assets/images/page-pictures/Cleaners/cleaners_4.jpg" alt="maid making bed on hotel room" width="100%" height="220px"></a>
 
 
                             </div>
@@ -768,10 +768,13 @@
 
             </div>
 
-            <!-- <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20 margin-top-100"> -->
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-30">
+                <img class="image-style-border" src="public/assets/images/page-pictures/Cleaners/cleaners_2.png" width="100%" height="300" alt="Cleaners">
+            </div>
 
-
-            <!-- </div> -->
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-30">
+                <img class="image-style-border" src="public/assets/images/page-pictures/Cleaners/cleaners_3.jpg" width="100%" height="300" alt="Cleaners">
+            </div>
 
 
 

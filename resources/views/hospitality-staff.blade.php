@@ -105,12 +105,12 @@
                             </div>
                         </div>
                         <div class="col-md-5">
-                            <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="https://workers-direct.com/wp-content/uploads/2019/03/Hospitality-agency-1024x576.jpg" width="100%" alt="career_img" />
+                            <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="public/assets/images/page-pictures/HOSPITALITY STAFF/hospitality_staff_1.jpg" width="100%" alt="career_img" />
                         </div>
                     </div>
                     <div style="padding-left: 0px !important;" class="col-md-12">
                         <div style="padding-left: 0px !important;" class="col-md-5">
-                            <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="https://workers-direct.com/wp-content/uploads/2019/03/Housekeeping-Agencies-1024x683.jpg" width="100%" alt="career_img" />
+                            <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="public/assets/images/page-pictures/HOSPITALITY STAFF/hospitality_staff_2.jpg" width="100%" alt="career_img" />
 
                         </div>
                         <div class="col-md-7">
@@ -134,7 +134,7 @@
                             </div>
                         </div>
                         <div class="col-md-5">
-                            <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="https://workers-direct.com/wp-content/uploads/2019/03/Wait-Agencies-London-1024x683.jpg" width="100%" alt="career_img" />
+                            <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="public/assets/images/page-pictures/HOSPITALITY STAFF/hospitality_staff_4.jpg" width="100%" alt="career_img" />
                         </div>
                     </div>
 
@@ -145,6 +145,10 @@
 
                     <div>
                         <p>If you are experienced in hospitality and would like us to connect you with the job you need then please do get in touch with us today. We would love to work with you to make sure that you get the job that you want and even the salary that you need as well, so you can trust in our team to get you the employment opportunities that you deserve.</p>
+                    </div>
+
+                    <div class="col-md-12 margin-top-30">
+                        <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="public/assets/images/page-pictures/HOSPITALITY STAFF/hospitality_staff_3.jpg" width="100%" height="400px" alt="career_img" />
                     </div>
 
                 </div>
@@ -372,6 +376,8 @@
                 </div>
 
             </div>
+
+
 
         </div>
 

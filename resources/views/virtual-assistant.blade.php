@@ -96,13 +96,13 @@
                     <div>
                     </div>
 
-                    
+
 
                     <div class="section_heading section_2_heading margin-top-60">
 
                         <h2>Find Experinced Administrators / Personal Assistants – Who Can Work On <span> Reomte Basis</span></h2>
 
-                        <img class="margin-top-50" src="https://workers-direct.com/wp-content/uploads/2019/04/Virtual-Assistant-Jobs-1024x357.jpg" width="100%" alt="Virtual Assistant Jobs">
+                        <img class="image-style-border margin-top-50" src="public/assets/images/page-pictures/VIRTUAL ASSISTANT/virtual_assistant_2.jpg" width="100%" alt="Virtual Assistant Jobs">
 
                     </div>
                     <div class="section_heading section_2_heading margin-top-30">
@@ -124,11 +124,16 @@
                             <li><i class="fa fa-caret-right"></i> Foster relationships with past applicants and potential candidates.</li>
                             <li><i class="fa fa-caret-right"></i> Understands the urgency of filling class with quality hires.</li>
                             <li><i class="fa fa-caret-right"></i> Performs other duties as necessary.</li>
-                            
+
                         </ul>
                     </div>
 
-                    
+                    <div class="margin-top-40">
+
+                        <img class="image-style-border" src="public/assets/images/page-pictures/VIRTUAL ASSISTANT/virtual_assistant_1.jpg" width="100%" height="400px" alt="about-img">
+
+                    </div>
+
 
                     <div class="margin-top-40">
                         <h4>What skills you will need</h4>
@@ -145,8 +150,6 @@
                             <li><i class="fa fa-caret-right"></i> Professional appearance and conduct.</li>
                         </ul>
                     </div>
-
-                    <hr>
 
                     <div>
                         <p><strong> jobs@Workers-direct.com</strong></p>

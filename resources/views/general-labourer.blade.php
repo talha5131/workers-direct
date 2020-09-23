@@ -86,6 +86,18 @@
                 </div>
 
             </div>
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-60">
+                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_1.jpg" width="100%" height="250px" alt="Admin">
+
+            </div>
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-60">
+                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_4.png" width="100%" height="250px" alt="Admin">
+
+            </div>
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-60">
+                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_5.webp" width="100%" height="250px" alt="Admin">
+
+            </div>
 
 
 
@@ -107,7 +119,7 @@
 
                                 <div class="heading">
 
-                                    <h2>  Site Operatives  </h2>
+                                    <h2> Site Operatives </h2>
 
                                 </div>
 
@@ -206,9 +218,9 @@
                     <div class="row margin-top-60">
                         <div class="col-lg-4 col-md-12 col-sm-4 col-xs-12 ">
 
-                            <div class="img-section">
+                            <div class="img-section margin-top-50">
 
-                                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Agency-Labourers-ojg1j4efzb9xjlm74v02gvj53jan9ee8hn7afzcuky.jpg" width="100%" height="420px" alt="Admin">
+                                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_2.jpg" width="100%" height="250px" alt="Admin">
 
                             </div>
 
@@ -218,7 +230,7 @@
 
                             <div class="about_text_wrapper">
 
-                                <h2>  Temp & Perm Labourers  </h1>
+                                <h2> Temp & Perm Labourers </h1>
 
                             </div>
 
@@ -237,7 +249,7 @@
 
                             <div class="section_heading section_2_heading about_text_wrapper">
 
-                                <h2>  Labouring Staff On Demand  </h2>
+                                <h2> Labouring Staff On Demand </h2>
 
                             </div>
 
@@ -254,7 +266,7 @@
 
                             <div class="img-section">
 
-                                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Trade-Staffing-ojg1ax93imwqfe7viq0vcybk2ptrtqs84wfwnw3e9a.jpg" width="100%" height="340px" alt="Admin">
+                                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_3.jpg" width="100%" height="340px" alt="Admin">
 
 
 
@@ -266,9 +278,9 @@
                     <div class="row margin-top-60">
                         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 ">
 
-                            <div class="img-section">
+                            <div class="img-section margin-top-50">
 
-                                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/general-laborer-ojg0hu4x0a435eq2ktybcjc8wckg8i3jtlsjncd0g4.jpg" width="100%" height="350px" alt="Admin">
+                                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_6.jpg" width="100%" height="250px" alt="Admin">
 
 
 
@@ -278,9 +290,9 @@
 
                         <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 ">
 
-                            <div class="">
+                            <div>
 
-                                <h2>  Find Labourers Jobs With Workers Direct </h2>
+                                <h2> Find Labourers Jobs With Workers Direct </h2>
 
                             </div>
 
@@ -527,7 +539,7 @@
 
                 <div class="about_text_wrapper">
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
 
                         <h2>Looking for Construction <span> Work?</span></h2>
 
@@ -539,76 +551,93 @@
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
 
                         <h2>Latest Labouring & Construction <span> Jobs</span></h2>
 
                         <p>We are recruiting an experienced <a href="#">general labourer</a> (With Driving Licence & CSCS card) in Central London areas, for a very busy site on Temporary / on-going Basis.</p>
 
-
-
-                    </div>
-                    <div class="margin-bottom-60">
-
-                        <h2>Role & Responsibilities are including:</h2>
-
-                    </div>
-                    <div>
-                        <ul>
-
-                            <li><i class="green fa fa-caret-right"></i>An ideal candidate must be physical fit & able to dig (If require)</li>
-
-                            <li><i class="green fa fa-caret-right"></i>General ground work</li>
-
-                            <li><i class="green fa fa-caret-right"></i>Fully able to use hand tools, etc.</li>
-
-                            <li><i class="green fa fa-caret-right"></i>Full clean driving licence, preferably with experience of driving a Transit,</li>
-
-                            <li><i class="green fa fa-caret-right"></i>Must be over 25 (for vehicle insurance purpose)</li>
-
-                            <li><i class="green fa fa-caret-right"></i>Must have a good command of English and health and safety</li>
-
-                        </ul>
-
                     </div>
 
-                    <div class="margin-bottom-60 margin-top-20">
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <div class="margin-bottom-60 ">
 
-                        <h2>Experience/Knowledge:</h2>
+                            <h2>Role & Responsibilities are including</h2>
 
+                        </div>
+                        <div>
+                            <ul>
+
+                                <li><i class="green fa fa-caret-right"></i>An ideal candidate must be physical fit & able to dig (If require)</li>
+
+                                <li><i class="green fa fa-caret-right"></i>General ground work</li>
+
+                                <li><i class="green fa fa-caret-right"></i>Fully able to use hand tools, etc.</li>
+
+                                <li><i class="green fa fa-caret-right"></i>Full clean driving licence, preferably with experience of driving a Transit,</li>
+
+                                <li><i class="green fa fa-caret-right"></i>Must be over 25 (for vehicle insurance purpose)</li>
+
+                                <li><i class="green fa fa-caret-right"></i>Must have a good command of English and health and safety</li>
+
+                            </ul>
+
+                        </div>
                     </div>
 
-                    <div>
-                        <ul>
-
-                            <li><i class="green fa fa-caret-right"></i>Experience as a professional cleaner</li>
-
-                            <li><i class="green fa fa-caret-right"></i>Ability to perform well within a pressurised environment.</li>
-
-                        </ul>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_7.jpg" width="100%" height="340px" alt="Admin">
 
                     </div>
 
-                    <div class="margin-bottom-60 margin-top-20">
-
-                        <h2>Personal skills & Essential Requirements</h2>
-
-                    </div>
-
-                    <div>
-                        <ul>
-
-                            <li><i class="green fa fa-caret-right"></i>Must be self-motivated and have a ‘can do’ attitude.</li>
-
-                            <li><i class="green fa fa-caret-right"></i>Flexibility.</li>
-
-                            <li><i class="green fa fa-caret-right"></i>Must be able to provide TWO employment references.</li>
-
-                        </ul>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-60">
+                        <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_8.jpg" width="100%" height="340px" alt="Admin">
 
                     </div>
 
-                    <div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <div class="margin-bottom-60 margin-top-100">
+
+                            <h2>Personal skills & Essential Requirements</h2>
+
+                        </div>
+
+                        <div>
+                            <ul>
+
+                                <li><i class="green fa fa-caret-right"></i>Must be self-motivated and have a ‘can do’ attitude.</li>
+
+                                <li><i class="green fa fa-caret-right"></i>Flexibility.</li>
+
+                                <li><i class="green fa fa-caret-right"></i>Must be able to provide TWO employment references.</li>
+
+                            </ul>
+
+                        </div>
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <div class="margin-bottom-60 margin-top-20">
+
+                            <h2>Experience/Knowledge</h2>
+
+                        </div>
+
+                        <div>
+                            <ul>
+
+                                <li><i class="green fa fa-caret-right"></i>Experience as a professional cleaner</li>
+
+                                <li><i class="green fa fa-caret-right"></i>Ability to perform well within a pressurised environment.</li>
+
+                            </ul>
+
+                        </div>
+                    </div>
+
+
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <p style="margin: 0;"><strong> Hours of Work:</strong> Mon To Fri – 09.00 – 14.00</p>
                         <p style="margin: 0;"><strong>Pay Rate:</strong> £9 to £12 per hour</p>
                         <p style="margin: 0;">Please contact Bill for more details on<strong> +44203089080</strong></p>

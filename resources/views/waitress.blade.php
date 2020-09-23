@@ -99,7 +99,13 @@
                         <p style="margin: 0;">One of our client looking for an Experience Waitress in Central London area.</p>
                         <p style="margin: 0;">Competitive Pay Rate.</p>
 
-                        <div class="margin-top-60">
+                        <div class="margin-top-40">
+
+                            <img class="image-style-border" src="public/assets/images/page-pictures/WAITRESS/waitress_1.jpg" width="100%" height="300px" alt="about-img">
+
+                        </div>
+
+                        <div class="margin-top-20">
                             <h2>Main Job Responsibilities As Waitress / Front of House Staff</h2>
                         </div>
 
@@ -124,7 +130,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 

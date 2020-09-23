@@ -95,7 +95,7 @@
 
                     <div class="section_heading section_2_heading row">
 
-                        <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                             <table class="table table-bordered " style="width:100%">
                                 <tr>
                                     <th>Job Titles</th>
@@ -131,20 +131,20 @@
 
                         </div>
 
-                        <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
-                            <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/temping-agency-london-ojg1nk70k433bz3dsh93e4c487wm7fd97kw586eo08.jpg" alt="hospitality agency" height="270px"  width="100%">
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/LUGGAGE PORTER/luggage_porter_3.jpg" width="100%" height="470px" alt="IT Support">
                         </div>
 
-                        
+
 
 
                     </div>
 
-                    
+
 
                     <div class="section_heading section_2_heading margin-top-20">
 
-                        <div class="alert alert-success">
+                        <div>
                             <ul>
                                 <li><i class="fa fa-caret-right"></i> To take suitcases and bags from guests or passengers checking in and, where applicable, tags it and provides customer identification slips</li>
                                 <li><i class="fa fa-caret-right"></i> To carries luggage while escorting guests or passengers to their rooms</li>
@@ -158,6 +158,10 @@
                                 <li><i class="fa fa-caret-right"></i> To assists reception, housekeeping, and restaurant staff as required</li>
                                 <li><i class="fa fa-caret-right"></i> Any other ad hoc duties as required.</li>
                             </ul>
+                        </div>
+
+                        <div class="margin-top-30">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/LUGGAGE PORTER/luggage_porter_2.jpg" width="100%" height="470px" alt="IT Support">
                         </div>
 
                         <div>

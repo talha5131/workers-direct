@@ -93,7 +93,7 @@
 
                 <div class="about_text_wrapper margin-top-30">
 
-                    <div>
+                    <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
                         <table class="table table-bordered " style="width:100%">
                             <tr>
                                 <th>Job Title</th>
@@ -112,12 +112,16 @@
                         </table>
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-40">
+                    <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/FORKLIFT DRIVER  WAREHOUSE ASSISTANT/forklift_driver_warehouse_assistant_1.jpg" alt="Forklift Driver" width="100%" height="200px">
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40">
 
                         <h2>CORE <span> DELIVERABLES</span></h2>
 
                     </div>
-                    <div class="margin-top-30">
+                    <div class="margin-top-30 col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <ul>
                             <li><i class="fa fa-caret-right"></i> Process and organise faulty equipment returned from sites.</li>
                             <li><i class="fa fa-caret-right"></i> Setting up and completing spreadsheet’s keeping up to date records of all serialised items.</li>
@@ -129,40 +133,45 @@
                         </ul>
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-40">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40">
                         <h2>EXPERIENCE, SKILLS & ATTRIBUTES REQUIRED</h2>
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-40">
-                        <h4>ESSENTIAL</h4>
+                    <div class="col-md-12 margin-top-40">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/FORKLIFT DRIVER  WAREHOUSE ASSISTANT/forklift_driver_warehouse_assistant_2.jpg" alt="Forklift Driver" height="350px" width="100%" height="200px">
+                    </div>
+                    <div class="col-md-12">
+                        <div class=" margin-top-40">
+                            <h4>ESSENTIAL</h4>
+                        </div>
+
+                        <div class="margin-top-30">
+                            <ul>
+                                <li><i class="fa fa-caret-right"></i> Must have own transport / car.</li>
+                                <li><i class="fa fa-caret-right"></i> Possession of a current Forklift driving license is essential.</li>
+                                <li><i class="fa fa-caret-right"></i> Demonstrable experience of working with cross-functional teams, and communicating professionally with a range of teams and stakeholders is essential.</li>
+                                <li><i class="fa fa-caret-right"></i> Previous experience of escalating and resolution of problems is required.</li>
+                                <li><i class="fa fa-caret-right"></i> A good degree of computer literacy, with a basic working knowledge of MS Office Word and Excel is required, with the ability to use a USB scanner accurately.</li>
+                            </ul>
+                        </div>
                     </div>
 
-                    <div class="margin-top-30">
-                        <ul>
-                            <li><i class="fa fa-caret-right"></i> Must have own transport / car.</li>
-                            <li><i class="fa fa-caret-right"></i> Possession of a current Forklift driving license is essential.</li>
-                            <li><i class="fa fa-caret-right"></i> Demonstrable experience of working with cross-functional teams, and communicating professionally with a range of teams and stakeholders is essential.</li>
-                            <li><i class="fa fa-caret-right"></i> Previous experience of escalating and resolution of problems is required.</li>
-                            <li><i class="fa fa-caret-right"></i> A good degree of computer literacy, with a basic working knowledge of MS Office Word and Excel is required, with the ability to use a USB scanner accurately.</li>
-                        </ul>
-                    </div>
-
-                    <div class="section_heading section_2_heading margin-top-40">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40">
                         <h4>Desirable</h4>
                     </div>
 
-                    <div class="margin-top-30">
+                    <div class="margin-top-30 col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <ul>
                             <li><i class="fa fa-caret-right"></i> Previous experience of working in a similar role would be ideal, but is not essential Knowledge and experience of working with stock management processes.</li>
                             <li><i class="fa fa-caret-right"></i> Previous commercial experience of working in a customer service environment is essential.</li>
                         </ul>
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-40">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40">
                         <h4>PERSONAL ATTRIBUTES AND BEHAVIOURS</h4>
                     </div>
 
-                    <div class="margin-top-30">
+                    <div class="margin-top-30 col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <ul>
                             <li><i class="fa fa-caret-right"></i> Ability to adopt a professional and service-focused style towards internal and external customers Organisational awareness with the ability to communicate effectively with a range of internal teams.</li>
                             <li><i class="fa fa-caret-right"></i> A good level of verbal and written communication skills, with the ability to form a rapport with others with ease.</li>
@@ -175,7 +184,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-30">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -416,7 +425,7 @@
 
             </div>
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+            <div class="col-lg-8 col-md-6 col-xs-12 col-sm-12">
                 <div class="section_heading section_2_heading about_text_wrapper">
                     <h4>Other</h4>
                 </div>
@@ -428,7 +437,12 @@
 
             </div>
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
+            <div class="col-md-4 margin-top-60">
+                <img class="image-style-border" src="public/assets/images/page-pictures/FORKLIFT DRIVER  WAREHOUSE ASSISTANT/forklift_driver_warehouse_assistant_3.jpg" alt="Forklift Driver" height="230px" width="100%" height="200px">
+            </div>
+
+
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
                 <p>To apply, forward your CV to arrange an immediate interview.</p>
                 <p><strong> jobs@Workers-direct.com</strong></p>
                 <a href="#" class="green"><strong> OR Apply online now</strong></a>

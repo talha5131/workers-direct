@@ -95,7 +95,7 @@
 
                     <div class="section_heading section_2_heading row">
 
-                        <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                             <table class="table table-bordered " style="width:100%">
                                 <tr>
                                     <th>Job Titles:</th>
@@ -134,8 +134,8 @@
 
                         </div>
 
-                        <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
-                            <img style="border: 4px solid #7CC24D; border-radius:5px;" src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/xfs_550x350_s80_Wait-agency-ojg1lw1cepsqoxirjr8yyjim7k54isqfnb52igvv2g.jpg" alt="hospitality agency" height="350px" width="100%">
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                            <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/SHOP MANAGER/shop_manager_2.jpg" width="100%" height="380px" alt="#">
                         </div>
 
                         <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">

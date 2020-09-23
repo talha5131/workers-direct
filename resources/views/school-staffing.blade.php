@@ -86,6 +86,9 @@
                 </div>
 
             </div>
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 alert">
+                <p>Teachers and staff can have the most profound and positive effect upon a child’s early years, and Workers Direct know how vital it is to find the right staff for a school setting. Our adaptable, patient employees are fully CRB/DBS checked, as according to your requirements, and we offer Full Time and Part Time staff recruitment services. We are adept at finding and matching workers to a school, handling the whole process, vetting and checking the employees we then recommend. We can hire out on a short term, contract and on-going basis – let us know your requirements for your school, and our team will do the rest.</p>
+            </div>
 
 
 
@@ -93,9 +96,12 @@
 
                 <div class="about_text_wrapper ">
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 alert">
-                        <p>Teachers and staff can have the most profound and positive effect upon a child’s early years, and Workers Direct know how vital it is to find the right staff for a school setting. Our adaptable, patient employees are fully CRB/DBS checked, as according to your requirements, and we offer Full Time and Part Time staff recruitment services. We are adept at finding and matching workers to a school, handling the whole process, vetting and checking the employees we then recommend. We can hire out on a short term, contract and on-going basis – let us know your requirements for your school, and our team will do the rest.</p>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/SCHOOL STAFFING/SCHOOL_STAFFING_1.jpg" width="100%" height="340px" alt="BUS DRIVER">
+
                     </div>
+
 
                     <div class="col-lg-7 col-md-7 col-xs-12 col-sm-12 margin-top-20">
 
@@ -110,10 +116,10 @@
                     </div>
 
                     <div class="col-lg-5 col-md-5 col-xs-12 col-sm-12 margin-top-30">
-                        <img style="border: 4px solid #7CC24D; border-radius:5px;" src="http://workers-direct.com/wp-content/uploads/2014/02/Teaching-Staff-Agency-1024x683.jpg" width="100%" height="250px" alt="#">
+                        <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/SCHOOL STAFFING/SCHOOL_STAFFING_3.png" width="100%" height="280px" alt="#">
                     </div>
 
-                    
+
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
@@ -124,7 +130,7 @@
                         </div>
 
                         <p>Are you short-staffed in your school kitchen? We know that kitchen employees need to work efficiently, and be prepared to get stuck in, and able to cope with a fast-paced environment. Our team have a range of workers with varied experience and expertise to match you with, dependent on your requirements – we are waiting to hear from you. With overseers, cooks, bakers, pot-washers and cleaners, among others, Workers Direct will have an employee that will suit you – contact us to discuss your needs.</p>
-                        
+
 
                     </div>
 
@@ -137,7 +143,7 @@
                         </div>
 
                         <p>General support staff can make a world of difference in a school, in ensuring it performs well. At Workers Direct we know the varied responsibilities that a school worker has to take on, and pride ourselves in finding efficient, conscientious staff. Are you looking to fill a vacancy in administration, or other support team members such as cleaning or reception staff? Workers Direct cooperate with employees that have the attention to detail you will be hoping for, and once we know what you require, we match them to you, ensuring that the process runs smoothly. Let us do the work, and we will strive to answer your request with the perfect support staff for your school.</p>
-                        
+
 
                     </div>
 
@@ -150,7 +156,7 @@
                         </div>
 
                         <p>We have Teachers and Teaching Assistants available at short notice for temporary, maternity cover and contract employment, and we have a reputation for recruiting teaching staff that exceed expectations for schools. Our team take pride in matching staff with roles that they can master and develop in. Additionally, by working with our agency you do not need to advertise, interview or hire yourselves – meaning that we are cost-effective, stress-free solution. We will do our utmost to get you teaching staff that will support and stimulate your students, and take charge of the process, whether it is planning ahead for an upcoming vacancy or to cover sudden absence. Get in touch with our team today you can depend upon Workers Direct.</p>
-                        
+
 
                     </div>
 
@@ -158,7 +164,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 ">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -378,6 +384,11 @@
 
                 </div>
 
+            </div>
+
+
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30">
+                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/SCHOOL STAFFING/SCHOOL_STAFFING_5.jpg" width="100%" height="380px" alt="#">
             </div>
 
 

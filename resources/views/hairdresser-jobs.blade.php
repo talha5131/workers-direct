@@ -86,6 +86,15 @@
                 </div>
 
             </div>
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-30">
+                <img class="image-style-border" src="public/assets/images/page-pictures/HAIRDRESSER/hairdresser_1.jpg" height="270px" width="100%" alt="">
+            </div>
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-30">
+                <img class="image-style-border" src="public/assets/images/page-pictures/HAIRDRESSER/hairdresser_2.jpg" height="270px" width="100%" alt="">
+            </div>
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-30">
+                <img class="image-style-border" src="public/assets/images/page-pictures/HAIRDRESSER/hairdresser_3.jpg" height="270px" width="100%" alt="">
+            </div>
 
 
 
@@ -93,7 +102,7 @@
 
                 <div class="about_text_wrapper abt_2_para">
 
-                    <div class="section_heading section_2_heading">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
                         <table class="table table-bordered " style="width:100%">
                             <tr>
@@ -121,13 +130,17 @@
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/HAIRDRESSER/hairdresser_4.jpg" height="370px" width="100%" alt="Hairdresser">
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
 
                         <h2>Role & <span> Responsibilities</span></h2>
 
                     </div>
 
-                    <div class="margin-top-60">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
                         <ul>
                             <li><i class="fa fa-caret-right"></i> Full Time / Part Time with flexible term</li>
                             <li><i class="fa fa-caret-right"></i> Must be good with people</li>
@@ -136,10 +149,17 @@
                         </ul>
                     </div>
 
-                    <div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <p style="margin: 0;">If you’re interested please send your CV to arrange an immediate interview for <strong> hairdresser jobs </strong> at,</p>
                         <p style="margin: 0;"><strong> jobs@Workers-direct.com</strong></p>
                         <a href="#" class="green"><strong> OR Apply online now</strong></a>
+                    </div>
+
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/HAIRDRESSER/hairdresser_5.jpg" height="270px" width="100%" alt="Hairdresser">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/HAIRDRESSER/hairdresser_6.jpg" height="270px" width="100%" alt="Hairdresser">
                     </div>
 
                 </div>

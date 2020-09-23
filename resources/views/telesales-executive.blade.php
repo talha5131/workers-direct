@@ -133,7 +133,7 @@
                     </div>
                     <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
                         <div class="text-center">
-                            <img style="border: 4px solid #7CC24D; border-radius:5px;" src="https://workers-direct.com/wp-content/uploads/2017/01/Call-Centre-Staffing.jpg" width="100%" height="270px" alt="#">
+                            <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/TALESALES EXECUTIVE/talesales_executive_2.jpg" width="100%" height="270px" alt="#">
                         </div>
                     </div>
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
@@ -143,6 +143,10 @@
                         <p style="margin: 0;">The successful applicants must have a very good command on German language & previous experience in telesales field. This role will need someone who can multi tasks and work to a variety of deadlines and product offerings, whilst reporting into and the Team Leader ensuring best practices are maintained, commercial strategies are followed and the targets achieved.</p>
 
 
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
+                        <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/TALESALES EXECUTIVE/talesales_executive_4.jpg" width="100%" height="380px" alt="#">
                     </div>
 
                     <div class="section_heading section_2_heading col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">

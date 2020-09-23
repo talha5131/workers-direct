@@ -79,7 +79,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Thai Chef  <span> Job</span></h1>
+                        <h1>Thai Chef <span> Job</span></h1>
 
                     </div>
 
@@ -95,69 +95,83 @@
 
                     <div class="section_heading section_2_heading ">
 
-                        <div>
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                             <p>Our client is a very well-known local restaurant in Bongor Regis area. They are hosting some Thai guests’ end of this month for this purpose they looking for a Temporary Thai chef who can cook Lunch and Dinner for all guests during their one month stay. If you are an Experienced Thai Chef with extensive Thai cooking experience and a passion for the industry we would really like to talk to you. This position will give you the creative freedom to produce authentic and creative dishes.</p>
                         </div>
 
-                        <div class="section_heading section_2_heading">
+                        <div class=" margin-top-20 col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-                            <h2>Thai Chef <span> Features</span></h2>
-
-                        </div>
-                        
-                        <div class="margin-top-60">
-                            <ul>
-                                <li><i class="fa fa-caret-right"></i> Great Rates of pay-to reflect the high skill level and experience required</li>
-                                <li><i class="fa fa-caret-right"></i> Join a great team of temporary chefs</li>
-                                <li><i class="fa fa-caret-right"></i> Immediate Start</li>
-                                <li><i class="fa fa-caret-right"></i> NO split shifts</li>
-                                <li><i class="fa fa-caret-right"></i> Weekly Pay</li>
-                                <li><i class="fa fa-caret-right"></i> Free Accommodation</li>
-                            </ul>
-                        </div>
-
-                        <div class="section_heading section_2_heading margin-top-40">
-
-                            <h2>Thai Chef <span> Requirements</span></h2>
+                            <img class="image-style-border" src="public/assets/images/page-pictures/THAI CHEF JOB/thai_chef_job_1.jpg" width="100%" alt="about-img">
 
                         </div>
-                        <div class=" margin-top-40">
-                            <ul>
-                                <li><i class="fa fa-caret-right"></i> You must have previously worked as a Thai Chef</li>
-                                <li><i class="fa fa-caret-right"></i> Fully able to cook alone all kind of Thai foods</li>
-                                <li><i class="fa fa-caret-right"></i> Focus on quality and consistency</li>
-                                <li><i class="fa fa-caret-right"></i> Strong hospitality and banqueting background</li>
-                                <li><i class="fa fa-caret-right"></i> Own knives, chefs whites, and safety shoes</li>
-                                <li><i class="fa fa-caret-right"></i> Eligible to work in the UK</li>
-                            
-                            </ul>
+
+                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                            <div class=" margin-top-20">
+
+                                <h2>Thai Chef <span> Features</span></h2>
+
+                            </div>
+
+                            <div class="margin-top-40 ">
+                                <ul>
+                                    <li><i class="fa fa-caret-right"></i> Great Rates of pay-to reflect the high skill level and experience required</li>
+                                    <li><i class="fa fa-caret-right"></i> Join a great team of temporary chefs</li>
+                                    <li><i class="fa fa-caret-right"></i> Immediate Start</li>
+                                    <li><i class="fa fa-caret-right"></i> NO split shifts</li>
+                                    <li><i class="fa fa-caret-right"></i> Weekly Pay</li>
+                                    <li><i class="fa fa-caret-right"></i> Free Accommodation</li>
+                                </ul>
+                            </div>
+
+                            <div class=" margin-top-40">
+
+                                <h2>Thai Chef <span> Requirements</span></h2>
+
+                            </div>
+                            <div class=" margin-top-40">
+                                <ul>
+                                    <li><i class="fa fa-caret-right"></i> You must have previously worked as a Thai Chef</li>
+                                    <li><i class="fa fa-caret-right"></i> Fully able to cook alone all kind of Thai foods</li>
+                                    <li><i class="fa fa-caret-right"></i> Focus on quality and consistency</li>
+                                    <li><i class="fa fa-caret-right"></i> Strong hospitality and banqueting background</li>
+                                    <li><i class="fa fa-caret-right"></i> Own knives, chefs whites, and safety shoes</li>
+                                    <li><i class="fa fa-caret-right"></i> Eligible to work in the UK</li>
+
+                                </ul>
+                            </div>
                         </div>
 
-                        <div class="section_heading section_2_heading margin-top-40">
+                        <div class=" margin-top-60 col-lg-6 col-md-6 col-xs-12 col-sm-12">
+
+                            <img class="image-style-border" src="public/assets/images/page-pictures/THAI CHEF JOB/thai_chef_job_2.jpg" width="100%" alt="about-img">
+
+                        </div>
+
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40">
 
                             <h2>Additional <span> Info</span></h2>
 
                         </div>
 
-                        <div>
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                             <p style="margin: 0">We pay all our chefs £8.00 – £10.00 per hour plus accommodation (Depends). So if you are interested in this specialist position and are looking to earn great money doing temporary work then get in touch straight away.</p>
                             <p style="margin: 0">Because of high volumes of applicants only successful candidates will be contacted</p>
                         </div>
 
-                        <div class="section_heading section_2_heading margin-top-40">
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40">
 
                             <h2>Don’t keep a good thing to <span> yourself</span></h2>
 
                         </div>
 
-                        <div>
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                             <p style="margin: 0">We grow our business through referrals, so please don’t keep us to yourself. If you think we’re doing a good job and know of someone who would benefit from our services, please pass on their name and number to me and I promise we will follow it up. Many Thanks.</p>
                         </div>
 
-                        <div>
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                             <p style="margin: 0">To apply please forward CV to e-mail provided to arrange an immediate interview.</p>
                             <p style="margin: 0"><strong>jobs@ Workers-direct.com</strong></p>
-                            <a href="# "><strong> OR Apply Online</strong></a>
+                            <a href="# " class="green"><strong> OR Apply Online</strong></a>
                         </div>
 
 
@@ -167,7 +181,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-30">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 

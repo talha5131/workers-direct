@@ -80,20 +80,30 @@
 
             </div>
 
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-40">
+                <img class="image-style-border" src="public/assets/images/page-pictures/EVENT STAFF/event_staff_1.jpg" width="100%" height="250px" alt="Event Staff">
+            </div>
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-40">
+                <img class="image-style-border" src="public/assets/images/page-pictures/EVENT STAFF/event_staff_2.jpg" width="100%" height="250px" alt="Event Staff">
+            </div>
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-40">
+                <img class="image-style-border" src="public/assets/images/page-pictures/EVENT STAFF/event_staff_3.jpg" width="100%" height="250px" alt="Event Staff">
+            </div>
+
 
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
                 <div class="about_text_wrapper abt_2_para">
                     <div>
-                        <p>Event staffing in London are not very hard to find. There is an abundance of Event Helpers, waiting staff and event co-ordinators.</p>
+                        <p style="margin: 0;">Event staffing in London are not very hard to find. There is an abundance of Event Helpers, waiting staff and event co-ordinators.</p>
 
-                        <p>There are many event staff agencies offering services to the clients across the London.</p>
+                        <p style="margin: 0;">There are many event staff agencies offering services to the clients across the London.</p>
 
-                        <p>This has put us in the position of being able to recruit events staff on an ongoing basis,Workers Direct is an expert at recruiting the finest event candidates available and our clients are long term acquaintances and offer us first choice for any event jobs available.</p>
+                        <p style="margin: 0;">This has put us in the position of being able to recruit events staff on an ongoing basis,Workers Direct is an expert at recruiting the finest event candidates available and our clients are long term acquaintances and offer us first choice for any event jobs available.</p>
                     </div>
 
-                    <div class="section_heading section_2_heading">
+                    <div class="section_heading section_2_heading margin-top-30">
                         <h2 class="margin-bottom-60">Ongoing Recruitment Means</h2>
                     </div>
                     <ul>
@@ -108,8 +118,12 @@
 
                     </div>
 
-                    <p>Consultants come from events back ground and are therefore in the unique position of identifying the type of event staff the client may need.</p>
-                    <p>They are also, often involved in the event which means that they keep their experience current and they build a new understanding of the types of events that the client holds on a regular basis.</p>
+                    <p style="margin: 0;">Consultants come from events back ground and are therefore in the unique position of identifying the type of event staff the client may need.</p>
+                    <p style="margin: 0;">They are also, often involved in the event which means that they keep their experience current and they build a new understanding of the types of events that the client holds on a regular basis.</p>
+
+                    <div class="margin-top-40">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/EVENT STAFF/event_staff_4.jpg" width="100%" height="400px" alt="Event Staff">
+                    </div>
 
                     <div class="section_heading section_2_heading margin-top-60">
 
@@ -117,14 +131,10 @@
 
                     </div>
 
-                    <p>Workers Direct knows that there is no room for error in this field so therefore we require a detailed brief of the clients’ expectations.</p>
-                    <p>This will form the basis a contract for the events staff that the client wants to hire.</p>
-                    <p>If, however, the client is dissatisfied with our event staffing services we offer a money back guarantee as per the negotiated contract.</p>
-                    <p>We enjoy working closely with our clients and having satisfied clients and candidates. This is why Workers Direct has this unique approach to event recruiting and staffing.</p>
-
-                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 ">
-                        <iframe class="video-dimensions" style="width: 100%; height: 400px;" src="https://www.youtube.com/embed/hrejtMBnChQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    </div>
+                    <p style="margin: 0;">Workers Direct knows that there is no room for error in this field so therefore we require a detailed brief of the clients’ expectations.</p>
+                    <p style="margin: 0;">This will form the basis a contract for the events staff that the client wants to hire.</p>
+                    <p style="margin: 0;">If, however, the client is dissatisfied with our event staffing services we offer a money back guarantee as per the negotiated contract.</p>
+                    <p style="margin: 0;">We enjoy working closely with our clients and having satisfied clients and candidates. This is why Workers Direct has this unique approach to event recruiting and staffing.</p>
 
                 </div>
 
@@ -349,11 +359,10 @@
 
             </div>
 
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
 
-
-
-            <!-- </div> -->
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-top-30">
+                <iframe class="video-dimensions" style="width: 100%; height: 400px;" src="https://www.youtube.com/embed/hrejtMBnChQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
 
 
 

@@ -102,7 +102,7 @@
                     <div>
                         <p style="margin: 0;">The hospitality industry is fast-paced and it relies on having the right staff available when you need them. Whether you run a restaurant, own a bar or even provide catering services to events, your staff are the backbone of all that you do.</p>
                         <p>However, it can prove difficult to know what staff numbers you require depending on the area you work in or you might find that you have a high turnover of staff and constantly find that you are in need of replacements. However, whatever your needs might be, the best catering agencies will ensure that you always have access to the very best catering staff that are ready and available to fill your specific role.</p>
-                        <img style="border: 4px solid #7CC24D;border-radius: 5px; height:400px;width:100%;" src="https://workers-direct.com/wp-content/uploads/2019/01/hospitality-agency-london-1024x865.jpg" width="100%" alt="hospitality agency london">
+                        <img style="border: 4px solid #7CC24D;border-radius: 5px; height:400px;width:100%;" src="public/assets/images/page-pictures/WAITING STAFF/waiting_staff_1.jpg" width="100%" alt="WAITING STAFF">
                     </div>
 
                     <div class="section_heading section_2_heading margin-top-30">

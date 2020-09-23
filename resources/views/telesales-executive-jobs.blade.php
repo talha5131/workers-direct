@@ -130,6 +130,10 @@
                     </div>
 
                     <div>
+                        <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/TALESALES EXECUTIVE/talesales_executive_3.PNG" width="100%" height="400px" alt="#">
+                    </div>
+
+                    <div>
 
                         <p>One of our clients (A Global mobile technology firm) is looking for very experienced Telesales Executives for their London office on Temp to Perm basis. This position is also open for students as a paid internship.</p>
 

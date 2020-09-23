@@ -71,7 +71,7 @@
 
         <div class="row">
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20">
+            <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12  margin-bottom-20">
 
                 <div class="about_text_wrapper">
 
@@ -81,12 +81,16 @@
 
                     </div>
 
-                    <p>Team Workers Direct is one of the spcealise and leading catering / kitchen porters agency in London, We have various kitchen jobs available to start ASAP across the City.</p>
-                    <p>Please see below few of the kitchen team we have in our books to cover any permanent & temp role on short notice.</p>
+                    <p style="margin: 0;">Team Workers Direct is one of the spcealise and leading catering / kitchen porters agency in London, We have various kitchen jobs available to start ASAP across the City.</p>
+                    <p style="margin: 0;">Please see below few of the kitchen team we have in our books to cover any permanent & temp role on short notice.</p>
 
 
                 </div>
 
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-30">
+                <img class="image-style-border" src="public/assets/images/page-pictures/KITCHEN PORTER/kitchen_porter_1.jpg" width="100%" height="230px" alt="IT Support">
             </div>
 
 
@@ -96,7 +100,7 @@
                 <div class="about_text_wrapper">
 
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
                         <div class="section_heading section_2_heading">
 
                             <h4> Kitchen <span> Assistant</span></h4>
@@ -134,7 +138,11 @@
                         </p>
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/KITCHEN PORTER/kitchen_porter_5.jpg" width="100%" height="350px" alt="IT Support">
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
                         <div class="section_heading section_2_heading">
 
                             <h4>Dish <span> Washer</span></h4>
@@ -162,12 +170,14 @@
                         </p>
 
                     </div>
-                    <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <div class="section_heading section_2_heading margin-bottom-60">
 
-                            <h4>Please see below the lattest Kitchen Porter Jobs<span> London :-</span></h4>
+                            <h4>Please see below the lattest Kitchen Porter Jobs<span> London</span></h4>
 
                         </div>
+                    </div>
+                    <div class="col-lg-5 col-md-5 col-xs-12 col-sm-12">
                         <ul>
                             <li><i class="fa fa-caret-right"></i><strong>Job Titles:</strong> Kitchen Porters X 2 (Full Time)</li>
                             <li><i class="fa fa-caret-right"></i><strong>Job Category:</strong> Catering & Hospitality</li>
@@ -179,8 +189,8 @@
                         </ul>
 
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 margin-top-60">
-                        <img style="border: 4px solid #7CC24D; border-radius:5px;" src="https://workers-direct.com/wp-content/uploads/2018/06/Catering-staff-agencies-1024x700.jpg" alt="Agency Work" width="100%" height="auto">
+                    <div class="col-lg-7 col-md-7 col-xs-12 col-sm-12 ">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/KITCHEN PORTER/kitchen_porter_2.jpg" width="100%" height="270px" alt="IT Support">
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
@@ -191,7 +201,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 ">
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-20">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -411,44 +421,58 @@
             </div>
 
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <div class="about_text_wrapper abt_2_para">
-                    <div class="section_heading section_2_heading  margin-bottom-60">
+                <div class="about_text_wrapper ">
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                        <div class="  margin-bottom-60">
 
-                        <h4> Main <span> Responsibilities:</span></h4>
+                            <h4> Main <span> Responsibilities</span></h4>
 
+                        </div>
+
+                        <ul>
+                            <li> <i class="fa fa-caret-right"></i> To carry out daily duties including, washing tableware,cutlery and pans.</li>
+                            <li><i class="fa fa-caret-right"></i>Keep tidy and clean Kitchen all the time.</li>
+                            <li><i class="fa fa-caret-right"></i>Helping bring items to the chefs.</li>
+                            <li><i class="fa fa-caret-right"></i>Other day to day tasks assigned by management.</li>
+                        </ul>
                     </div>
 
-                    <ul>
-                        <li> <i class="fa fa-caret-right"></i> To carry out daily duties including, washing tableware,cutlery and pans.</li>
-                        <li><i class="fa fa-caret-right"></i>Keep tidy and clean Kitchen all the time.</li>
-                        <li><i class="fa fa-caret-right"></i>Helping bring items to the chefs.</li>
-                        <li><i class="fa fa-caret-right"></i>Other day to day tasks assigned by management.</li>
-                    </ul>
-
-                    <div class="section_heading section_2_heading  margin-top-60 margin-bottom-60">
-
-                        <h4> You need the following <span> to apply:</span></h4>
-
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 ">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/KITCHEN PORTER/kitchen_porter_3.jpg" width="100%" height="270px" alt="IT Support">
                     </div>
 
-                    <ul>
-                        <li> <i class="fa fa-caret-right"></i> Hard working & a team player.</li>
-                        <li><i class="fa fa-caret-right"></i>Willing and keen to learn.</li>
-                        <li><i class="fa fa-caret-right"></i>Flexible, able to work in shift patterns according to business need.</li>
-                        <li><i class="fa fa-caret-right"></i>Must Be able to work under pressure.</li>
-                    </ul>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
+                        <div class="section_heading section_2_heading  margin-top-60 margin-bottom-60">
 
-                    <div class="section_heading section_2_heading margin-top-60 margin-bottom-60">
+                            <h4> You need the following <span> to apply</span></h4>
 
-                        <h4> An ideal kitchen porter <span> must have:</span></h4>
+                        </div>
 
+                        <ul>
+                            <li> <i class="fa fa-caret-right"></i> Hard working & a team player.</li>
+                            <li><i class="fa fa-caret-right"></i>Willing and keen to learn.</li>
+                            <li><i class="fa fa-caret-right"></i>Flexible, able to work in shift patterns according to business need.</li>
+                            <li><i class="fa fa-caret-right"></i>Must Be able to work under pressure.</li>
+                        </ul>
                     </div>
 
-                    <ul>
-                        <li> <i class="fa fa-caret-right"></i> Minimum 1 – 2 years relevant experience.</li>
-                        <li><i class="fa fa-caret-right"></i>Level 2 food and hygiene certificate.</li>
-                        <li><i class="fa fa-caret-right"></i>Must be able to work full time / 35 hours a week (Mon to Fri)</li>
-                    </ul>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <div class="section_heading section_2_heading margin-top-60 margin-bottom-60">
+
+                            <h4> An ideal kitchen porter <span> must have</span></h4>
+
+                        </div>
+
+                        <ul>
+                            <li> <i class="fa fa-caret-right"></i> Minimum 1 – 2 years relevant experience.</li>
+                            <li><i class="fa fa-caret-right"></i>Level 2 food and hygiene certificate.</li>
+                            <li><i class="fa fa-caret-right"></i>Must be able to work full time / 35 hours a week (Mon to Fri)</li>
+                        </ul>
+                    </div>
+
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-60 ">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/KITCHEN PORTER/kitchen_porter_4.jpg" width="100%" height="270px" alt="IT Support">
+                    </div>
 
 
                     <p>

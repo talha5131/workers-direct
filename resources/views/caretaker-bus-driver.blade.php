@@ -87,6 +87,16 @@
 
             </div>
 
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
+                <img src="public/assets/images/page-pictures/CARETAKER  BUS DRIVER/bus_driver_1.jpg" width="100%" height="220px" alt="Bus Driver">
+            </div>
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
+                <img src="public/assets/images/page-pictures/CARETAKER  BUS DRIVER/bus_driver_4.jpg" width="100%" height="220px" alt="Bus Driver">
+            </div>
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
+                <img src="public/assets/images/page-pictures/CARETAKER  BUS DRIVER/bus_driver_3.jpg" width="100%" height="220px" alt="Bus Driver">
+            </div>
+
 
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">

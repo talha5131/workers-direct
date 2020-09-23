@@ -135,12 +135,16 @@
 
                         </div>
 
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-top-40 ">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/QUALIFIED ELECTRICIAN/qualified_electrician_1.jpg" width="100%" height="440px" alt="Electrician">
+                        </div>
+
 
 
                         <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                            <p>We are recruiting FIVE qualified electricians on behalf of our client for six months to test domestic electrical installations across M25 / London area.</p>
-                            <p><strong> The position of electrical engineer (EICR)</strong> is to undertake electrical testing for electrical services in accordance with The Electricity at work regulations 1989, used by clients various sites within the UK to ensure that such services are safe to use and do not give rise to danger. This role may require overnight, weekend and out of our working, traveling to and from sites, liaising with customers representatives on site, organizing the work programme to ensure that the works are carried out to the required specification, programme and that reports are filed in the Cambridge office within seven days of the works completion.</p>
-                            <p>Uphold and promote the company’s ethical, moral sustainable and environmental values, in particular to business ethics, philosophy, and integrity, corporate and social responsibility. In essence treating our customers, work colleagues , suppliers, sub-contractors and other business partners as we would like to be treated and ensuring that the company meets the contractual obligations to its customers and carries out duties accurately and efficiently so as to promote and maintain good business relationships and generate profit for the company</p>
+                            <p style="margin: 0;">We are recruiting FIVE qualified electricians on behalf of our client for six months to test domestic electrical installations across M25 / London area.</p>
+                            <p style="margin: 0;"><strong> The position of electrical engineer (EICR)</strong> is to undertake electrical testing for electrical services in accordance with The Electricity at work regulations 1989, used by clients various sites within the UK to ensure that such services are safe to use and do not give rise to danger. This role may require overnight, weekend and out of our working, traveling to and from sites, liaising with customers representatives on site, organizing the work programme to ensure that the works are carried out to the required specification, programme and that reports are filed in the Cambridge office within seven days of the works completion.</p>
+                            <p style="margin: 0;">Uphold and promote the company’s ethical, moral sustainable and environmental values, in particular to business ethics, philosophy, and integrity, corporate and social responsibility. In essence treating our customers, work colleagues , suppliers, sub-contractors and other business partners as we would like to be treated and ensuring that the company meets the contractual obligations to its customers and carries out duties accurately and efficiently so as to promote and maintain good business relationships and generate profit for the company</p>
                         </div>
 
 

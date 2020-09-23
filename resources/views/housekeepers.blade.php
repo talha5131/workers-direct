@@ -91,11 +91,16 @@
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper ">
 
-                    <p>Housekeeping is a specialized area that needs skilled people to carry out the job. With lots of classes for housekeeping jobs, it is best to employ a housekeeper agency that has housekeeping solutions for all the categories. This can help you find the best person for your specific need.</p>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="col-md-12 margin-top-40">
+                        <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="public/assets/images/page-pictures/HOUSEKEEPERS/housekeepers_1.jpeg" width="100%" height="400px" alt="career_img" />
+                    </div>
+
+                    <p class="margin-top-20 col-md-12">Housekeeping is a specialized area that needs skilled people to carry out the job. With lots of classes for housekeeping jobs, it is best to employ a housekeeper agency that has housekeeping solutions for all the categories. This can help you find the best person for your specific need.</p>
+
+                    <div class="col-md-12 section_heading section_2_heading margin-top-40">
 
                         <h4> Why Housekeeper Agencies <span> London?</span></h4>
 
@@ -103,7 +108,7 @@
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="col-md-12 section_heading section_2_heading margin-top-40">
 
                         <h4> Benefits of a <span> staff agencies</span></h4>
 
@@ -111,7 +116,17 @@
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 margin-top-40">
+                        <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="public/assets/images/page-pictures/HOUSEKEEPERS/housekeepers_3.png" width="100%" height="200px" alt="career_img" />
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 margin-top-40">
+                        <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="public/assets/images/page-pictures/HOUSEKEEPERS/housekeepers_4.jpg" width="100%" height="200px" alt="career_img" />
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 margin-top-40">
+                        <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="public/assets/images/page-pictures/HOUSEKEEPERS/housekeepers_5.jpg" width="100%" height="200px" alt="career_img" />
+                    </div>
+
+                    <div class="col-md-12 section_heading section_2_heading margin-top-40">
 
                         <h4> Hire the <span> best</span></h4>
 
@@ -119,50 +134,14 @@
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
 
-                        <h4 class="margin-bottom-60"> Latest Housekeeping Jobs in <span> London</span></h4>
-
-                        <table class="table table-bordered text-center" style="width:100%">
-                            <tr>
-                                <th>Job Titles</th>
-                                <td>Housekeepers X 3</td>
-                            </tr>
-                            <tr>
-                                <th>Job Location</th>
-                                <td>Central London</td>
-                            </tr>
-                            <tr>
-                                <th>Job Duration</th>
-                                <td>Temporary</td>
-                            </tr>
-                            <tr>
-                                <th>Job Started</th>
-                                <td>As soon as possible</td>
-                            </tr>
-                            <tr>
-                                <th>Salary</th>
-                                <td>£8.50 to £9.00 per hour</td>
-                            </tr>
-                        </table>
-
-                        <p style="margin: 0;">We are looking for experienced <strong>Housekeepers URGENTLY</strong>  on temporary basis in Central London area. competitive hourly salary £8.50 to £9.00 Previous experience as housekeeper or room attendant is essential, Immediate start available.</p>
-
-                    </div>
-
-                    <div>
-
-                        <p style="margin: 0;">To apply forward your CV to arrange an immediate interview.</p>
-                        <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
-                        <a href="# " class="green"><strong> OR Apply Online</strong></a>
-                    </div>
 
 
                 </div>
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -382,6 +361,51 @@
 
                 </div>
 
+            </div>
+
+
+            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 margin-top-40">
+
+                <div class="about_text_wrapper">
+                    <h4 class="margin-bottom-60"> Latest Housekeeping Jobs in <span> London</span></h4>
+                </div>
+
+                <table class="table table-bordered text-center">
+                    <tr>
+                        <th>Job Titles</th>
+                        <td>Housekeepers X 3</td>
+                    </tr>
+                    <tr>
+                        <th>Job Location</th>
+                        <td>Central London</td>
+                    </tr>
+                    <tr>
+                        <th>Job Duration</th>
+                        <td>Temporary</td>
+                    </tr>
+                    <tr>
+                        <th>Job Started</th>
+                        <td>As soon as possible</td>
+                    </tr>
+                    <tr>
+                        <th>Salary</th>
+                        <td>£8.50 to £9.00 per hour</td>
+                    </tr>
+                </table>
+
+                <p style="margin: 0;">We are looking for experienced <strong>Housekeepers URGENTLY</strong> on temporary basis in Central London area. competitive hourly salary £8.50 to £9.00 Previous experience as housekeeper or room attendant is essential, Immediate start available.</p>
+
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 margin-top-100">
+                <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="public/assets/images/page-pictures/HOUSEKEEPERS/housekeepers_2.jpg" width="100%" height="300px" alt="career_img" />
+            </div>
+
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-top-30">
+
+                <p style="margin: 0;">To apply forward your CV to arrange an immediate interview.</p>
+                <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
+                <a href="# " class="green"><strong> OR Apply Online</strong></a>
             </div>
 
 

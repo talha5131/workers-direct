@@ -89,9 +89,10 @@
 
 
 
+
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper ">
 
                     <div class="margin-top-20">
 
@@ -101,6 +102,10 @@
                         <p style="margin: 0;">We cover a wide range of industries and that makes us flexible and adaptable. It also means that we have a greater chance of finding jobs for our candidates and meeting the needs of our clients. Throughout these industries, we have specialists who know how they work and that enables us to further our ability to meet the ever-changing demands of businesses.</p>
                         <p style="margin: 0;">Customer service is at the heart of what we do and it underpins our fundamentals and so, we are constantly looking at ways in which we can improve the whole experience for our clients and candidates. We aim to be market leaders and so, we are always forging new relationships, enhancing our working method and seeking new contacts because that is what is what makes us stand out.</p>
 
+                    </div>
+
+                    <div class="margin-top-20">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/PASTRY CHEF/pastry_chef_3.jpg" width="100%" height="310px" alt="IT Support">
                     </div>
 
                     <div class="section_heading section_2_heading margin-top-20">
@@ -145,7 +150,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-20">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -404,7 +409,7 @@
                         </table>
                     </div>
                     <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
-                        <img style="border: 4px solid #7CC24D; border-radius: 5px" src="https://workers-direct.com/wp-content/uploads/2015/01/Agency-Worker.jpg" width="100%" height="340px" alt="#">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/PASTRY CHEF/pastry_chef_2.jpg" width="100%" height="340px" alt="IT Support">
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">

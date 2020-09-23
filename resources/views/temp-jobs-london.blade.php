@@ -93,15 +93,15 @@
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper ">
 
-                    <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <p style="margin: 0;">Workers Direct, a <strong> Leader in Temporary Jobs</strong>, announces that temporary staff needs can be immediately filled with skilled and semi-skilled workers. Workers Direct personnel are ready and on call for any short-term temp cover openings. Workers Direct, noted as one of the best Temp Jobs Agency London, draws from a pool of applicants that are interviewed and on the Workers Direct payroll. This pool of diverse staff is ready and willing to work on short notice. Workers Direct can deliver emergency staff to your door often within an hour. All ready labourers on the Workers Direct Staff have been registered, interviewed and have all their paperwork in place for immediate work assignments. Your Sick cover and Urgent staffing needs can be filled in short order. With the pool of immediately available workers on the Workers Direct payroll, you are not even burdened with the payroll taxes and reporting. As the most reliable Temp Agency in London, you write one check to cover all your contracted hours, Workers Direct handles all reporting and tax compliance.</p>
 
                     </div>
 
-                    <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-30">
-                        <img style="border: 4px solid #7CC24D; border-radius:5px;" src="https://workers-direct.com/wp-content/uploads/2015/01/staffing-agency-1024x683.jpg" width="100%" height="250px" alt="#">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
+                        <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/TEMP JOBS LONDON/temp-jobs-london_2.JPG" width="100%" height="350px" alt="#">
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
@@ -109,6 +109,14 @@
                         <p style="margin: 0;">Workers Direct, a <strong> Customized Staffing Service</strong>, maintains a database of available workers ready to step in and fill staffing needs throughout the year in a variety of industries and businesses. From Warehouse workers to Administrative Assistants, a broad range of skilled and unskilled workers are available from Workers Direct. Short term hires or long-term employees, Workers Direct comes to the rescue of any business when you need immediate staff. A sudden surge in orders or work, no need to scramble, pick up the phone and call your contracted representative at Workers Direct and have ready to work staff at your door almost immediately.</p>
                         <p style="margin: 0;">Workers Direct, <strong>London’s Staffing Specialists</strong>, is the go to Staffing Agency for Corporate Offices, Restaurants, Nursing Homes, Retail, Warehouses and Construction Companies. Noted by all for their quick response time, owners and managers rely on the quality workforce that Workers Direct can deliver within the shortest time of any other hiring agency around. When you have a contract with Workers Direct, you have access to a roster of ready to work staff that can be on the job in as little as an hour. When you need immediate Staff Workers Direct is your solution in London when you need to supplement your staff, cover for sick workers or any short-term staffing emergencies.</p>
                         <p style="margin: 0;">Workers Direct, <a href="https://workers-direct.com/"><strong> Temp Agency London</strong></a> supplies, reliable, committed, vetted workers on a weekly, monthly or yearly basis. The staffing solutions of Workers Direct takes the job out of hiring. Owners and Managers can eliminate the full-time job that hiring can become when you contract with Workers Direct, the Staffing Agency where hiring is their full-time job. Workers Direct takes care of advertising, interviewing, and vetting when you need staff. Workers Direct can provide you with a customized manpower solutions. No matter what the Staffing Needs of your business or company, part timers for a week, a month or even steady part-time workers, Workers Direct delivers the staff you need for the time you need them. Workers Direct, the Leaders in Staffing Solutions, is your virtual HR Department.</p>
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
+                        <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/TEMP JOBS LONDON/temp-jobs-london_3.JPG" width="100%" height="450px" alt="#">
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
+
                         <p style="margin: 0;">When you contract with Workers Direct, you receive personal service. A dedicated hiring consultant, assigned to you, is your personal liaison for the employees provided by Workers Direct. Your Personal Staffing Consultant is available to you with one phone call, providing bespoke attention with quick, reliable, cost effective Staffing Solutions for all your hiring needs. Your Personal Staffing Consultant has an intimate knowledge of the thousands of vetted workers in the databases of Workers Direct, allowing them to match your job requirements with the best staffing solution.</p>
                         <p style="margin: 0;">Workers Direct, <strong> Your Personalized Staffing Partner</strong>, will take on any customized staffing challenge, advertising, pre-screening, vetting and hiring a Staff that will fit your job requirements in the most cost-efficient manner. Dedicated to earning the trust of clients, and the loyalty of workers, Workers Direct uses the personal approach combined with technology to bring a pool of the best talent to their clients. Fully insured, with a money back guarantee, Workers Direct offers to businesses the right staff on right time either it is permanent or <a href="https://workers-direct.com/temp-jobs-london/"><strong> temp jobs London</strong></a>.</p>
 
@@ -118,7 +126,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 

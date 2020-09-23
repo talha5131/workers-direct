@@ -139,7 +139,7 @@
                             very carefully with a most suitable candidate.
                         </p>
                     </div>
-                    <div class="col-lg-7 col-md-7 col-xs-12 col-sm-12">
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
                         <div class="margin-top-20">
                             <ul>
                                 <li><i class="fa fa-caret-right"></i> Receptionists</li>
@@ -151,8 +151,8 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-lg-5 col-md-5 col-xs-12 col-sm-12 margin-top-20">
-                        <img style="border:4px solid #7CC24D; border-radius:5px;" src="http://workers-direct.com/wp-content/uploads/2015/01/Temp-agency-1024x731.jpg" alt="Temp Agency London" height="230px" width="100%">
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
+                        <img style="border:4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/admin staff/admin_staff_2.jpg" alt="Temp Agency London" height="230px" width="100%">
                     </div>
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">   
                         <div>
@@ -161,6 +161,7 @@
                             <a href="# " class="green"><strong> OR Apply Online</strong></a>
                         </div>
                     </div>
+                    
 
                 </div>
 

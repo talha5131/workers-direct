@@ -130,12 +130,16 @@
 
                         </div>
 
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/KITCHEN ASSISTANT (PART TIME)/kitchen-assistant-parttime_1.jpg" width="100%" height="400px" alt="IT Support">
+                        </div>
+
 
 
                         <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                             <p>We require a Kitchen Assistant & Kitchen Porter as soon as possible on part time temporary basis for a well known organisation based in West London area.</p>
                             <p>Ideal candidates should be responsible, trustworthy, hard-working, hold valid <strong> DBS and Food and Hygiene</strong> certificates.</p>
-                            
+
                         </div>
 
 
@@ -143,15 +147,15 @@
 
 
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="section_heading section_2_heading margin-top-20">
 
-                        <div class="section_heading section_2_heading margin-bottom-60">
+                        <div class="col-md-12 margin-bottom-60">
 
-                            <h2>The tasks will include among other things :</h2>
+                            <h2>The tasks will include among other things</h2>
 
                         </div>
 
-                        <div>
+                        <div class="col-md-6">
                             <ul>
                                 <li><i class="fa fa-caret-right"></i> Mainly Helping Chef in Kitchen.</li>
                                 <li><i class="fa fa-caret-right"></i> Washing up tableware,Cutlery and Pans.</li>
@@ -161,7 +165,12 @@
                             </ul>
                         </div>
 
-                        <div>
+                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 ">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/KITCHEN ASSISTANT (PART TIME)/kitchen-assistant-parttime_2.jpg" width="100%" height="230px" alt="IT Support">
+                        </div>
+
+
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                             <p>To apply forward your CV to arrange an immediate interview.</p>
                             <p><strong>jobs@ Workers-direct.com</strong></p>
                             <a href="# " class="green"><strong> OR Apply Online</strong></a>
@@ -394,6 +403,13 @@
 
                 </div>
 
+            </div>
+
+            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                <img class="image-style-border" src="public/assets/images/page-pictures/KITCHEN ASSISTANT (PART TIME)/kitchen-assistant-parttime_3.jpg" width="100%" height="230px" alt="IT Support">
+            </div>
+            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                <img class="image-style-border" src="public/assets/images/page-pictures/KITCHEN ASSISTANT (PART TIME)/kitchen-assistant-parttime_4.jpg" width="100%" height="230px" alt="IT Support">
             </div>
 
 

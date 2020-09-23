@@ -131,6 +131,10 @@
 
                         </div>
 
+                        <div class=" col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/NURSERY NURSES/nursery_nurses_2.jpg" width="100%" height="310px" alt="IT Support">
+                        </div>
+
 
                     </div>
 
@@ -157,7 +161,11 @@
                             <p>Following early years curriculum and planning and implementing learning and creative activities for children, working as part of team, following safeguarding and health and safety policies and procedures, supervising play, carrying out observations of children. Interacting with parents and updating them on child’s day and monitoring progress.</p>
                         </div>
 
-                        <div class="section_heading section_2_heading margin-top-60 ">
+                        <div>
+                            <img class="image-style-border" src="public/assets/images/page-pictures/NURSERY NURSES/nursery_nurses_1.jpg" width="100%" height="450px" alt="IT Support">
+                        </div>
+
+                        <div class="section_heading section_2_heading margin-top-40 ">
 
                             <h2>An ideal Candidate <span> Must be</span></h2>
 

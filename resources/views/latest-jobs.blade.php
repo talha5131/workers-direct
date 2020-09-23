@@ -91,13 +91,17 @@
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="row about_text_wrapper abt_2_para">
+                <div class="row about_text_wrapper margin-top-20">
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 alert alert-success">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
 
-                        <p>If you are looking for a Temporary Job or career change, all of our Jobs are published here and updated on regular basis.</p>
-                        <p>View our current list of jobs (Temporary and Permanent) you can register your CV online for vacancies using our online <a href="https://workers-direct.com/temp-jobs-registration/"><strong> CV Registration form</strong></a>.</p>
+                        <p style="margin: 0;">If you are looking for a Temporary Job or career change, all of our Jobs are published here and updated on regular basis.</p>
+                        <p style="margin: 0;">View our current list of jobs (Temporary and Permanent) you can register your CV online for vacancies using our online <a href="https://workers-direct.com/temp-jobs-registration/"><strong> CV Registration form</strong></a>.</p>
 
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20 ">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/LATEST JOBS/latest_jobs_1.jpg" width="100%" height="370px" alt="IT Support">
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
@@ -164,14 +168,19 @@
 
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60 alert alert-success">
-                        <p>Please do not forgot to mentioned <strong> Job Title</strong> on Application Form / Email & See Weekly Latest jobs visit our <a href="https://www.facebook.com/workersdirect"><strong> Facebook Page</strong></a>.</p>
-                        <p><strong> Subscribe</strong> us for weekly Jobs Direct into your inbox.</p>
-                        <p>You Can Find Our Temp & Perm Jobs by visiting at <strong> https://www.facebook.com/workersdirect</strong>.</p>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20 ">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/LATEST JOBS/latest_jobs_2.jpg" width="100%" height="370px" alt="IT Support">
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
+                        <p style="margin: 0;">Please do not forgot to mentioned <strong> Job Title</strong> on Application Form / Email & See Weekly Latest jobs visit our <a href="https://www.facebook.com/workersdirect"><strong> Facebook Page</strong></a>.</p>
+                        <p style="margin: 0;"><strong> Subscribe</strong> us for weekly Jobs Direct into your inbox.</p>
+                        <p style="margin: 0;">You Can Find Our Temp & Perm Jobs by visiting at <strong> https://www.facebook.com/workersdirect</strong>.</p>
                     </div>
                 </div>
 
             </div>
+
 
             <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 

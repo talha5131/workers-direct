@@ -225,7 +225,7 @@
                     </div>
                     <div>
                         <div class="col-md-12">
-                            <div class="col-md-6">
+                            <div class="col-md-8">
                                 <div class="grid-box-custom">
 
                                     <div class="heading">
@@ -241,12 +241,12 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-md-4">
                                 <div class="grid-box-1">
 
-                                    <div class="img-section">
+                                    <div class="img-section margin-top-40">
 
-                                        <img class="img-fluid" style="border:4px solid #7CC24D;margin-top: 30px;" src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/general-laborer-ojg0hu4wvw8h0frwuqstka8wtb2hxmdjd3lx4un1ea.jpg" alt="Admin">
+                                        <img class="img-fluid" style="border:4px solid #7CC24D;" src="public/assets/images/page-pictures/CONSTRUCTION STAFF/construction_staff_1.jpg" width="100%" height="250px" alt="Admin">
 
                                         <div class="middle">
 
@@ -270,12 +270,12 @@
                             </div>
                         </div>
                         <div class="col-md-12">
-                            <div class="col-md-6">
+                            <div class="col-md-4">
                                 <div class="grid-box-1">
 
                                     <div class="img-section">
 
-                                        <img style="border:4px solid #7CC24D;margin-top: 30px;width: 100%;" src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Labouring-Agency-ojfzk3per8wuhlgwckghpt0itngndze1hyto058m3y.jpg" alt="Admin">
+                                        <img style="border:4px solid #7CC24D;margin-top: 40px;width: 100%;" src="public/assets/images/page-pictures/CONSTRUCTION STAFF/construction_staff_2.jpg" height="210px" alt="Admin">
 
                                         <div class="middle">
 
@@ -287,7 +287,7 @@
 
                                 </div>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-md-8">
                                 <div class="grid-box-custom">
 
                                     <div class="heading">
@@ -315,7 +315,7 @@
                             </div>
                         </div>
                         <div class="col-md-12">
-                            <div class="col-md-6">
+                            <div class="col-md-8">
                                 <div class="grid-box-custom">
 
                                     <div class="heading">
@@ -331,18 +331,14 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-md-4">
                                 <div class="grid-box-1">
 
                                     <div class="img-section">
 
-                                        <img style="border:4px solid #7CC24D;margin-top: 30px;" src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/handyman-multi-skilled-labourer-agency-ojg0308l6dt7yw9l6f680a2fhhnysf80g78r26cmmc.jpg" alt="Admin">
+                                        <img style="border:4px solid #7CC24D;margin-top: 50px;" src="public/assets/images/page-pictures/CONSTRUCTION STAFF/construction_staff_3.png" width="100%" height="250px" alt="Admin">
 
-                                        <div class="middle">
 
-                                            <i class="fa fa-plus-circle"></i>
-
-                                        </div>
 
                                     </div>
 
@@ -360,20 +356,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 section_heading section_2_heading margin-top-60">
 
-                        <h2>Construction Recruitment Agency - Hire Skilled Labourers <span> On Short Notice</span></h2>
-
-                    </div>
-
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                        <p style="margin: 0;">Despite the COVID-19 pandemic and the devastation it continues to cause around the UK, businesses must find a way to restart as soon as they can safely do so.</p>
-                        <p style="margin: 0;">In the UK, at least, there are subtle behavioural adjustments already being implemented in a variety of industries especially in trade & construction industry, as a result of social distancing that will most likely outlive the pandemic.</p>
-                    </div>
-
-                    <div>
-                        <img class="img-fluid" style="margin-top: 50px !important;" src="https://workers-direct.com/wp-content/uploads/2020/05/Construction-staff-agency.jpg" alt="Construction Staff" width="100%">
-                    </div>
 
                 </div>
 
@@ -601,6 +584,21 @@
 
                 </div>
 
+            </div>
+
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 about_text_wrapper section_heading section_2_heading margin-top-60">
+
+                <h2>Construction Recruitment Agency - Hire Skilled Labourers <span> On Short Notice</span></h2>
+
+            </div>
+
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 about_text_wrapper">
+                <p style="margin: 0;">Despite the COVID-19 pandemic and the devastation it continues to cause around the UK, businesses must find a way to restart as soon as they can safely do so.</p>
+                <p style="margin: 0;">In the UK, at least, there are subtle behavioural adjustments already being implemented in a variety of industries especially in trade & construction industry, as a result of social distancing that will most likely outlive the pandemic.</p>
+            </div>
+
+            <div class="col-md-12">
+                <img class="image-style-border" style="margin-top: 50px !important;" src="public/assets/images/page-pictures/CONSTRUCTION STAFF/construction_staff_4.jpg" alt="Construction Staff" width="100%">
             </div>
         </div>
 

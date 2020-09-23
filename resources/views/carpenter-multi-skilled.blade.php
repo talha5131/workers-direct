@@ -86,31 +86,53 @@
                 </div>
 
             </div>
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-20">
+                <img class="image-style-border" src="public/assets/images/page-pictures/carpenter/carpenter_1.jpg" width="100%" height="220px" alt="Carpenter">
+            </div>
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-20">
+                <img class="image-style-border" src="public/assets/images/page-pictures/carpenter/carpenter_5.jpg" width="100%" height="220px" alt="Carpenter">
+            </div>
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-20">
+                <img class="image-style-border" src="public/assets/images/page-pictures/carpenter/carpenter_3.jpg" width="100%" height="220px" alt="Carpenter">
+            </div>
 
 
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper">
+                <div class="about_text_wrapper row">
 
-                    <div class="section_heading section_2_heading row">
+                    <div class="section_heading section_2_heading col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                            <p>An experienced Carpenter (Multi Skilled) require urgently in Enfield, EN1 Area.</p>
-                            <p>Overall the work will consist of the removal and replacement of modular extensions on houses.</p>
+                        <div>
+                            <p style="margin: 0;">An experienced Carpenter (Multi Skilled) require urgently in Enfield, EN1 Area.</p>
+                            <p style="margin: 0;">Overall the work will consist of the removal and replacement of modular extensions on houses.</p>
 
                         </div>
 
 
                     </div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <div class="section_heading section_2_heading margin-bottom-60 margin-top-60">
 
-                    <div class="row">
-                        <div class="col-md-6">
+                            <h2>The Work will involve, but not be <span> limited to</span></h2>
 
                         </div>
-                        <div class="col-md-6"></div>
+
+                        <div>
+                            <ul>
+                                <li><i class="fa fa-caret-right"></i> Installation of helical piling</li>
+                                <li><i class="fa fa-caret-right"></i> Ground works (digging, breaking and removal of ground, drainage installation</li>
+                                <li><i class="fa fa-caret-right"></i> Carpentry (fitting of studwork, wall boards, floor boards, skirting, architrave, etc)</li>
+                                <li><i class="fa fa-caret-right"></i> General construction work (cutting and fixing of materials, etc)</li>
+                            </ul>
+                        </div>
                     </div>
-                    
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/carpenter/carpenter_4.jpg" width="100%" height="auto" alt="Carpenter">
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+
                         <div class="section_heading section_2_heading margin-bottom-60 margin-top-60">
 
                             <h2>An Ideal Carpenter <span> Must Have</span></h2>
@@ -144,7 +166,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-30">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -364,6 +386,11 @@
 
                 </div>
 
+            </div>
+
+
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
+                <img class="image-style-border" src="public/assets/images/page-pictures/carpenter/carpenter_2.jpg" width="100%" alt="Carpanter">
             </div>
 
 

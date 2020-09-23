@@ -102,9 +102,15 @@
                             <p style="margin: 0;">Expected earnings from £8 up to £11.05 per hour plus overtime.</p><br>
                         </div>
 
+                        <div class=" margin-top-60 ">
+
+                            <img class="image-style-border" src="public/assets/images/page-pictures/UPHOLSTERER & UPHOLSTERY TAILOR/upholsterer_1.jpg" width="100%" alt="about-img">
+
+                        </div>
+
                     </div>
 
-                    <div class="row">
+                    <div class="row col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40">
                         <div class="col-md-6">
                             <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 section_heading section_2_heading margin-bottom-20">
 
@@ -140,7 +146,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 section_heading section_2_heading" style="margin-top: 30px;">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 section_heading section_2_heading margin-top-30">
 
                         <h2>To <span> Apply</span></h2>
                         <p style="margin: 0;">If you are interested please Send Your CV at</p>
@@ -157,7 +163,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
