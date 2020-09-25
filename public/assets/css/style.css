@@ -12210,6 +12210,13 @@ html {
 	 
 
 }
+.jp_contact_inputs_wrapper textarea::placeholder {
+
+	color: #7cc24d;
+
+	
+
+}
 
 .jp_contact_inputs_wrapper input{
 
@@ -12243,7 +12250,56 @@ html {
 
 }
 
+.phone_number_custom_style select{
+
+	width:100%;
+
+	height:50px;
+
+	border: 1px solid  #7CC24D;
+
+	-webkit-border-radius: 10px; 
+
+  -moz-border-radius: 10px; 
+
+   border-radius: 10px; 
+
+   padding-left:15px;
+
+   position:relative;
+
+   -webkit-transition: all 0.5s;
+
+	-o-transition: all 0.5s;
+
+	-ms-transition: all 0.5s;
+
+	-moz-transition: all 0.5s;
+
+	transition: all 0.5s;
+
+	background: transparent;
+
+}
 .jp_contact_inputs_wrapper input:hover, .jp_contact_inputs_wrapper input:focus{
+
+	border:2px solid #7CC24D;
+
+	/* border-top:1px solid #e9e9e9; */
+
+	-webkit-transition: all 0.5s;
+
+	-o-transition: all 0.5s;
+
+	-ms-transition: all 0.5s;
+
+	-moz-transition: all 0.5s;
+
+	transition: all 0.5s;
+
+}
+
+.phone_number_custom_style select:hover, .phone_number_custom_style select:focus{
 
 	border:2px solid #7CC24D;
 
@@ -12363,6 +12419,8 @@ html {
 
 }
 
+
+
 .jp_contact_form_btn_wrapper li a{
 
 	float:left;
@@ -12400,6 +12458,68 @@ html {
 	transition: all 0.5s;
 
 }
+.submit_button_custom_styling:hover{
+	background:#7CC24D;
+
+	border:1px solid #ffffff40;
+
+	-webkit-transition: all 0.5s;
+
+	-o-transition: all 0.5s;
+
+	-ms-transition: all 0.5s;
+
+	-moz-transition: all 0.5s;
+
+	transition: all 0.5s;
+}
+
+.submit_button_custom_styling{
+	float:left;
+
+	width:160px;
+
+	height:50px;
+
+	line-height:45px;
+
+	color:#ffffff;
+
+	border:1px solid #727376;
+
+	background:#727376;
+
+	text-align:center;
+
+	text-transform: uppercase;
+
+	-webkit-border-radius:10px;
+
+	-moz-border-radius:10px;
+
+	border-radius:10px;
+
+	-webkit-transition: all 0.5s;
+
+	-o-transition: all 0.5s;
+
+	-ms-transition: all 0.5s;
+
+	-moz-transition: all 0.5s;
+
+	transition: all 0.5s;
+}
+
+
+
+.form_upload_btn_custom input[type="file"] {
+    display: none;
+}
+
+.form_upload_btn_custom input[type="submit"] {
+    display: none;
+}
+
 
 .jp_contact_form_btn_wrapper li a:hover{
 

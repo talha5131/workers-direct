@@ -812,7 +812,7 @@ Purchase:
 
             <ul>
 
-                <li><a href="submit-a-job.php "><i class="white fa fa-plus-circle"></i>&nbsp; SUBMIT A JOB</a>
+                <li><a href="submit-a-job "><i class="white fa fa-plus-circle"></i>&nbsp; SUBMIT A JOB</a>
 
             </li>
 

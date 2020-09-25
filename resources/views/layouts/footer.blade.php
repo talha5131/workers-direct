@@ -180,8 +180,6 @@
 
                 <div class="row">
 
-
-
                     <div class="jp_footer_three_sec_main_wrapper">
 
                         <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">

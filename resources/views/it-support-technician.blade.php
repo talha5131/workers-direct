@@ -38,17 +38,10 @@
                     <div class="jp_tittle_breadcrumb_main_wrapper">
 
                         <div class="jp_tittle_breadcrumb_wrapper">
-
                             <ul>
-
                                 <li><a href="{{url('/')}}">Home</a> <i class="fa fa-angle-right"></i></li>
-
-
-
                                 <li>IT Support Technician</li>
-
                             </ul>
-
                         </div>
 
                     </div>
