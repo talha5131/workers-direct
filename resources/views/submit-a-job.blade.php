@@ -349,7 +349,7 @@
 
 					</div>
 
-					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+					<!-- <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
 						<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
 
@@ -357,7 +357,7 @@
 
 						</div>
 
-					</div>
+					</div> -->
 
 
 
@@ -385,7 +385,7 @@
 
 					</div>
 
-					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+					<!-- <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
 						<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
 
@@ -393,9 +393,9 @@
 
 						</div>
 
-					</div>
+					</div> -->
 
-					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+					<!-- <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
 						<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
 
@@ -403,9 +403,9 @@
 
 						</div>
 
-					</div>
+					</div> -->
 
-					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+					<!-- <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
 						<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
 
@@ -413,9 +413,9 @@
 
 						</div>
 
-					</div>
+					</div> -->
 
-					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+					<!-- <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
 						<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
 
@@ -423,9 +423,9 @@
 
 						</div>
 
-					</div>
+					</div> -->
 
-					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+					<!-- <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
 						<div class="phone_number_custom_style jp_contact_inputs3_wrapper">
 
@@ -517,7 +517,7 @@
 
 						</div>
 
-					</div>
+					</div> -->
 
 
 
@@ -724,7 +724,7 @@
 
 				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-					<div class="jp_adp_textarea_main_wrapper">
+					<div class="jp_adp_textarea_main_wrapper form-control">
 
 						<textarea rows="7" placeholder="Job Description"></textarea>
 
