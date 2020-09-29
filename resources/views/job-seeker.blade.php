@@ -72,7 +72,7 @@
 
                         <div class="jp_contact_inputs_wrapper">
 
-                            <i class="fa fa-user"></i><input type="text" placeholder="Full Name">
+                            <i class="fa fa-user"></i><input type="text" name="name" id="name" placeholder="Full Name">
 
                         </div>
 
@@ -82,7 +82,7 @@
 
                         <div class="jp_contact_inputs_wrapper jp_contact_inputs2_wrapper">
 
-                            <i class="fa fa-envelope"></i><input type="text" placeholder="Email ">
+                            <i class="fa fa-envelope"></i><input type="text" name="email" id="email" placeholder="Email ">
 
                         </div>
 
@@ -94,7 +94,8 @@
 
                         <div class="row">
 
-                            <div class="jp_contact_inputs3_wrapper col-lg-3 col-md-3 col-sm-2 col-xs-2 phone_number_custom_style">
+                           
+                            <div class="phone_number_custom_style jp_contact_inputs3_wrapper col-lg-3 col-md-3 col-sm-2 col-xs-2">
                                 <select name="CC" id="CC">
                                     <option data-countryCode="GB" value="+44" Selected>+44</option>
                                     <option data-countryCode="US" value="+1">+1</option>
@@ -336,7 +337,7 @@
 
                         <div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
 
-                            <i class="fa fa-map-marker"></i><input type="text" placeholder="Address / Post Code (Where Staff)">
+                            <i class="fa fa-map-marker"></i><input type="text" name="address" id="address" placeholder="Address / Post Code (Where Staff)">
 
                         </div>
 
@@ -346,7 +347,7 @@
 
                         <div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
 
-                            <i class="fa fa-pencil-square-o"></i><input type="text" placeholder="Location (optional)">
+                            <i class="fa fa-pencil-square-o"></i><input type="text" name="location" id="location" placeholder="Location (optional)">
 
                         </div>
 
@@ -356,7 +357,7 @@
 
                         <div class="phone_number_custom_style jp_contact_inputs3_wrapper">
 
-                            <select class="form-control" id="category" name="category">
+                            <select class="form-control" id="jobCategory" name="jobCategory">
                                 <option selected disabled>Select Your Relevant Job Category</option>
                                 <option value="Trade & Construction">Trade & Construction</option>
                                 <option value="Site Labourers & Cleaners">Site Labourers & Cleaners</option>
@@ -395,7 +396,7 @@
 
                         <div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
 
-                            <i style="font-size: 17px;" class="fas fa-wallet"></i><input type="text" placeholder="Desired Salary / Wages (Per Hour Rate)">
+                            <i style="font-size: 17px;" class="fas fa-wallet"></i><input type="text" name="desiredSalary" id="desiredSalary" placeholder="Desired Salary / Wages (Per Hour Rate)">
 
                         </div>
 
@@ -405,7 +406,7 @@
 
                         <div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
 
-                            <i class="fa fa-pencil-square-o"></i><input type="text" placeholder="Availability (Are you immediately available to start work or need notice period)">
+                        <i style="font-size: 17px;" class="fas fa-calendar-alt"></i><input type="text" name="availability" id="availability" placeholder="Availability (Are you immediately available to start work or need notice period)">
 
                         </div>
 
@@ -470,3 +471,6 @@
     </div>
 </div>
 @endsection
+<script>
+document.getElementById()
+</script>

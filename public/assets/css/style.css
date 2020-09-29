@@ -12210,6 +12210,9 @@ html {
 	 
 
 }
+.phone_number_custom_style select{
+	color: #7CC24D;
+}
 .jp_contact_inputs_wrapper textarea::placeholder {
 
 	color: #7cc24d;
@@ -12258,7 +12261,7 @@ html {
 
 	border: 1px solid  #7CC24D;
 
-	-webkit-border-radius: 10px; 
+	/* -webkit-border-radius: 10px;  */
 
   -moz-border-radius: 10px; 
 
@@ -12268,17 +12271,17 @@ html {
 
    position:relative;
 
-   -webkit-transition: all 0.5s;
+   /* -webkit-transition: all 0.5s; */
 
-	-o-transition: all 0.5s;
+	/* -o-transition: all 0.5s;
 
 	-ms-transition: all 0.5s;
 
-	-moz-transition: all 0.5s;
+	-moz-transition: all 0.5s; */
 
 	transition: all 0.5s;
 
-	background: transparent;
+	/* background: transparent; */
 
 }
 .jp_contact_inputs_wrapper input:hover, .jp_contact_inputs_wrapper input:focus{

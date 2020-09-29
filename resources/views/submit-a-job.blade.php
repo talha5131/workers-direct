@@ -73,7 +73,7 @@
 
 						<div class="jp_contact_inputs_wrapper">
 
-							<input type="text" placeholder="Job Title">
+							<i style="font-size: 17px;" class="fas fa-pen"></i><input type="text" id="title" name="title" placeholder="Job Title">
 
 						</div>
 
@@ -82,9 +82,29 @@
 					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
 						<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
-							<textarea rows="7" id="desc" name="desc" placeholder="Job Description"></textarea>
+							<i style="font-size: 17px;" class="far fa-newspaper"></i><textarea rows="7" id="desc" name="desc" placeholder="Job Description"></textarea>
 
 						</div>
+					</div>
+
+					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+
+						<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
+
+							<i style="font-size: 17px;" class="fas fa-pen-square"></i><input type="text" id="name" name="name" placeholder="Enter Your Name">
+
+						</div>
+
+					</div>
+
+					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+
+						<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
+
+							<i style="font-size: 17px;" class="fas fa-envelope-open-text"></i><input type="text" id="email" name="email" placeholder="Enter Your E-mail">
+
+						</div>
+
 					</div>
 
 
@@ -321,7 +341,7 @@
 							<div class="col-lg-9 col-md-9 col-sm-10 col-xs-10">
 
 								<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
-									<i class="fa fa-phone"></i><input type="text" maxlength="10" id="phone" name="phone" placeholder="Enter Your Phone Number">
+									<i style="font-size: 17px;" class="fas fa-mobile-alt"></i><input type="text" maxlength="10" id="phone" name="phone" placeholder="Enter Your Phone Number">
 								</div>
 							</div>
 
@@ -329,33 +349,23 @@
 
 					</div>
 
-
-
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
 						<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
 
-							<i class="fa fa-map-marker"></i><input type="text" placeholder="Address / Post Code (Where Staff)">
+							<i style="font-size: 17px;" class="fas fa-tag"></i><input type="tags" data-role="tagsinput" id="tags" name="tags" placeholder="Job Tags">
 
 						</div>
 
 					</div>
 
-					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
-						<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
-
-							<i class="fa fa-pencil-square-o"></i><input type="text" placeholder="Location (optional)">
-
-						</div>
-
-					</div>
 
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
 						<div class="phone_number_custom_style jp_contact_inputs3_wrapper">
 
-							<select class="form-control" id="category" name="category">
+							<select class="form-control" id="jobCategory" name="jobCategory">
 								<option selected disabled>Select Your Relevant Job Category</option>
 								<option value="Trade & Construction">Trade & Construction</option>
 								<option value="Site Labourers & Cleaners">Site Labourers & Cleaners</option>
@@ -377,38 +387,122 @@
 
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
-						<div class="jp_contact_inputs3_wrapper">
+						<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
 
-							<label style="color: #7CC24D;" for="desc">Are you happy to work on temporary basis?</label> <br>
-
-							<input type="radio" id="yes" name="choice" value="yes" checked>
-							<label style="color: #7CC24D;" for="yes">Yes</label> <br>
-							<input type="radio" id="no" name="choice" value="no">
-							<label style="color: #7CC24D;" for="no">No</label>
+							<i class="fa fa-pencil-square-o"></i><input type="text" name="location" id="location" placeholder="Location (optional)">
 
 						</div>
 
 					</div>
 
-					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-10">
+					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
 						<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
 
-							<i style="font-size: 17px;" class="fas fa-wallet"></i><input type="text" placeholder="Desired Salary / Wages (Per Hour Rate)">
+							<i style="font-size: 17px;" class="far fa-calendar-check"></i><input type="text" name="joining" id="joining" placeholder="Joining Date">
 
 						</div>
 
 					</div>
 
-					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-top-10">
+					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
 						<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
 
-							<i class="fa fa-pencil-square-o"></i><input type="text" placeholder="Availability (Are you immediately available to start work or need notice period)">
+							<i style="font-size: 17px;" class="fas fa-calendar-times"></i><input type="text" name="endDate" id="endDate" placeholder="Ending Date">
 
 						</div>
 
 					</div>
+
+					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+
+						<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
+
+							<i style="font-size: 17px;" class="fas fa-calendar-check"></i><input type="text" name="openingDate" id="openingDate" placeholder="Opening Date">
+
+						</div>
+
+					</div>
+
+					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+
+						<div class="phone_number_custom_style jp_contact_inputs3_wrapper">
+
+							<select class="form-control" id="jobTiming" name="jobTiming">
+								<option selected disabled>Job Timing</option>
+								<option value="Trade & Construction">Freelance</option>
+								<option value="Site Labourers & Cleaners">Full Time</option>
+								<option value="Multi-Skilled Builders">Internship</option>
+								<option value="Forklift Operatives">Part Time</option>
+								<option value="Warehouse">Temporary</option>
+
+							</select>
+
+						</div>
+
+					</div>
+
+					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+
+						<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
+
+							<i style="font-size:17px" class="fas fa-wallet"></i><input type="text" name="salary" id="salary" placeholder="Salary">
+
+						</div>
+
+					</div>
+
+					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+
+						<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
+
+							<i style="font-size: 17px;" class="fas fa-hourglass-half"></i><input type="text" id="duration" name="duration" placeholder="Duration">
+
+						</div>
+
+					</div>
+
+					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+
+						<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
+
+							<i style="font-size: 17px;" class="fas fa-search"></i><input type="text" name="jobPurpose" id="jobPurpose" placeholder="Job Purpose">
+
+						</div>
+
+					</div>
+
+					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+
+						<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
+
+							<i style="font-size: 17px;" class="fas fa-briefcase"></i><input type="text" name="responsibilites" id="responsibilites" placeholder="Job Responsibilites">
+
+						</div>
+
+					</div>
+
+					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+
+						<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
+
+							<i style="font-size: 17px;" class="fas fa-list"></i><input type="text" name="requirements" id="requirements" placeholder="Job Requirements">
+
+						</div>
+
+					</div>
+
+					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+
+						<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
+
+							<input type="number" name="vacancy" id="vacancy" placeholder="Vacancy">
+
+						</div>
+
+					</div>
+
 
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-10">
 
@@ -425,20 +519,7 @@
 
 					</div>
 
-					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-10">
 
-						<div class=" jp_contact_inputs3_wrapper">
-
-							<label style="color: #7CC24D; margin-bottom:20px;" for="pictureUpload">Upload Your CV</label> <br>
-							<label for="cv" class="btn btn-success">Choose File</label>
-							<div class="form_upload_btn_custom">
-								<input id="cv" type="file" name="cv" />
-							</div> <br>
-							<small class="form-text text-muted">Maximum file size: 2 MB.</small>
-
-						</div>
-
-					</div>
 
 
 
