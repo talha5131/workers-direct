@@ -425,7 +425,7 @@
 
 					</div> -->
 
-					<!-- <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
 						<div class="phone_number_custom_style jp_contact_inputs3_wrapper">
 
@@ -517,7 +517,7 @@
 
 						</div>
 
-					</div> -->
+					</div>
 
 
 
