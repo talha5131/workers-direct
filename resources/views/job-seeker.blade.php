@@ -471,7 +471,7 @@
         </div>
     </div>
 </div>
-@endsection
 <script>
 document.getElementById()
 </script>
+@endsection
