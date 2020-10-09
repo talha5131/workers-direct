@@ -32,7 +32,7 @@ Purchase:
 
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
 
-    <meta name="description" content="Workers Direct" />
+    <!-- <meta name="description" content="Workers Direct" /> -->
 
     <meta name="keywords" content="Workers Direct" />
 

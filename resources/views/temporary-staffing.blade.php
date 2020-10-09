@@ -1,7 +1,7 @@
 @extends('layouts.base')
 @section('title','Temporary Staffing')
 @section('content')
-
+<link rel="canonical" href="localhost/workers-direct/temporary-staffing">
 <!-- Top Scroll End -->
 
 <!-- Top Header Wrapper Start -->
