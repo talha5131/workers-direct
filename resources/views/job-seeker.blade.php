@@ -2,6 +2,7 @@
 @section('title','Job Seeker')
 @section('content')
 
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
 
 <div class="jp_tittle_main_wrapper">
