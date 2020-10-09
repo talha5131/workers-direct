@@ -20,17 +20,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
         font-weight: 700;
     }
 
-    .ss_download_wrapper_details h2 {
-        float: left;
-        width: 100%;
-        color: #ffffff;
-        font-size: 44px;
-        margin: 0px 0px 30px 0px;
-        padding-bottom: 15px;
-        position: relative;
-        font-weight: 100;
-        text-transform: uppercase;
-    }
+
 </style>
 <?php
 // $curPageName = substr($_SERVER["SCRIPT_NAME"], strrpos($_SERVER["SCRIPT_NAME"], "/") + 1);

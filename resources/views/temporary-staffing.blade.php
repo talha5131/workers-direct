@@ -1,7 +1,10 @@
 @extends('layouts.base')
 @section('title','Temporary Staffing')
+@section('description','The use of temporary staffing is a perfect way to test the skills and abilities of a new employee. Why not really see
+ them for yourself before committing? Not only are you able to get valuable business work done, but you have the opportunity to observe a 
+ worker practically.')
 @section('content')
-<link rel="canonical" href="localhost/workers-direct/temporary-staffing">
+<!-- <link rel="canonical" href="localhost/workers-direct/temporary-staffing"> -->
 <!-- Top Scroll End -->
 
 <!-- Top Header Wrapper Start -->
@@ -24,7 +27,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Temporary Staffing</h2>
+                        <h1>Temporary Staffing</h1>
 
                     </div>
 
@@ -511,7 +514,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> Hospitality & Catering </a> </h1>
+                                        <h2> <a> Hospitality & Catering </a> </h2>
 
                                     </div>
 
@@ -571,7 +574,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> Admin & Reception </a> </h1>
+                                        <h2> <a> Admin & Reception </a> </h2>
 
                                     </div>
 
@@ -633,7 +636,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> Schools & Academics </a> </h1>
+                                        <h2> <a> Schools & Academics </a> </h2>
 
                                     </div>
 
@@ -695,7 +698,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> Health & Social Care </a> </h1>
+                                        <h2> <a> Health & Social Care </a> </h2>
 
                                     </div>
 
@@ -767,7 +770,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> Trade & Construction </a> </h1>
+                                        <h2> <a> Trade & Construction </a> </h2>
 
                                     </div>
 
@@ -827,7 +830,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> Warehouse & Logistics </a> </h1>
+                                        <h2> <a> Warehouse & Logistics </a> </h2>
 
                                     </div>
 
@@ -889,7 +892,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> IT & Technology </a> </h1>
+                                        <h2> <a> IT & Technology </a> </h2>
 
                                     </div>
 
@@ -951,7 +954,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> Virtual & Remote Employees </a> </h1>
+                                        <h2> <a> Virtual & Remote Employees </a> </h2>
 
                                     </div>
 
@@ -1403,7 +1406,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

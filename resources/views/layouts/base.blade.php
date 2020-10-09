@@ -5,9 +5,8 @@
 @endif
 
 <title>@yield('title')</title>
-<meta name="description" content="@yield('description')">
-<link rel="canonical" href="@yield('canonical')">
-<link rel="stylesheet" href="style.css">
+<!-- <link rel="canonical" href="@yield('canonical')"> -->
+<!-- <link rel="stylesheet" href="style.css"> -->
 
 
 

@@ -34,6 +34,8 @@ Purchase:
 
     <!-- <meta name="description" content="Workers Direct" /> -->
 
+    <meta name="description" content="@yield('description')">
+
     <meta name="keywords" content="Workers Direct" />
 
     <meta name="author" content="" />

@@ -22,123 +22,125 @@ Purchase:
 
 <html lang="en">
 
-    <!--<![endif]-->
+<!--<![endif]-->
 
-    <head>
+<head>
 
-        <meta charset="utf-8" />
+    <meta charset="utf-8" />
 
-        <!-- <title>Workers Direct  </title> -->
+    <!-- <title>Workers Direct  </title> -->
 
-        <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
 
-        <meta name="description" content="Workers Direct specialised in temporary & short term staff recruitment. As one of the best Recruitment Agency London we provide temp & perm warehouse, catering staff across UK." />
+    <!-- <meta name="description" content="Workers Direct specialised in temporary & short term staff recruitment. As one of the best Recruitment Agency London we provide temp & perm warehouse, catering staff across UK." /> -->
+    
+    <meta name="description" content="@yield('description')">
+    
+    <meta name="keywords" content="Workers Direct" />
 
-        <meta name="keywords" content="Workers Direct" />
+    <meta name="author" content="" />
 
-        <meta name="author" content="" />
+    <meta name="MobileOptimized" content="320" />
 
-        <meta name="MobileOptimized" content="320" />
+    <!--srart theme style -->
 
-        <!--srart theme style -->
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700' rel='stylesheet' type='text/css'>
 
-        <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="public/assets/css/animate.css" />
 
-        <link rel="stylesheet" type="text/css" href="public/assets/css/animate.css" />
+    <link rel="stylesheet" type="text/css" href="public/assets/css/preloader.css" />
 
-        <link rel="stylesheet" type="text/css" href="public/assets/css/preloader.css" />
+    <link rel="stylesheet" type="text/css" href="public/assets/css/bootstrap.css" />
 
-        <link rel="stylesheet" type="text/css" href="public/assets/css/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="public/assets/css/font-awesome.css" />
 
-        <link rel="stylesheet" type="text/css" href="public/assets/css/font-awesome.css" />
+    <link rel="stylesheet" type="text/css" href="public/assets/css/fonts.css" />
 
-        <link rel="stylesheet" type="text/css" href="public/assets/css/fonts.css" />
+    <link rel="stylesheet" type="text/css" href="public/assets/css/reset.css" />
 
-        <link rel="stylesheet" type="text/css" href="public/assets/css/reset.css" />
+    <link rel="stylesheet" type="text/css" href="public/assets/css/owl.carousel.css" />
 
-        <link rel="stylesheet" type="text/css" href="public/assets/css/owl.carousel.css" />
+    <link rel="stylesheet" type="text/css" href="public/assets/css/owl.theme.default.css" />
 
-        <link rel="stylesheet" type="text/css" href="public/assets/css/owl.theme.default.css" />
+    <link rel="stylesheet" type="text/css" href="public/assets/css/flaticon.css" />
 
-        <link rel="stylesheet" type="text/css" href="public/assets/css/flaticon.css" />
+    <link rel="stylesheet" type="text/css" href="public/assets/css/style.css" />
 
-        <link rel="stylesheet" type="text/css" href="public/assets/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="public/assets/css/hs.megamenu.css" />
 
-        <link rel="stylesheet" type="text/css" href="public/assets/css/hs.megamenu.css" />
 
-        
 
-        
 
-        <link rel="stylesheet" type="text/css" href="public/assets/css/responsive.css" />
 
-        <link rel="stylesheet" type="text/css" href="public/assets/css/preloader.css" />
+    <link rel="stylesheet" type="text/css" href="public/assets/css/responsive.css" />
 
-        <!-- favicon links -->
+    <link rel="stylesheet" type="text/css" href="public/assets/css/preloader.css" />
 
-        <link rel="shortcut icon" type="image/png" href="public/assets/images/header/animated-logo-dark.png" />
+    <!-- favicon links -->
 
-        
+    <link rel="shortcut icon" type="image/png" href="public/assets/images/header/animated-logo-dark.png" />
 
-        
 
-    </head>
 
-    <body>
 
-        <!-- preloader Start -->
 
-        <div id="preloader">
+</head>
 
-            <div id="status"><img src="public/assets/images/header/animated-logo-dark.png" id="preloader_image" alt="loader">
+<body>
 
-            </div>
+    <!-- preloader Start -->
+
+    <div id="preloader">
+
+        <div id="status"><img src="public/assets/images/header/animated-logo-dark.png" id="preloader_image" alt="loader">
 
         </div>
 
-        <!-- Top Header Wrapper Start -->
+    </div>
 
-        <div class="jp_top_header_main_wrapper">
+    <!-- Top Header Wrapper Start -->
 
-            <div class="container-fluid">
+    <div class="jp_top_header_main_wrapper">
 
-                <div class="row">
+        <div class="container-fluid">
 
-                    
+            <div class="row">
 
-             
 
-             <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 
-                        <div class="jp_top_header_left_wrapper">
 
-                            <div class="jp_top_header_left_cont">
 
-                                <ul>
-
-                                <li><a href="employer "><i class="green fa fa-sitemap"></i>&nbsp; Employer</a></li>
-
-                                           <li><a href="job-seeker "><i class="green fa fa-graduation-cap"></i>&nbsp; Job Seeker</a></li>
-
-                                </ul>
-
-                            </div>
-
-                             
-
-                        </div>
-
-                    </div>
-
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 
                     <div class="jp_top_header_left_wrapper">
 
                         <div class="jp_top_header_left_cont">
 
-                            <p><i class="green fa fa-phone"></i> &nbsp;Phone &nbsp;<a  href="tel:0 203 086 90 80">0 203 086 90 80 </a></p>
+                            <ul>
 
-                            <p class=""><i class="green fa fa-envelope"></i> &nbsp;Email :&nbsp;<a  href="mailto:info@workers-direct.com">info@workers-direct.com</a></p>
+                                <li><a href="employer "><i class="green fa fa-sitemap"></i>&nbsp; Employer</a></li>
+
+                                <li><a href="job-seeker "><i class="green fa fa-graduation-cap"></i>&nbsp; Job Seeker</a></li>
+
+                            </ul>
+
+                        </div>
+
+
+
+                    </div>
+
+                </div>
+
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+
+                    <div class="jp_top_header_left_wrapper">
+
+                        <div class="jp_top_header_left_cont">
+
+                            <p><i class="green fa fa-phone"></i> &nbsp;Phone &nbsp;<a href="tel:0 203 086 90 80">0 203 086 90 80 </a></p>
+
+                            <p class=""><i class="green fa fa-envelope"></i> &nbsp;Email :&nbsp;<a href="mailto:info@workers-direct.com">info@workers-direct.com</a></p>
 
                         </div>
 
@@ -146,25 +148,23 @@ Purchase:
 
                 </div>
 
-                    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+                <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 
-                        <div class="jp_top_header_right_wrapper">
+                    <div class="jp_top_header_right_wrapper">
 
-                            <div class="jp_top_header_right_cont">
+                        <div class="jp_top_header_right_cont">
 
-                                <ul>
+                            <ul>
 
-                                    <li><a href="register "><i class="green fa fa-user"></i>&nbsp; SIGN UP</a></li>
+                                <li><a href="register "><i class="green fa fa-user"></i>&nbsp; SIGN UP</a></li>
 
-                                    <li><a href="login "><i class="green fa fa-sign-in"></i>&nbsp; LOGIN</a></li>
+                                <li><a href="login "><i class="green fa fa-sign-in"></i>&nbsp; LOGIN</a></li>
 
-                                </ul>
-
-                            </div>
-
-                             
+                            </ul>
 
                         </div>
+
+
 
                     </div>
 
@@ -174,311 +174,313 @@ Purchase:
 
         </div>
 
-        <!-- Top Header Wrapper End -->
+    </div>
 
-        <!-- Header Wrapper Start -->
+    <!-- Top Header Wrapper End -->
 
-        <div class="jp_top_header_img_wrapper">
+    <!-- Header Wrapper Start -->
 
-            <div class="jp_slide_img_overlay"></div>
+    <div class="jp_top_header_img_wrapper">
 
-            <div class="gc_main_menu_wrapper">
+        <div class="jp_slide_img_overlay"></div>
 
-                <div class="container-fluid">
+        <div class="gc_main_menu_wrapper">
 
-                    <div class="row">
+            <div class="container-fluid">
 
-                        <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12 hidden-xs hidden-sm full_width">
+                <div class="row">
 
-                            <div class="gc_header_wrapper">
+                    <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12 hidden-xs hidden-sm full_width">
 
-                                <div class="gc_logo">
+                        <div class="gc_header_wrapper">
 
-                                    <a href="{{url('/')}}"><img src="public/assets/images/header/animated-logo-wd.gif" alt="Logo" title="Workers Direct" class="img-responsive"></a>
+                            <div class="gc_logo">
 
-                                </div>
+                                <a href="{{url('/')}}"><img src="public/assets/images/header/animated-logo-wd.gif" alt="Logo" title="Workers Direct" class="img-responsive"></a>
 
                             </div>
 
                         </div>
 
-                        <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 center_responsive">
+                    </div>
 
-                            <div class="header-area hidden-menu-bar stick" id="sticker">
+                    <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 center_responsive">
 
-                                <!-- mainmenu start -->
+                        <div class="header-area hidden-menu-bar stick" id="sticker">
 
-                                <div class="mainmenu">
+                            <!-- mainmenu start -->
 
-                                    
-
-                                    <ul class="float_left">
-
-                                      
-
-                                            
-
-                                        <li class="gc_main_navigation parent"><a href="about-us" class="gc_main_navigation">About</a></li>
+                            <div class="mainmenu">
 
 
 
-                                        <li class="has-mega"><a href="services.php" class="gc_main_navigation">  Services&nbsp;<i class="fa fa-angle-down"></i></a>
+                                <ul class="float_left">
 
-                                            <!-- mega menu start -->
 
-                                            <ul class="mega_menu">
 
-                                             
+
+
+                                    <li class="gc_main_navigation parent"><a href="about-us" class="gc_main_navigation">About</a></li>
+
+
+
+                                    <li class="has-mega"><a href="services.php" class="gc_main_navigation"> Services&nbsp;<i class="fa fa-angle-down"></i></a>
+
+                                        <!-- mega menu start -->
+
+                                        <ul class="mega_menu">
+
+
 
                                             <li class="services-mega-box">
 
-                                               <div class="row">
+                                                <div class="row">
 
-                                                   <div class="col-lg-3 col-md-3 text-center">
+                                                    <div class="col-lg-3 col-md-3 text-center">
 
-                                                        <div class="list-item-service">        
+                                                        <div class="list-item-service">
 
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
-
-                                                        </div>  
-
-                                                        <div class="list-item-service">        
-
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
 
                                                         </div>
 
-                                                        <div class="list-item-service">        
+                                                        <div class="list-item-service">
 
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                        <div class="list-item-service">        
-
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
 
                                                         </div>
 
-                                                        <div class="list-item-service">        
+                                                        <div class="list-item-service">
 
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                        <div class="list-item-service">        
-
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
 
                                                         </div>
 
-                                                        <div class="list-item-service">        
+                                                        <div class="list-item-service">
 
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                   </div>
-
-                                                   <div class="col-lg-3 col-md-3 text-center">
-
-                                                   <div class="list-item-service">        
-
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
-
-                                                        </div>  
-
-                                                        <div class="list-item-service">        
-
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
 
                                                         </div>
 
-                                                        <div class="list-item-service">        
+                                                        <div class="list-item-service">
 
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                        <div class="list-item-service">        
-
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
 
                                                         </div>
 
-                                                        <div class="list-item-service">        
+                                                        <div class="list-item-service">
 
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                        <div class="list-item-service">        
-
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
 
                                                         </div>
 
-                                                        <div class="list-item-service">        
+                                                        <div class="list-item-service">
 
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                   </div>
-
-                                                   <div class="col-lg-3 col-md-3 text-center">
-
-                                                   <div class="list-item-service">        
-
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
-
-                                                        </div>  
-
-                                                        <div class="list-item-service">        
-
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
 
                                                         </div>
 
-                                                        <div class="list-item-service">        
+                                                    </div>
 
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
+                                                    <div class="col-lg-3 col-md-3 text-center">
 
-                                                        </div>
+                                                        <div class="list-item-service">
 
-                                                        <div class="list-item-service">        
-
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
 
                                                         </div>
 
-                                                        <div class="list-item-service">        
+                                                        <div class="list-item-service">
 
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                        <div class="list-item-service">        
-
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
 
                                                         </div>
 
-                                                        <div class="list-item-service">        
+                                                        <div class="list-item-service">
 
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                   </div>
-
-                                                   <div class="col-lg-3 col-md-3 text-center">
-
-                                                   <div class="list-item-service">        
-
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
-
-                                                        </div>  
-
-                                                        <div class="list-item-service">        
-
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
 
                                                         </div>
 
-                                                        <div class="list-item-service">        
+                                                        <div class="list-item-service">
 
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                        <div class="list-item-service">        
-
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
 
                                                         </div>
 
-                                                        <div class="list-item-service">        
+                                                        <div class="list-item-service">
 
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                        <div class="list-item-service">        
-
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
 
                                                         </div>
 
-                                                        <div class="list-item-service">        
+                                                        <div class="list-item-service">
 
-                                                            <i class="green fa fa-plus-circle"></i>    <a href="#">Temporary Staffing </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
 
                                                         </div>
 
-                                                   </div>
+                                                        <div class="list-item-service">
 
-                                                 
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
 
-                                               </div> 
+                                                        </div>
 
-                                            </li>                        
+                                                    </div>
+
+                                                    <div class="col-lg-3 col-md-3 text-center">
+
+                                                        <div class="list-item-service">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
+
+                                                        </div>
+
+                                                        <div class="list-item-service">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
+
+                                                        </div>
+
+                                                        <div class="list-item-service">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
+
+                                                        </div>
+
+                                                        <div class="list-item-service">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
+
+                                                        </div>
+
+                                                        <div class="list-item-service">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
+
+                                                        </div>
+
+                                                        <div class="list-item-service">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
+
+                                                        </div>
+
+                                                        <div class="list-item-service">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
+
+                                                        </div>
+
+                                                    </div>
+
+                                                    <div class="col-lg-3 col-md-3 text-center">
+
+                                                        <div class="list-item-service">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
+
+                                                        </div>
+
+                                                        <div class="list-item-service">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
+
+                                                        </div>
+
+                                                        <div class="list-item-service">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
+
+                                                        </div>
+
+                                                        <div class="list-item-service">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
+
+                                                        </div>
+
+                                                        <div class="list-item-service">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
+
+                                                        </div>
+
+                                                        <div class="list-item-service">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
+
+                                                        </div>
+
+                                                        <div class="list-item-service">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
+
+                                                        </div>
+
+                                                    </div>
+
+
+
+                                                </div>
+
+                                            </li>
 
                                         </ul>
 
                                     </li>
 
-                                    <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation">  What We Do&nbsp;<i class="fa fa-angle-down"></i></a>
+                                    <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation"> What We Do&nbsp;<i class="fa fa-angle-down"></i></a>
 
                                         <!-- mega menu start -->
 
                                         <ul>
 
-                                            <li class="parent"><a href="/what-we-do/contract-staffing.php">Contract Staffing  </a></li>
+                                            <li class="parent"><a href="/what-we-do/contract-staffing.php">Contract Staffing </a></li>
 
-                                            <li class="parent"><a href="/what-we-do/recruitment-solutions.php">Recruitment Solutions  </a></li>
+                                            <li class="parent"><a href="/what-we-do/recruitment-solutions.php">Recruitment Solutions </a></li>
 
-                                            <li class="parent"><a href="/what-we-do/short-term-staff.php">Short Term Staff  </a></li>
+                                            <li class="parent"><a href="/what-we-do/short-term-staff.php">Short Term Staff </a></li>
 
-                                            <li class="parent"><a href="/what-we-do/job-advertisements-solutions.php">Job Advertisements Solutions  </a></li>
+                                            <li class="parent"><a href="/what-we-do/job-advertisements-solutions.php">Job Advertisements Solutions </a></li>
 
-                                            <li class="parent"><a href="/what-we-do/agency-workers.php">Agency Workers  </a></li>
+                                            <li class="parent"><a href="/what-we-do/agency-workers.php">Agency Workers </a></li>
 
-                                           
+
 
                                         </ul>
 
                                     </li>
 
-                                    
 
-                                    
 
-                                    <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation">  Jobs&nbsp;<i class="fa fa-angle-down"></i></a>
 
-                                    <!-- jobs -->
 
-                                    <ul>
+                                    <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation"> Jobs&nbsp;<i class="fa fa-angle-down"></i></a>
 
-                                        <li class="parent"><a href="listing_left.php ">Listing-Left</a></li>
+                                        <!-- jobs -->
 
-                                        <li class="parent"><a href="listing_right.php ">Listing-Right</a></li>
+                                        <ul>
 
-                                        <li class="parent"><a href="listing_single.php ">Listing-Single</a></li>
+                                            <li class="parent"><a href="listing_left.php ">Listing-Left</a></li>
 
-                                    </ul>
+                                            <li class="parent"><a href="listing_right.php ">Listing-Right</a></li>
 
-                                </li>
+                                            <li class="parent"><a href="listing_single.php ">Listing-Single</a></li>
 
-                                <li class="parent gc_main_navigation"><a href="#" class="gc_main_navigation">Company &nbsp;<i class="fa fa-angle-down"></i></a>
+                                        </ul>
 
-                                <!-- Jobs-1 -->
+                                    </li>
 
-                                <ul>
+                                    <li class="parent gc_main_navigation"><a href="#" class="gc_main_navigation">Company &nbsp;<i class="fa fa-angle-down"></i></a>
 
-                                    
+                                        <!-- Jobs-1 -->
 
-                                    
+                                        <ul>
+
+
+
+
 
                                             <li class="parent"><a href="#">How We Work </a></li>
 
@@ -498,105 +500,123 @@ Purchase:
 
                                             <li class="parent"><a href="company_listing.php ">Company-Listing</a></li>
 
-                                    <li class="parent"><a href="company_listing_single.php ">Company-Single</a></li>
+                                            <li class="parent"><a href="company_listing_single.php ">Company-Single</a></li>
 
-                                    <li class="parent"><a href="candidate_listing.php ">candidate-Listing</a></li>
+                                            <li class="parent"><a href="candidate_listing.php ">candidate-Listing</a></li>
 
-                                    <li class="parent"><a href="candidate_profile.php ">candidate-Profile</a></li>
+                                            <li class="parent"><a href="candidate_profile.php ">candidate-Profile</a></li>
 
-                                     
 
-                                    
+
+
+
+                                        </ul>
+
+                                        <!-- jobs-1-->
+
+                                    </li>
+
+
+
+                                    <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation"> Blog&nbsp;<i class="fa fa-angle-down"></i></a>
+
+                                        <!-- mega menu start -->
+
+                                        <ul>
+
+                                            <li class="parent"><a href="blog_left.php ">Blog-Left</a></li>
+
+                                            <li class="parent"><a href="blog_right.php ">Blog-Right</a></li>
+
+                                            <li class="parent"><a href="blog_single_left.php ">Blog-Single-Left</a></li>
+
+                                            <li class="parent"><a href="blog_single_right.php ">Blog-Single-Right</a></li>
+
+                                        </ul>
+
+                                    </li>
+
+                                    <li class="gc_main_navigation parent"><a href="contact-us " class="gc_main_navigation">Contact</a></li>
+
+                                    <li class="gc_main_navigation parent"><a href="pages-links " class="gc_main_navigation">Pages Links</a></li>
 
                                 </ul>
 
-                                <!-- jobs-1-->
-
-                            </li>
-
-                             
-
-                        <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation">  Blog&nbsp;<i class="fa fa-angle-down"></i></a>
-
-                        <!-- mega menu start -->
-
-                        <ul>
-
-                            <li class="parent"><a href="blog_left.php ">Blog-Left</a></li>
-
-                            <li class="parent"><a href="blog_right.php ">Blog-Right</a></li>
-
-                            <li class="parent"><a href="blog_single_left.php ">Blog-Single-Left</a></li>
-
-                            <li class="parent"><a href="blog_single_right.php ">Blog-Single-Right</a></li>
-
-                        </ul>
-
-                    </li>
-
-                    <li class="gc_main_navigation parent"><a href="contact-us " class="gc_main_navigation">Contact</a></li>
-
-                    <li class="gc_main_navigation parent"><a href="pages-links " class="gc_main_navigation">Pages Links</a></li>
-
-                </ul>
-
-            </div>
-
-            <!-- mainmenu end -->
-
-            <!-- mobile menu area start -->
-
-            <header class="mobail_menu">
-
-                <div class="container-fluid">
-
-                    <div class="row">
-
-                        <div class="col-xs-6 col-sm-6">
-
-                            <div class="gc_logo">
-
-                                <a href="{{url('/')}}"><img src="public/assets/images/header/animated-logo-wd.png" alt="Logo" title="Grace Church"></a>
-
                             </div>
 
-                        </div>
+                            <!-- mainmenu end -->
 
-                        <div class="col-xs-6 col-sm-6">
+                            <!-- mobile menu area start -->
 
-                            <div class="cd-dropdown-wrapper">
+                            <header class="mobail_menu">
 
-                                <a class="house_toggle" href="#0">
+                                <div class="container-fluid">
 
-                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 31.177 31.177" style="enable-background:new 0 0 31.177 31.177;" xml:space="preserve" width="25px" height="25px"><g><g><path class="menubar" d="M30.23,1.775H0.946c-0.489,0-0.887-0.398-0.887-0.888S0.457,0,0.946,0H30.23    c0.49,0,0.888,0.398,0.888,0.888S30.72,1.775,30.23,1.775z" fill="#ffffff"/></g><g><path class="menubar" d="M30.23,9.126H12.069c-0.49,0-0.888-0.398-0.888-0.888c0-0.49,0.398-0.888,0.888-0.888H30.23    c0.49,0,0.888,0.397,0.888,0.888C31.118,8.729,30.72,9.126,30.23,9.126z" fill="#ffffff"/></g><g><path class="menubar" d="M30.23,16.477H0.946c-0.489,0-0.887-0.398-0.887-0.888c0-0.49,0.398-0.888,0.887-0.888H30.23    c0.49,0,0.888,0.397,0.888,0.888C31.118,16.079,30.72,16.477,30.23,16.477z" fill="#ffffff"/></g><g><path class="menubar" d="M30.23,23.826H12.069c-0.49,0-0.888-0.396-0.888-0.887c0-0.49,0.398-0.888,0.888-0.888H30.23    c0.49,0,0.888,0.397,0.888,0.888C31.118,23.43,30.72,23.826,30.23,23.826z" fill="#ffffff"/></g><g><path class="menubar" d="M30.23,31.177H0.946c-0.489,0-0.887-0.396-0.887-0.887c0-0.49,0.398-0.888,0.887-0.888H30.23    c0.49,0,0.888,0.398,0.888,0.888C31.118,30.78,30.72,31.177,30.23,31.177z" fill="#ffffff"/></g></g></svg>
+                                    <div class="row">
 
-                                </a>
+                                        <div class="col-xs-6 col-sm-6">
 
-                                <nav class="cd-dropdown">
+                                            <div class="gc_logo">
 
-                                 
+                                                <a href="{{url('/')}}"><img src="public/assets/images/header/animated-logo-wd.png" alt="Logo" title="Grace Church"></a>
 
-                                <a href="{{url('/')}}"><img src="public/assets/images/header/animated-logo-dark.png" alt="Logo" title="Grace Church"></a>
+                                            </div>
 
-                            
+                                        </div>
 
-                                    <a href="#0" class="cd-close">Close</a>
+                                        <div class="col-xs-6 col-sm-6">
 
-                                    <ul class="cd-dropdown-content">
+                                            <div class="cd-dropdown-wrapper">
 
-                                        
+                                                <a class="house_toggle" href="#0">
 
-                                        <li class="has-children">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 31.177 31.177" style="enable-background:new 0 0 31.177 31.177;" xml:space="preserve" width="25px" height="25px">
+                                                        <g>
+                                                            <g>
+                                                                <path class="menubar" d="M30.23,1.775H0.946c-0.489,0-0.887-0.398-0.887-0.888S0.457,0,0.946,0H30.23    c0.49,0,0.888,0.398,0.888,0.888S30.72,1.775,30.23,1.775z" fill="#ffffff" />
+                                                            </g>
+                                                            <g>
+                                                                <path class="menubar" d="M30.23,9.126H12.069c-0.49,0-0.888-0.398-0.888-0.888c0-0.49,0.398-0.888,0.888-0.888H30.23    c0.49,0,0.888,0.397,0.888,0.888C31.118,8.729,30.72,9.126,30.23,9.126z" fill="#ffffff" />
+                                                            </g>
+                                                            <g>
+                                                                <path class="menubar" d="M30.23,16.477H0.946c-0.489,0-0.887-0.398-0.887-0.888c0-0.49,0.398-0.888,0.887-0.888H30.23    c0.49,0,0.888,0.397,0.888,0.888C31.118,16.079,30.72,16.477,30.23,16.477z" fill="#ffffff" />
+                                                            </g>
+                                                            <g>
+                                                                <path class="menubar" d="M30.23,23.826H12.069c-0.49,0-0.888-0.396-0.888-0.887c0-0.49,0.398-0.888,0.888-0.888H30.23    c0.49,0,0.888,0.397,0.888,0.888C31.118,23.43,30.72,23.826,30.23,23.826z" fill="#ffffff" />
+                                                            </g>
+                                                            <g>
+                                                                <path class="menubar" d="M30.23,31.177H0.946c-0.489,0-0.887-0.396-0.887-0.887c0-0.49,0.398-0.888,0.887-0.888H30.23    c0.49,0,0.888,0.398,0.888,0.888C31.118,30.78,30.72,31.177,30.23,31.177z" fill="#ffffff" />
+                                                            </g>
+                                                        </g>
+                                                    </svg>
 
-                                            <a href="#">Home</a>
+                                                </a>
 
-                                            <ul class="cd-secondary-dropdown is-hidden">
+                                                <nav class="cd-dropdown">
 
-                                                <li class="go-back"><a href="#0">Menu</a></li>
 
-                                                <li><a href="{{url('/')}}">Home</a></li>
 
-                                                <!-- <li><a href="index_II ">Home2</a></li>
+                                                    <a href="{{url('/')}}"><img src="public/assets/images/header/animated-logo-dark.png" alt="Logo" title="Grace Church"></a>
+
+
+
+                                                    <a href="#0" class="cd-close">Close</a>
+
+                                                    <ul class="cd-dropdown-content">
+
+
+
+                                                        <li class="has-children">
+
+                                                            <a href="#">Home</a>
+
+                                                            <ul class="cd-secondary-dropdown is-hidden">
+
+                                                                <li class="go-back"><a href="#0">Menu</a></li>
+
+                                                                <li><a href="{{url('/')}}">Home</a></li>
+
+                                                                <!-- <li><a href="index_II ">Home2</a></li>
 
                                                 <li><a href="index_map ">Home3</a></li>
 
@@ -606,189 +626,217 @@ Purchase:
 
                                                 <li><a href="index_vi ">Home6</a></li> -->
 
-                                                <!-- .has-children -->
+                                                                <!-- .has-children -->
 
-                                            </ul>
+                                                            </ul>
 
-                                            <!-- .cd-secondary-dropdown -->
+                                                            <!-- .cd-secondary-dropdown -->
 
-                                        </li>
+                                                        </li>
 
-                                        <!-- .has-children -->
+                                                        <!-- .has-children -->
 
-                                        <li class="has-children">
+                                                        <li class="has-children">
 
-                                            <a href="#">Listing</a>
+                                                            <a href="#">Listing</a>
 
-                                            <ul class="cd-secondary-dropdown is-hidden">
+                                                            <ul class="cd-secondary-dropdown is-hidden">
 
-                                                <li class="go-back"><a href="#0">Menu</a></li>
+                                                                <li class="go-back"><a href="#0">Menu</a></li>
 
-                                                <li>
+                                                                <li>
 
-                                                    <a href="listing_left.php ">listing-Left</a>
+                                                                    <a href="listing_left.php ">listing-Left</a>
 
-                                                </li>
+                                                                </li>
 
-                                                <!-- .has-children -->
+                                                                <!-- .has-children -->
 
-                                                <li>
+                                                                <li>
 
-                                                    <a href="listing_right.php ">listing-Right</a>
+                                                                    <a href="listing_right.php ">listing-Right</a>
 
-                                                </li>
+                                                                </li>
 
-                                                <!-- .has-children -->
+                                                                <!-- .has-children -->
 
-                                                <li>
+                                                                <li>
 
-                                                    <a href="listing_single.php ">listing-Single</a>
+                                                                    <a href="listing_single.php ">listing-Single</a>
 
-                                                </li>
+                                                                </li>
 
-                                                <!-- .has-children -->
+                                                                <!-- .has-children -->
 
-                                            </ul>
+                                                            </ul>
 
-                                            <!-- .cd-secondary-dropdown -->
+                                                            <!-- .cd-secondary-dropdown -->
 
-                                        </li>
+                                                        </li>
 
-                                        <!-- .has-children -->
+                                                        <!-- .has-children -->
 
-                                        <li class="has-children">
+                                                        <li class="has-children">
 
-                                            <a href="#">candidates</a>
+                                                            <a href="#">candidates</a>
 
-                                            <ul class="cd-secondary-dropdown is-hidden">
+                                                            <ul class="cd-secondary-dropdown is-hidden">
 
-                                                <li class="go-back"><a href="#0">Menu</a></li>
+                                                                <li class="go-back"><a href="#0">Menu</a></li>
 
-                                                <li><a href="company_listing.php ">Company-Listing</a></li>
+                                                                <li><a href="company_listing.php ">Company-Listing</a></li>
 
-                                                <li><a href="company_listing_single.php ">Company-Single</a></li>
+                                                                <li><a href="company_listing_single.php ">Company-Single</a></li>
 
-                                                <li><a href="candidate_listing.php ">candidate-Listing</a></li>
+                                                                <li><a href="candidate_listing.php ">candidate-Listing</a></li>
 
-                                                <li><a href="candidate_profile.php ">candidate-Profile</a></li>
+                                                                <li><a href="candidate_profile.php ">candidate-Profile</a></li>
 
-                                                <!-- .has-children -->
+                                                                <!-- .has-children -->
 
-                                            </ul>
+                                                            </ul>
 
-                                            <!-- .cd-secondary-dropdown -->
+                                                            <!-- .cd-secondary-dropdown -->
 
-                                        </li>
+                                                        </li>
 
-                                        <li class="has-children">
+                                                        <li class="has-children">
 
-                                            <a href="#">Pages</a>
+                                                            <a href="#">Pages</a>
 
-                                            <ul class="cd-secondary-dropdown is-hidden">
+                                                            <ul class="cd-secondary-dropdown is-hidden">
 
-                                                <li class="go-back"><a href="#0">Menu</a></li>
+                                                                <li class="go-back"><a href="#0">Menu</a></li>
 
-                                                <li><a href="about-us">About-Us</a></li>
+                                                                <li><a href="about-us">About-Us</a></li>
 
-                                                <li><a href="404-error">404</a></li>
+                                                                <li><a href="404-error">404</a></li>
 
-                                                <li><a href="submit-a-job ">SUBMIT A JOB</a></li>
+                                                                <li><a href="submit-a-job ">SUBMIT A JOB</a></li>
 
-                                                <li><a href="login ">Login</a></li>
+                                                                <li><a href="login ">Login</a></li>
 
-                                                <li><a href="register ">Register</a></li>
+                                                                <li><a href="register ">Register</a></li>
 
-                                                <li><a href="pricing ">Pricing</a></li>
+                                                                <li><a href="pricing ">Pricing</a></li>
 
-                                                <li><a href="message ">message</a></li>
+                                                                <li><a href="message ">message</a></li>
 
-                                                <li><a href="client_reivew.php ">client reivew</a></li>
+                                                                <li><a href="client_reivew.php ">client reivew</a></li>
 
-                                                <!-- .has-children -->
+                                                                <!-- .has-children -->
 
-                                            </ul>
+                                                            </ul>
 
-                                            <!-- .cd-secondary-dropdown -->
+                                                            <!-- .cd-secondary-dropdown -->
 
-                                        </li>
+                                                        </li>
 
-                                        <!-- .has-children -->
+                                                        <!-- .has-children -->
 
-                                        <li class="has-children">
+                                                        <li class="has-children">
 
-                                            <a href="#">Blog</a>
+                                                            <a href="#">Blog</a>
 
-                                            <ul class="cd-secondary-dropdown is-hidden">
+                                                            <ul class="cd-secondary-dropdown is-hidden">
 
-                                                <li class="go-back"><a href="#0">Menu</a></li>
+                                                                <li class="go-back"><a href="#0">Menu</a></li>
 
-                                                <li>
+                                                                <li>
 
-                                                    <a href="blog_left.php ">Blog-Left</a>
+                                                                    <a href="blog_left.php ">Blog-Left</a>
 
-                                                </li>
+                                                                </li>
 
-                                                <!-- .has-children -->
+                                                                <!-- .has-children -->
 
-                                                <li>
+                                                                <li>
 
-                                                    <a href="blog_right.php ">Blog-Right</a>
+                                                                    <a href="blog_right.php ">Blog-Right</a>
 
-                                                </li>
+                                                                </li>
 
-                                                <!-- .has-children -->
+                                                                <!-- .has-children -->
 
-                                                <li>
+                                                                <li>
 
-                                                    <a href="blog_single_left.php ">Blog-Single-Left</a>
+                                                                    <a href="blog_single_left.php ">Blog-Single-Left</a>
 
-                                                </li>
+                                                                </li>
 
-                                                <!-- .has-children -->
+                                                                <!-- .has-children -->
 
-                                                <li>
+                                                                <li>
 
-                                                    <a href="blog_single_right.php ">Blog-Single-Left</a>
+                                                                    <a href="blog_single_right.php ">Blog-Single-Left</a>
 
-                                                </li>
+                                                                </li>
 
-                                                <!-- .has-children -->
+                                                                <!-- .has-children -->
 
-                                            </ul>
+                                                            </ul>
 
-                                            <!-- .cd-secondary-dropdown -->
+                                                            <!-- .cd-secondary-dropdown -->
 
-                                        </li>
+                                                        </li>
 
-                                        <!-- .has-children -->
+                                                        <!-- .has-children -->
 
-                                        <li>
+                                                        <li>
 
-                                            <a href="contact-us ">Contact</a>
+                                                            <a href="contact-us ">Contact</a>
 
-                                        </li>
+                                                        </li>
 
-                                        <li>
+                                                        <li>
 
-                                            <a href="register ">Sign Up</a>
+                                                            <a href="register ">Sign Up</a>
 
-                                        </li>
+                                                        </li>
 
-                                        <li>
+                                                        <li>
 
-                                            <a href="login ">Login</a>
+                                                            <a href="login ">Login</a>
 
-                                        </li>
+                                                        </li>
 
-                                    </ul>
+                                                    </ul>
 
-                                    <!-- .cd-dropdown-content -->
+                                                    <!-- .cd-dropdown-content -->
 
-                                </nav>
+                                                </nav>
 
-                                <!-- .cd-dropdown -->
+                                                <!-- .cd-dropdown -->
 
-                            </div>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <!-- .cd-dropdown-wrapper -->
+
+                            </header>
+
+                        </div>
+
+                    </div>
+
+                    <!-- mobile menu area end -->
+
+                    <div class="col-lg-2 col-md-2 ">
+
+                        <div class="jp_navi_right_btn_wrapper">
+
+                            <ul>
+
+                                <li><a href="submit-a-job "><i class="white fa fa-plus-circle"></i>&nbsp; SUBMIT A JOB</a>
+
+                                </li>
+
+                            </ul>
 
                         </div>
 
@@ -796,34 +844,6 @@ Purchase:
 
                 </div>
 
-                <!-- .cd-dropdown-wrapper -->
-
-            </header>
+            </div>
 
         </div>
-
-    </div>
-
-    <!-- mobile menu area end -->
-
-    <div class="col-lg-2 col-md-2 ">
-
-        <div class="jp_navi_right_btn_wrapper">
-
-            <ul>
-
-                <li><a href="submit-a-job "><i class="white fa fa-plus-circle"></i>&nbsp; SUBMIT A JOB</a>
-
-            </li>
-
-        </ul>
-
-    </div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
