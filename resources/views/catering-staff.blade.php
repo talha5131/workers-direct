@@ -30,7 +30,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Catering Staff</h2>
+                        <h1>Catering Staff</h1>
 
                     </div>
 
@@ -78,7 +78,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Catering <span>Staff</span></h1>
+                        <h2>Catering <span>Staff</span></h2>
 
                     </div>
 
@@ -108,7 +108,7 @@
 
                                     <div class="heading ">
 
-                                        <h1> <a> Chefs All Levels </a> </h1>
+                                        <h2> <a> Chefs All Levels </a> </h2>
 
                                     </div>
 
@@ -165,7 +165,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> School Cook </a> </h1>
+                                        <h2> <a> School Cook </a> </h2>
 
                                     </div>
 
@@ -226,7 +226,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> Kitchen Assistants </a> </h1>
+                                        <h2> <a> Kitchen Assistants </a> </h2>
 
                                     </div>
 
@@ -262,7 +262,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> Serving Staff </a> </h1>
+                                        <h2> <a> Serving Staff </a> </h2>
 
                                     </div>
 
@@ -324,7 +324,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> Kitchen Porters & Cleaners </a> </h1>
+                                        <h2> <a> Kitchen Porters & Cleaners </a> </h2>
 
                                     </div>
 
@@ -385,7 +385,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> Delivery Drivers </a> </h1>
+                                        <h2> <a> Delivery Drivers </a> </h2>
 
                                     </div>
 
@@ -470,7 +470,6 @@
                             <div class="iconn green col-lg-4 col-md-4 col-sm-12 col-xs-12 image-style-border">
 
                                 <a href="#"><img src="public/assets/images/page-pictures/Catering Staff/catering_staff_3.jpg" alt="hospitality" width="100%" height="210px"></a>
-
 
                             </div>
 
@@ -767,9 +766,9 @@
 
                     <div class="section_heading section_2_heading margin-bottom-20">
 
-                        <h1>Hire Reliable & Flexible Hospitality,
+                        <h2>Hire Reliable & Flexible Hospitality,
                             <span>Catering Agency Temps</span>
-                        </h1>
+                        </h2>
 
                     </div>
                     <!-- ----------- -->
@@ -856,7 +855,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -892,7 +891,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
@@ -932,7 +931,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -1353,7 +1352,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

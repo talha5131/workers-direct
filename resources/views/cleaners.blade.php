@@ -103,7 +103,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> Office Cleaners </a> </h1>
+                                        <h2> <a> Office Cleaners </a> </h2>
 
                                     </div>
 
@@ -158,7 +158,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> Warehouse Cleaners </a> </h1>
+                                        <h2> <a> Warehouse Cleaners </a> </h2>
 
                                     </div>
 
@@ -220,7 +220,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> General Cleaners </a> </h1>
+                                        <h2> <a> General Cleaners </a> </h2>
 
                                     </div>
 
@@ -283,7 +283,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> Restaurant Cleaners </a> </h1>
+                                        <h2> <a> Restaurant Cleaners </a> </h2>
 
                                     </div>
 
@@ -344,7 +344,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> Housekeepers & Rooms Attendants </a> </h1>
+                                        <h2> <a> Housekeepers & Rooms Attendants </a> </h2>
 
                                     </div>
 
@@ -405,7 +405,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> Domestic & Commmercial Cleaners </a> </h1>
+                                        <h2> <a> Domestic & Commmercial Cleaners </a> </h2>
 
                                     </div>
 
@@ -822,7 +822,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -858,7 +858,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
@@ -898,7 +898,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -1311,7 +1311,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 
