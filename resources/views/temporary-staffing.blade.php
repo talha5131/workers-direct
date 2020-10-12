@@ -90,26 +90,15 @@ worker practically.')
 
             </div>
 
-            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-bottom-20">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-bottom-20">
 
                 <div class="about_image_wrapper">
-
-                    <img class="image-style-border" src="public/assets/images/page-pictures/TEMPORARY STAFFING/temporary-staffing_3.jpg" width="100%" alt="temporay-staffing-agency">
-
+                    
+                    <img class="" src="public/assets/images/page-pictures/TEMPORARY STAFFING/temporary-staffing_3.jpg" width="50%" alt="temporay-staffing-agency">
+                    
                 </div>
 
             </div>
-            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-bottom-20">
-
-                <div class="about_image_wrapper">
-
-                    <img class="image-style-border" src="public/assets/images/page-pictures/TEMPORARY STAFFING/temporary-staffing_3.jpg" width="100%" alt="temporay-staffing-agency">
-
-                </div>
-
-            </div>
-
-
 
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
