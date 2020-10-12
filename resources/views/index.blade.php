@@ -4,10 +4,10 @@
 London we provide temp & perm warehouse, catering staff across UK.')
 @section('content')
 <html prefix="og: https://ogp.me/ns#">
-<meta property="og:title" content="Workers Direct" />
+<meta property="og:title" content="Workers Direct"/>
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://www.workers-direct.com/" />
-<link href="https://temping-agency.com" rel="canonical">
+<!-- <link href="https://temping-agency.com" rel="canonical"/> -->
 <meta name="twitter:site" content="@workersdirect">
 <meta property="twitter:account_id" content="1234567890">
 <meta property="twitter:title" content="Workers Direct">
@@ -19,8 +19,6 @@ London we provide temp & perm warehouse, catering staff across UK.">
         color: #000000;
         font-weight: 700;
     }
-
-
 </style>
 <?php
 // $curPageName = substr($_SERVER["SCRIPT_NAME"], strrpos($_SERVER["SCRIPT_NAME"], "/") + 1);

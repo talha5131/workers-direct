@@ -3770,6 +3770,7 @@ ul {
     font-weight: 100;
     text-transform: uppercase;
 }
+
 .ss_download_wrapper_details h2 {
     float: left;
     width: 100%;
@@ -3781,9 +3782,11 @@ ul {
     font-weight: 100;
     text-transform: uppercase;
 }
+
 .ss_download_wrapper_details h2 span {
     font-weight: 900;
 }
+
 .ss_download_wrapper_details h2:after {
     content: '';
     border: 1px solid #ffffffcf;
@@ -3792,6 +3795,7 @@ ul {
     bottom: -6px;
     left: 17px;
 }
+
 .ss_download_wrapper_details h2:before {
     content: '';
     border: 1px solid #ffffffcf;
@@ -7574,4 +7578,16 @@ html {
 .heading h2 a {
     color: #000000;
     font-weight: 700;
+}
+
+.ss_download_wrapper_details h2 {
+    float: left;
+    width: 100%;
+    color: #ffffff;
+    font-size: 44px;
+    margin: 0px 0px 30px 0px;
+    padding-bottom: 15px;
+    position: relative;
+    font-weight: 100;
+    text-transform: uppercase;
 }
