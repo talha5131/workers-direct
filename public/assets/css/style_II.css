@@ -14824,6 +14824,10 @@ input[type="checkbox"]:checked + label:after {
 	color:#797979;
 
 }
+.jp_adp_form_heading_wrapper h3 {
+    font-size: 20px;
+	color: #797979;
+}
 
 .jp_adp_form_heading_wrapper p{
 

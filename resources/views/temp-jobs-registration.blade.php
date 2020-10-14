@@ -1,5 +1,7 @@
 @extends('layouts.base')
-@section('title','Temporary Jobs Registration Form | Temping Agency London | Workers Direct')
+@section('title','Temporary Jobs Registration Form | Workers Direct')
+@section('keywords','temporary,jobs,registration')
+@section('description','If you are looking for a Temporary Job or career change, all of our Jobs are published here and updated on regular basis. View our current list of jobs you can register your CV online for vacancies using our online CV Registration form.')
 @section('content')
 
     <!-- jp Tittle Wrapper Start -->
@@ -18,7 +20,7 @@
 
                         <div class="jp_tittle_heading">
 
-                            <h2>Temporary Jobs Registration Form</h2>
+                            <h1>Temporary Jobs Registration Form</h1>
 
                         </div>
 
@@ -62,7 +64,7 @@
 
 					<div class="jp_adp_form_heading_wrapper">
 
-						<h2>Basic Info</h2>
+						<h3>Basic Info</h3>
 
 					</div>
 
@@ -248,7 +250,7 @@
 
                     <div class="ss_download_wrapper_details">
 
-                        <h1><span>Download</span><br>Job Portal App Now!</h1>
+                        <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                         <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 
