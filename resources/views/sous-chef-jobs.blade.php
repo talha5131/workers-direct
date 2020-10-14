@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','Sous Chef Jobs | Sous Chef Vacancies | Sous Chef')
+@section('keywords','sous,chef')
+@section('description','Sous chef will work alongside with Head Chef to create fresh, seasonal menus for residents and growing regular customers. An ideal candidate must be ambitious and have real passion for creating great food also must be a team player and be able to assist with any section within the Kitchen.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Sous Chef Jobs</h2>
+                        <h1>Sous Chef Jobs</h1>
 
                     </div>
 
@@ -79,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Sous Chef <span> Jobs</span></h1>
+                        <h2>Sous Chef <span> Jobs</span></h2>
 
                     </div>
 
@@ -401,7 +403,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -437,7 +439,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
@@ -477,7 +479,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -897,7 +899,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 
