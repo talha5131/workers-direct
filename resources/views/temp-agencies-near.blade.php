@@ -1,5 +1,6 @@
 @extends('layouts.base')
 @section('title','Temp Agencies Near Me | Workers Direct')
+@section('description','The temporary work sector is understandably a difficult arena for recruiters to work in, due to the rapid turnaround times and seasonal requirements Temp Agencies Near Me one of the best option to start. ')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
