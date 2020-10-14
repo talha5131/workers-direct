@@ -89,15 +89,15 @@
 
             </div>
             <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-60">
-                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_1.jpg" width="100%" height="250px" alt="Admin">
+                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_1.jpg" width="100%" height="250px" alt="Genral Labourer">
 
             </div>
             <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-60">
-                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_4.png" width="100%" height="250px" alt="Admin">
+                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_4.png" width="100%" height="250px" alt="Genral Labourer">
 
             </div>
             <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-60">
-                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_5.webp" width="100%" height="250px" alt="Admin">
+                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_5.webp" width="100%" height="250px" alt="Genral Labourer">
 
             </div>
 
@@ -222,7 +222,7 @@
 
                             <div class="img-section margin-top-50">
 
-                                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_2.jpg" width="100%" height="250px" alt="Admin">
+                                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_2.jpg" width="100%" height="250px" alt="Genral Labourer">
 
                             </div>
 
