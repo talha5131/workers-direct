@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','Picker & Packer Jobs - Recruitment Agency London | Workers Direct')
+@section('keywords','Picker,Packer')
+@section('description','Collect repaired equipment from all repair points. Clean all repaired equipment to high standards. Box equipment and seal, using the correct packaging. Label each box with the correct description and PET serial number, using a USB scanner.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Picker & Packer</h2>
+                        <h1>Picker & Packerr</h1>
 
                     </div>
 
@@ -79,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Picker & <span> Packer</span></h1>
+                        <h2>Picker & <span> Packer</span></h2>
 
                     </div>
 
@@ -492,7 +494,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -528,7 +530,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
@@ -568,7 +570,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -988,7 +990,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 
