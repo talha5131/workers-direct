@@ -1,5 +1,8 @@
 @extends('layouts.base')
 @section('title','Reception Staff')
+@section('description',"We have highly experienced Receptionist from office receptionist to a front of house staff quick fulfill any business
+requirements.Workers-direct offer a service where the client can get anything from an agency receptionist to a virtual receptionist.")
+@section('keywords','Reception,Staff')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +34,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Reception Staff</h2>
+                        <h1>Reception Staff</h1>
 
                     </div>
 
@@ -79,7 +82,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Reception <span> Staff</span></h1>
+                        <h2>Reception <span> Staff</span></h2>
 
                     </div>
 
@@ -88,234 +91,139 @@
             </div>
 
 
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12" style="padding-left: 0px;">
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+                <div class="about_text_wrapper abt_2_para">
 
-                <div class="row about_text_wrapper ">
-                    <div class="row">
-                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <div class="section_heading section_2_heading">
 
-                            <a href="#">
-
-                                <div class="box">
-
-                                    <div class="grid-box-custom">
-
-                                        <div class="iconn green">
-
-                                            <i class=" font-size-icon green far fa-check-square"></i>
-
-                                        </div>
-
-                                        <div class="heading">
-
-                                            <h2> <a> Receptionist </a> </h2>
-
-                                        </div>
-
-                                        <div class="content margin-top-10">
-
-                                            <p>We have highly experienced Receptionist from office receptionist to a front of house staff quick fulfill any business requirements.</p>
-
-                                        </div>
-
-
-                                    </div>
-
-                                    <div class="grid-box-1">
-
-                                        <div class="img-section">
-
-                                            <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/RECEPTION STAFF/reception_staff_1.JPG" width="100%" alt="Admin">
-
-                                            <div class="middle">
-
-                                                <i class="green fa fa-plus-circle"></i>
-
-                                            </div>
-
-                                        </div>
-
-                                    </div>
-
-                                    <div class="grid-box-custom">
-
-                                        <div class="heading">
-
-                                            <h2> <a> Office Receptionist </a> </h1>
-
-                                        </div>
-
-                                        <div class="content margin-top-10">
-
-                                            <p>Workers-direct offer a service where the client can get anything from an agency receptionist to a virtual receptionist – all depending on its needs. Of course Workers-direct can also provide a temporary receptionist when needed, as well as an office receptionist.</p>
-
-                                        </div>
-
-
-                                    </div>
-
-
-
-                                </div>
-
-                            </a>
-                        </div>
-
-                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
-
-                            <a href="#">
-
-                                <div class="box">
-
-
-
-                                    <div class="grid-box-custom">
-
-                                        <div class="iconn green">
-
-                                            <i class="font-size-icon green far fa-address-card"></i>
-
-                                        </div>
-
-                                        <div class="heading">
-
-                                            <h2> <a>Personal Assistants</a> </h2>
-
-                                        </div>
-
-                                        <div class="content margin-top-10">
-
-                                            <p>Recruit an Experienced and Professional Personal Assistant on short notice whenever you require.</p>
-
-                                        </div>
-
-
-
-                                    </div>
-
-                                    <div class="grid-box-1">
-
-                                        <div class="img-section">
-
-                                            <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/RECEPTION STAFF/reception_staff_3.JPG" width="100%" alt="Admin">
-
-                                            <div class="middle">
-
-                                                <i class="fa fa-plus-circle"></i>
-
-                                            </div>
-
-                                        </div>
-
-                                    </div>
-
-                                    <div class="grid-box-custom">
-
-                                        <div class="heading">
-
-                                            <h2> <a> Front Of House / Hotel Receptionist </a> </h2>
-
-                                        </div>
-
-                                        <div class="content margin-top-10">
-
-                                            <p>One of our specialist fields is providing the hospitality industry with hotel receptionists.We will provide you with neatly dressed, presentable receptionists that are well versed in dealing with clients from all walks of life and personalities. They will also know how to pacify an irate client and keep the image of the company intact.</p>
-
-                                        </div>
-
-
-                                    </div>
-
-
-
-                                </div>
-
-                            </a>
+                            <h2>Receptionist</h2>
 
                         </div>
 
-                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
+                        <p>We have highly experienced Receptionist from office receptionist to a front of house staff quick fulfill any business requirements.</p>
 
-                            <a href="#">
-
-                                <div class="box">
-
-
-
-                                    <div class="grid-box-custom">
-
-                                        <div class="iconn green">
-
-                                            <i class="font-size-icon green fas fa-truck"></i>
-
-                                        </div>
-
-                                        <div class="heading">
-
-                                            <h2> <a> Admin Assistants </a> </h2>
-
-                                        </div>
-
-                                        <div class="content margin-top-10">
-
-                                            <p>Admin Assistants can help day to day administrative tasks in your organisation, from phone answering to customer service support duties.</p>
-
-                                        </div>
-
-
-                                    </div>
-
-                                    <div class="grid-box-1">
-
-                                        <div class="img-section">
-
-                                            <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/RECEPTION STAFF/reception_staff_2.JPG" width="100%" alt="Admin">
-
-                                            <div class="middle">
-
-                                                <i class="fa fa-plus-circle"></i>
-
-                                            </div>
-
-                                        </div>
-
-                                    </div>
-
-                                    <div class="grid-box-custom">
-
-                                        <div class="heading">
-
-                                            <h2> <a> Administrators & Event Receptionists </a> </h2>
-
-                                        </div>
-
-                                        <div class="content margin-top-10">
-
-                                            <p>To meet and greet your guests in any Event you need someone to represent you with a good appearance, In that occasion our event receptionist can help you.Our team is well equipped to deal with any complaint or situation that the client utters and will pay particular attention to resolving the situation to everybody’s satisfaction.Our usual follow-up is essential to both the candidate as well as the client.</p>
-
-                                        </div>
-
-
-                                    </div>
-
-
-
-                                </div>
-
-                            </a>
-
-                        </div>
                     </div>
 
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <div class="section_heading section_2_heading margin-top-20">
 
+                            <h2> Office Receptionist </h2>
 
+                        </div>
 
+                        <p>Workers-direct offer a service where the client can get anything from an agency receptionist to a virtual receptionist – all depending on its needs. Of course Workers-direct can also provide a temporary receptionist when needed, as well as an office receptionist.</p>
+
+                    </div>
+
+                    <div class="margin-top-20 col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/RECEPTION STAFF/reception_staff_1.jpg" width="100%" height="270px" alt="about-img">
+                    </div>
+                    <div class="margin-top-20 col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/RECEPTION STAFF/reception_staff_3.jpg" width="100%" height="270px" alt="about-img">
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
+                        <div class="section_heading section_2_heading">
+                            <h2> Personal Assistants </h2>
+                        </div>
+
+                        <p>Recruit an Experienced and Professional Personal Assistant on short notice whenever you require.</p>
+
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <div class="section_heading section_2_heading">
+                            <h2> Front Of House / Hotel Receptionist </h2>
+                        </div>
+
+                        <p>One of our specialist fields is providing the hospitality industry with hotel receptionists.We will provide you
+                            with neatly dressed, presentable receptionists that are well versed in dealing with clients from all walks of
+                            life and personalities. They will also know how to pacify an irate client and keep the image of the company
+                            intact.
+                        </p>
+
+                    </div>
+
+                    <div class="margin-top-20 col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/RECEPTION STAFF/reception_staff_5.jpg" width="100%" height="270px" alt="about-img">
+                    </div>
+                    <div class="margin-top-20 col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/RECEPTION STAFF/reception_staff_6.jpg" width="100%" height="270px" alt="about-img">
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30">
+                        <div class="section_heading section_2_heading">
+                            <h2> Admin Assistants </h2>
+                        </div>
+                        <div class="content margin-top-10">
+                            <p>Admin Assistants can help day to day administrative tasks in your organisation, from phone answering to customer service support duties.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <div class="section_heading section_2_heading">
+                            <h2> Administrators & Event Receptionists </h2>
+                        </div>
+                        <div class="content margin-top-10">
+                            <p>To meet and greet your guests in any Event you need someone to represent you with a good appearance, In that
+                                occasion our event receptionist can help you.Our team is well equipped to deal with any complaint or situation
+                                that the client utters and will pay particular attention to resolving the situation to everybody’s
+                                satisfaction.Our usual follow-up is essential to both the candidate as well as the client.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <div class="section_heading section_2_heading">
+                            <h2> Hire Reliable & Flexible Administrative & Receptionist Temps </h2>
+                        </div>
+                        <table class=" table table-bordered margin-top-60 ">
+
+                            <tbody>
+                                <tr>
+                                    <td><i class="green fa fa-caret-right"></i> General Receptionist</td>
+                                    <td><i class="green fa fa-caret-right"></i> Hotel Receptionist</td>
+                                </tr>
+
+                                <tr>
+                                    <td><i class="green fa fa-caret-right"></i> Office Receptionist</td>
+                                    <td><i class="green fa fa-caret-right"></i> Front Of house Staff</td>
+                                </tr>
+
+                                <tr>
+                                    <td><i class="green fa fa-caret-right"></i> Temporary Receptionist</td>
+                                    <td><i class="green fa fa-caret-right"></i> Virtual Receptionist</td>
+                                </tr>
+
+                                <tr>
+                                    <td><i class="green fa fa-caret-right"></i> Reception Worker</td>
+                                    <td><i class="green fa fa-caret-right"></i> Meet & Greet Staff</td>
+                                </tr>
+
+                                <tr>
+                                    <td><i class="green fa fa-caret-right"></i> Day Receptionist</td>
+                                    <td><i class="green fa fa-caret-right"></i> Event Receptionist</td>
+                                </tr>
+
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30">
+                        <div class="section_heading section_2_heading">
+                            <h2> OUR GUARANTEE </h2>
+                        </div>
+                        <div class="content margin-top-10">
+                            <p>It goes without saying that we are willing to meet our clients’ needs in every way as long as we have a
+                                comprehensive brief and job spec. This will be used to find the right receptionist agency for your company
+                                and guarantee a happy relationship with us for many years to come.
+                            </p>
+                        </div>
+                    </div>
                 </div>
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 ">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 ">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -535,57 +443,7 @@
 
                 </div>
 
-            </div>
-
-            <div class="about_text_wrapper col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20 margin-top-20">
-
-                <h2>Hire Reliable & Flexible Administrative & <span> Receptionist Temps</span></h2>
-
-            </div>
-
-            <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
-                <table class=" table table-bordered margin-top-60 ">
-
-                    <tbody>
-                        <tr>
-                            <td><i class="green fa fa-caret-right"></i> General Receptionist</td>
-                            <td><i class="green fa fa-caret-right"></i> Hotel Receptionist</td>
-                        </tr>
-
-                        <tr>
-                            <td><i class="green fa fa-caret-right"></i> Office Receptionist</td>
-                            <td><i class="green fa fa-caret-right"></i> Front Of house Staff</td>
-                        </tr>
-
-                        <tr>
-                            <td><i class="green fa fa-caret-right"></i> Temporary Receptionist</td>
-                            <td><i class="green fa fa-caret-right"></i> Virtual Receptionist</td>
-                        </tr>
-
-                        <tr>
-                            <td><i class="green fa fa-caret-right"></i> Reception Worker</td>
-                            <td><i class="green fa fa-caret-right"></i> Meet & Greet Staff</td>
-                        </tr>
-
-                        <tr>
-                            <td><i class="green fa fa-caret-right"></i> Day Receptionist</td>
-                            <td><i class="green fa fa-caret-right"></i> Event Receptionist</td>
-                        </tr>
-
-                    </tbody>
-                </table>
-            </div>
-            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12"></div>
-
-            <div class="about_text_wrapper col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-bottom-40 ">
-
-                <h2>Our <span> Guarantee</span></h2>
-
-            </div>
-
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                <p>It goes without saying that we are willing to meet our clients’ needs in every way as long as we have a comprehensive brief and job spec. This will be used to <a href="#">find the right receptionist agency</a> for your company and guarantee a happy relationship with us for many years to come.</p>
-            </div>
+            </div> -->
 
         </div>
 
@@ -620,7 +478,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -656,7 +514,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
@@ -696,7 +554,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -1116,7 +974,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

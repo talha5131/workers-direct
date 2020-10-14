@@ -1,5 +1,8 @@
 @extends('layouts.base')
 @section('title','Event Staff')
+@section('description',"Event staffing in London are not very hard to find. There is an abundance of Event Helpers, waiting staff and event co-ordinators.
+There are many event staff agencies offering services to the clients across the London.")
+@section('keywords','Event Staff')
 @section('content')
 
 <!-- Top Scroll End -->
@@ -24,7 +27,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Event Staff</h2>
+                        <h1>Event Staff</h1>
 
                     </div>
 
@@ -72,7 +75,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Event <span>Staff</span></h1>
+                        <h2>Event <span>Staff</span></h2>
 
                     </div>
 
@@ -80,7 +83,7 @@
 
             </div>
 
-            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-40">
+            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-40">
                 <img class="image-style-border" src="public/assets/images/page-pictures/EVENT STAFF/event_staff_1.jpg" width="100%" height="250px" alt="Event Staff">
             </div>
             <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-40">
@@ -88,29 +91,22 @@
             </div>
             <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-40">
                 <img class="image-style-border" src="public/assets/images/page-pictures/EVENT STAFF/event_staff_3.jpg" width="100%" height="250px" alt="Event Staff">
-            </div>
+            </div> -->
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper">
                     <div>
-                        <p style="margin: 0;">Event staffing in London are not very hard to find. There is an abundance of Event Helpers, waiting staff and event co-ordinators.</p>
+                        <p style="margin: 0px;">Event staffing in London are not very hard to find. There is an abundance of Event Helpers, waiting staff and event co-ordinators.</p>
 
-                        <p style="margin: 0;">There are many event staff agencies offering services to the clients across the London.</p>
+                        <p style="margin: 0px;">There are many event staff agencies offering services to the clients across the London.</p>
 
-                        <p style="margin: 0;">This has put us in the position of being able to recruit events staff on an ongoing basis,Workers Direct is an expert at recruiting the finest event candidates available and our clients are long term acquaintances and offer us first choice for any event jobs available.</p>
+                        <p style="margin: 0px;">This has put us in the position of being able to recruit events staff on an ongoing basis,Workers Direct is an expert at recruiting the finest event candidates available and our clients are long term acquaintances and offer us first choice for any event jobs available.</p>
+                        <img class="image-style-border margin-top-40" src="public/assets/images/page-pictures/EVENT STAFF/event_staff_2.jpg" width="65%" style="margin-left: 20%;" alt="Event Staff">
+
                     </div>
-
-                    <div class="section_heading section_2_heading margin-top-30">
-                        <h2 class="margin-bottom-60">Ongoing Recruitment Means</h2>
-                    </div>
-                    <ul>
-                        <li><i class="fa fa-caret-right"></i> Workers Direct has competent and experienced events staff on hand.</li>
-                        <li><i class="fa fa-caret-right"></i> Event staff are available for variety of events and therefore expand their experience base.</li>
-                        <li><i class="fa fa-caret-right"></i> Our database of events staff allows us to cater for more than one event at a time.</li>
-                    </ul>
 
                     <div class="section_heading section_2_heading margin-top-60">
 
@@ -122,9 +118,16 @@
                     <p style="margin: 0;">They are also, often involved in the event which means that they keep their experience current and they build a new understanding of the types of events that the client holds on a regular basis.</p>
 
                     <div class="margin-top-40">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/EVENT STAFF/event_staff_4.jpg" width="100%" height="400px" alt="Event Staff">
+                        <img class="image-style-border" style="margin-left: 20%;" src="public/assets/images/page-pictures/EVENT STAFF/event_staff_4.jpg" width="65%" alt="Event Staff">
                     </div>
-
+                    <div class="section_heading section_2_heading margin-top-30">
+                        <h2 class="margin-bottom-60">Ongoing Recruitment Means</h2>
+                    </div>
+                    <ul>
+                        <li><i class="fa fa-caret-right"></i> Workers Direct has competent and experienced events staff on hand.</li>
+                        <li><i class="fa fa-caret-right"></i> Event staff are available for variety of events and therefore expand their experience base.</li>
+                        <li><i class="fa fa-caret-right"></i> Our database of events staff allows us to cater for more than one event at a time.</li>
+                    </ul>
                     <div class="section_heading section_2_heading margin-top-60">
 
                         <h2>Our<span> Guarantee</span></h2>
@@ -140,7 +143,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -357,11 +360,11 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
 
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-top-30">
-                <iframe class="video-dimensions" style="width: 100%; height: 400px;" src="https://www.youtube.com/embed/hrejtMBnChQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <object data='https://www.youtube.com/embed/hrejtMBnChQ' width='65%' style="margin-left: 20%;" height='425px'></object>
             </div>
 
 
@@ -422,7 +425,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> Hospitality & Catering </a> </h1>
+                                        <h2> <a> Hospitality & Catering </a> </h2>
 
                                     </div>
 
@@ -482,7 +485,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> Admin & Reception </a> </h1>
+                                        <h2> <a> Admin & Reception </a> </h2>
 
                                     </div>
 
@@ -544,7 +547,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> Schools & Academics </a> </h1>
+                                        <h2> <a> Schools & Academics </a> </h2>
 
                                     </div>
 
@@ -606,7 +609,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> Health & Social Care </a> </h1>
+                                        <h2> <a> Health & Social Care </a> </h2>
 
                                     </div>
 
@@ -678,7 +681,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> Trade & Construction </a> </h1>
+                                        <h2> <a> Trade & Construction </a> </h2>
 
                                     </div>
 
@@ -738,7 +741,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> Warehouse & Logistics </a> </h1>
+                                        <h2> <a> Warehouse & Logistics </a> </h2>
 
                                     </div>
 
@@ -800,7 +803,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> IT & Technology </a> </h1>
+                                        <h2> <a> IT & Technology </a> </h2>
 
                                     </div>
 
@@ -862,7 +865,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> Virtual & Remote Employees </a> </h1>
+                                        <h2> <a> Virtual & Remote Employees </a> </h2>
 
                                     </div>
 
@@ -1314,7 +1317,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

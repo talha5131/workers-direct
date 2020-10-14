@@ -1,5 +1,9 @@
 @extends('layouts.base')
-@section('title','Cleaners')
+@section('title',' Site Cleaners')
+@section('description',"We have all sorts of cleaning staff always available for еvеnіng оr оn thе wееkеnds, dереndіng оn whаt suіts уоur
+sсhеdulе bеst. On the flip side, if you endeavor to wash the warehouse on your own, you're going to be taking time from your work or
+professional schedule to complete the task.")
+@section('keywords','Site Cleaners')
 @section('content')
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
 <style>
@@ -86,9 +90,55 @@
 
             </div>
 
+            <div class="col-md-12">
+                <div class="box">
+                    <div class="grid-box" style="padding-left: 0px;">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding-left: 0px;">
+                            <div class="section_heading section_2_heading about_text_wrapper">
+                                <h2> Right temp on right time </h2>
+                            </div>
+                            <div class="margin-top-60">
+                                <p>We all know the year is becoming roughest each month since it flinched. Saying that; would you be not sending-off that anxiety our way instead of for yourself? Why having HR to pay for sitting doing nothing throughout the year when we can do all the same in much better price and time composed? Your necessity is what we accomplish so after all we objectively being here for yourself.</p>
+                            </div>
+                        </div>
+                        <div class="iconn green col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-top-30" style="padding-left: 0px;">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/Cleaners/cleaners_3.jpg" alt="Cleaning Job London" width="100%" height="500px">
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="grid-box" style="padding-left: 0px;">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding-left: 0px;">
+                            <div class="section_heading section_2_heading about_text_wrapper">
+                                <h2> Cleaners we have available </h2>
+                            </div>
+                            <div class="margin-top-60">
+                                <p>We have all sorts of cleaning staff always available for еvеnіng оr оn thе wееkеnds, dереndіng оn whаt suіts уоur sсhеdulе bеst. On the flip side, if you endeavor to wash the warehouse on your own, you're going to be taking time from your work or professional schedule to complete the task. Even if you pay your staff for cleaning, you cannot be sure they have the abilities or experience required to do the work properly.</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-top-30" style="padding-left: 0px;">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/Cleaners/cleaners_2.png" alt="housekeeping agency" width="100%">
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="grid-box" style="padding-left: 0px;">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding-left: 0px;">
+                            <div class="section_heading section_2_heading about_text_wrapper">
+                                <h2> Experienced & Professionals </h2>
+                            </div>
+                            <div class="content margin-top-60">
+                                <p>Fetching aptitude in all sorts of jobs is rigid, specifically when market is being so vulnerable plus exclusively when time is bounded. Hence, we provide you access to more information about candidates you’re trying to reach as soon as you confirm with us about any job role. Initially with CV we commence leading on your declaration, interview and/or trial to carve your trademark.</p>
+                            </div>
+                        </div>
+                        <div class="green col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-top-30" style="padding-left: 0px;">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/Cleaners/cleaners_4.jpg" alt="maid making bed on hotel room" width="100%" height="500px">
+                        </div>
+                    </div>
+                </div>
+            </div>
 
-
-            <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12  margin-top-60">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12  margin-top-60">
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
                         <a href="#">
@@ -448,105 +498,49 @@
                         </a>
                     </div>
                 </div>
+            </div>
+            <div class="col-md-12">
+                <br>
+                <p>
+                    We are recruiting temporary part time cleaners from (9am to 2pm) on temporary basis in central London, Old street area.<br><br>
+                    <strong>Main Purpose:</strong> You will be responsible to ensure and provide a very high standard of cleaning.
+                </p>
+                <div class="section_heading section_2_heading about_text_wrapper">
+                    <h2 style="margin-top: 40px;">Key Responsibilities:</h2>
+                    <ul style="margin-top: 40px;">
+                        <li><i class="fa fa-caret-right"></i> To carry out the daily planned and adhoc cleaning duties.</li>
+                        <li><i class="fa fa-caret-right"></i> Cleaning</li>
+                        <li><i class="fa fa-caret-right"></i> Vacuuming</li>
+                        <li><i class="fa fa-caret-right"></i> Wiping down</li>
+                        <li><i class="fa fa-caret-right"></i> Mopping</li>
+                        <li><i class="fa fa-caret-right"></i> Litter picking</li>
+                    </ul>
 
-                <div class="row margin-top-60">
-                    <div class="box">
+                    <h2 style="margin-top: 40px;">Experience/Knowledge:</h2>
+                    <ul style="margin-top: 40px;">
+                        <li><i class="fa fa-caret-right"></i> Experience as a professional cleaner</li>
+                        <li><i class="fa fa-caret-right"></i> Ability to perform well within a pressurised environment.</li>
+                    </ul>
 
-                        <div class="grid-box">
-                            <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
-                                <div class="section_heading section_2_heading about_text_wrapper">
+                    <h2 style="margin-top: 40px;">Personal skills & Essential Requirements:</h2>
+                    <ul style="margin-top: 40px;">
+                        <li><i class="fa fa-caret-right"></i> Must be self-motivated and have a ‘can do’ attitude</li>
+                        <li><i class="fa fa-caret-right"></i> Flexibility</li>
+                        <li><i class="fa fa-caret-right"></i> Must be able to provide TWO employment references</li>
+                    </ul>
 
-                                    <h2> Right temp on right time </h2>
-
-                                </div>
-
-                                <div class="content margin-top-60">
-
-                                    <p>We all know the year is becoming roughest each month since it flinched. Saying that; would you be not sending-off that anxiety our way instead of for yourself? Why having HR to pay for sitting doing nothing throughout the year when we can do all the same in much better price and time composed? Your necessity is what we accomplish so after all we objectively being here for yourself.</p>
-
-                                </div>
-                            </div>
-
-                            <div class="iconn green col-lg-5 col-md-5 col-sm-12 col-xs-12">
-
-                                <a href="#"><img class="image-style-border" src="public/assets/images/page-pictures/Cleaners/cleaners_1.jpeg" alt="Cleaning Job London" width="100%" height="220px"></a>
-
-
-                            </div>
-                        </div>
-
-                    </div>
-                    <div class="box">
-
-
-
-                        <div class="grid-box">
-
-                            <div class=" col-lg-4 col-md-4 col-sm-12 col-xs-12">
-
-                                <a href="#"><img class="image-style-border" src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Hosekeeping-agencies-ojg0f69co3g29kc4wzyj4yr1q6bftsqmfr5h3f64fi.png" alt="housekeeping agency" width="100%" height="220px"></a>
-
-
-                            </div>
-
-                            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
-                                <div class="section_heading section_2_heading about_text_wrapper">
-
-                                    <h2> Cleaners we have available </h2>
-
-                                </div>
-
-                                <div class="content margin-top-60">
-
-                                    <p>We have all sorts of cleaning staff always available for еvеnіng оr оn thе wееkеnds, dереndіng оn whаt suіts уоur sсhеdulе bеst. On the flip side, if you endeavor to wash the warehouse on your own, you're going to be taking time from your work or professional schedule to complete the task. Even if you pay your staff for cleaning, you cannot be sure they have the abilities or experience required to do the work properly.</p>
-
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-
-                    <div class="box">
-
-                        <div class="grid-box">
-
-                            <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
-                                <div class="section_heading section_2_heading about_text_wrapper">
-
-                                    <h2> Experienced & Professionals </h2>
-
-                                </div>
-
-                                <div class="content margin-top-60">
-
-                                    <p>Fetching aptitude in all sorts of jobs is rigid, specifically when market is being so vulnerable plus exclusively when time is bounded. Hence, we provide you access to more information about candidates you’re trying to reach as soon as you confirm with us about any job role. Initially with CV we commence leading on your declaration, interview and/or trial to carve your trademark.</p>
-
-                                </div>
-                            </div>
-
-                            <div class="green col-lg-5 col-md-5 col-sm-12 col-xs-12 ">
-
-                                <a href="#"><img class="image-style-border" src="public/assets/images/page-pictures/Cleaners/cleaners_4.jpg" alt="maid making bed on hotel room" width="100%" height="220px"></a>
-
-
-                            </div>
-
-                        </div>
-
-
-
-
-
-                    </div>
-
-
-
+                    <p><strong>Hours of Work:</strong> Mon To Fri – 09.00 – 14.00</p>
+                    <p><strong>Pay Rate:</strong> Competitive</p>
+                    <p>Please contact Bill for more details on <strong>+44203089080</strong></p>
+                    <p>To apply forward your CV to arrange an immediate interview.</p>
+                    <em>jobs@ Workers-direct.com</em>
                 </div>
+
             </div>
 
 
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -766,28 +760,7 @@
 
                 </div>
 
-            </div>
-
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-30">
-                <img class="image-style-border" src="public/assets/images/page-pictures/Cleaners/cleaners_2.png" width="100%" height="300" alt="Cleaners">
-            </div>
-
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-30">
-                <img class="image-style-border" src="public/assets/images/page-pictures/Cleaners/cleaners_3.jpg" width="100%" height="300" alt="Cleaners">
-            </div>
-
-
-
-
-
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
-
-
-
-            <!-- </div> -->
-
-
-
+            </div> -->
         </div>
 
     </div>

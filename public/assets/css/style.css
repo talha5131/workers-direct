@@ -4973,10 +4973,11 @@ i {
     margin-bottom: 30px;
 }
 
-.image-style-border {
+
+/* .image-style-border {
     border: 4px solid #7CC24D;
     border-radius: 5px;
-}
+} */
 
 .about_image_wrapper img {
     display: inline-block;

@@ -1,11 +1,20 @@
 @extends('layouts.base')
 @section('title','Temp Chef Agency')
+@section('description',"At Workers Direct, we are a specialist chef Agency London that cares about our clients and candidates. We always
+pairing up clients and candidates to help keep running of a commercial kitchen. Through our experience, we are committed to meeting the
+extensive demands of all that we deal with. ")
+@section('keywords','Temporary,Staffing,Agency')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
 <style>
     .font-size-icon {
         font-size: 55px;
+    }
+
+    ul.inline-ul li {
+        display: inline;
+        margin-right: 15px;
     }
 </style>
 
@@ -30,7 +39,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Temp Chef Agency </h2>
+                        <h1>Temp Chef Agency </h1>
 
                     </div>
 
@@ -71,13 +80,13 @@
 
         <div class="row">
 
-            <div class="col-lg-7 col-md-7 col-xs-12 col-sm-12  ">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  ">
 
                 <div class="about_text_wrapper">
 
                     <div class="section_heading section_2_heading margin-bottom-20">
 
-                        <h1>Temp Chef <span> Agency</span></h1>
+                        <h2>Temp Chef <span> Agency</span></h2>
 
                     </div>
 
@@ -93,62 +102,90 @@
 
             </div>
 
-            <div class="col-lg-5 col-md-5 col-xs-12 col-sm-12">
-                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/TEMP CHEF AGENCY/temp_chef_agency_1.JPG" width="100%" height="300px" alt="#">
+            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                <img class="image-style-border" src="public/assets/images/page-pictures/TEMP CHEF AGENCY/temp_chef_agency_1.JPG" width="100%" height="300px" alt="#">
+            </div>
+            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                <img class="image-style-border" src="public/assets/images/page-pictures/TEMP CHEF AGENCY/temp_chef_agency_2.JPG" width="100%" height="300px" alt="#">
             </div>
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
                 <div class="about_text_wrapper ">
 
-                    <div class="section_heading section_2_heading">
+                    <div class="section_heading section_2_heading margin-top-40">
 
                         <h4> Hospitality and Catering <span> Recruitment</span></h4>
 
                     </div>
 
-                    <p style="margin: 0;"> Our aim is to create an employment solution that is tailored to the specific needs of our clients and candidates. Through sheer determination and drive, we have created a reputation that sets us apart from the rest. Our service is thorough and can be trusted in every possible way because we are open and honest in all that we do. We are consistent in what we do and that means we can provide high quality candidates to our clients, ensuring that they fill the roles in a way that meets the increasing demands of our clients. Our service will also enable us to help individuals fulfil their career aspirations and that is something that we take great pride in.</p>
-                    <p style="margin: 0;"> Our service is all about people and because we have a team that consists of experience and knowledge we can deliver exceptional results. Our team works closely with job seekers and employers to place the right people in the right jobs. Therefore, we invest in skilled people and provide our staff with training that enables them to offer you more. We aim to set the standards and that means that our competitors are always having to keep up with us but that is what makes us unique.</p>
-                    <p style="margin: 0;"> We cover a wide range of industries and that makes us flexible and adaptable. It also means that we have a greater chance of finding <a href="#">temporary jobs</a> for our candidates and meeting the needs of our clients. Throughout these industries, we have specialists who know how they work and that enables us to further our ability to meet the ever-changing demands of businesses.</p>
-                    <p style="margin: 0;"> Customer service is at the heart of what we do and it underpins our fundamentals and so, we are constantly looking at ways in which we can improve the whole experience for our clients and candidates. We aim to be market leaders and so, we are always forging new relationships, enhancing our working method and seeking new contacts because that is what is what makes us stand out.</p>
+                    <p style="margin: 0;"> Our aim is to create an employment solution that is tailored to the specific needs of our clients
+                        and candidates. Through sheer determination and drive, we have created a reputation that sets us apart from the rest. Our
+                        service is thorough and can be trusted in every possible way because we are open and honest in all that we do. We are
+                        consistent in what we do and that means we can provide high quality candidates to our clients, ensuring that they fill
+                        the roles in a way that meets the increasing demands of our clients. Our service will also enable us to help individuals
+                        fulfil their career aspirations and that is something that we take great pride in.</p>
+                    <p style="margin: 0;"> Our service is all about people and because we have a team that consists of experience and knowledge
+                        we can deliver exceptional results. Our team works closely with job seekers and employers to place the right people in the
+                        right jobs. Therefore, we invest in skilled people and provide our staff with training that enables them to offer you
+                        more. We aim to set the standards and that means that our competitors are always having to keep up with us but that is
+                        what makes us unique.</p>
 
-
-                    <div class="margin-top-20">
-                        <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/TEMP CHEF AGENCY/temp_chef_agency_2.JPG" width="100%" height="350px" alt="#">
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <img class="image-style-border margin-top-30 margin-bottom-30" src="public/assets/images/page-pictures/TEMP CHEF AGENCY/temp_chef_agency_3.JPG" width="100%" height="300px" alt="#">
                     </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <img class="image-style-border margin-top-30 margin-bottom-30" src="public/assets/images/page-pictures/TEMP CHEF AGENCY/temp_chef_agency_4.JPG" width="100%" height="300px" alt="#">
+                    </div>
+
+                    <p style="margin: 0;"> We cover a wide range of industries and that makes us flexible and adaptable. It also means that we
+                        have a greater chance of finding <a href="#">temporary jobs</a> for our candidates and meeting the needs of our clients.
+                        Throughout these industries, we have specialists who know how they work and that enables us to further our ability to meet
+                        the ever-changing demands of businesses.</p>
+                    <p style="margin: 0;"> Customer service is at the heart of what we do and it underpins our fundamentals and so, we are
+                        constantly looking at ways in which we can improve the whole experience for our clients and candidates. We aim to be market
+                        leaders and so, we are always forging new relationships, enhancing our working method and seeking new contacts because
+                        that is what is what makes us stand out.</p>
 
                     <div class="section_heading section_2_heading margin-top-20">
-
                         <h4> Are you a chef de partie <span> or sous chef?</span></h4>
-
                     </div>
-
                     <p>
-
-                        Our complete service is designed around helping all levels of chefs who are looking for temporary or permanent chef jobs. We appreciate that being out of work can be tough for a number of reasons and so, we aim to make life easier for you by putting you into a job that provides you with complete satisfaction. Through working closely with local and national businesses, we can put you into a position that helps you to get back on track. Working closely with you, we can identify your key skills, find the right training for you and ensure that employers acknowledge what you have to offer. Employers are always looking for staff and so, through our experience as oneof the best temp chef agency we can pair you up with employers who are looking for someone just like you. We will keep you updated with suitable jobs, manage your applications and help you create a CV that will turn heads. There is no secret behind what we do, we are hard-working and that means that you benefit in a number of ways.
-
+                        Our complete service is designed around helping all levels of chefs who are looking for temporary or permanent chef
+                        jobs. We appreciate that being out of work can be tough for a number of reasons and so, we aim to make life easier
+                        for you by putting you into a job that provides you with complete satisfaction. Through working closely with local
+                        and national businesses, we can put you into a position that helps you to get back on track. Working closely with
+                        you, we can identify your key skills, find the right training for you and ensure that employers acknowledge what
+                        you have to offer. Employers are always looking for staff and so, through our experience as oneof the best temp
+                        chef agency we can pair you up with employers who are looking for someone just like you. We will keep you updated
+                        with suitable jobs, manage your applications and help you create a CV that will turn heads. There is no secret
+                        behind what we do, we are hard-working and that means that you benefit in a number of ways.
                     </p>
-
                     <div class="section_heading section_2_heading margin-top-60">
-
                         <h4>Are your kitchen need an urgent chef or<span> kitchen assistant?</span></h4>
-
                     </div>
-
                     <p>
-
-                        Our experience and professionalism will enable you to trust us. We are experts in our industry and so, when you turn to us, you can take great comfort from the fact that you are in good hands. We look at your specific needs and then set out to handle your recruitment needs. Whether you are looking for seasonal workers, temporary workers or someone to fill a skilled role, we have it all. You can save time and money through using our <a href="#">recruitment agency</a> because we take care of the whole process. Our reliability, knowledge and expert insight can help us to make decisions that benefit your business.
-
+                        Our experience and professionalism will enable you to trust us. We are experts in our industry and so, when you turn
+                        to us, you can take great comfort from the fact that you are in good hands. We look at your specific needs and then
+                        set out to handle your recruitment needs. Whether you are looking for seasonal workers, temporary workers or someone
+                        to fill a skilled role, we have it all. You can save time and money through using our recruitment
+                        agency</a> because we take care of the whole process. Our reliability, knowledge and expert insight can help
+                        us to make decisions that benefit your business.
                     </p>
-
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <img class="image-style-border margin-top-30 margin-bottom-30" src="public/assets/images/page-pictures/TEMP CHEF AGENCY/temp_chef_agency_5.jpg" width="100%" height="300px" alt="temporary-chef-agency">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <img class="image-style-border margin-top-30 margin-bottom-30" src="public/assets/images/page-pictures/TEMP CHEF AGENCY/temp_chef_agency_6.jpg" width="100%" height="300px" alt="temporary-chef-agency">
+                    </div>
                     <div class="section_heading section_2_heading margin-bottom-60">
 
                         <h4>Call us to hire following catering <span> staff</span></h4>
 
                     </div>
-                    <ul>
+                    <ul class="inline-ul">
                         <li><i class="fa fa-caret-right"></i>Head chef</li>
                         <li><i class="fa fa-caret-right"></i>Sous Chef</li>
                         <li><i class="fa fa-caret-right"></i>Chef de partie</li>
@@ -162,7 +199,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 ">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 ">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -382,17 +419,13 @@
 
                 </div>
 
-            </div>
+            </div> -->
+            <div class="col-md-12">
 
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-60">
+                <div class="about_text_wrapper">
+                    <p style="margin: 0px;"><strong> Jobs@ Workers-Direct.com</strong><br> OR <br> Contact <a href="#" class="green">catering staff agency</a> for more informations.</p>
+                </div>
 
-                <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="public/assets/images/page-pictures/TEMP CHEF AGENCY/temp_chef_agency_4.JPG" alt="Agency Work" width="100%" height="300px">
-            </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-60">
-                <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="public/assets/images/page-pictures/TEMP CHEF AGENCY/temp_chef_agency_5.JPG" alt="#" width="100%" height="300px">
-            </div>
-            <div class="about_text_wrapper abt_2_para text-center">
-                <p><strong> Jobs@ Workers-Direct.com</strong><br> OR <br> Contact <a href="#" class="green">catering staff agency</a> for more informations.</p>
             </div>
         </div>
 
@@ -438,7 +471,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -474,7 +507,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
@@ -514,7 +547,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -935,7 +968,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 
