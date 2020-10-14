@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','Pastry Chef Jobs - Recruitment Agency London | Workers Direct')
+@section('keywords','Pastry,Chef')
+@section('description','Our service is all about people and because we have a team that consists of experience and knowledge we can deliver exceptional results. Our team works closely with job seekers and employers to place the right people in the right jobs.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Pastry Chef</h2>
+                        <h1>Pastry Chef</h1>
 
                     </div>
 
@@ -79,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Pastry<span> Chef</span></h1>
+                        <h2>Pastry<span> Chef</span></h2>
 
                     </div>
 
@@ -475,7 +477,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -511,7 +513,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
@@ -551,7 +553,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -971,7 +973,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 
