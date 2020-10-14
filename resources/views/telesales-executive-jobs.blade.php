@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','Telesales Executive Jobs')
+@section('keywords','Telesales,Executive,Jobs')
+@section('description','Our client is one of the leading providers of soft skills / eLibrary to corporate sectors. They are looking for couple of Telesales Executives to approach HR decision makers through outbound calls to offer learning solutions of their employees.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
