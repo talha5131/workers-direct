@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','Temporary Jobs | Temporary Jobs Agency | Temping Agency London')
+@section('keywords','temporary,jobs')
+@section('description','If you are looking for temporary or permanent work then you Workers Direct can provide you with all that you need. We know that being out of work can be tough Our aim is to put you in a role that gives you a purpose and could lead to you forging a career that provides you with complete satisfaction.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Temporary Jobs</h2>
+                        <h1>Temporary Jobs</h1>
 
                     </div>
 
@@ -79,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Temporary <span> Jobs</span></h1>
+                        <h2>Temporary <span> Jobs</span></h2>
 
                     </div>
 
@@ -458,7 +460,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -494,7 +496,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
@@ -534,7 +536,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -954,7 +956,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

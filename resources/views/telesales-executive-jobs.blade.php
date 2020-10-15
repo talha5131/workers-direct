@@ -1,7 +1,7 @@
 @extends('layouts.base')
 @section('title','Telesales Executive Jobs')
 @section('keywords','Telesales,Executive,Jobs')
-@section('description','Our client is one of the leading providers of soft skills / eLibrary to corporate sectors. They are looking for couple of Telesales Executives to approach HR decision makers through outbound calls to offer learning solutions of their employees.')
+@section('description','One of our clients (A Global mobile technology firm) is looking for very experienced Telesales Executives for their London office on Temp to Perm basis. Outbound telemarketing to other businesses. Generating leads and appointments.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -33,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Telesales Executive Jobs</h2>
+                        <h1>Telesales Executive Jobs</h1>
 
                     </div>
 
@@ -81,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Telesales Executive <span> Jobs</span></h1>
+                        <h2>Telesales Executive <span> Jobs</span></h2>
 
                     </div>
 
@@ -454,7 +454,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Hotel Experience </a> </h1>
+                                <h2> <a> Hotel Experience </a> </h2>
 
                             </div>
 
@@ -490,7 +490,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Customer Services </a> </h1>
+                                <h2> <a> Customer Services </a> </h2>
 
                             </div>
 
@@ -530,7 +530,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -950,7 +950,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

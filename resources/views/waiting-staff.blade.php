@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','Waiting Staff | Hospitality Agency London | Workers Agency')
+@section('keywords','waiting,staff')
+@section('description','The hospitality industry is fast-paced and it relies on having the right staff available when you need them. Whether you run a restaurant, own a bar or even provide catering services to events, your staff are the backbone of all that you do.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Waiting staff</h2>
+                        <h1>Waiting staff</h1>
 
                     </div>
 
@@ -79,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Waiting <span> staff</span></h1>
+                        <h2>Waiting <span> staff</span></h2>
 
                     </div>
 
@@ -430,7 +432,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Hotel Experience </a> </h1>
+                                <h2> <a> Hotel Experience </a> </h2>
 
                             </div>
 
@@ -466,7 +468,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Customer Services </a> </h1>
+                                <h2> <a> Customer Services </a> </h2>
 
                             </div>
 
@@ -506,7 +508,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -926,7 +928,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

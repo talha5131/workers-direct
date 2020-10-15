@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','Caretaker / Bus Driver - School Caretakers and School Bus Drivers Job')
+@section('keywords','caretaker,busdriver')
+@section('description',' Transport students and teachers to and from the main campus to the diploma college. Ensure the shuttle schedule is adhered to, making sure students and teachers are on time for lessons. Run any errands and collect orders when needed.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Caretaker / Bus Driver</h2>
+                        <h1>Caretaker / Bus Driver</h1>
 
                     </div>
 
@@ -79,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Caretaker / <span> Bus Driver</span></h1>
+                        <h2>Caretaker / <span> Bus Driver</span></h2>
 
                     </div>
 
@@ -522,7 +524,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Hotel Experience </a> </h1>
+                                <h2> <a> Hotel Experience </a> </h2>
 
                             </div>
 
@@ -558,7 +560,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Customer Services </a> </h1>
+                                <h2> <a> Customer Services </a> </h2>
 
                             </div>
 
@@ -598,7 +600,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -1018,7 +1020,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

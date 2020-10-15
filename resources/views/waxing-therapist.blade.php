@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','Beauty Therapist Jobs , Find Saloon Jobs & Waxing Therapist Jobs')
+@section('keywords','beauty,therapist')
+@section('description',' Removing facial and body hair through waxing, using both hot and strip wax. Lash and brow treatments.  Making appointments, maintaining client records and handling financial transactions.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Waxing Therapist</h2>
+                        <h1>Waxing Therapist</h1>
 
                     </div>
 
@@ -79,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Waxing / Beauty Therapist Jobs in <span> London</span></h1>
+                        <h2>Waxing / Beauty Therapist Jobs in <span> London</span></h2>
 
                     </div>
 
@@ -440,7 +442,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Hotel Experience </a> </h1>
+                                <h2> <a> Hotel Experience </a> </h2>
 
                             </div>
 
@@ -476,7 +478,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Customer Services </a> </h1>
+                                <h2> <a> Customer Services </a> </h2>
 
                             </div>
 
@@ -516,7 +518,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -936,7 +938,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 
