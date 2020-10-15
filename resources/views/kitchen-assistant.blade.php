@@ -1,5 +1,7 @@
 @extends('layouts.base')
-@section('title','Kitchen Assistant | Kitchen Assistant Jobs London | Catering Staff Agency')
+@section('title','Kitchen Assistant | Kitchen Assistant Jobs London')
+@section('keywords','kitchen,assistant')
+@section('description','If you are seeking a role as a kitchen assistant, it is crucial that you use the best kitchen assistant recruitment agency to help you find the role that is right for you.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Kitchen Assistant</h2>
+                        <h1>Kitchen Assistant</h1>
 
                     </div>
 
@@ -79,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Kitchen <span> Assistant</span></h1>
+                        <h2>Kitchen <span> Assistant</span></h2>
 
                     </div>
 
@@ -476,7 +478,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -512,7 +514,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Immediate Availability </a> </h1>
+                                <h2> <a> Immediate Availability </a> </h2>
 
                             </div>
 
@@ -552,7 +554,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -972,7 +974,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 
