@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','Shop Manager | Retail Jobs London | Recruitment Agency London')
+@section('keywords','shop,manager')
+@section('description','We are recruiting an experienced Shop Manager Urgently basis for one of our client based in Central London. This is a temporary role requiring previous retail supervisory experience in food / hospitapity sector.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Shop Manager</h2>
+                        <h1>Shop Manager</h1>
 
                     </div>
 
@@ -79,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Shop <span> Manager</span></h1>
+                        <h2>Shop <span> Manager</span></h2>
 
                     </div>
 
@@ -461,7 +463,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Retail Experience </a> </h1>
+                                <h2> <a> Retail Experience </a> </h2>
 
                             </div>
 
@@ -497,7 +499,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Customer Services </a> </h1>
+                                <h2> <a> Customer Services </a> </h2>
 
                             </div>
 
@@ -537,7 +539,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -957,7 +959,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 
