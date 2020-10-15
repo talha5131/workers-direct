@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','School Bus Driver Jobs in London | Temping Agency London')
+@section('keywords','school,bus,driver')
+@section('description','We are currently recruiting for experienced mini bus driver on temporary basis who have previous driving experience with in a school/nursery environment. Candidate should be friendly flexible approachable to working as part of a team.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>School Bus Driver</h2>
+                        <h1>School Bus Driver</h1>
 
                     </div>
 
@@ -79,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>School Bus <span> Driver</span></h1>
+                        <h2>School Bus <span> Driver</span></h2>
 
                     </div>
 
@@ -452,7 +454,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Hotel Experience </a> </h1>
+                                <h2> <a> Hotel Experience </a> </h2>
 
                             </div>
 
@@ -488,7 +490,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Customer Services </a> </h1>
+                                <h2> <a> Customer Services </a> </h2>
 
                             </div>
 
@@ -528,7 +530,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -948,7 +950,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 
