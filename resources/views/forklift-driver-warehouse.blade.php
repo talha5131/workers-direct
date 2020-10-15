@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','Packer & General Warehouse Assistant | Forklift Driver Jobs')
+@section('keywords','packer,general,warehouse,assistant')
+@section('description',' To clean, pack and label repaired goods for shipment to sites. Also to assist the warehouse operative with the preparation of equipment for installations as required.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Forklift Driver / Warehouse Assistant</h2>
+                        <h1>Forklift Driver / Warehouse Assistant</h1>
 
                     </div>
 
@@ -79,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Forklift Driver / Warehouse <span> Assistant</span></h1>
+                        <h2>Forklift Driver / Warehouse <span> Assistant</span></h2>
 
                     </div>
 
@@ -485,7 +487,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Hotel Experience </a> </h1>
+                                <h2> <a> Hotel Experience </a> </h2>
 
                             </div>
 
@@ -521,7 +523,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Customer Services </a> </h1>
+                                <h2> <a> Customer Services </a> </h2>
 
                             </div>
 
@@ -561,7 +563,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -981,7 +983,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

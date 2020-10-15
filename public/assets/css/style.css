@@ -7581,6 +7581,11 @@ html {
     font-weight: 700;
 }
 
+.heading h3 a {
+    color: #000000;
+    font-weight: 700;
+}
+
 .ss_download_wrapper_details h2 {
     float: left;
     width: 100%;
