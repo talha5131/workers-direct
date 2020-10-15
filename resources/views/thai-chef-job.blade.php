@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','Thai Chef Jobs | Wok Chef Jobs | DChef Jobs')
+@section('keywords','thai,chef')
+@section('description','Our client is a very well-known local restaurant in Bongor Regis area. They are hosting some Thai guests’ end of this month for this purpose they looking for a Temporary Thai chef who can cook Lunch and Dinner for all guests during their one month stay.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Thai Chef Job</h2>
+                        <h1>Thai Chef Job</h1>
 
                     </div>
 
@@ -79,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Thai Chef <span> Job</span></h1>
+                        <h2>Thai Chef <span> Job</span></h2>
 
                     </div>
 
@@ -449,7 +451,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -485,7 +487,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
@@ -525,7 +527,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -945,7 +947,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

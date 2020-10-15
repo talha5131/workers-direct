@@ -1,8 +1,11 @@
 @extends('layouts.base')
 @section('title','Van Drivers | Van Driving Jobs in London | Luton Van Drivers')
+@section('keywords','van,drivers')
+@section('description','We are recruiting two temporary Van Drivers for one our client based in East London area. The main duties will be to drive a 3.5t luton van around London area dropping off and collecting boxes. Additionally, general warehouse duties if and when required. Light to medium lifting will be involved.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
+
 <style>
     .font-size-icon {
         font-size: 55px;
@@ -31,7 +34,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Van Drivers</h2>
+                        <h1>Van Drivers</h1>
 
                     </div>
 
@@ -79,7 +82,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Van <span> Drivers</span></h1>
+                        <h2>Van <span> Drivers</span></h2>
 
                     </div>
 
@@ -423,7 +426,7 @@
 
                                 <div class="heading">
 
-                                    <h1> <a> Relevant Experience </a> </h1>
+                                    <h2> <a> Relevant Experience </a> </h2>
 
                                 </div>
 
@@ -459,7 +462,7 @@
 
                                 <div class="heading">
 
-                                    <h1> <a> 24/7 Availability </a> </h1>
+                                    <h2> <a> 24/7 Availability </a> </h2>
 
                                 </div>
 
@@ -499,7 +502,7 @@
 
                                 <div class="heading">
 
-                                    <h1> <a> Flexible & Reliable </a> </h1>
+                                    <h2> <a> Flexible & Reliable </a> </h2>
 
                                 </div>
 
@@ -919,7 +922,7 @@
 
                     <div class="ss_download_wrapper_details">
 
-                        <h1><span>Download</span><br>Job Portal App Now!</h1>
+                        <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                         <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 
