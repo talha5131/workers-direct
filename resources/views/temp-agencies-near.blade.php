@@ -1,5 +1,6 @@
 @extends('layouts.base')
 @section('title','Temp Agencies Near Me | Workers Direct')
+@section('keywords','temp,agencies')
 @section('description','The temporary work sector is understandably a difficult arena for recruiters to work in, due to the rapid turnaround times and seasonal requirements Temp Agencies Near Me one of the best option to start. ')
 @section('content')
 
@@ -32,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Temp Agencies Near Me</h2>
+                        <h1>Temp Agencies Near Me</h1>
 
                     </div>
 
@@ -80,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Temp Agencies <span> Near Me</span></h1>
+                        <h2>Temp Agencies <span> Near Me</span></h2>
 
                     </div>
 
@@ -513,7 +514,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -549,7 +550,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
@@ -589,7 +590,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -995,7 +996,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

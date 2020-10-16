@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','London Recruitment Agencies | Temp Recruitment Agencies London')
+@section('keywords','london,recruitment,agencies')
+@section('description','At Workers Direct, we understand that everyone is different and so, we treat everyone as individuals. Our reputation means that Workers Direct is one of the best Employment Agency in London for temporary jobs.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>London Recruitment Agencies</h2>
+                        <h1>London Recruitment Agencies</h1>
 
                     </div>
 
@@ -79,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>London Recruitment <span> Agencies</span></h1>
+                        <h2>London Recruitment <span> Agencies</span></h2>
 
                     </div>
 
@@ -391,7 +393,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -427,7 +429,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
@@ -467,7 +469,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -887,7 +889,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

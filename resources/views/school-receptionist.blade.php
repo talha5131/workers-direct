@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','School Receptionist - School Receptionist Jobs London')
+@section('keywords','school,receptionist')
+@section('description','On behalf of our client we are recruiting an experienced SCHOOL RECEPTIONIST who must be highly enthusiastic, happy people on board to make this happen, people who are full of the joy of life and who will be infectious with their enthusiasm for what we are trying to achieve.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>School Receptionist</h2>
+                        <h1>School Receptionist</h1>
 
                     </div>
 
@@ -79,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>School <span> Receptionist</span></h1>
+                        <h2>School <span> Receptionist</span></h2>
 
                     </div>
 
@@ -471,7 +473,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -507,7 +509,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
@@ -547,7 +549,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -967,7 +969,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

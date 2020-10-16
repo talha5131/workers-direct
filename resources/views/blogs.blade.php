@@ -1,7 +1,7 @@
 @extends('layouts.base')
-@section('title','CSCS Labourer | Jobs in Construction & Manufacturing')
-@section('keywords','cscs,labourer')
-@section('description','We are looking for a strong and experienced CSCS Labourer to manifest his physical strength in carrying out construction tasks at site. General Laborers’ responsibilities include receiving goods, performing construction site duties and operating construction vehicles')
+@section('title','Blogs | Employment Agency London')
+@section('keywords','blogs,temping,agency,london')
+@section('description','We know that in today’s economy, unemployment is a scary reality for many workers, both experienced and new to the world of work. We also know that you are driven to succeed, itching for work and keen to prove your skills and ability.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -33,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h1>CSCS Labourer</h1>
+                        <h1>Jobs</h1>
 
                     </div>
 
@@ -47,7 +47,7 @@
 
 
 
-                                <li>CSCS Labourer</li>
+                                <li>Jobs</li>
 
                             </ul>
 
@@ -81,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h2>CSCS <span> Labourer</span></h2>
+                        <h2>Jobs<span></span></h2>
 
                     </div>
 
@@ -93,104 +93,55 @@
 
             <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper">
 
                     <div class="section_heading section_2_heading row">
 
                         <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                            <table class="table table-bordered margin-top-60 " style="width:100%">
-                                <tr>
-                                    <th>Title</th>
-                                    <td>CSCS Labourer</td>
-                                </tr>
-                                <tr>
-                                    <th>Category</th>
-                                    <td>Construction and manufacturing</td>
-                                </tr>
-                                <tr>
-                                    <th>Locations</th>
-                                    <td> London</td>
-                                </tr>
-                                <tr>
-                                    <th>Duration</th>
-                                    <td>Temporary</td>
-                                </tr>
-                                <tr>
-                                    <th>Timing</th>
-                                    <td>Full time</td>
-                                </tr>
-                                <tr>
-                                    <th>Started</th>
-                                    <td>ASAP</td>
-                                </tr>
-                                <tr>
-                                    <th>Salary</th>
-                                    <td>From £8.50 to £9.50 per hour</td>
-                                </tr>
+                            <p>We know that in today’s economy, unemployment is a scary reality for many workers, both experienced and new to the world of work. We also know that you are driven to succeed, itching for work and keen to prove your skills and ability. Workers Direct have a decade of experience in finding the recruitment solution for our job seekers, whether that be temporary, temp-to-perm, or contract roles, and whatever specialisation you are looking for. We recruit for everything from data-entry to teaching roles, from packaging work to medical receptionists, and the employers we partner with offer opportunities to develop and learn in each role. Our team are here to support every job seeker.</p>
 
-                            </table>
                         </div>
 
+
                     </div>
+
+
 
                     <div class="section_heading section_2_heading margin-top-60">
                         <div class="row">
-                            <div class="col-sm-12 col-md-8">
+                            <div class="col-sm-12 col-md-6">
                                 <div class="section_heading section_2_heading">
-                                    <h2>JOB <span> PURPOSE</span></h2>
+
+                                    <h2>Recruitment Agency<span> London</span></h2>
+
                                 </div>
-                                <p> We are looking for a strong and experienced CSCS Labourer to manifest his physical strength in carrying out construction tasks at site. General Laborers’ responsibilities include receiving goods, performing construction site duties and operating construction vehicles</p>
+
+                                <div>
+                                    <p>Workers Direct are an experienced recruitment agency for London that more and more candidates are looking to, as we are driven to find you work that will fit in with your skills and needs. <a href="#" class="green"><strong> Submit Your CV</strong></a> today and we can connect you to employers and businesses across London that are looking for workers – promptly. No matter if you want short term, temp-to-perm, or contract roles, let us know your experience, qualifications, or abilities, and we’ll find you that job in London.</p>
+                                </div>
+
                             </div>
-                            <div class="col-sm-12 col-md-4">
-                                <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="https://staff-direct.co.uk/wp-content/uploads/2019/09/general-laborer-1-1024x576.jpg" width="100%" alt="CSCS Labourer">
+                            <div class="col-sm-12 col-md-6">
+                                <div class="section_heading section_2_heading">
+
+                                    <h2>Employment <span> Agency</span></h2>
+
+                                </div>
+
+                                <p>Our employment agency takes pride in offering efficient, friendly and supportive service to our candidates. We are here to work with you during what can be a stressful, difficult search, that we make easy by taking it on for you. You may only need temporary work for a couple of weeks, or perhaps you want to settle and commit to a contract role? Call our experienced employment agency and we will handle the process of finding you work with clients that expect the best.</p>
+
                             </div>
                         </div>
-                    </div>
 
-                    <div class="section_heading section_2_heading ">
+                        <div class="section_heading section_2_heading margin-top-60">
 
-                        <div class="margin-bottom-60">
-                            <h2>Main <span> Responsibilities</span></h2>
+                            <h2>Interested To <span> Become a Temp?</span></h2>
+
                         </div>
-
-                        <div class="margin-bottom-60">
-                            <ul>
-                                <li><i class="fa fa-caret-right"></i> Prep work and clearing site before and after</li>
-                                <li><i class="fa fa-caret-right"></i> Loading and unloading material and items and distributing them to different contractors</li>
-                                <li><i class="fa fa-caret-right"></i> Using tools and machines for construction purpose</li>
-                                <li><i class="fa fa-caret-right"></i> Assisting carpenters, mason and other specialized labourer in order to achieve overall efficiency</li>
-                                <li><i class="fa fa-caret-right"></i> Daily inspection and maintenance of electrical and construction machines</li>
-                                <li><i class="fa fa-caret-right"></i> Control traffic around the construction site</li>
-                                <li><i class="fa fa-caret-right"></i> Load and unload merchandises</li>
-                                <li><i class="fa fa-caret-right"></i> Proper knowledge of safety and height hazards</li>
-                            </ul>
-                        </div>
-
-                        <h2 class="margin-bottom-60">Candidate <span> Requirement</span></h2>
-
-                        <div class="">
-                            <ul>
-                                <li><i class="fa fa-caret-right"></i> Must have CSCS Labourer card</li>
-                                <li><i class="fa fa-caret-right"></i> Ability to understand, comprehend and follow instructions properly</li>
-                                <li><i class="fa fa-caret-right"></i> Excellent hand-eye coordination</li>
-                                <li><i class="fa fa-caret-right"></i> Ability to take challenges</li>
-                                <li><i class="fa fa-caret-right"></i> Basic organization and management skills</li>
-                                <li><i class="fa fa-caret-right"></i> Understanding of basic mathematics and statistic</li>
-                            </ul>
-                        </div>
-
-
-
-                        <div style="margin-top: 40px;">
-                            <h2>For immediate placement send your CV Today at</h2>
-                            <p><strong>jobs@ Workers-direct.com</strong></p>
-                            <a href="# " class="green"><strong> OR Apply Online</strong></a>
-                        </div>
+                        <p>Temporary workers are in high demand in today’s job climate and the prospects are good; varied, practical work that can grow your skills and knowledge, giving you on-the-job learning without the need to commit until you find that dream role. Registering with our consultants couldn’t be simpler. Contact us and we’ll make an appointment to talk through what you need and who you are, and to assess your ability. When we know your requirements, we can start seeking short-term work for you immediately. Give us a call and try us out – we guarantee you will be satisfied.</p>
 
 
                     </div>
-
-
 
                 </div>
 

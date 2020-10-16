@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','Service Administrative')
+@section('keywords','service,administrator')
+@section('description','One of our client a well-known international firm looking for an Experienced Service Administrator on temporary to permanent basis for their east London depot. Fulfil administrative duties within the Service Centre Function')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Service Administrator</h2>
+                        <h1>Service Administrator</h1>
 
                     </div>
 
@@ -79,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Service <span> Administrator</span></h1>
+                        <h2>Service <span> Administrator</span></h2>
 
                     </div>
 
@@ -505,7 +507,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -541,7 +543,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
@@ -581,7 +583,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -1001,7 +1003,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 
