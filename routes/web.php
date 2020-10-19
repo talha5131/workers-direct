@@ -298,3 +298,6 @@ Route::get('/temporary-jobs', function () {
 Route::get('/temp-agencies-near-me', function () {
     return view('temp-agencies-near');
 });
+Route::get('/admin', function () {
+    return view('admin.index');
+});
