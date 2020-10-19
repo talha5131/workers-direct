@@ -93,7 +93,7 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
 
                 <div class="about_text_wrapper ">
 
@@ -102,20 +102,30 @@
 
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
+                    <!-- <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
                         <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/TEMP JOBS LONDON/temp-jobs-london_2.JPG" width="100%" height="350px" alt="#">
+                    </div> -->
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/TEMP JOBS LONDON/temp-jobs-london_1.JPG" width="100%" alt="#">
                     </div>
-
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/TEMP JOBS LONDON/temp-jobs-london_3.JPG" width="100%" alt="#">
+                    </div>
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
 
                         <p style="margin: 0;">Workers Direct, a <strong> Customized Staffing Service</strong>, maintains a database of available workers ready to step in and fill staffing needs throughout the year in a variety of industries and businesses. From Warehouse workers to Administrative Assistants, a broad range of skilled and unskilled workers are available from Workers Direct. Short term hires or long-term employees, Workers Direct comes to the rescue of any business when you need immediate staff. A sudden surge in orders or work, no need to scramble, pick up the phone and call your contracted representative at Workers Direct and have ready to work staff at your door almost immediately.</p>
                         <p style="margin: 0;">Workers Direct, <strong>London’s Staffing Specialists</strong>, is the go to Staffing Agency for Corporate Offices, Restaurants, Nursing Homes, Retail, Warehouses and Construction Companies. Noted by all for their quick response time, owners and managers rely on the quality workforce that Workers Direct can deliver within the shortest time of any other hiring agency around. When you have a contract with Workers Direct, you have access to a roster of ready to work staff that can be on the job in as little as an hour. When you need immediate Staff Workers Direct is your solution in London when you need to supplement your staff, cover for sick workers or any short-term staffing emergencies.</p>
                         <p style="margin: 0;">Workers Direct, <a href="https://workers-direct.com/"><strong> Temp Agency London</strong></a> supplies, reliable, committed, vetted workers on a weekly, monthly or yearly basis. The staffing solutions of Workers Direct takes the job out of hiring. Owners and Managers can eliminate the full-time job that hiring can become when you contract with Workers Direct, the Staffing Agency where hiring is their full-time job. Workers Direct takes care of advertising, interviewing, and vetting when you need staff. Workers Direct can provide you with a customized manpower solutions. No matter what the Staffing Needs of your business or company, part timers for a week, a month or even steady part-time workers, Workers Direct delivers the staff you need for the time you need them. Workers Direct, the Leaders in Staffing Solutions, is your virtual HR Department.</p>
                     </div>
-
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
-                        <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/TEMP JOBS LONDON/temp-jobs-london_3.JPG" width="100%" height="450px" alt="#">
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/TEMP JOBS LONDON/temp-jobs-london_2.JPG" width="100%" alt="#">
                     </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/TEMP JOBS LONDON/temp-jobs-london_5.JPG" width="100%" alt="#">
+                    </div>
+                    <!-- <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
+                        <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/TEMP JOBS LONDON/temp-jobs-london_3.JPG" width="100%" height="450px" alt="#">
+                    </div> -->
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
 
@@ -128,7 +138,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -348,19 +358,7 @@
 
                 </div>
 
-            </div>
-
-
-
-
-
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
-
-
-
-            <!-- </div> -->
-
-
+            </div> -->
 
         </div>
 

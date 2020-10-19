@@ -92,7 +92,7 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
                 <div class="about_text_wrapper ">
 
@@ -100,38 +100,111 @@
 
                         <h2> TEAM WORKERS DIRECT CAN HELP YOUR KITCHEN TO HIRE TALENTED AND<span> EXPERIENCED CHEF DIRECT</span></h2>
 
-                        <p style="margin: 0;">Our service is all about people and because we have a team that consists of experience and knowledge we can deliver exceptional results. Our team works closely with job seekers and employers to place the right people in the right jobs. Therefore, we invest in skilled people and provide our staff with training that enables them to offer you more. We aim to set the standards and that means that our competitors are always having to keep up with us but that is what makes us unique.</p>
-                        <p style="margin: 0;">We cover a wide range of industries and that makes us flexible and adaptable. It also means that we have a greater chance of finding jobs for our candidates and meeting the needs of our clients. Throughout these industries, we have specialists who know how they work and that enables us to further our ability to meet the ever-changing demands of businesses.</p>
-                        <p style="margin: 0;">Customer service is at the heart of what we do and it underpins our fundamentals and so, we are constantly looking at ways in which we can improve the whole experience for our clients and candidates. We aim to be market leaders and so, we are always forging new relationships, enhancing our working method and seeking new contacts because that is what is what makes us stand out.</p>
+                        <p style="margin: 0;">Our service is all about people and because we have a team that consists of experience and
+                            knowledge we can deliver exceptional results. Our team works closely with job seekers and employers to place the
+                            right people in the right jobs. Therefore, we invest in skilled people and provide our staff with training that
+                            enables them to offer you more. We aim to set the standards and that means that our competitors are always having
+                            to keep up with us but that is what makes us unique.
+                        </p>
+                        <p style="margin: 0;">We cover a wide range of industries and that makes us flexible and adaptable. It also means that
+                            we have a greater chance of finding jobs for our candidates and meeting the needs of our clients. Throughout these
+                            industries, we have specialists who know how they work and that enables us to further our ability to meet the
+                            ever-changing demands of businesses.
+                        </p>
+                        <p style="margin: 0;">Customer service is at the heart of what we do and it underpins our fundamentals and so, we are
+                            constantly looking at ways in which we can improve the whole experience for our clients and candidates. We aim to be
+                            market leaders and so, we are always forging new relationships, enhancing our working method and seeking new contacts
+                            because that is what is what makes us stand out.
+                        </p>
 
                     </div>
 
-                    <div class="margin-top-20">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/PASTRY CHEF/pastry_chef_3.jpg" width="100%" height="310px" alt="IT Support">
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-30" style="padding-left: 0px;">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/PASTRY CHEF/pastry_chef_1.jpeg" width="100%" height="340px" alt="IT Support">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-30" style="padding-left: 0px;">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/PASTRY CHEF/pastry_chef_2.jpg" width="100%" height="340px" alt="IT Support">
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-20">
+                    <div class="col-md-12 col-sm-12 margin-top-30 pl-0">
+                        <div class="section_heading section_2_heading">
 
-                        <h2> Are you a pastry chef de partie or <span> senior sous chef?</span></h2>
+                            <h2> Are you a pastry chef de partie or <span> senior sous chef?</span></h2>
 
-                        <p style="margin: 0;">Our complete service is designed around helping all levels of chefs who are looking for temporary or permanent chef jobs. We appreciate that being out of work can be tough for a number of reasons and so, we aim to make life easier for you by putting you into a job that provides you with complete satisfaction. Through working closely with local and national businesses, we can put you into a position that helps you to get back on track. Working closely with you, we can identify your key skills, find the right training for you and ensure that employers acknowledge what you have to offer. Employers are always looking for staff and so, through our experience as one of the best <a href="#">CHEF DIRECT</a> we can pair you up with employers who are looking for someone just like you. We will keep you updated with suitable jobs, manage your applications and help you create a CV that will turn heads. There is no secret behind what we do, we are hard-working and that means that you benefit in a number of ways.</p>
+                            <p style="margin: 0;">Our complete service is designed around helping all levels of chefs who are looking for
+                                temporary or permanent chef jobs. We appreciate that being out of work can be tough for a number of reasons and
+                                so, we aim to make life easier for you by putting you into a job that provides you with complete satisfaction.
+                                Through working closely with local and national businesses, we can put you into a position that helps you to
+                                get back on track. Working closely with you, we can identify your key skills, find the right training for you
+                                and ensure that employers acknowledge what you have to offer. Employers are always looking for staff and so,
+                                through our experience as one of the best CHEF DIRECT we can pair you up with employers who
+                                are looking for someone just like you. We will keep you updated with suitable jobs, manage your applications
+                                and help you create a CV that will turn heads. There is no secret behind what we do, we are hard-working and
+                                that means that you benefit in a number of ways.
+                            </p>
 
+                        </div>
+
+                        <div class="margin-top-20">
+
+                            <h2> Are your kitchen need an urgent pastry chef or<span> kitchen assistant?</span></h2>
+
+                            <p style="margin: 0;">Our experience and professionalism will enable you to trust us. We are experts in our
+                                industry and so, when you turn to us, you can take great comfort from the fact that you are in good hands.
+                                We look at your specific needs and then set out to handle your recruitment needs. Whether you are looking
+                                for seasonal workers, temporary workers or someone to fill a skilled role, we have it all. You can save
+                                time and money through using our employment agency because we take care of the whole process. Our reliability,
+                                knowledge and expert insight can help us to make decisions that benefit your business.
+                            </p>
+
+                        </div>
                     </div>
 
-                    <div class="margin-top-20">
-
-                        <h2> Are your kitchen need an urgent pastry chef or<span> kitchen assistant?</span></h2>
-
-                        <p style="margin: 0;">Our experience and professionalism will enable you to trust us. We are experts in our industry and so, when you turn to us, you can take great comfort from the fact that you are in good hands. We look at your specific needs and then set out to handle your recruitment needs. Whether you are looking for seasonal workers, temporary workers or someone to fill a skilled role, we have it all. You can save time and money through using our employment agency because we take care of the whole process. Our reliability, knowledge and expert insight can help us to make decisions that benefit your business.</p>
-
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-30" style="padding-left: 0px;">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/PASTRY CHEF/pastry_chef_3.jpg" width="100%" height="340px" alt="IT Support">
                     </div>
-
-                    <div class="margin-top-20 margin-bottom-60">
-                        <h4>Ideal candidates must be able to make (most if not all of them) the following items</h4>
-
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-30" style="padding-left: 0px;">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/PASTRY CHEF/pastry_chef_6.jpg" width="100%" height="340px" alt="IT Support">
                     </div>
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 about_text_wrapper abt_2_para pl-0">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 pl-0">
+                            <h2>Please find below the latest bakery & Pastry Chef Jobs we have available</h2>
 
-                    <div>
+                            <table class="table table-bordered margin-top-60">
+
+                                <tr>
+                                    <th><strong>Job Title</strong></th>
+                                    <td>Pastry Chef / Bakery Staff</td>
+
+                                </tr>
+                                <tr>
+                                    <th><strong>Number of Vacancies</strong></th>
+                                    <td>2</td>
+                                </tr>
+                                <tr>
+                                    <th><strong>Job Location</strong></th>
+                                    <td>Wood Green</td>
+                                </tr>
+                                <tr>
+                                    <th><strong>Salary</strong></th>
+                                    <td>From £8 to £10 per hour (Depends on Experience) </td>
+                                </tr>
+                                <tr>
+                                    <th><strong>Job Duration</strong></th>
+                                    <td>Permanent</td>
+                                </tr>
+                                <tr>
+                                    <th><strong>Job Start</strong></th>
+                                    <td>ASAP</td>
+                                </tr>
+
+                            </table>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-sm-12 margin-top-30 pl-0">
+                        <div class="margin-top-20 margin-bottom-60">
+                            <h4>Ideal candidates must be able to make (most if not all of them) the following items</h4>
+                        </div>
                         <ul>
 
                             <li><i class="fa fa-caret-right"></i>Fresh Cream Cakes in 6″,8″,10″,12″,14″ sizes and may be sometime even bigger depending on order.</li>
@@ -147,12 +220,20 @@
 
                         </ul>
                     </div>
-
+                </div>
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-top-30 pl-0">
+                    <p style="margin: 0;">One of our client (a very well-known Asian sweets and bakers) looking for full time Bakery Staff / Pastry Chef ASAP on permanent basis in Wood Green, N22 area.</p>
                 </div>
 
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 pl-0">
+                    <br>
+                    <p style="margin: 0;">For immediate placement send your CV Today at:</p><br>
+                    <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p><br>
+                    <a href="# " class="green"><strong> OR Apply Online</strong></a>
+                </div>
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-20">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-20">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -372,77 +453,7 @@
 
                 </div>
 
-            </div>
-
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 about_text_wrapper abt_2_para">
-                <div>
-
-                    <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
-                        <h2>Please find below the latest bakery & Pastry Chef Jobs we have available</h2>
-
-                        <table class="table table-bordered margin-top-60">
-
-                            <tr>
-                                <th><strong>Job Title</strong></th>
-                                <td>Pastry Chef / Bakery Staff</td>
-
-                            </tr>
-                            <tr>
-                                <th><strong>Number of Vacancies</strong></th>
-                                <td>2</td>
-                            </tr>
-                            <tr>
-                                <th><strong>Job Location</strong></th>
-                                <td>Wood Green</td>
-                            </tr>
-                            <tr>
-                                <th><strong>Salary</strong></th>
-                                <td>From £8 to £10 per hour (Depends on Experience) </td>
-                            </tr>
-                            <tr>
-                                <th><strong>Job Duration</strong></th>
-                                <td>Permanent</td>
-                            </tr>
-                            <tr>
-                                <th><strong>Job Start</strong></th>
-                                <td>ASAP</td>
-                            </tr>
-
-                        </table>
-                    </div>
-                    <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/PASTRY CHEF/pastry_chef_2.jpg" width="100%" height="340px" alt="IT Support">
-                    </div>
-
-                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                        <p style="margin: 0;">One of our client (a very well-known Asian sweets and bakers) looking for full time Bakery Staff / Pastry Chef ASAP on permanent basis in Wood Green, N22 area.</p>
-                    </div>
-
-                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                        <p style="margin: 0;">For immediate placement send your CV Today at:</p>
-                        <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
-                        <a href="# " class="green"><strong> OR Apply Online</strong></a>
-                    </div>
-
-                </div>
-
-
-
-
-            </div>
-
-
-
-
-
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
-
-
-
-            <!-- </div> -->
-
-
-
+            </div> -->
         </div>
 
     </div>

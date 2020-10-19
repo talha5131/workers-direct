@@ -1,5 +1,5 @@
 @extends('layouts.base')
-@section('title','Packing Staff -  Workers Direct the Best Picker and Packer Agency')
+@section('title','Packing Staff - Workers Direct the Best Picker and Packer Agency')
 @section('keywords','Packing,Staff')
 @section('description','Workers Direct have been recruiting and organising Pickers and Packing Staff to assist local businesses and companies from many years. We ensure that our candidates are as observant and tenacious as we are!')
 @section('content')
@@ -91,28 +91,35 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
 
                 <div class="about_text_wrapper">
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                        <p style="margin: 0;">Workers Direct have been recruiting and organising Pickers and <a href="https://workers-direct.com/staffing-services/packing-staff/">Packing Staff</a> to assist local businesses and companies from many years.</p>
+                        <p style="margin: 0;">Workers Direct have been recruiting and organising Pickers and Packing Staff to assist local businesses and companies from many years.</p>
                         <p style="margin: 0;">We ensure that our candidates are as observant and tenacious as we are! No matter what role you have for them, they do not miss the small details, and neither will we.</p>
                         <p style="margin: 0;">We have short term and contract staff that can join your team, and we manage the entire hiring process, leaving you the benefits of an employee that is appropriate for your warehouse.</p>
                     </div>
 
-                    <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12 margin-top-20">
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
+                        <img class="image-style-border" style="height: 300px;" src="public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_1.jpg" width="100%" height="260px" alt="#">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
+                        <img class="image-style-border" style="height: 300px;" src="public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_3.jpg" width="100%" height="260px" alt="#">
+                    </div>
 
-                        <h2 class="margin-bottom-20"> Picker and Packing <span>  Staff</span></h2>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
+
+                        <h2 class="margin-bottom-20"> Picker and Packing <span> Staff</span></h2>
 
                         <p style="margin: 0;">Workers Direct have contact with a number of picker and packing staff. All with the stamina required for physical work, and the attention to detail that means you can trust them to do the job perfectly. We insist upon high standards and will find you a worker with the same.</p>
                         <p style="margin: 0;">Are you looking for temporary help with packing? Do you have a vacancy to fill? Let us find you packing staff that will fit seamlessly in.</p>
 
                     </div>
 
-                    <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-20">
+                    <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-20">
                         <img style="border: 4px solid #7CC24D; border-radius: 5px" src="https://workers-direct.com/wp-content/uploads/2014/02/Warehouse-Staffing1-1024x683.jpg" width="100%" height="260px" alt="#">
-                    </div>
+                    </div> -->
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
@@ -121,6 +128,12 @@
                         <p style="margin: 0;">Ensuring that you have enough team members increases production and efficiency – and takes away the stress of that extra-long day for your existing team that you already rely upon. Let us know our requirements and we will send an appropriate worker, whatever your need.</p>
                         <p style="margin: 0;">Workers Direct provide a quick, reliable service, assisting you in recruiting <a href="https://labourer.agency/services/Warehouse/">warehouse staff</a> . So that your team is at optimum capacity and your warehouse is running smoothly.</p>
 
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
+                        <img class="image-style-border" style="height: 300px;" src="public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_2.jpg" width="100%" height="260px" alt="#">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
+                        <img class="image-style-border" style="height: 300px;" src="public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_5.jpg" width="100%" height="260px" alt="#">
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
@@ -135,7 +148,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 ">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 ">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -355,20 +368,7 @@
 
                 </div>
 
-            </div>
-
-
-
-
-
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
-
-
-
-            <!-- </div> -->
-
-
-
+            </div> -->
         </div>
 
     </div>

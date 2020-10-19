@@ -75,7 +75,7 @@
 
         <div class="row">
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20">
+            <!-- <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20">
 
                 <div class="about_text_wrapper">
 
@@ -87,18 +87,28 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-                <div class="row about_text_wrapper abt_2_para">
+                <div class="row about_text_wrapper">
 
-                    <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
+                        <div class="section_heading section_2_heading">
 
-                        <table class="table table-bordered">
+                            <h2>Job <span> Summary</span></h2>
+
+                        </div>
+                        <p>We are recruiting an experienced Data Entry Operator Urgently basis for one of client based in Victoria, Central London. This is a temporary role requiring very good typing & basic IT skills along with MS word / excel knowledge.</p>
+
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <h2>Data Entry <span> Operator</span></h2>
+                        <table class="table table-bordered margin-top-40">
 
                             <tr>
                                 <th>Job Title</th>
@@ -127,19 +137,9 @@
 
                     </div>
 
-                    <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
+                    <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
                         <img class="image-style-border" src="public/assets/images/page-pictures/DATA ENTRY OPERATOR/data_entry_operator_1.jpg" width="100%" height="160px" alt="Data Entry">
-                    </div>
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
-                        <div class="section_heading section_2_heading">
-
-                            <h2>Job <span> Summary</span></h2>
-
-                        </div>
-                        <p>We are recruiting an experienced Data Entry Operator Urgently basis for one of client based in Victoria, Central London. This is a temporary role requiring very good typing & basic IT skills along with MS word / excel knowledge.</p>
-
-                    </div>
-
+                    </div> -->
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
                         <div class="section_heading section_2_heading ">
 
@@ -155,9 +155,9 @@
 
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40">
+                    <!-- <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40">
                         <img class="image-style-border" src="public/assets/images/page-pictures/DATA ENTRY OPERATOR/data_entry_operator_2.jpg" width="100%" height="490px" alt="Data Entry">
-                    </div>
+                    </div> -->
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
 
@@ -187,7 +187,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -407,19 +407,7 @@
 
                 </div>
 
-            </div>
-
-
-
-
-
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
-
-
-
-            <!-- </div> -->
-
-
+            </div> -->
 
         </div>
 

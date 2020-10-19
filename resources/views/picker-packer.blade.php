@@ -33,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h1>Picker & Packerr</h1>
+                        <h1>Picker & Packer</h1>
 
                     </div>
 
@@ -91,70 +91,59 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12" style="padding-left: 0px;">
 
-                <div class="about_text_wrapper abt_2_para">
-
-                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
-                        <div>
-                            <a href="#dataCollapse" data-toggle="collapse"><i class="green fa fa-caret-right"></i><strong> Job Title </strong></a>
-                            <div id="dataCollapse" class="collapse margin-top-20">
-                                Picker & Packers
-                            </div>
-                        </div>
-
-                        <hr>
-
-                        <div>
-                            <a href="#dataCollapse1" data-toggle="collapse"><i class="green fa fa-caret-right"></i><strong> Job Location </strong></a>
-                            <div id="dataCollapse1" class="collapse margin-top-20">
-                                North West London
-
-                            </div>
-                        </div>
-
-                        <hr>
-                        <div>
-                            <a href="#dataCollapse2" data-toggle="collapse"><i class="green fa fa-caret-right"></i><strong> Job Duration </strong></a>
-                            <div id="dataCollapse2" class="collapse margin-top-20">
-                                Full time, Mon to Fri – 9am to 6pm & Temporary to Permanent basis
-                            </div>
-                        </div>
-                        <hr>
-                        <div>
-                            <a href="#dataCollapse3" data-toggle="collapse"><i class="green fa fa-caret-right"></i><strong> Job Start </strong></a>
-                            <div id="dataCollapse3" class="collapse margin-top-20">
-                                ASAP
-                            </div>
-                        </div>
-                        <hr>
-                        <div>
-                            <a href="#dataCollapse4" data-toggle="collapse"><i class="green fa fa-caret-right"></i><strong> Salary </strong></a>
-                            <div id="dataCollapse4" class="collapse margin-top-20">
-                                £8.50 to £9.50
-                            </div>
-                        </div>
-                        <hr>
-                        <div>
-                            <a href="#dataCollapse5" data-toggle="collapse"><i class="green fa fa-caret-right"></i><strong> Requirments </strong></a>
-                            <div id="dataCollapse5" class="collapse margin-top-20">
-                                <ul>
-                                    <li> <i class="green fa fa-caret-right"></i>Experience as warehouse operative / picker and packer</li>
-                                    <li> <i class="green fa fa-caret-right"></i>Flexible</li>
-                                    <li> <i class="green fa fa-caret-right"></i>Forklift driving </li>
-                                </ul>
-                            </div>
-                        </div>
-
-                        <hr>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_1.jpg" width="100%" height="340px" alt="IT Support">
-                    </div>
-
+                <div class="about_text_wrapper">
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <p style="margin: 0;">We are recruiting a Warehouse Helper / Picker & Packer on temporary basis in across the London.</p>
                     </div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40">
+                        <table class="table table-bordered">
+                            <tr>
+                                <th>Job Title</th>
+                                <th>Picker & Packers</th>
+
+                            </tr>
+                            <tr>
+                                <th>Job Location</th>
+                                <td>North West London</td>
+
+                            </tr>
+                            <tr>
+                                <th>Job Duration</th>
+                                <td>Full time, Mon to Fri – 9am to 6pm & Temporary to Permanent basis.</td>
+
+                            </tr>
+                            <tr>
+                                <th>Job Start</th>
+                                <td>ASAP</td>
+
+                            </tr>
+                            <tr>
+                                <th>Requirements</th>
+                                <td>
+                                    <ul>
+                                        <li><i class="fa fa-caret-right"></i> Experience as warehouse operative / picker and packer</li>
+                                        <li><i class="fa fa-caret-right"></i> Flexible</li>
+                                        <li><i class="fa fa-caret-right"></i> Forklift driving</li>
+                                    </ul>
+                                </td>
+
+                            </tr>
+                            <tr>
+                                <th>Pay Rate</th>
+                                <td>£8.50 to £9.50</td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_2.jpg" width="100%" height="340px" alt="IT Support">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_5.jpg" width="100%" height="340px" alt="IT Support">
+                    </div>
+
+
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
                         <h2 class="margin-bottom-60"> Key <span> Responsibilities</span></h2>
@@ -176,9 +165,9 @@
 
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-top-30">
+                    <!-- <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-top-30">
                         <img class="image-style-border" src="public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_5.jpg" width="100%" height="340px" alt="IT Support">
-                    </div>
+                    </div> -->
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
@@ -207,7 +196,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -427,7 +416,7 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
             <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12 margin-top-40">
                 <div class="about_text_wrapper">
@@ -443,9 +432,9 @@
 
             </div>
 
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 margin-top-40 ">
+            <!-- <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 margin-top-40 ">
                 <img class="image-style-border" src="public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_2.jpg" width="100%" height="240px" alt="IT Support">
-            </div>
+            </div> -->
 
 
 
