@@ -3,7 +3,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    
+
 
 
     <!--STYLESHEET-->
@@ -66,53 +66,34 @@
     =================================================-->
 
 </head>
-@include('admin.layouts.header')
-
-
 <title>@yield('title')</title>
-
-@include('admin.layouts.sidebar')
-
-
-
-@yield('content')
+<div id="container" class="effect aside-float aside-bright mainnav-lg">
+    @include('admin.layouts.header')
 
 
 
-@include('admin.layouts.footer')
-
-<!--JAVASCRIPT-->
-	<!--=================================================-->
-
-	<!--jQuery [ REQUIRED ]-->
-	<script src="public/assets/js/jquery.min.js"></script>
-
-
-	<!--BootstrapJS [ RECOMMENDED ]-->
-	<script src="public/assets/js/bootstrap.min.js"></script>
-
-
-	<!--NiftyJS [ RECOMMENDED ]-->
-	<script src="public/assets/js/nifty.min.js"></script>
+    @include('admin.layouts.sidebar')
 
 
 
-
-	<!--=================================================-->
-
-	<!--Demo script [ DEMONSTRATION ]-->
-	<script src="public/assets/js/demo/nifty-demo.min.js"></script>
+    @yield('content')
 
 
-	<!--Flot Chart [ OPTIONAL ]-->
-	<script src="public/assets/plugins/flot-charts/jquery.flot.min.js"></script>
-	<script src="public/assets/plugins/flot-charts/jquery.flot.resize.min.js"></script>
-	<script src="public/assets/plugins/flot-charts/jquery.flot.tooltip.min.js"></script>
+
+    @include('admin.layouts.footer')
+    <!--JAVASCRIPT-->
+    <!--=================================================-->
+
+    <!--jQuery [ REQUIRED ]-->
+    <script src="public/assets/js/jquery.min.js"></script>
 
 
-	<!--Sparkline [ OPTIONAL ]-->
-	<script src="public/assets/plugins/sparkline/jquery.sparkline.min.js"></script>
+    <!--BootstrapJS [ RECOMMENDED ]-->
+    <script src="public/assets/js/bootstrap.min.js"></script>
 
 
-	<!--Specify page [ SAMPLE ]-->
-	<script src="public/assets/js/demo/dashboard.js"></script>
+    <!--NiftyJS [ RECOMMENDED ]-->
+    <script src="public/assets/js/nifty.min.js"></script>
+
+    <!--=================================================-->
+</div>
