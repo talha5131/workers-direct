@@ -102,14 +102,28 @@
                             <a href="#">
                                 <i class="demo-pli-home"></i>
                                 <span class="menu-title">Dashboard</span>
+                            </a>
+
+                        </li>
+
+                        <!--Menu list item-->
+                        <li>
+                            <a href="#">
+                                <i class="demo-pli-split-vertical-2"></i>
+                                <span class="menu-title">Content</span>
                                 <i class="arrow"></i>
                             </a>
 
                             <!--Submenu-->
-                            <ul class="collapse in">
-                                <li class="active-link"><a href="index.html">Dashboard 1</a></li>
-                                <li><a href="dashboard-2.html">Dashboard 2</a></li>
-                                <li><a href="dashboard-3.html">Dashboard 3</a></li>
+                            <ul class="collapse">
+                                <li><a href="#">Content 1</a></li>
+                                <li><a href="#">Content 2</a></li>
+                                <li><a href="#">Content 3</a></li>
+                                <li><a href="#">Content 4</a></li>
+                                <li><a href="#">Content 5</a></li>
+                                <li><a href="#">Content 6</a></li>
+                                <li><a href="#">Content 7</a></li>
+
 
                             </ul>
                         </li>
@@ -117,41 +131,78 @@
                         <!--Menu list item-->
                         <li>
                             <a href="#">
-                                <i class="demo-pli-split-vertical-2"></i>
-                                <span class="menu-title">Layouts</span>
-                                <i class="arrow"></i>
+                                <i class="demo-pli-gear"></i>
+                                <span class="menu-title">
+                                    Blogs
+                                    <!-- <span class="pull-right badge badge-warning">24</span> -->
+                                </span><i class="arrow"></i>
                             </a>
-
-                            <!--Submenu-->
                             <ul class="collapse">
-                                <li><a href="layouts-collapsed-navigation.html">Collapsed Navigation</a>
-                                </li>
-                                <li><a href="layouts-offcanvas-navigation.html">Off-Canvas Navigation</a>
-                                </li>
-                                <li><a href="layouts-offcanvas-slide-in-navigation.html">Slide-in
-                                        Navigation</a></li>
-                                <li><a href="layouts-offcanvas-revealing-navigation.html">Revealing
-                                        Navigation</a></li>
-                                <li class="list-divider"></li>
-                                <li><a href="layouts-aside-right-side.html">Aside on the right side</a></li>
-                                <li><a href="layouts-aside-left-side.html">Aside on the left side</a></li>
-                                <li><a href="layouts-aside-dark-theme.html">Dark version of aside</a></li>
-                                <li class="list-divider"></li>
-                                <li><a href="layouts-fixed-navbar.html">Fixed Navbar</a></li>
-                                <li><a href="layouts-fixed-footer.html">Fixed Footer</a></li>
-
+                                <li><a href="#">Blog 1</a></li>
+                                <li><a href="#">Blog 2</a></li>
+                                <li><a href="#">Blog 3</a></li>
+                                <li><a href="#">Blog 4</a></li>
+                                <li><a href="#">Blog 5</a></li>
+                                <li><a href="#">Blog 6</a></li>
+                                <li><a href="#">Blog 7</a></li>
                             </ul>
                         </li>
 
-                        <!--Menu list item-->
                         <li>
-                            <a href="widgets.html">
-                                <i class="demo-pli-gear"></i>
+                            <a href="#">
+                                <i class="demo-pli-boot-2"></i>
                                 <span class="menu-title">
-                                    Widgets
-                                    <span class="pull-right badge badge-warning">24</span>
-                                </span>
+                                    Jobs
+
+                                </span><i class="arrow"></i>
                             </a>
+                            <ul class="collapse">
+                                <li><a href="#">Jobs 1</a></li>
+                                <li><a href="#">Jobs 2</a></li>
+                                <li><a href="#">Jobs 3</a></li>
+                                <li><a href="#">Jobs 4</a></li>
+                                <li><a href="#">Jobs 5</a></li>
+                                <li><a href="#">Jobs 6</a></li>
+                                <li><a href="#">Jobs 7</a></li>
+                            </ul>
+                        </li>
+
+                        <li>
+                            <a href="#">
+                                <i class="demo-pli-pen-5"></i>
+                                <span class="menu-title">
+                                    Candidates
+
+                                </span><i class="arrow"></i>
+                            </a>
+                            <ul class="collapse">
+                                <li><a href="#">Candidates 1</a></li>
+                                <li><a href="#">Candidates 2</a></li>
+                                <li><a href="#">Candidates 3</a></li>
+                                <li><a href="#">Candidates 4</a></li>
+                                <li><a href="#">Candidates 5</a></li>
+                                <li><a href="#">Candidates 6</a></li>
+                                <li><a href="#">Candidates 7</a></li>
+                            </ul>
+                        </li>
+
+                        <li>
+                            <a href="#">
+                                <i class="demo-pli-receipt-4"></i>
+                                <span class="menu-title">
+                                    Employers
+
+                                </span><i class="arrow"></i>
+                            </a>
+                            <ul class="collapse">
+                                <li><a href="#">Employers 1</a></li>
+                                <li><a href="#">Employers 2</a></li>
+                                <li><a href="#">Employers 3</a></li>
+                                <li><a href="#">Employers 4</a></li>
+                                <li><a href="#">Employers 5</a></li>
+                                <li><a href="#">Employers 6</a></li>
+                                <li><a href="#">Employers 7</a></li>
+                            </ul>
                         </li>
 
                         <li class="list-divider"></li>
