@@ -1,7 +1,7 @@
 @extends('layouts.base')
 @section('title','Hairdresser Jobs in London | Hair Dresser Jobs London | Saloon Jobs')
 @section('keywords','hairdresser,jobs')
-@section('description',' Good in cutting & colouring (male & female both).  Hairdressers job satisfaction is rated in terms of upward mobility, stress level and flexibility. Provide beauty services, such as shampooing, cutting, coloring, and styling hair, and massaging and treating scalp.')
+@section('description',' Good in cutting & colouring (male & female both). Hairdressers job satisfaction is rated in terms of upward mobility, stress level and flexibility. Provide beauty services, such as shampooing, cutting, coloring, and styling hair, and massaging and treating scalp.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -88,21 +88,10 @@
                 </div>
 
             </div>
-            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-30">
-                <img class="image-style-border" src="public/assets/images/page-pictures/HAIRDRESSER/hairdresser_1.jpg" height="270px" width="100%" alt="">
-            </div>
-            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-30">
-                <img class="image-style-border" src="public/assets/images/page-pictures/HAIRDRESSER/hairdresser_2.jpg" height="270px" width="100%" alt="">
-            </div>
-            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-30">
-                <img class="image-style-border" src="public/assets/images/page-pictures/HAIRDRESSER/hairdresser_3.jpg" height="270px" width="100%" alt="">
-            </div>
 
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
 
-
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
-
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper margin-top-30">
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
@@ -132,8 +121,11 @@
 
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/HAIRDRESSER/hairdresser_4.jpg" height="370px" width="100%" alt="Hairdresser">
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/HAIRDRESSER/hairdresser_5.jpg" height="270px" width="100%" alt="Hairdresser">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/HAIRDRESSER/hairdresser_4.jpg" height="270px" width="100%" alt="Hairdresser">
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
@@ -151,24 +143,24 @@
                         </ul>
                     </div>
 
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/HAIRDRESSER/hairdresser_1.jpg" height="270px" width="100%" alt="Hairdresser">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/HAIRDRESSER/hairdresser_2.jpg" height="270px" width="100%" alt="Hairdresser">
+                    </div>
+
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <p style="margin: 0;">If you’re interested please send your CV to arrange an immediate interview for <strong> hairdresser jobs </strong> at,</p>
                         <p style="margin: 0;"><strong> jobs@Workers-direct.com</strong></p>
                         <a href="#" class="green"><strong> OR Apply online now</strong></a>
                     </div>
 
-                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/HAIRDRESSER/hairdresser_5.jpg" height="270px" width="100%" alt="Hairdresser">
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/HAIRDRESSER/hairdresser_6.jpg" height="270px" width="100%" alt="Hairdresser">
-                    </div>
-
                 </div>
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -388,20 +380,7 @@
 
                 </div>
 
-            </div>
-
-
-
-
-
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
-
-
-
-            <!-- </div> -->
-
-
-
+            </div> -->
         </div>
 
     </div>
