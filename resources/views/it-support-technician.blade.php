@@ -388,7 +388,12 @@
                 </div>
 
             </div> -->
-
+            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/IT SUPPORT SPECIALIST/it_support_specialist_1.jpg" width="100%" height="200px" alt="">
+            </div>
+            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/IT SUPPORT SPECIALIST/it_support_specialist_4.jpg" width="100%" height="200px" alt="">
+            </div>
             <div class="about_text_wrapper col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-bottom-60 margin-top-30">
                 <h2>Requirements</h2>
             </div>

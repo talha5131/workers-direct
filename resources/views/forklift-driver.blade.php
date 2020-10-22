@@ -116,7 +116,7 @@
                     </div>
                     <div class="col-md-12 col-sm-12 margin-top-30 pl-0">
                         <h2>CPCS Forklift Driver Job Requirements</h2>
-                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-40">
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-40 pr-0">
                             <table class="table table-bordered">
 
                                 <tr>
@@ -153,7 +153,12 @@
                         </div>
 
                     </div>
-
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30 pl-0">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/CPCS FORKLIFT DRIVER/cpcs_forklift_driver_4.jpg" width="100%" height="250px" alt="CPCS Forklift Driver">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/CPCS FORKLIFT DRIVER/cpcs_forklift_driver_5.jpg" width="100%" height="250px" alt="CPCS Forklift Driver">
+                    </div>
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
                         <p style="margin: 0;">Please send your CV today for quick start.</p>
                         <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
