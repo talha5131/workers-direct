@@ -143,11 +143,11 @@
 
                     </div>
 
-                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20 pr-0 pl-0">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/CSCS PAINTER/cscs_painter_2.jpg" width="100%" alt="CSCS PAINTER">
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20 pl-0">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/CSCS PAINTER/cscs_painter_1.jpg" height="300px" width="100%" alt="CSCS PAINTER">
                     </div>
-                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20 pr-0 pl-0">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/CSCS PAINTER/cscs_painter_3.jpg" width="100%" alt="CSCS PAINTER">
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20 pr-0">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/CSCS PAINTER/cscs_painter_4.jpg" height="300px" width="100%" alt="CSCS PAINTER">
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
