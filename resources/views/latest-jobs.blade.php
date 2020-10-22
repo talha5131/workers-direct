@@ -75,7 +75,7 @@
 
         <div class="row">
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20 pl-0">
 
                 <div class="about_text_wrapper">
 
@@ -91,22 +91,25 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-                <div class="row about_text_wrapper margin-top-20">
+                <div class="row about_text_wrapper">
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
 
                         <p style="margin: 0;">If you are looking for a Temporary Job or career change, all of our Jobs are published here and updated on regular basis.</p>
                         <p style="margin: 0;">View our current list of jobs (Temporary and Permanent) you can register your CV online for vacancies using our online <a href="https://workers-direct.com/temp-jobs-registration/"><strong> CV Registration form</strong></a>.</p>
 
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20 ">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/LATEST JOBS/latest_jobs_1.jpg" width="100%" height="370px" alt="IT Support">
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/LATEST JOBS/latest_jobs_1.jpg" width="100%" height="200px" alt="">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/LATEST JOBS/latest_jobs_3.jpg" width="100%" height="200px" alt="">
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30 pl-0">
                         <table class="table table-bordered">
                             <thead class="green ">
                                 <tr>
@@ -170,11 +173,7 @@
 
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20 ">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/LATEST JOBS/latest_jobs_2.jpg" width="100%" height="370px" alt="IT Support">
-                    </div>
-
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
                         <p style="margin: 0;">Please do not forgot to mentioned <strong> Job Title</strong> on Application Form / Email & See Weekly Latest jobs visit our <a href="https://www.facebook.com/workersdirect"><strong> Facebook Page</strong></a>.</p>
                         <p style="margin: 0;"><strong> Subscribe</strong> us for weekly Jobs Direct into your inbox.</p>
                         <p style="margin: 0;">You Can Find Our Temp & Perm Jobs by visiting at <strong> https://www.facebook.com/workersdirect</strong>.</p>
@@ -184,7 +183,7 @@
             </div>
 
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -404,20 +403,7 @@
 
                 </div>
 
-            </div>
-
-
-
-
-
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
-
-
-
-            <!-- </div> -->
-
-
-
+            </div> -->
         </div>
 
     </div>
