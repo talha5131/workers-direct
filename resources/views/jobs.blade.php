@@ -75,11 +75,11 @@
 
         <div class="row">
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20 pl-0">
 
                 <div class="about_text_wrapper">
 
-                    <div class="section_heading section_2_heading">
+                    <div class="section_heading section_2_heading ">
 
                         <h2>Jobs<span></span></h2>
 
@@ -91,15 +91,22 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
                 <div class="about_text_wrapper">
 
                     <div class="section_heading section_2_heading row">
 
-                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
                             <p>We know that in today’s economy, unemployment is a scary reality for many workers, both experienced and new to the world of work. We also know that you are driven to succeed, itching for work and keen to prove your skills and ability. Workers Direct have a decade of experience in finding the recruitment solution for our job seekers, whether that be temporary, temp-to-perm, or contract roles, and whatever specialisation you are looking for. We recruit for everything from data-entry to teaching roles, from packaging work to medical receptionists, and the employers we partner with offer opportunities to develop and learn in each role. Our team are here to support every job seeker.</p>
 
+                        </div>
+
+                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                            <img  class="image-style-border" src="public/assets/images/page-pictures/JOBS/jobs_1.jpg" width="100%" height="300px" alt="jobs">
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                            <img  class="image-style-border" src="public/assets/images/page-pictures/JOBS/jobs_2.jpg" width="100%" height="300px" alt="jobs">
                         </div>
 
 
@@ -109,20 +116,20 @@
 
                     <div class="section_heading section_2_heading margin-top-60">
                         <div class="row">
-                            <div class="col-sm-12 col-md-6">
+                            <div class="col-sm-12 col-md-12 pl-0">
                                 <div class="section_heading section_2_heading">
 
                                     <h2>Recruitment Agency<span> London</span></h2>
 
                                 </div>
 
-                                <div>
+                                <div class="pl-0">
                                     <p>Workers Direct are an experienced recruitment agency for London that more and more candidates are looking to, as we are driven to find you work that will fit in with your skills and needs. <a href="#" class="green"><strong> Submit Your CV</strong></a> today and we can connect you to employers and businesses across London that are looking for workers – promptly. No matter if you want short term, temp-to-perm, or contract roles, let us know your experience, qualifications, or abilities, and we’ll find you that job in London.</p>
                                 </div>
 
                             </div>
-                            <div class="col-sm-12 col-md-6">
-                                <div class="section_heading section_2_heading">
+                            <div class="col-sm-12 col-md-12 pl-0">
+                                <div class="section_heading section_2_heading ">
 
                                     <h2>Employment <span> Agency</span></h2>
 
@@ -131,14 +138,17 @@
                                 <p>Our employment agency takes pride in offering efficient, friendly and supportive service to our candidates. We are here to work with you during what can be a stressful, difficult search, that we make easy by taking it on for you. You may only need temporary work for a couple of weeks, or perhaps you want to settle and commit to a contract role? Call our experienced employment agency and we will handle the process of finding you work with clients that expect the best.</p>
 
                             </div>
+                            <div class="col-md-12 pl-0">
+                                <div class="section_heading section_2_heading ">
+
+                                    <h2>Interested To <span> Become a Temp?</span></h2>
+
+                                </div>
+                                <p>Temporary workers are in high demand in today’s job climate and the prospects are good; varied, practical work that can grow your skills and knowledge, giving you on-the-job learning without the need to commit until you find that dream role. Registering with our consultants couldn’t be simpler. Contact us and we’ll make an appointment to talk through what you need and who you are, and to assess your ability. When we know your requirements, we can start seeking short-term work for you immediately. Give us a call and try us out – we guarantee you will be satisfied.</p>
+                            </div>
                         </div>
 
-                        <div class="section_heading section_2_heading margin-top-60">
 
-                            <h2>Interested To <span> Become a Temp?</span></h2>
-
-                        </div>
-                        <p>Temporary workers are in high demand in today’s job climate and the prospects are good; varied, practical work that can grow your skills and knowledge, giving you on-the-job learning without the need to commit until you find that dream role. Registering with our consultants couldn’t be simpler. Contact us and we’ll make an appointment to talk through what you need and who you are, and to assess your ability. When we know your requirements, we can start seeking short-term work for you immediately. Give us a call and try us out – we guarantee you will be satisfied.</p>
 
 
                     </div>
@@ -147,7 +157,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -367,7 +377,7 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
 
 

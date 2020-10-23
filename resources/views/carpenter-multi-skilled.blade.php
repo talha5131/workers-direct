@@ -88,19 +88,12 @@
                 </div>
 
             </div>
-            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-20">
-                <img class="image-style-border" src="public/assets/images/page-pictures/carpenter/carpenter_1.jpg" width="100%" height="220px" alt="Carpenter">
-            </div>
-            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-20">
-                <img class="image-style-border" src="public/assets/images/page-pictures/carpenter/carpenter_5.jpg" width="100%" height="220px" alt="Carpenter">
-            </div>
-            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-20">
-                <img class="image-style-border" src="public/assets/images/page-pictures/carpenter/carpenter_3.jpg" width="100%" height="220px" alt="Carpenter">
-            </div>
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+
+
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
                 <div class="about_text_wrapper row">
 
@@ -114,6 +107,15 @@
 
 
                     </div>
+
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/carpenter/carpenter_5.jpg" width="100%" height="300px" alt="Carpenter">
+                    </div>
+
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/carpenter/carpenter_3.jpg" width="100%" height="300px" alt="Carpenter">
+                    </div>
+
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <div class="section_heading section_2_heading margin-bottom-60 margin-top-60">
 
@@ -130,9 +132,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/carpenter/carpenter_4.jpg" width="100%" height="auto" alt="Carpenter">
-                    </div>
+                    
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
                         <div class="section_heading section_2_heading margin-bottom-60 margin-top-60">
@@ -168,7 +168,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-30">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-30">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -388,16 +388,7 @@
 
                 </div>
 
-            </div>
-
-
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
-                <img class="image-style-border" src="public/assets/images/page-pictures/carpenter/carpenter_2.jpg" width="100%" alt="Carpanter">
-            </div>
-
-
-
-
+            </div> -->
 
             <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
 
