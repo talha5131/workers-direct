@@ -105,8 +105,14 @@
                         <p>We are recruiting an experienced Data Entry Operator Urgently basis for one of client based in Victoria, Central London. This is a temporary role requiring very good typing & basic IT skills along with MS word / excel knowledge.</p>
 
                     </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/DATA ENTRY OPERATOR/data_entry_operator_1.jpg" width="100%" height="200px" alt="">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/DATA ENTRY OPERATOR/data_entry_operator_2.jpg" width="100%" height="200px" alt="">
+                    </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30 pl-0">
                         <h2>Data Entry <span> Operator</span></h2>
                         <table class="table table-bordered margin-top-40">
 
@@ -140,7 +146,7 @@
                     <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
                         <img class="image-style-border" src="public/assets/images/page-pictures/DATA ENTRY OPERATOR/data_entry_operator_1.jpg" width="100%" height="160px" alt="Data Entry">
                     </div> -->
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-60">
                         <div class="section_heading section_2_heading ">
 
                             <h2>Responsibilities<span></span></h2>
@@ -159,7 +165,7 @@
                         <img class="image-style-border" src="public/assets/images/page-pictures/DATA ENTRY OPERATOR/data_entry_operator_2.jpg" width="100%" height="490px" alt="Data Entry">
                     </div> -->
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-60">
 
                         <div class="section_heading section_2_heading ">
 
@@ -176,11 +182,11 @@
 
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
                         <p style="margin: 0;">To apply forward your CV to arrange an immediate interview.</p>
-                        <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
+                        <p style="margin: 0; padding-top: 0px ;" class="pt-0"><strong>jobs@ Workers-direct.com</strong></p>
                         <a href="#" class="green"><strong> OR Apply Online</strong></a>
-                        <p style="margin: 0;"><strong>http://workers-direct.com/cv-registration</strong></p>
+                        <p style="margin: 0; padding-top: 0px ;" class="pt-0"><strong>http://workers-direct.com/cv-registration</strong></p>
 
                     </div>
                 </div>

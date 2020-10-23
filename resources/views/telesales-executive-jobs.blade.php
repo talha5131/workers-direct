@@ -91,11 +91,12 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper">
 
                     <div class="section_heading section_2_heading">
+                        <p>One of our clients (A Global mobile technology firm) is looking for very experienced Telesales Executives for their London office on Temp to Perm basis. This position is also open for students as a paid internship.</p>
 
                         <table class="table table-bordered " style="width:100%">
                             <tr>
@@ -131,52 +132,63 @@
 
                     </div>
 
-                    <div>
-                        <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/TALESALES EXECUTIVE/talesales_executive_3.PNG" width="100%" height="400px" alt="#">
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/TALESALES EXECUTIVE/talesales_executive_4.jpg" width="100%" height="200px" alt="">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/TALESALES EXECUTIVE/talesales_executive_5.jpg" width="100%" height="200px" alt="">
                     </div>
 
-                    <div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                        <div class="section_heading section_2_heading">
 
-                        <p>One of our clients (A Global mobile technology firm) is looking for very experienced Telesales Executives for their London office on Temp to Perm basis. This position is also open for students as a paid internship.</p>
+                            <h2>Candidate <span> Specification</span></h2>
 
+                        </div>
+
+                        <div class="margin-top-60">
+                            <ul>
+                                <li><i class="fa fa-caret-right"></i> B2B telemarketing experience essential (at least one year of experience)</li>
+                                <li><i class="fa fa-caret-right"></i> Ambition to change the world</li>
+                                <li><i class="fa fa-caret-right"></i> Able to work on own initiative / works well as part of a team</li>
+                                <li><i class="fa fa-caret-right"></i> People person</li>
+                                <li><i class="fa fa-caret-right"></i> Good communicator</li>
+                                <li><i class="fa fa-caret-right"></i> Proven track record</li>
+                                <li><i class="fa fa-caret-right"></i> Self-motivated</li>
+                                <li><i class="fa fa-caret-right"></i> Highly driven</li>
+                                <li><i class="fa fa-caret-right"></i> Good attitude with energy and passion to succeed</li>
+                            </ul>
+                        </div>
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
 
-                        <h2>Key <span> Responsibilities</span></h2>
+                        <div class="section_heading section_2_heading">
 
-                    </div>
+                            <h2>Key <span> Responsibilities</span></h2>
 
-                    <div class="margin-top-60">
-                        <ul>
-                            <li><i class="fa fa-caret-right"></i> Outbound telemarketing to other businesses (no consumer calls)</li>
-                            <li><i class="fa fa-caret-right"></i> Generating leads and appointments</li>
-                            <li><i class="fa fa-caret-right"></i> Focusing on quality over quantity to maximize overall results</li>
-                            <li><i class="fa fa-caret-right"></i> Winning and closing new business</li>
-                        </ul>
-                    </div>
+                        </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
-
-                        <h2>Candidate <span> Specification</span></h2>
+                        <div class="margin-top-60">
+                            <ul>
+                                <li><i class="fa fa-caret-right"></i> Outbound telemarketing to other businesses (no consumer calls)</li>
+                                <li><i class="fa fa-caret-right"></i> Generating leads and appointments</li>
+                                <li><i class="fa fa-caret-right"></i> Focusing on quality over quantity to maximize overall results</li>
+                                <li><i class="fa fa-caret-right"></i> Winning and closing new business</li>
+                            </ul>
+                        </div>
 
                     </div>
-
-                    <div class="margin-top-60">
-                        <ul>
-                            <li><i class="fa fa-caret-right"></i> B2B telemarketing experience essential (at least one year of experience)</li>
-                            <li><i class="fa fa-caret-right"></i> Ambition to change the world</li>
-                            <li><i class="fa fa-caret-right"></i> Able to work on own initiative / works well as part of a team</li>
-                            <li><i class="fa fa-caret-right"></i> People person</li>
-                            <li><i class="fa fa-caret-right"></i> Good communicator</li>
-                            <li><i class="fa fa-caret-right"></i> Proven track record</li>
-                            <li><i class="fa fa-caret-right"></i> Self-motivated</li>
-                            <li><i class="fa fa-caret-right"></i> Highly driven</li>
-                            <li><i class="fa fa-caret-right"></i> Good attitude with energy and passion to succeed</li>
-                        </ul>
+                    <div class="col-md-12 col-xs-12 col-sm-12 pl-0">
+                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                            <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/TALESALES EXECUTIVE/talesales_executive_1.jpg" width="100%" height="200px" alt="">
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                            <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/TALESALES EXECUTIVE/talesales_executive_3.png" width="100%" height="200px" alt="">
+                        </div>
                     </div>
 
-                    <div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-30">
                         <p style="margin: 0;">This position is best suited to a person with a Telesales / Telemarketing background and creative personality with excellent Communication skills. To book an immediate interview please sends your CV Today at,</p>
                         <p style="margin: 0;"><strong> jobs@Workers-direct.com</strong></p>
                         <a href="#" class="green"><strong> OR Apply online</strong></a>
@@ -186,7 +198,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -406,24 +418,10 @@
 
                 </div>
 
-            </div>
-
-
-
-
-
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
-
-
-
-            <!-- </div> -->
-
-
-
+            </div> -->
         </div>
 
     </div>
-
 </div>
 
 

@@ -89,21 +89,9 @@
 
             </div>
 
-            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
-                <img src="public/assets/images/page-pictures/CARETAKER  BUS DRIVER/bus_driver_1.jpg" width="100%" height="220px" alt="Bus Driver">
-            </div>
-            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
-                <img src="public/assets/images/page-pictures/CARETAKER  BUS DRIVER/bus_driver_4.jpg" width="100%" height="220px" alt="Bus Driver">
-            </div>
-            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
-                <img src="public/assets/images/page-pictures/CARETAKER  BUS DRIVER/bus_driver_3.jpg" width="100%" height="220px" alt="Bus Driver">
-            </div>
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-
-
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
-
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper margin-top-30">
 
                     <div class="section_heading section_2_heading">
 
@@ -133,130 +121,154 @@
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-20">
-
-                        <h2>Duties and Responsibilities Of School <span> Caretaker Job</span></h2>
-
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/CARETAKER  BUS DRIVER/bus_driver_1.jpg" width="100%" height="220px" alt="Bus Driver">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pr-0">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/CARETAKER  BUS DRIVER/bus_driver_3.jpg" width="100%" height="220px" alt="Bus Driver">
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-40">
+                    <div class="col-md-12 col-sm-12 pl-0 margin-top-40">
+                        <div class="section_heading section_2_heading">
 
-                        <h4>Driving<span></span></h4>
+                            <h2>Duties and Responsibilities Of School <span> Caretaker Job</span></h2>
 
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-sm-12 pl-0 margin-top-50">
+                        <div class="section_heading section_2_heading">
+
+                            <h4>Driving<span></span></h4>
+
+                        </div>
+
+                        <div class="margin-top-30">
+                            <ul>
+                                <li><i class="fa fa-caret-right"></i> Transport students and teachers to and from the main campus to the diploma college</li>
+                                <li><i class="fa fa-caret-right"></i> Ensure the shuttle schedule is adhered to, making sure students and teachers are on time for lessons</li>
+                                <li><i class="fa fa-caret-right"></i> Run any errands and collect orders when needed</li>
+                            </ul>
+                        </div>
                     </div>
 
-                    <div class="margin-top-30">
-                        <ul>
-                            <li><i class="fa fa-caret-right"></i> Transport students and teachers to and from the main campus to the diploma college</li>
-                            <li><i class="fa fa-caret-right"></i> Ensure the shuttle schedule is adhered to, making sure students and teachers are on time for lessons</li>
-                            <li><i class="fa fa-caret-right"></i> Run any errands and collect orders when needed</li>
-                        </ul>
+                    <div class="col-md-12 col-sm-12 pl-0 margin-top-30">
+
+                        <div class="section_heading section_2_heading">
+
+                            <h4>Maintenance<span></span></h4>
+
+                        </div>
+
+                        <div class="margin-top-30">
+                            <ul>
+                                <li><i class="fa fa-caret-right"></i> Drawing the attention of the school principal to any repair or maintenance work required at the school which is beyond the caretaker’s ability to deal with. To carry out minor or temporary repairs as directed</li>
+                                <li><i class="fa fa-caret-right"></i> Carrying out routine maintenance procedures according to the daily and termly checklists</li>
+                                <li><i class="fa fa-caret-right"></i> Tidying and sweeping outside areas, as well as looking after plants</li>
+                                <li><i class="fa fa-caret-right"></i> Review the facilities ticket system and respond to logged repair requests</li>
+                            </ul>
+                        </div>
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-40">
+                    <div class="col-md-12 col-sm-12 pl-0 margin-top-30">
+                        <div class="section_heading section_2_heading">
 
-                        <h4>Maintenance<span></span></h4>
+                            <h4>Storekeeping<span></span></h4>
 
+                        </div>
+
+                        <div class="margin-top-30">
+                            <ul>
+                                <li><i class="fa fa-caret-right"></i> Ensuring that all parcels delivered to the school reach the addressee by the end of the day</li>
+                                <li><i class="fa fa-caret-right"></i> Taking delivery of stores, materials and other goods and safely storing them</li>
+                                <li><i class="fa fa-caret-right"></i> Ensuring that adequate supplies of cleaning material are available for the cleaning staff</li>
+                                <li><i class="fa fa-caret-right"></i> Restocking and tidying copier and coffee machines</li>
+                                <li><i class="fa fa-caret-right"></i> Transport mail and internal documents to and from both campuses</li>
+                            </ul>
+                        </div>
                     </div>
 
-                    <div class="margin-top-30">
-                        <ul>
-                            <li><i class="fa fa-caret-right"></i> Drawing the attention of the school principal to any repair or maintenance work required at the school which is beyond the caretaker’s ability to deal with. To carry out minor or temporary repairs as directed</li>
-                            <li><i class="fa fa-caret-right"></i> Carrying out routine maintenance procedures according to the daily and termly checklists</li>
-                            <li><i class="fa fa-caret-right"></i> Tidying and sweeping outside areas, as well as looking after plants</li>
-                            <li><i class="fa fa-caret-right"></i> Review the facilities ticket system and respond to logged repair requests</li>
-                        </ul>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/CARETAKER  BUS DRIVER/bus_driver_2.jpg" width="100%" height="220px" alt="Bus Driver">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12pr-0 margin-top-30">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/CARETAKER  BUS DRIVER/bus_driver_4.jpg" width="100%" height="220px" alt="Bus Driver">
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-40">
+                    <div class="col-md-12 col-sm-12 pl-0 margin-top-30">
+                        <div class="section_heading section_2_heading">
+                            <h4>Security<span></span></h4>
+                        </div>
+                        <div class="margin-top-30">
+                            <ul>
+                                <li><i class="fa fa-caret-right"></i> Preventing trespassers on school premises or grounds and ensuring that unauthorised parking of vehicles does not occur</li>
+                                <li><i class="fa fa-caret-right"></i> Responding when the school alarm system is set off and arrange for the system to be reset</li>
+                                <li><i class="fa fa-caret-right"></i> Maintenance and testing of the fire, lockdown and intruder alarms</li>
+                                <li><i class="fa fa-caret-right"></i> Supervise external contractors visiting the school premises as directed</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-sm-12 pl-0 margin-top-30">
+                        <div class="section_heading section_2_heading">
 
-                        <h4>Storekeeping<span></span></h4>
+                            <h4>Cleaning<span></span></h4>
 
+                        </div>
+
+                        <div class="margin-top-30">
+                            <ul>
+                                <li><i class="fa fa-caret-right"></i> Cleaning graffiti and other defacing marks on the campus</li>
+                                <li><i class="fa fa-caret-right"></i> Keep the corridors and staircases clean and tidy during the afternoon</li>
+                                <li><i class="fa fa-caret-right"></i> Clear up any emergency spillages that occurs around the school during the afternoon</li>
+                                <li><i class="fa fa-caret-right"></i> Check on and regularly clean all toilets and washrooms. Replenish toiletries if required</li>
+                                <li><i class="fa fa-caret-right"></i> Ensuring that adequate quantities of toiletries including toilet rolls, paper towels liquid and bar soap are kept in stock</li>
+                            </ul>
+                        </div>
                     </div>
 
-                    <div class="margin-top-30">
-                        <ul>
-                            <li><i class="fa fa-caret-right"></i> Ensuring that all parcels delivered to the school reach the addressee by the end of the day</li>
-                            <li><i class="fa fa-caret-right"></i> Taking delivery of stores, materials and other goods and safely storing  them</li>
-                            <li><i class="fa fa-caret-right"></i> Ensuring that adequate supplies of cleaning material are available for the cleaning staff</li>
-                            <li><i class="fa fa-caret-right"></i> Restocking and tidying copier and coffee machines</li>
-                            <li><i class="fa fa-caret-right"></i> Transport mail and internal documents to and from both campuses</li>
-                        </ul>
+                    <div class="col-md-12 col-sm-12 pl-0 margin-top-30">
+                        <div class="section_heading section_2_heading">
+
+                            <h4>Miscellaneous<span></span></h4>
+
+                        </div>
+
+                        <div class="margin-top-30">
+                            <ul>
+                                <li><i class="fa fa-caret-right"></i> Make note of the enquiries from teaching staff, students, parents, workmen, contractors and members of the public as well as with the emergency services (e.g. Police, Fire Brigade, etc) as and when required and direct them to the Site Supervisor</li>
+                                <li><i class="fa fa-caret-right"></i> Help set up for school events, assemblies and concerts; arranging furniture in rooms wherever necessary</li>
+                                <li><i class="fa fa-caret-right"></i> Move and set up furniture in classrooms when necessary</li>
+                                <li><i class="fa fa-caret-right"></i> Participate in weekly facilities team meetings</li>
+                                <li><i class="fa fa-caret-right"></i> Ensuring that there is a clock in every room which is working and showing the correct time</li>
+                            </ul>
+                        </div>
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-40">
+                    <div class="col-md-12 col-sm-12 pl-0 margin-top-30">
+                        <div class="section_heading section_2_heading">
 
-                        <h4>Security<span></span></h4>
+                            <h4>Suitable candidates must have the following<span></span></h4>
 
+                        </div>
+
+                        <div class="margin-top-30">
+                            <ul>
+                                <li><i class="fa fa-caret-right"></i> Have a valid PCV (D) license</li>
+                                <li><i class="fa fa-caret-right"></i> Have full CPC</li>
+                                <li><i class="fa fa-caret-right"></i> Have a full enhanced CRB/DBS (or willing to apply)</li>
+                                <li><i class="fa fa-caret-right"></i> Previous experience</li>
+                            </ul>
+                        </div>
                     </div>
-
-                    <div class="margin-top-30">
-                        <ul>
-                            <li><i class="fa fa-caret-right"></i> Preventing trespassers on school premises or grounds and ensuring that unauthorised parking of vehicles does not occur</li>
-                            <li><i class="fa fa-caret-right"></i> Responding when the school alarm system is set off and arrange for the system to be reset</li>
-                            <li><i class="fa fa-caret-right"></i> Maintenance and testing of the fire, lockdown and intruder alarms</li>
-                            <li><i class="fa fa-caret-right"></i> Supervise external contractors visiting the school premises as directed</li>
-                        </ul>
-                    </div>
-
-                    <div class="section_heading section_2_heading margin-top-40">
-
-                        <h4>Cleaning<span></span></h4>
-
-                    </div>
-
-                    <div class="margin-top-30">
-                        <ul>
-                            <li><i class="fa fa-caret-right"></i> Cleaning graffiti and other defacing marks on the campus</li>
-                            <li><i class="fa fa-caret-right"></i> Keep the corridors and staircases clean and tidy during the afternoon</li>
-                            <li><i class="fa fa-caret-right"></i> Clear up any emergency spillages that occurs around the school during the afternoon</li>
-                            <li><i class="fa fa-caret-right"></i> Check on and regularly clean all toilets and washrooms. Replenish toiletries if required</li>
-                            <li><i class="fa fa-caret-right"></i> Ensuring that adequate quantities of toiletries including toilet rolls, paper towels liquid and bar soap are kept in stock</li>
-                        </ul>
-                    </div>
-
-                    <div class="section_heading section_2_heading margin-top-40">
-
-                        <h4>Miscellaneous<span></span></h4>
-
-                    </div>
-
-                    <div class="margin-top-30">
-                        <ul>
-                            <li><i class="fa fa-caret-right"></i> Make note of the enquiries from teaching staff, students, parents, workmen, contractors and members of the public as well as with the emergency services (e.g. Police, Fire Brigade, etc) as and when required and direct them to the Site Supervisor</li>
-                            <li><i class="fa fa-caret-right"></i> Help set up for school events, assemblies and concerts; arranging furniture in rooms wherever necessary</li>
-                            <li><i class="fa fa-caret-right"></i> Move and set up furniture in classrooms when necessary</li>
-                            <li><i class="fa fa-caret-right"></i> Participate in weekly facilities team meetings</li>
-                            <li><i class="fa fa-caret-right"></i> Ensuring that there is a clock in every room which is working and showing the correct time</li>
-                        </ul>
-                    </div>
-
-                    <div class="section_heading section_2_heading margin-top-40">
-
-                        <h4>Suitable candidates must have the following<span></span></h4>
-
-                    </div>
-
-                    <div class="margin-top-30">
-                        <ul>
-                            <li><i class="fa fa-caret-right"></i> Have a valid PCV (D) license</li>
-                            <li><i class="fa fa-caret-right"></i> Have full CPC</li>
-                            <li><i class="fa fa-caret-right"></i> Have a full enhanced CRB/DBS (or willing to apply)</li>
-                            <li><i class="fa fa-caret-right"></i> Previous experience</li>
-                        </ul>
-                    </div>
-
-                    <div>
+                    <div class="col-md-12 col-sm-12 pl-0 margin-top-30">
                         <p style="margin: 0;">Successful candidate will be paid a rate of <strong> £10.20 per hour</strong>.</p>
                         <p style="margin: 0;">This is an excellent opportunity to work with a massive client and is not to be missed. Please send in your CV as soon as possible at, <strong> jobs@Workers-direct.com</strong></p>
                         <a href="#" class="green"><strong> OR Apply online now</strong></a>
                     </div>
-
                 </div>
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -476,20 +488,7 @@
 
                 </div>
 
-            </div>
-
-
-
-
-
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
-
-
-
-            <!-- </div> -->
-
-
-
+            </div> -->
         </div>
 
     </div>

@@ -1,7 +1,7 @@
 @extends('layouts.base')
 @section('title','Beauty Therapist Jobs , Find Saloon Jobs & Waxing Therapist Jobs')
 @section('keywords','beauty,therapist')
-@section('description',' Removing facial and body hair through waxing, using both hot and strip wax. Lash and brow treatments.  Making appointments, maintaining client records and handling financial transactions.')
+@section('description',' Removing facial and body hair through waxing, using both hot and strip wax. Lash and brow treatments. Making appointments, maintaining client records and handling financial transactions.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -91,9 +91,9 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper margin-top-30">
 
                     <div class="section_heading section_2_heading">
 
@@ -123,58 +123,68 @@
 
                     </div>
 
-                    <div class="margin-top-20">
-
-                        <img class="image-style-border" src="public/assets/images/page-pictures/WAXING  BEAUTY THERAPIST JOBS IN LONDON/waxing_beauty_1.jpg" width="100%" height="370px" alt="about-img">
-
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/WAXING  BEAUTY THERAPIST JOBS IN LONDON/waxing_beauty_3.jpg" width="100%" height="200px" alt="">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/WAXING  BEAUTY THERAPIST JOBS IN LONDON/waxing_beauty_4.jpg" width="100%" height="200px" alt="">
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                        <div class="section_heading section_2_heading">
 
-                        <h2>Role & <span> Responsibilities</span></h2>
+                            <h2>Role & <span> Responsibilities</span></h2>
 
+                        </div>
+
+                        <div class="margin-top-60">
+                            <ul>
+                                <li><i class="fa fa-caret-right"></i> Removing facial and body hair through waxing, using both hot and strip wax</li>
+                                <li><i class="fa fa-caret-right"></i> Lash and brow treatments</li>
+                                <li><i class="fa fa-caret-right"></i> Making appointments, maintaining client records and handling financial transactions</li>
+                                <li><i class="fa fa-caret-right"></i> Selling and providing advice on cosmetic and skin products</li>
+                                <li><i class="fa fa-caret-right"></i> Deliver excellent customer service at all time</li>
+                                <li><i class="fa fa-caret-right"></i> Housekeeping and Restocking</li>
+                            </ul>
+                        </div>
                     </div>
 
-                    <div class="margin-top-60">
-                        <ul>
-                            <li><i class="fa fa-caret-right"></i> Removing facial and body hair through waxing, using both hot and strip wax</li>
-                            <li><i class="fa fa-caret-right"></i> Lash and brow treatments</li>
-                            <li><i class="fa fa-caret-right"></i> Making appointments, maintaining client records and handling financial transactions</li>
-                            <li><i class="fa fa-caret-right"></i> Selling and providing advice on cosmetic and skin products</li>
-                            <li><i class="fa fa-caret-right"></i> Deliver excellent customer service at all time</li>
-                            <li><i class="fa fa-caret-right"></i> Housekeeping and Restocking</li>
-                        </ul>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                        <div class="section_heading section_2_heading">
+
+                            <h2>Required <span> Skills</span></h2>
+
+                        </div>
+
+                        <div class="margin-top-60">
+                            <ul>
+                                <li><i class="fa fa-caret-right"></i> NVQ Level 2/3 in Beauty Therapy</li>
+                                <li><i class="fa fa-caret-right"></i> Exceptional customer service skill</li>
+                                <li><i class="fa fa-caret-right"></i> Experience and confidence in Brazilian and Hollywood treatments.</li>
+                                <li><i class="fa fa-caret-right"></i> Excellent organisation, presence</li>
+                                <li><i class="fa fa-caret-right"></i> Can work effectively and economically</li>
+                                <li><i class="fa fa-caret-right"></i> Diary and time management skills</li>
+                                <li><i class="fa fa-caret-right"></i> Fluent in English</li>
+                            </ul>
+                        </div>
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
-
-                        <h2>Required <span> Skills</span></h2>
-
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/WAXING  BEAUTY THERAPIST JOBS IN LONDON/waxing_beauty_2.jpg" width="100%" height="200px" alt="">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/WAXING  BEAUTY THERAPIST JOBS IN LONDON/waxing_beauty_1.jpg" width="100%" height="200px" alt="">
                     </div>
 
-                    <div class="margin-top-60">
-                        <ul>
-                            <li><i class="fa fa-caret-right"></i> NVQ Level 2/3 in Beauty Therapy</li>
-                            <li><i class="fa fa-caret-right"></i> Exceptional customer service skill</li>
-                            <li><i class="fa fa-caret-right"></i> Experience and confidence in Brazilian and Hollywood treatments.</li>
-                            <li><i class="fa fa-caret-right"></i> Excellent organisation, presence</li>
-                            <li><i class="fa fa-caret-right"></i> Can work effectively and economically</li>
-                            <li><i class="fa fa-caret-right"></i> Diary and time management skills</li>
-                            <li><i class="fa fa-caret-right"></i> Fluent in English</li>
-                        </ul>
-                    </div>
-
-                    <div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0">
                         <p style="margin: 0;">If you’re interested in <strong> Waxing Therapist Jobs</strong> please send your CV to arrange an immediate interview at,</p>
                         <p style="margin: 0;"><strong> jobs@Workers-direct.com</strong></p>
                         <a href="#" class="green"><strong> OR Apply online now</strong></a>
                     </div>
-
                 </div>
-
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -394,20 +404,7 @@
 
                 </div>
 
-            </div>
-
-
-
-
-
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
-
-
-
-            <!-- </div> -->
-
-
-
+            </div> -->
         </div>
 
     </div>

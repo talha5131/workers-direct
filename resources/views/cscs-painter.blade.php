@@ -88,6 +88,7 @@
                 </div>
 
             </div>
+
             <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
                 <img class="image-style-border" src="public/assets/images/page-pictures/CSCS PAINTER/cscs_painter_2.jpg" width="100%" alt="CSCS PAINTER">
             </div>
@@ -95,13 +96,11 @@
                 <img class="image-style-border" src="public/assets/images/page-pictures/CSCS PAINTER/cscs_painter_3.jpg" width="100%" alt="CSCS PAINTER">
             </div>
 
-
-
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
                 <div class="about_text_wrapper abt_2_para">
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pr-0 pl-0">
                         <table class="table table-bordered">
 
                             <tr>
@@ -144,13 +143,14 @@
 
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/CSCS PAINTER/cscs_painter_1.jpg" width="100%" alt="CSCS PAINTER">
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20 pl-0">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/CSCS PAINTER/cscs_painter_1.jpg" height="300px" width="100%" alt="CSCS PAINTER">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20 pr-0">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/CSCS PAINTER/cscs_painter_4.jpg" height="300px" width="100%" alt="CSCS PAINTER">
                     </div>
 
-
-
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
                         <p>Experienced Painter URGENTLY required for on TEMPORARY basis in Central London area.</p>
                         <ul>
 
@@ -161,7 +161,7 @@
                         </ul>
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
                         <p>Please email CV or Contact details to <strong>jobs@ Workers-direct.com</strong>if you are interested in this Painting position Or call bill for more details on <strong> 0203 617 1518</strong>.</p>
 
                         <a href="#" class="green"><strong> OR Apply Online</strong></a>
@@ -170,7 +170,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -390,20 +390,7 @@
 
                 </div>
 
-            </div>
-
-
-
-
-
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
-
-
-
-            <!-- </div> -->
-
-
-
+            </div> -->
         </div>
 
     </div>
