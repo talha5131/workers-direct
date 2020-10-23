@@ -83,18 +83,6 @@ There are many event staff agencies offering services to the clients across the 
 
             </div>
 
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-40">
-                <img class="image-style-border" src="public/assets/images/page-pictures/EVENT STAFF/event_staff_1.jpg" width="100%" height="250px" alt="Event Staff">
-            </div>
-            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-40">
-                <img class="image-style-border" src="public/assets/images/page-pictures/EVENT STAFF/event_staff_2.jpg" width="100%" height="250px" alt="Event Staff">
-            </div>
-            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-40">
-                <img class="image-style-border" src="public/assets/images/page-pictures/EVENT STAFF/event_staff_3.jpg" width="100%" height="250px" alt="Event Staff">
-            </div> -->
-
-
-
             <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
                 <div class="about_text_wrapper">
@@ -104,41 +92,46 @@ There are many event staff agencies offering services to the clients across the 
                         <p style="margin: 0px;">There are many event staff agencies offering services to the clients across the London.</p>
 
                         <p style="margin: 0px;">This has put us in the position of being able to recruit events staff on an ongoing basis,Workers Direct is an expert at recruiting the finest event candidates available and our clients are long term acquaintances and offer us first choice for any event jobs available.</p>
-                        <img class="image-style-border margin-top-40" src="public/assets/images/page-pictures/EVENT STAFF/event_staff_2.jpg" width="65%" style="margin-left: 20%;" alt="Event Staff">
 
                     </div>
-
-                    <div class="section_heading section_2_heading margin-top-60">
-
-                        <h2>Our<span> Team</span></h2>
-
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-40 pl-0">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/EVENT STAFF/event_staff_2.jpg" width="100%" height="250px" alt="Event Staff">
                     </div>
-
-                    <p style="margin: 0;">Consultants come from events back ground and are therefore in the unique position of identifying the type of event staff the client may need.</p>
-                    <p style="margin: 0;">They are also, often involved in the event which means that they keep their experience current and they build a new understanding of the types of events that the client holds on a regular basis.</p>
-
-                    <div class="margin-top-40">
-                        <img class="image-style-border" style="margin-left: 20%;" src="public/assets/images/page-pictures/EVENT STAFF/event_staff_4.jpg" width="65%" alt="Event Staff">
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-40">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/EVENT STAFF/event_staff_4.jpg" width="100%" height="250px" alt="Event Staff">
                     </div>
-                    <div class="section_heading section_2_heading margin-top-30">
-                        <h2 class="margin-bottom-60">Ongoing Recruitment Means</h2>
+                    <div class="col-md-12 col-sm-12 pl-0">
+                        <div class="section_heading section_2_heading margin-top-40">
+
+                            <h2>Our<span> Team</span></h2>
+
+                        </div>
+
+                        <p style="margin: 0;">Consultants come from events back ground and are therefore in the unique position of identifying the type of event staff the client may need.</p>
+                        <p style="margin: 0;">They are also, often involved in the event which means that they keep their experience current and they build a new understanding of the types of events that the client holds on a regular basis.</p>
                     </div>
-                    <ul>
-                        <li><i class="fa fa-caret-right"></i> Workers Direct has competent and experienced events staff on hand.</li>
-                        <li><i class="fa fa-caret-right"></i> Event staff are available for variety of events and therefore expand their experience base.</li>
-                        <li><i class="fa fa-caret-right"></i> Our database of events staff allows us to cater for more than one event at a time.</li>
-                    </ul>
-                    <div class="section_heading section_2_heading margin-top-60">
-
-                        <h2>Our<span> Guarantee</span></h2>
-
+                    <div class="col-md-12 col-sm-12 pl-0">
+                        <div class="section_heading section_2_heading margin-top-30">
+                            <h2 class="margin-bottom-60">Ongoing Recruitment Means</h2>
+                        </div>
+                        <ul>
+                            <li><i class="fa fa-caret-right"></i> Workers Direct has competent and experienced events staff on hand.</li>
+                            <li><i class="fa fa-caret-right"></i> Event staff are available for variety of events and therefore expand their experience base.</li>
+                            <li><i class="fa fa-caret-right"></i> Our database of events staff allows us to cater for more than one event at a time.</li>
+                        </ul>
                     </div>
+                    <div class="col-md-12 col-sm-12 pl-0">
+                        <div class="section_heading section_2_heading margin-top-30">
 
-                    <p style="margin: 0;">Workers Direct knows that there is no room for error in this field so therefore we require a detailed brief of the clients’ expectations.</p>
-                    <p style="margin: 0;">This will form the basis a contract for the events staff that the client wants to hire.</p>
-                    <p style="margin: 0;">If, however, the client is dissatisfied with our event staffing services we offer a money back guarantee as per the negotiated contract.</p>
-                    <p style="margin: 0;">We enjoy working closely with our clients and having satisfied clients and candidates. This is why Workers Direct has this unique approach to event recruiting and staffing.</p>
+                            <h2>Our<span> Guarantee</span></h2>
 
+                        </div>
+
+                        <p style="margin: 0;">Workers Direct knows that there is no room for error in this field so therefore we require a detailed brief of the clients’ expectations.</p>
+                        <p style="margin: 0;">This will form the basis a contract for the events staff that the client wants to hire.</p>
+                        <p style="margin: 0;">If, however, the client is dissatisfied with our event staffing services we offer a money back guarantee as per the negotiated contract.</p>
+                        <p style="margin: 0;">We enjoy working closely with our clients and having satisfied clients and candidates. This is why Workers Direct has this unique approach to event recruiting and staffing.</p>
+                    </div>
                 </div>
 
             </div>
@@ -361,14 +354,10 @@ There are many event staff agencies offering services to the clients across the 
                 </div>
 
             </div> -->
-
-
+            
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-top-30">
-                <object data='https://www.youtube.com/embed/hrejtMBnChQ' width='65%' style="margin-left: 20%;" height='425px'></object>
+                <object data='https://www.youtube.com/embed/hrejtMBnChQ' width='100%' height='425px'></object>
             </div>
-
-
-
         </div>
 
     </div>

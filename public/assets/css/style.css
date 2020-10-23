@@ -7607,7 +7607,7 @@ html {
 }
 
 .pt-0 {
-    padding-top: 0px;
+    padding-top: 0px !important;
 }
 
 .pb-0 {

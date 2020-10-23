@@ -110,27 +110,33 @@ This staffing agency has been one of the leading temp agency London, especially 
 
                     </div>
 
-                    <p>Workers Direct has been providing outstanding recruitment and staffing services to its clients since 2010.</p>
-                    <p>This staffing agency has been one of the leading temp agency London, especially when it comes to providing temporary staff to employers.</p>
-                    <p>Many job seekers sign up with agencies that offer them work on a short term even as they hunt for permanent or long term appointment. This to some extent gives them the opportunity to make choices whenever they are available to take on work and for how long.</p>
-                    <p>Individuals who consistently turn down offers are removed from the agencies data base. Temps who display high reputation and are both willing and reliable will likely be offered more work opportunities.</p>
+                    <p style="padding-top: 30px;">Workers Direct has been providing outstanding recruitment and staffing services to its clients since 2010.</p>
+                    <p class="pt-0">This staffing agency has been one of the leading temp agency London, especially when it comes to providing temporary staff to employers.</p>
+                    <p class="pt-0">Many job seekers sign up with agencies that offer them work on a short term even as they hunt for permanent or long term appointment. This to some extent gives them the opportunity to make choices whenever they are available to take on work and for how long.</p>
+                    <p class="pt-0">Individuals who consistently turn down offers are removed from the agencies data base. Temps who display high reputation and are both willing and reliable will likely be offered more work opportunities.</p>
 
-                    <img style="margin-left: 20%;" class="image-style-border" src="https://workers-direct.com/wp-content/uploads/2018/12/Agency-Work.jpg" alt="Agency Work" width="65%" height="350px">
-
-
-
-                    <div class="section_heading section_2_heading margin-top-60">
-
-                        <h4> Advantages Using <span> Workers Direct</span></h4>
-
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/RECEPTION STAFF/reception_staff_3.jpg" width="100%" height="200px" alt="">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/TEMP JOBS LONDON/temp-jobs-london_2.jpg" width="100%" height="200px" alt="">
                     </div>
 
-                    <p> There are many advantages attached to using a temp agency for business. A company that has a short range project but not want to hire permanent staff can consider hiring a temp worker to carry out a specific job role.</p>
-                    <p>Workers Direct is responsible for selecting candidates whose experience and skills are vital to the industry or sector they supply staff to. temp agency London.</p>
-                    <p>The agency swiftly responds to request for temporary staff and quickly considers individuals on their data base through its five step recruitment process, immediately vacancy becomes available.</p>
-                    <p>Temp agencies are organisations that supply employees to employers who are in need of workers.</p>
-                    <p>Such employees may be considered for either short term or a long term basis. Many temporary agencies provide human resources consultations for organisations that need such service.</p>
-                    <p>In many cases, temporary staff workers receive payment from the agency while undertaking work on behalf of the agency. Temp agency London</p>
+                    <div class="col-md-12 col-sm-12 pl-0">
+                        <div class="section_heading section_2_heading margin-top-30">
+
+                            <h4> Advantages Using <span> Workers Direct</span></h4>
+
+                        </div>
+
+                        <p> There are many advantages attached to using a temp agency for business. A company that has a short range project but not want to hire permanent staff can consider hiring a temp worker to carry out a specific job role.</p>
+                        <p class="pt-0">Workers Direct is responsible for selecting candidates whose experience and skills are vital to the industry or sector they supply staff to. temp agency London.</p>
+                        <p class="pt-0">The agency swiftly responds to request for temporary staff and quickly considers individuals on their data base through its five step recruitment process, immediately vacancy becomes available.</p>
+                        <p class="pt-0">Temp agencies are organisations that supply employees to employers who are in need of workers.</p>
+                        <p class="pt-0">Such employees may be considered for either short term or a long term basis. Many temporary agencies provide human resources consultations for organisations that need such service.</p>
+                        <p class="pt-0">In many cases, temporary staff workers receive payment from the agency while undertaking work on behalf of the agency.</p>
+                    </div>
+
                     <div class="section_heading section_2_heading">
 
                         <h4> Why You Should Consider <span> Temp Agencies</span></h4>
@@ -143,33 +149,40 @@ This staffing agency has been one of the leading temp agency London, especially 
 
                     </p>
 
-                    <p>Temporary workers may work either part time or full time, depending on the requirement. In some cases, these workers receive other benefits like health insurance, incentives and many other rewards.</p>
+                    <p class="pt-0">Temporary workers may work either part time or full time, depending on the requirement. In some cases, these workers receive other benefits like health insurance, incentives and many other rewards.</p>
 
-                    <div class="section_heading section_2_heading">
-
-                        <h4>What Workers Direct Can <span> Do For You</span></h4>
-
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/london-recruitment-agencies/london-recruitment-agencies-4.jpg" width="100%" height="200px" alt="">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/london-recruitment-agencies/london-recruitment-agencies-3.jpg" width="100%" height="200px" alt="">
                     </div>
 
-                    <p>
+                    <div class="col-md-12 col-sm-12 pl-0 margin-top-30">
+                        <div class="section_heading section_2_heading">
 
-                        As earlier mentioned, Workers Direct find qualified employees to fill qualified positions in other companies. The services of the temp agency are required by the companies who are in need of short term employees.
+                            <h4>What Workers Direct Can <span> Do For You</span></h4>
 
-                    </p>
+                        </div>
 
-                    <p>There are quite a number of jobs available at Workers Direct in the areas of:</p>
+                        <p>
 
-                    <ul>
-                        <li> <i class="fa fa-caret-right"></i> Hospitality & Catering</li>
-                        <li><i class="fa fa-caret-right"></i>Event & Promotions</li>
-                        <li><i class="fa fa-caret-right"></i>Construction & Trade</li>
-                        <li><i class="fa fa-caret-right"></i>Administrative & Reception</li>
-                        <li><i class="fa fa-caret-right"></i>Sales & Retail</li>
-                        <li><i class="fa fa-caret-right"></i>Health & Social Care</li>
-                        <li><i class="fa fa-caret-right"></i>Warehouse & Logistic</li>
-                    </ul>
+                            As earlier mentioned, Workers Direct find qualified employees to fill qualified positions in other companies. The services of the temp agency are required by the companies who are in need of short term employees.
 
+                        </p>
 
+                        <p class="pt-0">There are quite a number of jobs available at Workers Direct in the areas of:</p>
+
+                        <ul>
+                            <li> <i class="fa fa-caret-right"></i> Hospitality & Catering</li>
+                            <li><i class="fa fa-caret-right"></i>Event & Promotions</li>
+                            <li><i class="fa fa-caret-right"></i>Construction & Trade</li>
+                            <li><i class="fa fa-caret-right"></i>Administrative & Reception</li>
+                            <li><i class="fa fa-caret-right"></i>Sales & Retail</li>
+                            <li><i class="fa fa-caret-right"></i>Health & Social Care</li>
+                            <li><i class="fa fa-caret-right"></i>Warehouse & Logistic</li>
+                        </ul>
+                    </div>
                 </div>
 
             </div>
@@ -419,7 +432,7 @@ This staffing agency has been one of the leading temp agency London, especially 
 
                     </p>
 
-                    <p>Are you looking for a temp agency that will provide qualified and experienced worker? Then consult a Temporary Recruitment Agency like Workers Direct. They have a brilliant track record and are always ready to assist you with your entire temp agency needs.</p>
+                    <p class="pt-0">Are you looking for a temp agency that will provide qualified and experienced worker? Then consult a Temporary Recruitment Agency like Workers Direct. They have a brilliant track record and are always ready to assist you with your entire temp agency needs.</p>
                 </div>
             </div>
             <div class="margin-top-100">
@@ -457,21 +470,15 @@ This staffing agency has been one of the leading temp agency London, especially 
 
                                 </div>
 
-                                <div class="grid-box-1">
+                                <!-- <div class="grid-box-1">
 
                                     <div class="">
 
                                         <img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Temporary-Professionals-For-Temp-Cover-ojfzyikcehsqq9pp592v4uftj928qb94498vmgicj6.jpg" alt="Admin">
 
-                                        <div class="middle">
-
-                                            <!-- <i class="green fa fa-plus-circle"></i> -->
-
-                                        </div>
-
                                     </div>
 
-                                </div>
+                                </div> -->
 
 
 
@@ -511,7 +518,7 @@ This staffing agency has been one of the leading temp agency London, especially 
 
                                 </div>
 
-                                <div class="grid-box-1">
+                                <!-- <div class="grid-box-1">
 
                                     <div class="">
 
@@ -525,7 +532,7 @@ This staffing agency has been one of the leading temp agency London, especially 
 
                                     </div>
 
-                                </div>
+                                </div> -->
 
 
 
@@ -566,7 +573,7 @@ This staffing agency has been one of the leading temp agency London, especially 
 
                                 </div>
 
-                                <div class="grid-box-1">
+                                <!-- <div class="grid-box-1">
 
                                     <div class="">
 
@@ -580,7 +587,7 @@ This staffing agency has been one of the leading temp agency London, especially 
 
                                     </div>
 
-                                </div>
+                                </div> -->
 
 
 
