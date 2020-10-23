@@ -88,23 +88,32 @@
                 </div>
 
             </div>
-            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-10">
-                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/beautician/beautician_1.jpg" width="100%" alt="Beautician">
-            </div>
-            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-10">
+
+            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-10">
                 <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/beautician/beautician_2.jpg" width="100%" alt="Beautician">
-            </div>
-            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-10">
-                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/beautician/beautician_3.jpg" width="100%" alt="Beautician">
-            </div>
+            </div> -->
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper margin-top-30">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-                    <div>
+                <div class="about_text_wrapper  row">
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <p style="margin: 0;">One of client looking for experienced level 2 / 3 beauticians ASAP in West End Central London area.</p>
+                        <p style="margin: 0;">Main responsibilities will involve Manicure, Pedicure and Waxing, etc.</p>
+                    </div>
+
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img class="image-class-border" src="public/assets/images/page-pictures/beautician/beautician_1.jpg" width="100%" alt="Beautician">
+                    </div>
+
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img class="image-class-border" src="public/assets/images/page-pictures/beautician/beautician_3.jpg" width="100%" alt="Beautician">
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30">
                         <table class="table table-bordered " style="width:100%">
                             <tr>
                                 <th>Job Title</th>
@@ -126,21 +135,22 @@
                                 <th>Salary</th>
                                 <td>£8.00 to £10.00 per hour (depends on experience)</td>
                             </tr>
-                            
+
                         </table>
                     </div>
 
-                   
 
-                    <div class="margin-top-50">
-                        <p style="margin: 0;">One of client looking for experienced level 2 / 3  beauticians ASAP in West End Central London area.</p>
-                        <p style="margin: 0;">Main responsibilities will involve Manicure, Pedicure and Waxing, etc.</p>
+
+
+
+                    <div class=" col-lg-12 col-md-12 col-xs-12 col-sm-12">
+
                         <p style="margin: 0;"><strong>If you’re interested please send your CV to arrange an immediate interview.</strong></p>
                     </div>
 
-                    
 
-                    <div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <p><strong> jobs@Workers-direct.com</strong></p>
                         <a href="#" class="green"><strong> OR Apply online now</strong></a>
                     </div>
@@ -149,7 +159,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-30">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-30">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -369,7 +379,7 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
 
 

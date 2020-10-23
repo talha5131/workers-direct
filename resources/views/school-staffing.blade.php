@@ -94,18 +94,21 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
 
                 <div class="about_text_wrapper ">
 
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/SCHOOL STAFFING/SCHOOL_STAFFING_1.jpg" width="100%" height="340px" alt="BUS DRIVER">
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/SCHOOL STAFFING/SCHOOL_STAFFING_1.jpg" width="100%" height="300px" alt="BUS DRIVER">
 
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/SCHOOL STAFFING/SCHOOL_STAFFING_3.png" width="100%" height="300px" alt="BUS DRIVER">
                     </div>
 
 
-                    <div class="col-lg-7 col-md-7 col-xs-12 col-sm-12 margin-top-20">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
                         <div class="section_heading section_2_heading">
 
@@ -117,9 +120,7 @@
 
                     </div>
 
-                    <div class="col-lg-5 col-md-5 col-xs-12 col-sm-12 margin-top-30">
-                        <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/SCHOOL STAFFING/SCHOOL_STAFFING_3.png" width="100%" height="280px" alt="#">
-                    </div>
+
 
 
 
@@ -134,6 +135,13 @@
                         <p>Are you short-staffed in your school kitchen? We know that kitchen employees need to work efficiently, and be prepared to get stuck in, and able to cope with a fast-paced environment. Our team have a range of workers with varied experience and expertise to match you with, dependent on your requirements – we are waiting to hear from you. With overseers, cooks, bakers, pot-washers and cleaners, among others, Workers Direct will have an employee that will suit you – contact us to discuss your needs.</p>
 
 
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/SCHOOL STAFFING/SCHOOL_STAFFING_2.jpeg" width="100%" height="300px" alt="BUS DRIVER">
+
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/SCHOOL STAFFING/SCHOOL_STAFFING_4.jpg" width="100%" height="300px" alt="BUS DRIVER">
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
@@ -166,7 +174,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 ">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 ">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -386,12 +394,10 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30">
-                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/SCHOOL STAFFING/SCHOOL_STAFFING_5.jpg" width="100%" height="380px" alt="#">
-            </div>
+            
 
 
 

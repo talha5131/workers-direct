@@ -44,9 +44,6 @@
                             <ul>
 
                                 <li><a href="{{url('/')}}">Home</a> <i class="fa fa-angle-right"></i></li>
-
-
-
                                 <li>Packing Staff</li>
 
                             </ul>

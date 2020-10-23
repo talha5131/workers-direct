@@ -91,27 +91,33 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
 
                 <div class="about_text_wrapper">
 
 
                     <div class="section_heading section_2_heading">
+                        <div class="col-md-12">
+                            <p style="margin: 0;">One of our client looking for an Experience Waitress in Central London area.</p>
+                            <p style="margin: 0;">Competitive Pay Rate.</p>
+                        </div>
+                        <div class="margin-top-40 col-md-6">
 
-                        <p style="margin: 0;">One of our client looking for an Experience Waitress in Central London area.</p>
-                        <p style="margin: 0;">Competitive Pay Rate.</p>
-
-                        <div class="margin-top-40">
-
-                            <img class="image-style-border" src="public/assets/images/page-pictures/WAITRESS/waitress_1.jpg" width="100%" height="300px" alt="about-img">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/WAITRESS/waitress_3.jpg" width="100%" height="300px" alt="about-img">
 
                         </div>
 
-                        <div class="margin-top-20">
+                        <div class="margin-top-40 col-md-6">
+
+                            <img class="image-style-border" src="public/assets/images/page-pictures/WAITRESS/waitress_2.jpg" width="100%" height="300px" alt="about-img">
+
+                        </div>
+
+                        <div class="margin-top-20 col-md-12">
                             <h2>Main Job Responsibilities As Waitress / Front of House Staff</h2>
                         </div>
 
-                        <div class="margin-top-60">
+                        <div class="margin-top-60 col-md-12">
                             <ul>
                                 <li><i class="fa fa-caret-right"></i> Serving Foods & Drinks</li>
                                 <li><i class="fa fa-caret-right"></i> Taking Orders</li>
@@ -119,11 +125,12 @@
                                 <li><i class="fa fa-caret-right"></i> Help in Kitchen (if require)</li>
                             </ul>
                         </div>
+                        <div class="col-md-12">
+                            <p style="margin: 0;"><strong>Send Your CV for waitress jobs at</strong></p>
 
-                        <p style="margin: 0;"><strong>Send Your CV for waitress jobs at</strong></p>
-
-                        <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
-                        <a href="# " class="green"><strong> OR Apply Online</strong></a>
+                            <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
+                            <a href="# " class="green"><strong> OR Apply Online</strong></a>
+                        </div>
                     </div>
 
 
@@ -132,7 +139,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -352,7 +359,7 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
 
 

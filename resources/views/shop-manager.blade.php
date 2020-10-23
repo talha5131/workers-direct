@@ -91,13 +91,16 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper ">
 
                     <div class="section_heading section_2_heading row">
-
                         <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                            <p style="margin: 0;">We are recruiting an experienced Shop Manager Urgently basis for one of our client based in Central London. This is a temporary role requiring previous retail supervisory experience in food / hospitapity sector.</p>
+                        </div>
+
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40">
                             <table class="table table-bordered " style="width:100%">
                                 <tr>
                                     <th>Job Titles:</th>
@@ -136,13 +139,14 @@
 
                         </div>
 
-                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                            <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/SHOP MANAGER/shop_manager_2.jpg" width="100%" height="380px" alt="#">
+                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-40">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/SHOP MANAGER/shop_manager_2.jpg" width="100%" height="380px" alt="#">
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-40">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/SHOP MANAGER/shop_manager_3.jpg" width="100%" height="380px" alt="#">
                         </div>
 
-                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                            <p style="margin: 0;">We are recruiting an experienced Shop Manager Urgently basis for one of our client based in Central London. This is a temporary role requiring previous retail supervisory experience in food / hospitapity sector.</p>
-                        </div>
+
 
 
                     </div>
@@ -195,7 +199,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -415,7 +419,7 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
 
 

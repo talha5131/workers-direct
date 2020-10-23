@@ -91,7 +91,7 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
                 <div class="about_text_wrapper abt_2_para">
 
@@ -133,16 +133,15 @@
 
                         </div>
 
-                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
-                            <img class="image-style-border" src="public/assets/images/page-pictures/LUGGAGE PORTER/luggage_porter_3.jpg" width="100%" height="470px" alt="IT Support">
+                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/LUGGAGE PORTER/luggage_porter_3.jpg" width="100%" height="300px" alt="IT Support">
                         </div>
 
-
-
+                        <div class="margin-top-30 col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/LUGGAGE PORTER/luggage_porter_2.jpg" width="100%" height="300px" alt="IT Support">
+                        </div>
 
                     </div>
-
-
 
                     <div class="section_heading section_2_heading margin-top-20">
 
@@ -162,9 +161,7 @@
                             </ul>
                         </div>
 
-                        <div class="margin-top-30">
-                            <img class="image-style-border" src="public/assets/images/page-pictures/LUGGAGE PORTER/luggage_porter_2.jpg" width="100%" height="470px" alt="IT Support">
-                        </div>
+                        
 
                         <div>
                             <p style="margin: 0;">To apply forward your CV to arrange an immediate interview.</p>
@@ -179,7 +176,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -399,7 +396,7 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
 
 

@@ -91,11 +91,29 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
 
-                <div class="about_text_wrapper margin-top-30">
+                <div class="about_text_wrapper ">
 
-                    <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40">
+
+                        <h4>CORE <span> DELIVERABLES</span></h4>
+
+                    </div>
+
+                    <div class="margin-top-30 col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <ul>
+                            <li><i class="fa fa-caret-right"></i> Process and organise faulty equipment returned from sites.</li>
+                            <li><i class="fa fa-caret-right"></i> Setting up and completing spreadsheet’s keeping up to date records of all serialised items.</li>
+                            <li><i class="fa fa-caret-right"></i> Placing equipment onto pallets, wrapping and banding pallets when full transferring into correct locations in the warehouse.</li>
+                            <li><i class="fa fa-caret-right"></i> Booking in returns and updating WMS (Warehouse Management System).</li>
+                            <li><i class="fa fa-caret-right"></i> Completing PET (Patient Equipment Tracking) movements (electronically moving) returned equipment from sites onto Pontefract system.</li>
+                            <li><i class="fa fa-caret-right"></i> Assisting with the loading of delivery vehicles.</li>
+                            <li><i class="fa fa-caret-right"></i> To be responsible for operating machinery in accordance with Health and Safety regulations. To manually handle goods as instructed.</li>
+                        </ul>
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30">
                         <table class="table table-bordered " style="width:100%">
                             <tr>
                                 <th>Job Title</th>
@@ -114,33 +132,26 @@
                         </table>
                     </div>
 
-                    <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/FORKLIFT DRIVER  WAREHOUSE ASSISTANT/forklift_driver_warehouse_assistant_1.jpg" alt="Forklift Driver" width="100%" height="200px">
+                    <!-- <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-40">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/FORKLIFT DRIVER  WAREHOUSE ASSISTANT/forklift_driver_warehouse_assistant_1.jpg" alt="Forklift Driver" width="100%" height="300px">
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40">
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-40">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/FORKLIFT DRIVER  WAREHOUSE ASSISTANT/forklift_driver_warehouse_assistant_2.jpg" alt="Forklift Driver" width="100%" height="300px">
+                    </div> -->
 
-                        <h2>CORE <span> DELIVERABLES</span></h2>
 
-                    </div>
-                    <div class="margin-top-30 col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                        <ul>
-                            <li><i class="fa fa-caret-right"></i> Process and organise faulty equipment returned from sites.</li>
-                            <li><i class="fa fa-caret-right"></i> Setting up and completing spreadsheet’s keeping up to date records of all serialised items.</li>
-                            <li><i class="fa fa-caret-right"></i> Placing equipment onto pallets, wrapping and banding pallets when full transferring into correct locations in the warehouse.</li>
-                            <li><i class="fa fa-caret-right"></i> Booking in returns and updating WMS (Warehouse Management System).</li>
-                            <li><i class="fa fa-caret-right"></i> Completing PET (Patient Equipment Tracking) movements (electronically moving) returned equipment from sites onto Pontefract system.</li>
-                            <li><i class="fa fa-caret-right"></i> Assisting with the loading of delivery vehicles.</li>
-                            <li><i class="fa fa-caret-right"></i> To be responsible for operating machinery in accordance with Health and Safety regulations. To manually handle goods as instructed.</li>
-                        </ul>
-                    </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40">
                         <h2>EXPERIENCE, SKILLS & ATTRIBUTES REQUIRED</h2>
                     </div>
 
-                    <div class="col-md-12 margin-top-40">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/FORKLIFT DRIVER  WAREHOUSE ASSISTANT/forklift_driver_warehouse_assistant_2.jpg" alt="Forklift Driver" height="350px" width="100%" height="200px">
+                    <div class="col-md-6 margin-top-40">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/FORKLIFT DRIVER  WAREHOUSE ASSISTANT/forklift_driver_warehouse_assistant_3.jpg" alt="Forklift Driver" height="300px" width="100%">
+                    </div>
+
+                    <div class="col-md-6 margin-top-40">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/FORKLIFT DRIVER  WAREHOUSE ASSISTANT/forklift_driver_warehouse_assistant_4.jpg" alt="Forklift Driver" height="300px" width="100%">
                     </div>
                     <div class="col-md-12">
                         <div class=" margin-top-40">
@@ -186,7 +197,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-30">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-30">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -406,7 +417,8 @@
 
                 </div>
 
-            </div>
+            </div> -->
+
             <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30 ">
                 <div class="section_heading section_2_heading about_text_wrapper">
                     <h4>STRUCTURE CHART</h4>
@@ -427,7 +439,7 @@
 
             </div>
 
-            <div class="col-lg-8 col-md-6 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                 <div class="section_heading section_2_heading about_text_wrapper">
                     <h4>Other</h4>
                 </div>
@@ -439,9 +451,7 @@
 
             </div>
 
-            <div class="col-md-4 margin-top-60">
-                <img class="image-style-border" src="public/assets/images/page-pictures/FORKLIFT DRIVER  WAREHOUSE ASSISTANT/forklift_driver_warehouse_assistant_3.jpg" alt="Forklift Driver" height="230px" width="100%" height="200px">
-            </div>
+
 
 
             <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">

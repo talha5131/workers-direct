@@ -91,9 +91,9 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
 
-                <div class="about_text_wrapper ">
+                <div class="about_text_wrapper">
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <p style="margin: 0;">
@@ -103,8 +103,16 @@
                             The top catering agency will help you to find kitchen assistant temporary roles in an efficient and effective way because they have relationships with catering businesses throughout London. When you turn to temporary catering assistant agencies, you can be sure that you are in the right place because they will help you to determine your specific skills and needs and then pair you up with an employer that suits you.
                         </p>
                     </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/KITCHEN ASSISTANT/kitchen-assistant_1.jpg" width="100%" height="240px" alt="IT Support">
 
-                    <div class="col-lg-7 col-md-7 col-xs-12 col-sm-12 margin-top-20">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
+
+                        <img class="image-style-border " src="public/assets/images/page-pictures/KITCHEN ASSISTANT/kitchen-assistant_2.jpg" width="100%" height="240px" alt="IT Support">
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
                         <table class="table table-bordered">
 
                             <tr>
@@ -160,10 +168,7 @@
 
                         </table>
                     </div>
-                    <div class="col-lg-5 col-md-5 col-xs-12 col-sm-12 margin-top-20">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/KITCHEN ASSISTANT/kitchen-assistant_1.jpg" width="100%" height="240px" alt="IT Support">
-                        <img class="image-style-border margin-top-20" src="public/assets/images/page-pictures/KITCHEN ASSISTANT/kitchen-assistant_2.jpg" width="100%" height="240px" alt="IT Support">
-                    </div>
+
 
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
@@ -171,8 +176,15 @@
                         <p style="margin: 0;">We are looking for a hard working Kitchen Assistant to join growing team who are available to work day shifts in Central London.</p>
 
                         <h4 class="margin-top-20"> Summary of <span> Post</span></h4>
-
                         <p>Assist with food preparation and the effective delivery of service and standards</p>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/KITCHEN ASSISTANT/kitchen-assistant_3.jpg" width="100%" height="300px" alt="IT Support">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/KITCHEN ASSISTANT/kitchen-assistant_4.jpg" width="100%" height="300px" alt="IT Support">
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
 
                         <h4 class="margin-bottom-60 margin-top-20"> Main Responsibilities & <span> Job Requirement</span></h4>
 
@@ -203,7 +215,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -423,14 +435,9 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
-            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
-                <img class="image-style-border" src="public/assets/images/page-pictures/KITCHEN ASSISTANT/kitchen-assistant_3.jpg" width="100%" height="300px" alt="IT Support">
-            </div>
-            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
-                <img class="image-style-border" src="public/assets/images/page-pictures/KITCHEN ASSISTANT/kitchen-assistant_4.jpg" width="100%" height="300px" alt="IT Support">
-            </div>
+
 
 
 

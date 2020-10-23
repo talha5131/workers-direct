@@ -91,40 +91,48 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
 
-                <div class="about_text_wrapper ">
+                <div class="about_text_wrapper">
 
                     <div class="section_heading section_2_heading">
 
-                        <p>If you are looking for temporary or permanent work then you Workers Direct can provide you with all that you need. We know that being out of work can be tough Our aim is to put you in a role that gives you a purpose and could lead to you forging a career that provides you with complete satisfaction.</p>
-
-                        <div class="margin-top-20">
-                            <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/TEMPORARY JOBS/temporary_jobs_4.jpg" width="100%" height="420px" alt="#">
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                            <p>If you are looking for temporary or permanent work then you Workers Direct can provide you with all that you need. We know that being out of work can be tough Our aim is to put you in a role that gives you a purpose and could lead to you forging a career that provides you with complete satisfaction.</p>
                         </div>
 
-                        <div class="section_heading section_2_heading margin-top-20">
+                        <div class="margin-top-20 col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/TEMPORARY JOBS/temporary_jobs_4.jpg" width="100%" height="300px" alt="#">
+                        </div>
+
+                        <div class="margin-top-20 col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/TEMPORARY JOBS/temporary_jobs_1.jpg" width="100%" height="300px" alt="#">
+                        </div>
+
+                        <div class="section_heading section_2_heading margin-top-20 col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
                             <h2>At workers direct our job is to match the right job according to your <span> skills and experience</span></h2>
 
                         </div>
 
-                        <p>Our team of experts understand your needs and so, they handle the whole process in a confident and professional way. Working closely with you, we help you to identify your skills and abilities and then match it up with roles that work for you. Forming a relationship with you enables us to get to know you better and that means we can make employers aware of just how valuable you can be to them. We recognise your skills and we make sure that you receive the service you deserve. We don’t judge we simply make sure that we find you a role that ticks every box.</p>
-
-                        <div class="section_heading section_2_heading margin-top-20">
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                            <p>Our team of experts understand your needs and so, they handle the whole process in a confident and professional way. Working closely with you, we help you to identify your skills and abilities and then match it up with roles that work for you. Forming a relationship with you enables us to get to know you better and that means we can make employers aware of just how valuable you can be to them. We recognise your skills and we make sure that you receive the service you deserve. We don’t judge we simply make sure that we find you a role that ticks every box.</p>
+                        </div>
+                        <div class="section_heading section_2_heading margin-top-20 col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
                             <h2>Temporary jobs <span> specialist</span></h2>
 
                         </div>
 
-                        <p>Our focus is on creating a personalise approach that incorporates our passion and desire. This ensure that we successfully put the right people in the right jobs, adding value to the recruitment process.Workers Direct is one of the leading temping agencies in London, We have various temporary jobs available to start ASAP basis across the country.</p>
-
-                        <div class="section_heading section_2_heading margin-top-2 class=" green"0">
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                            <p>Our focus is on creating a personalise approach that incorporates our passion and desire. This ensure that we successfully put the right people in the right jobs, adding value to the recruitment process.Workers Direct is one of the leading temping agencies in London, We have various temporary jobs available to start ASAP basis across the country.</p>
+                        </div>
+                        <div class="section_heading section_2_heading margin-top-2 col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
                             <h2>Latest temporary <span> jobs</span></h2>
 
                         </div>
-                        <div class="margin-top-60">
+                        <div class="margin-top-60 col-lg-12 col-md-12 col-xs-12 col-sm-12">
                             <table class="table table-bordered " style="width:100%">
                                 <tr>
                                     <th class="green">Job Title</th>
@@ -178,7 +186,7 @@
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 section_heading section_2_heading margin-top-60">
 
                         <div>
                             <p style="margin: 0;">Send Your CV Today for immediate placement.</p>
@@ -192,7 +200,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -412,7 +420,7 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
 
 

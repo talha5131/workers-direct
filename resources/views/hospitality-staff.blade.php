@@ -75,11 +75,11 @@
 
         <div class="row">
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20 pl-0">
 
-                <div class="about_text_wrapper">
+                <div class="about_text_wrapper row">
 
-                    <div class="section_heading section_2_heading">
+                    <div class="section_heading section_2_heading pl-0 col-md-12">
 
                         <h2>Hospitality <span> Staff</span></h2>
 
@@ -91,73 +91,71 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 ml-0">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper row">
 
-                    <div style="padding-left: 0px !important;" class="col-md-12">
-                        <div style="padding-left: 0px !important;" class="col-md-7">
-                            <div class="section_heading section_2_heading">
 
-                                <h2>Housekeeping Agency Can Find <span> Temporary Staff</span></h2>
 
-                            </div>
-                            <div>
-                                <p>We know that when you work in the hospitality staff agency, you need to make sure that you have staff who are as passionate with your industry as you are and this is why we do everything we can to source the right staff for your company. We won’t stop until we find someone who is the perfect fit and this is one of the reasons why we have achieved so much success in the past.</p>
-                            </div>
-                        </div>
-                        <div class="col-md-5">
-                            <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="public/assets/images/page-pictures/HOSPITALITY STAFF/hospitality_staff_1.jpg" width="100%" alt="career_img" />
-                        </div>
-                    </div>
-                    <div style="padding-left: 0px !important;" class="col-md-12">
-                        <div style="padding-left: 0px !important;" class="col-md-5">
-                            <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="public/assets/images/page-pictures/HOSPITALITY STAFF/hospitality_staff_2.jpg" width="100%" alt="career_img" />
+                    <div class="col-md-12 pl-0 margin-top-40">
+                        <div class="section_heading section_2_heading">
+
+                            <h4>Housekeeping Agency Can Find <span> Temporary Staff</span></h4>
 
                         </div>
-                        <div class="col-md-7">
-                            <div class="section_heading section_2_heading">
-                                <h4>Holiday Homes, Cruise Ships, Travel Agents and More</h4>
-                            </div>
-
-                            <div>
-                                <p>Our hospitality staff are very well-versed when it comes to operating holiday homes and they also have the ability to complete any given task with flawless efficiency. They can meet and greet your customers, they can work with you to book in clients and they can also work the bar. If you have staff who are ill, unable to do the job or if you are just busy in general then we can work with you to get everything sorted out.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div style="padding-left: 0px !important;" class="col-md-12">
-                        <div style="padding-left: 0px !important;" class="col-md-7">
-                            <div class="section_heading section_2_heading">
-                                <h4>Our Hospitality Experience and Track Record</h4>
-                            </div>
-
-                            <div>
-                                <p>Our team are very experienced when it comes to hospitality and they are continually doing everything they can to exceed your expectations. Our team won’t stop until you have the talent you need and they will also introduce you to new staff who would have otherwise not known about your position or in some instances, your company. We have already helped independent businesses, top event caterers and even hotels to build the team they need.</p>
-                            </div>
-                        </div>
-                        <div class="col-md-5">
-                            <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="public/assets/images/page-pictures/HOSPITALITY STAFF/hospitality_staff_4.jpg" width="100%" alt="career_img" />
+                        <div>
+                            <p>We know that when you work in the hospitality staff agency, you need to make sure that you have staff who are as passionate with your industry as you are and this is why we do everything we can to source the right staff for your company. We won’t stop until we find someone who is the perfect fit and this is one of the reasons why we have achieved so much success in the past.</p>
                         </div>
                     </div>
 
 
-                    <div class="section_heading section_2_heading margin-top-60">
-                        <h4>Do You want To Work In Hospitality?</h4>
+
+
+                    <div class="col-md-12 pl-0">
+                        <div class="section_heading section_2_heading">
+                            <h4>Holiday Homes, Cruise Ships, Travel Agents and More</h4>
+                        </div>
+
+                        <div>
+                            <p>Our hospitality staff are very well-versed when it comes to operating holiday homes and they also have the ability to complete any given task with flawless efficiency. They can meet and greet your customers, they can work with you to book in clients and they can also work the bar. If you have staff who are ill, unable to do the job or if you are just busy in general then we can work with you to get everything sorted out.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 pl-0">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/HOSPITALITY STAFF/hospitality_staff_1.jpg" width="100%" height="300px" alt="career_img" />
                     </div>
 
-                    <div>
-                        <p>If you are experienced in hospitality and would like us to connect you with the job you need then please do get in touch with us today. We would love to work with you to make sure that you get the job that you want and even the salary that you need as well, so you can trust in our team to get you the employment opportunities that you deserve.</p>
+                    <div class="col-md-6 pl-0">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/HOSPITALITY STAFF/hospitality_staff_2.jpg" width="100%" height="300px" alt="career_img" />
                     </div>
 
-                    <div class="col-md-12 margin-top-30">
-                        <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="public/assets/images/page-pictures/HOSPITALITY STAFF/hospitality_staff_3.jpg" width="100%" height="400px" alt="career_img" />
+
+                    <div class="col-md-12 pl-0 margin-top-20">
+                        <div class="section_heading section_2_heading">
+                            <h4>Our Hospitality Experience and Track Record</h4>
+                        </div>
+
+                        <div>
+                            <p>Our team are very experienced when it comes to hospitality and they are continually doing everything they can to exceed your expectations. Our team won’t stop until you have the talent you need and they will also introduce you to new staff who would have otherwise not known about your position or in some instances, your company. We have already helped independent businesses, top event caterers and even hotels to build the team they need.</p>
+                        </div>
+                    </div>
+
+
+
+                    <div class="col-md-12 pl-0">
+                        <div class=" section_heading section_2_heading">
+                            <h4>Do You want To Work In Hospitality?</h4>
+                        </div>
+
+                        <div>
+                            <p>If you are experienced in hospitality and would like us to connect you with the job you need then please do get in touch with us today. We would love to work with you to make sure that you get the job that you want and even the salary that you need as well, so you can trust in our team to get you the employment opportunities that you deserve.</p>
+                        </div>
                     </div>
 
                 </div>
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -377,7 +375,7 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
 
 

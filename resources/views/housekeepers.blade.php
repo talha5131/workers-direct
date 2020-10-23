@@ -91,16 +91,21 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
 
                 <div class="about_text_wrapper ">
+                    <p class="margin-top-20 col-md-12">Housekeeping is a specialized area that needs skilled people to carry out the job. With lots of classes for housekeeping jobs, it is best to employ a housekeeper agency that has housekeeping solutions for all the categories. This can help you find the best person for your specific need.</p>
 
-
-                    <div class="col-md-12 margin-top-40">
-                        <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="public/assets/images/page-pictures/HOUSEKEEPERS/housekeepers_1.jpeg" width="100%" height="400px" alt="career_img" />
+                    <div class="col-md-6 margin-top-40">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/HOUSEKEEPERS/housekeepers_1.jpeg" width="100%" height="300px" alt="career_img" />
                     </div>
 
-                    <p class="margin-top-20 col-md-12">Housekeeping is a specialized area that needs skilled people to carry out the job. With lots of classes for housekeeping jobs, it is best to employ a housekeeper agency that has housekeeping solutions for all the categories. This can help you find the best person for your specific need.</p>
+
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-40">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/HOUSEKEEPERS/housekeepers_2.jpg" width="100%" height="300px" alt="career_img" />
+                    </div>
+
+
 
                     <div class="col-md-12 section_heading section_2_heading margin-top-40">
 
@@ -117,15 +122,15 @@
                         <p>There are lots of advantages of an agency. Good and reputed housekeeping agency endeavor to provide maximum satisfaction to their customers. There are lots of agencies that maintain a database of skilled staff and customers who want to engage a housekeeping staff. The candidates that are hired by the housekeeper agency are skilled and experienced, which helps you to save your time to acquaint them with your household environment. Domestic staff jobs and nanny jobs are some of the most popular jobs in the housekeeping sector and also among the most paid ones. Also in the event of any problem with the staff, you can easily reach out to the bureau and receive the staff removed or replaced.</p>
 
                     </div>
+                    <!-- <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-40">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/HOUSEKEEPERS/housekeepers_3.png" width="100%" height="300px" alt="career_img" />
+                    </div> -->
 
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 margin-top-40">
-                        <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="public/assets/images/page-pictures/HOUSEKEEPERS/housekeepers_3.png" width="100%" height="200px" alt="career_img" />
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-40">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/HOUSEKEEPERS/housekeepers_5.jpg" width="100%" height="300px" alt="career_img" />
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 margin-top-40">
-                        <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="public/assets/images/page-pictures/HOUSEKEEPERS/housekeepers_4.jpg" width="100%" height="200px" alt="career_img" />
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 margin-top-40">
-                        <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="public/assets/images/page-pictures/HOUSEKEEPERS/housekeepers_5.jpg" width="100%" height="200px" alt="career_img" />
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-40">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/HOUSEKEEPERS/housekeepers_4.jpg" width="100%" height="300px" alt="career_img" />
                     </div>
 
                     <div class="col-md-12 section_heading section_2_heading margin-top-40">
@@ -143,7 +148,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -363,10 +368,10 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
 
-            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 margin-top-40">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-top-40">
 
                 <div class="about_text_wrapper">
                     <h4 class="margin-bottom-60"> Latest Housekeeping Jobs in <span> London</span></h4>
@@ -399,9 +404,7 @@
 
             </div>
 
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 margin-top-100">
-                <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="public/assets/images/page-pictures/HOUSEKEEPERS/housekeepers_2.jpg" width="100%" height="300px" alt="career_img" />
-            </div>
+
 
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-top-30">
 

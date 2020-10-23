@@ -91,11 +91,21 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper ">
 
                     <div class="section_heading section_2_heading row">
+
+                        <div class="section_heading section_2_heading col-md-12 margin-top-20">
+
+                            <h4>Job <span> Description</span></h4>
+
+                        </div>
+
+                        <div class="col-md-12">
+                            <p>We are recruiting level 2 / 3 qualified nursery nurses for a well-established children’s nursery in chad well heath area, we are looking for somebody who is passionate about working with children and is seeking further training and career progression opportunities.</p>
+                        </div>
 
                         <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                             <table class="table table-bordered " style="width:100%">
@@ -133,7 +143,11 @@
 
                         </div>
 
-                        <div class=" col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <div class=" col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/NURSERY NURSES/nursery_nurses_1.jpg" width="100%" height="310px" alt="IT Support">
+                        </div>
+
+                        <div class=" col-lg-6 col-md-6 col-xs-12 col-sm-12">
                             <img class="image-style-border" src="public/assets/images/page-pictures/NURSERY NURSES/nursery_nurses_2.jpg" width="100%" height="310px" alt="IT Support">
                         </div>
 
@@ -144,15 +158,7 @@
 
                     <div class="section_heading section_2_heading margin-top-60">
 
-                        <div class="section_heading section_2_heading ">
 
-                            <h2>Job <span> Description</span></h2>
-
-                        </div>
-
-                        <div>
-                            <p>We are recruiting level 2 / 3 qualified nursery nurses for a well-established children’s nursery in chad well heath area, we are looking for somebody who is passionate about working with children and is seeking further training and career progression opportunities.</p>
-                        </div>
 
                         <div class="section_heading section_2_heading margin-top-60">
 
@@ -163,9 +169,7 @@
                             <p>Following early years curriculum and planning and implementing learning and creative activities for children, working as part of team, following safeguarding and health and safety policies and procedures, supervising play, carrying out observations of children. Interacting with parents and updating them on child’s day and monitoring progress.</p>
                         </div>
 
-                        <div>
-                            <img class="image-style-border" src="public/assets/images/page-pictures/NURSERY NURSES/nursery_nurses_1.jpg" width="100%" height="450px" alt="IT Support">
-                        </div>
+
 
                         <div class="section_heading section_2_heading margin-top-40 ">
 
@@ -211,7 +215,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -431,7 +435,7 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
 
 

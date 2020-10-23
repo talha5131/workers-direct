@@ -91,13 +91,27 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper ">
 
                     <div class="section_heading section_2_heading row">
 
-                        <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                            <p style="margin: 0;">Two Experienced Turkish Grill chef required for newly opened Restaurant in Peckham.</p>
+                            <p style="margin: 0;">Brilliant opportunity to become a part of a business which has a vision to grow expands.</p>
+                            <p style="margin: 0;">Must Have Previous Experience as Chef.</p>
+                        </div>
+
+                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/GRILL CHEF/grill_chef_2.jpg" height="300px" width="100%" alt="">
+                        </div>
+
+                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/GRILL CHEF/grill_chef_4.jpg" height="300px" width="100%" alt="">
+                        </div>
+
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30">
                             <table class="table table-bordered " style="width:100%">
                                 <tr>
                                     <th>Job Titles</th>
@@ -131,22 +145,6 @@
                                 </tr>
                             </table>
 
-                        </div>
-
-                        <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 ">
-                            <img class="image-style-border" src="public/assets/images/page-pictures/GRILL CHEF/grill_chef_2.jpg" height="270px" width="100%" alt="">
-                        </div>
-
-
-
-                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                            <p style="margin: 0;">Two Experienced Turkish Grill chef required for newly opened Restaurant in Peckham.</p>
-                            <p style="margin: 0;">Brilliant opportunity to become a part of a business which has a vision to grow expands.</p>
-                            <p style="margin: 0;">Must Have Previous Experience as Chef.</p>
-                        </div>
-
-                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30">
-                            <img class="image-style-border" src="public/assets/images/page-pictures/GRILL CHEF/grill_chef_4.jpg" height="370px" width="100%" alt="">
                         </div>
 
 
@@ -187,7 +185,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -407,12 +405,10 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30 ">
-                <img class="image-style-border" src="public/assets/images/page-pictures/GRILL CHEF/grill_chef_1.jpg" height="400px" width="100%" alt="">
-            </div>
+
 
 
 

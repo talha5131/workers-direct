@@ -91,7 +91,7 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
 
                 <div class="about_text_wrapper ">
 
@@ -99,6 +99,12 @@
 
                         <p>The team at Workers Direct specialists in matching talented office and support candidates with companies for temporary and temp-to-hire positions. We have workers with proven skills that can fill a range of positions, offering top-notch admin support for your business.</p>
 
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/admin staff/admin_staff_2.jpg" alt="Temp Agency London" height="300px" width="100%">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/admin staff/admin_staff_3.jpg" alt="Temp Agency London" height="300px" width="100%">
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
@@ -141,7 +147,7 @@
                             very carefully with a most suitable candidate.
                         </p>
                     </div>
-                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <div class="margin-top-20">
                             <ul>
                                 <li><i class="fa fa-caret-right"></i> Receptionists</li>
@@ -153,9 +159,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
-                        <img style="border:4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/admin staff/admin_staff_2.jpg" alt="Temp Agency London" height="230px" width="100%">
-                    </div>
+                    
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">   
                         <div>
                             <p style="margin: 0;">To apply forward your CV to arrange an immediate interview.</p>
@@ -169,7 +173,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -389,7 +393,7 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
 
 

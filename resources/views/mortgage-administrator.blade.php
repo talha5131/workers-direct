@@ -91,13 +91,13 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
 
                 <div class="about_text_wrapper abt_2_para">
 
                     <div class="section_heading section_2_heading row">
 
-                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                             <table class="table table-bordered " style="width:100%">
                                 <tr>
                                     <th>Job Title</th>
@@ -139,8 +139,65 @@
 
                         </div>
 
-                        <div class=" col-lg-6 col-md-6 col-xs-12 col-sm-12">
-                            <img class="image-style-border" src="public/assets/images/page-pictures/MORTGAGE ADMINISTRATOR/mortgage_admin_1.jpg" width="100%" height="310px" alt="IT Support">
+                        <div class=" col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-40">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/MORTGAGE ADMINISTRATOR/mortgage_admin_1.jpg" width="100%" height="300px" alt="IT Support">
+                        </div>
+                        <div class=" col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-40">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/MORTGAGE ADMINISTRATOR/mortgage_admin_3.jpg" width="100%" height="300px" alt="IT Support">
+                        </div>
+
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
+
+                            <div class="section_heading section_2_heading">
+
+                                <h2>Job <span> Description</span></h2>
+
+                            </div>
+
+                            <p>We are recruiting a part time mortgage administrator, Ideally someone that has worked for an adviser before or bank or building society. The role will be to administer the mortgage applications and liaise with the clients during the mortgage process. Someone who could work 15 hours a week, possible 5 hours Monday, Wednesday and Friday, However days / time could be changed on mutual understanding.</p>
+
+
+                        </div>
+
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
+
+                            <div class="section_heading section_2_heading ">
+
+                                <h2>Other Admin <span> Duties</span></h2>
+
+                            </div>
+
+                            <p>The tasks can vary on a daily basis and may include any of the following tasks: typing, faxing, scanning, copying, taking notes, ordering supplies, filing, assisting with answering the phones, transferring calls and setting up appointments.</p>
+
+                        </div>
+
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
+                            <div class="section_heading section_2_heading ">
+
+                                <h2>Skills <span> Required</span></h2>
+
+                            </div>
+
+                            <div class="margin-top-30">
+                                <ul>
+                                    <li><i class="fa fa-caret-right"></i> Mortgage Advisory Experience in a Bank, Building Society or in any private firm</li>
+                                    <li><i class="fa fa-caret-right"></i> Communication skills and good telephone manner</li>
+                                    <li><i class="fa fa-caret-right"></i> To have professional and friendly approach towards customers</li>
+                                    <li><i class="fa fa-caret-right"></i> Strong Organisation and Administrative Skills</li>
+                                    <li><i class="fa fa-caret-right"></i> Good interpersonal skills-customers/team</li>
+                                    <li><i class="fa fa-caret-right"></i> Good oral / written communication skills</li>
+                                    <li><i class="fa fa-caret-right"></i> IT/keyboard skills</li>
+                                    <li><i class="fa fa-caret-right"></i> Good knowledge of Microsoft Office package</li>
+                                </ul>
+                            </div>
+
+                            <div>
+                                <p>Send Your CV Today for immediate placement.</p>
+                                <p><strong>jobs@ Workers-direct.com</strong></p>
+                                <a href="# " class="green"><strong> OR Apply Online</strong></a>
+                            </div>
+
+
                         </div>
 
 
@@ -148,72 +205,13 @@
 
 
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
-                        <div class="section_heading section_2_heading">
-
-                            <h2>Job <span> Description</span></h2>
-
-                        </div>
-
-                        <p>We are recruiting a part time mortgage administrator, Ideally someone that has worked for an adviser before or bank or building society. The role will be to administer the mortgage applications and liaise with the clients during the mortgage process. Someone who could work 15 hours a week, possible 5 hours Monday, Wednesday and Friday, However days / time could be changed on mutual understanding.</p>
-
-
-                    </div>
-
-                    <div class=" col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/MORTGAGE ADMINISTRATOR/mortgage_admin_3.jpg" width="100%" height="310px" alt="IT Support">
-                    </div>
-
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
-
-                        <div class="section_heading section_2_heading ">
-
-                            <h2>Other Admin <span> Duties</span></h2>
-
-                        </div>
-
-                        <p>The tasks can vary on a daily basis and may include any of the following tasks: typing, faxing, scanning, copying, taking notes, ordering supplies, filing, assisting with answering the phones, transferring calls and setting up appointments.</p>
-
-                    </div>
-                    <div class="col-lg-7 col-md-7 col-xs-12 col-sm-12">
-                        <div class="section_heading section_2_heading ">
-
-                            <h2>Skills <span> Required</span></h2>
-
-                        </div>
-
-                        <div class="margin-top-30">
-                            <ul>
-                                <li><i class="fa fa-caret-right"></i> Mortgage Advisory Experience in a Bank, Building Society or in any private firm</li>
-                                <li><i class="fa fa-caret-right"></i> Communication skills and good telephone manner</li>
-                                <li><i class="fa fa-caret-right"></i> To have professional and friendly approach towards customers</li>
-                                <li><i class="fa fa-caret-right"></i> Strong Organisation and Administrative Skills</li>
-                                <li><i class="fa fa-caret-right"></i> Good interpersonal skills-customers/team</li>
-                                <li><i class="fa fa-caret-right"></i> Good oral / written communication skills</li>
-                                <li><i class="fa fa-caret-right"></i> IT/keyboard skills</li>
-                                <li><i class="fa fa-caret-right"></i> Good knowledge of Microsoft Office package</li>
-                            </ul>
-                        </div>
-
-                        <div>
-                            <p>Send Your CV Today for immediate placement.</p>
-                            <p><strong>jobs@ Workers-direct.com</strong></p>
-                            <a href="# " class="green"><strong> OR Apply Online</strong></a>
-                        </div>
-
-
-                    </div>
-
-                    <div class=" col-lg-5 col-md-5 col-xs-12 col-sm-12 margin-top-60">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/MORTGAGE ADMINISTRATOR/mortgage_admin_2.jpg" width="100%" height="310px" alt="IT Support">
-                    </div>
 
                 </div>
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -433,7 +431,7 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
 
 
