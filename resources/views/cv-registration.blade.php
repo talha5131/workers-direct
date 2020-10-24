@@ -72,7 +72,7 @@
 
 						<div class="jp_adp_form_wrapper">
 
-							<input type="text" placeholder="First Name">
+							<input id="firstName-error" type="text" placeholder="First Name">
 
 						</div>
 
@@ -82,7 +82,7 @@
 
 						<div class="jp_adp_form_wrapper">
 
-							<input type="text" placeholder="Last Name">
+							<input id="lastName-error" type="text" placeholder="Last Name">
 
 						</div>
 
@@ -297,8 +297,8 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script type="text/javascript">
 	$(document).ready(function() {
-		$("#name-error").hide();
-		$("#email-error").hide();
+		$("#firstName-error").hide();
+		$("#lastName-error").hide();
 		$("#phone-error").hide();
 		$("#address-error").hide();
 		$("#jobCategory-error").hide();
