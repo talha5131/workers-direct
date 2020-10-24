@@ -91,14 +91,23 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper">
 
                     <div class="section_heading section_2_heading row">
 
                         <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                             <p>Workers Direct is one of the leading Temporary Jobs Specialist in UK, We have various temporary jobs available to start ASAP basis across the country.</p>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                            <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/TEMPORARY JOBS/temporary_jobs_1.jpg" width="100%" height="300px" alt="">
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                            <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/TEMPORARY JOBS/temporary_jobs_3.jpg" width="100%" height="300px" alt="">
+                        </div>
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+
                             <p>Please see below the latest temporary Jobs:</p>
                             <table class="table table-bordered margin-top-60 " style="width:100%">
                                 <tr>
@@ -182,7 +191,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -216,7 +225,7 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
 
 

@@ -91,13 +91,35 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper">
 
                     <div class="section_heading section_2_heading row">
 
                         <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                            <p>One of our client urgently looking for a Temporary Office Administrative / HR Assistant (home based vacancy), An ideal candidate must have office administrative & HR experience.</p>
+                        </div>
+
+                        <div class="col-md-12">
+
+                            <h2>Key Duties & <span> Requirements</span></h2>
+
+                        </div>
+                        <div class="col-md-12">
+                            <p>The primary responsibility of the resource would be proper HR administration and co-ordination for recruitment activities. This will include end to end employee HR life cycle including smooth onboarding, handbook maintenance, policy compliances, exit process etc. Recruitment activities mainly include understanding the open positions and helping the recruitment team successfully interview and recruit the right candidates, help with scheduling the interviews and the associated logistics for the interviewers and interviewee</p>
+                            <p>This role also includes overall operational activities that may be required from time to time such as supplier co-ordination, Maintaining calendars of the founders and directors as and when needed, maintaining travel desk, accounts & payroll coordination, employee expense management, HMRC payments and compliances, record maintenance, guest houses allocation & maintenance</p>
+                            <p>Duration: 6 months contract with a very likely probability of a permanent hire following a successful performance.</p>
+                        </div>
+
+                        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-40">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/HR ASSISTANT/hr_1.jpg" width="100%" height="300px" alt="career_img" />
+                        </div>
+
+                        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-40">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/HR ASSISTANT/hr_2.jpg" width="100%" height="300px" alt="career_img" />
+                        </div>
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40">
                             <table class="table table-bordered " style="width:100%">
                                 <tr>
                                     <th>Job Title</th>
@@ -131,23 +153,10 @@
                             </table>
 
                         </div>
-                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                            <p>One of our client urgently looking for a Temporary Office Administrative / HR Assistant (home based vacancy), An ideal candidate must have office administrative & HR experience.</p>
-                        </div>
+
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
 
-                        <div class="section_heading section_2_heading">
-
-                            <h2>Key Duties & <span> Requirements</span></h2>
-
-                        </div>
-
-                        <p>The primary responsibility of the resource would be proper HR administration and co-ordination for recruitment activities. This will include end to end employee HR life cycle including smooth onboarding, handbook maintenance, policy compliances, exit process etc. Recruitment activities mainly include understanding the open positions and helping the recruitment team successfully interview and recruit the right candidates, help with scheduling the interviews and the associated logistics for the interviewers and interviewee</p>
-                        <p>This role also includes overall operational activities that may be required from time to time such as supplier co-ordination, Maintaining calendars of the founders and directors as and when needed, maintaining travel desk, accounts & payroll coordination, employee expense management, HMRC payments and compliances, record maintenance, guest houses allocation & maintenance</p>
-                        <p>Duration: 6 months contract with a very likely probability of a permanent hire following a successful performance.</p>
-                    </div>
 
                     <div class="section_heading section_2_heading margin-top-60">
 
@@ -173,9 +182,9 @@
 
 
 
-                        <div style="margin-top: 40px;">
-                            <h2>For immediate placement send your CV Today at</h2>
-                            <p><strong>jobs@ Workers-direct.com</strong></p>
+                        <div >
+                            <p style="margin: 0;">For immediate placement send your CV Today at</p>
+                            <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
                             <a href="# " class="green"><strong> OR Apply Online</strong></a>
                         </div>
 
@@ -186,7 +195,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -406,7 +415,7 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
 
 

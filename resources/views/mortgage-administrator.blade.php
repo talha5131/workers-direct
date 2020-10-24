@@ -93,11 +93,22 @@
 
             <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper ">
 
                     <div class="section_heading section_2_heading row">
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
 
-                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                            <div class="section_heading section_2_heading margin-top-40">
+
+                                <h4>Job <span> Description</span></h4>
+
+                            </div>
+
+                            <p>We are recruiting a part time mortgage administrator, Ideally someone that has worked for an adviser before or bank or building society. The role will be to administer the mortgage applications and liaise with the clients during the mortgage process. Someone who could work 15 hours a week, possible 5 hours Monday, Wednesday and Friday, However days / time could be changed on mutual understanding.</p>
+
+
+                        </div>
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40">
                             <table class="table table-bordered " style="width:100%">
                                 <tr>
                                     <th>Job Title</th>
@@ -146,20 +157,9 @@
                             <img class="image-style-border" src="public/assets/images/page-pictures/MORTGAGE ADMINISTRATOR/mortgage_admin_3.jpg" width="100%" height="300px" alt="IT Support">
                         </div>
 
-                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
-
-                            <div class="section_heading section_2_heading">
-
-                                <h2>Job <span> Description</span></h2>
-
-                            </div>
-
-                            <p>We are recruiting a part time mortgage administrator, Ideally someone that has worked for an adviser before or bank or building society. The role will be to administer the mortgage applications and liaise with the clients during the mortgage process. Someone who could work 15 hours a week, possible 5 hours Monday, Wednesday and Friday, However days / time could be changed on mutual understanding.</p>
 
 
-                        </div>
-
-                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40">
 
                             <div class="section_heading section_2_heading ">
 

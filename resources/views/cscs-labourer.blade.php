@@ -75,7 +75,7 @@
 
         <div class="row">
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20 pl-0">
 
                 <div class="about_text_wrapper">
 
@@ -91,14 +91,21 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper">
 
                     <div class="section_heading section_2_heading row">
 
-                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                            <table class="table table-bordered margin-top-60 " style="width:100%">
+                        <div class="col-sm-12 col-md-12 pl-0">
+                            <div class="section_heading section_2_heading margin-top-20 ">
+                                <h4>JOB <span> PURPOSE</span></h4>
+                            </div>
+                            <p> We are looking for a strong and experienced CSCS Labourer to manifest his physical strength in carrying out construction tasks at site. General Laborers’ responsibilities include receiving goods, performing construction site duties and operating construction vehicles</p>
+                        </div>
+
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
+                            <table class="table table-bordered margin-top-40 " style="width:100%">
                                 <tr>
                                     <th>Title</th>
                                     <td>CSCS Labourer</td>
@@ -133,70 +140,73 @@
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="section_heading section_2_heading">
                         <div class="row">
-                            <div class="col-sm-12 col-md-8">
-                                <div class="section_heading section_2_heading">
-                                    <h2>JOB <span> PURPOSE</span></h2>
-                                </div>
-                                <p> We are looking for a strong and experienced CSCS Labourer to manifest his physical strength in carrying out construction tasks at site. General Laborers’ responsibilities include receiving goods, performing construction site duties and operating construction vehicles</p>
+
+                            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                                <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/CSCS LABOURER/cscs-labourer_1.jpg" width="100%" height="300px" alt="cscs labourer">
                             </div>
-                            <div class="col-sm-12 col-md-4">
-                                <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="https://staff-direct.co.uk/wp-content/uploads/2019/09/general-laborer-1-1024x576.jpg" width="100%" alt="CSCS Labourer">
+
+                            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                                <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/CSCS LABOURER/cscs-labourer_2.jpg" width="100%" height="300px" alt="cscs labourer">
+                            </div>
+
+                            <div class="margin-bottom-60 col-md-12 margin-top-40 pl-0">
+                                <h2>Main <span> Responsibilities</span></h2>
+                            </div>
+
+                            <div class="margin-bottom-60 col-md-12 pl-0">
+                                <ul>
+                                    <li><i class="fa fa-caret-right"></i> Prep work and clearing site before and after</li>
+                                    <li><i class="fa fa-caret-right"></i> Loading and unloading material and items and distributing them to different contractors</li>
+                                    <li><i class="fa fa-caret-right"></i> Using tools and machines for construction purpose</li>
+                                    <li><i class="fa fa-caret-right"></i> Assisting carpenters, mason and other specialized labourer in order to achieve overall efficiency</li>
+                                    <li><i class="fa fa-caret-right"></i> Daily inspection and maintenance of electrical and construction machines</li>
+                                    <li><i class="fa fa-caret-right"></i> Control traffic around the construction site</li>
+                                    <li><i class="fa fa-caret-right"></i> Load and unload merchandises</li>
+                                    <li><i class="fa fa-caret-right"></i> Proper knowledge of safety and height hazards</li>
+                                </ul>
+                            </div>
+
+                            <div class="col-md-12 pl-0">
+                                <h2 class="margin-bottom-60">Candidate <span> Requirement</span></h2>
+                            </div>
+
+                            <div class="col-md-12 pl-0">
+                                <ul>
+                                    <li><i class="fa fa-caret-right"></i> Must have CSCS Labourer card</li>
+                                    <li><i class="fa fa-caret-right"></i> Ability to understand, comprehend and follow instructions properly</li>
+                                    <li><i class="fa fa-caret-right"></i> Excellent hand-eye coordination</li>
+                                    <li><i class="fa fa-caret-right"></i> Ability to take challenges</li>
+                                    <li><i class="fa fa-caret-right"></i> Basic organization and management skills</li>
+                                    <li><i class="fa fa-caret-right"></i> Understanding of basic mathematics and statistic</li>
+                                </ul>
+                            </div>
+
+                            <div style="margin-top: 40px;" class="pl-0 col-md-12">
+                                <p>For immediate placement send your CV Today at</p>
+                                <p><strong>jobs@ Workers-direct.com</strong></p>
+                                <a href="# " class="green"><strong> OR Apply Online</strong></a>
                             </div>
                         </div>
-                    </div>
-
-                    <div class="section_heading section_2_heading ">
-
-                        <div class="margin-bottom-60">
-                            <h2>Main <span> Responsibilities</span></h2>
-                        </div>
-
-                        <div class="margin-bottom-60">
-                            <ul>
-                                <li><i class="fa fa-caret-right"></i> Prep work and clearing site before and after</li>
-                                <li><i class="fa fa-caret-right"></i> Loading and unloading material and items and distributing them to different contractors</li>
-                                <li><i class="fa fa-caret-right"></i> Using tools and machines for construction purpose</li>
-                                <li><i class="fa fa-caret-right"></i> Assisting carpenters, mason and other specialized labourer in order to achieve overall efficiency</li>
-                                <li><i class="fa fa-caret-right"></i> Daily inspection and maintenance of electrical and construction machines</li>
-                                <li><i class="fa fa-caret-right"></i> Control traffic around the construction site</li>
-                                <li><i class="fa fa-caret-right"></i> Load and unload merchandises</li>
-                                <li><i class="fa fa-caret-right"></i> Proper knowledge of safety and height hazards</li>
-                            </ul>
-                        </div>
-
-                        <h2 class="margin-bottom-60">Candidate <span> Requirement</span></h2>
-
-                        <div class="">
-                            <ul>
-                                <li><i class="fa fa-caret-right"></i> Must have CSCS Labourer card</li>
-                                <li><i class="fa fa-caret-right"></i> Ability to understand, comprehend and follow instructions properly</li>
-                                <li><i class="fa fa-caret-right"></i> Excellent hand-eye coordination</li>
-                                <li><i class="fa fa-caret-right"></i> Ability to take challenges</li>
-                                <li><i class="fa fa-caret-right"></i> Basic organization and management skills</li>
-                                <li><i class="fa fa-caret-right"></i> Understanding of basic mathematics and statistic</li>
-                            </ul>
-                        </div>
-
-
-
-                        <div style="margin-top: 40px;">
-                            <h2>For immediate placement send your CV Today at</h2>
-                            <p><strong>jobs@ Workers-direct.com</strong></p>
-                            <a href="# " class="green"><strong> OR Apply Online</strong></a>
-                        </div>
-
 
                     </div>
+                </div>
+
+                <div class="section_heading section_2_heading ml-0 pl-0">
+
 
 
 
                 </div>
 
+
+
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+        </div>
+
+        <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -416,23 +426,23 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
 
 
 
 
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
+        <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
 
 
 
-            <!-- </div> -->
+        <!-- </div> -->
 
 
-
-        </div>
 
     </div>
+
+</div>
 
 </div>
 

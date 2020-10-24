@@ -110,7 +110,7 @@
                         <img class="image-style-border" src="public/assets/images/page-pictures/WAITING STAFF/waiting_staff_1.jpg" height="300px" width="100%" alt="WAITING STAFF">
                     </div>
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/WAITING STAFF/waiting_staff_1.jpg" height="300px" width="100%" alt="WAITING STAFF">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/WAITING STAFF/waiting_staff_3.jpg" height="300px" width="100%" alt="WAITING STAFF">
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30 pl-0">
@@ -127,12 +127,12 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-20">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/WAITING STAFF/waiting_staff_1.jpg" height="300px" width="100%" alt="WAITING STAFF">
+                    <!-- <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-20">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/WAITING STAFF/waiting_staff_5.jpg" height="300px" width="100%" alt="WAITING STAFF">
                     </div>
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/WAITING STAFF/waiting_staff_1.jpg" height="300px" width="100%" alt="WAITING STAFF">
-                    </div>
+                        <img class="image-style-border" src="public/assets/images/page-pictures/WAITING STAFF/waiting_staff_6.jpg" height="300px" width="100%" alt="WAITING STAFF">
+                    </div> -->
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-30">
 
                     </div>
