@@ -1,5 +1,7 @@
 @extends('layouts.base')
-@section('title','IT Support Technician Jobs - Recruitment Agency London | Workers Direct')
+@section('title','IT Support Technician Jobs - Recruitment Agency London Workers Direct')
+@section('keywords','IT,Support,Technician')
+@section('description','We are recruiting an experienced IT Support Technician to provide a high level of technical support. This is a technical role requiring proven support experience using W10 desktop environment, support with Office 2016 along with printers/scanners & mobile communications.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>IT Support Technician</h2>
+                        <h1>IT Support Technician</h1>
 
                     </div>
 
@@ -66,28 +68,46 @@
 
         <div class="row">
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20">
+            <!-- <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20">
 
                 <div class="about_text_wrapper">
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>IT Support<span> Specialist</span></h1>
+                        <h2>IT Support<span> Specialist</span></h2>
 
                     </div>
 
                 </div>
 
-            </div>
+            </div> -->
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper">
 
-                    <div class="col-lg-7 col-md-7 col-xs-12 col-sm-12">
-                        <table class="table table-bordered">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20 pl-0">
+
+                        <h2> Job Summary</span></h2>
+
+                        <p style="margin: 0;">We are recruiting an experienced IT Support Technician to provide a high level of technical support. This is a technical role requiring proven support experience using W10 desktop environment, support with Office 2016 along with printers/scanners & mobile communications. The company is approximately 30 users and has a refreshed server/storage/network infrastructure.</p>
+
+                    </div>
+
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/IT SUPPORT SPECIALIST/it_support_specialist_2.jpg" width="100%" height="200px" alt="">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/IT SUPPORT SPECIALIST/it_support_specialist_3.jpg" width="100%" height="200px" alt="">
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
+
+                        <h2 class="margin-top-30">IT Support Specialist</h2>
+
+                        <table class="table table-bordered margin-top-40">
 
                             <tr>
                                 <th>Job Title</th>
@@ -109,29 +129,21 @@
 
                     </div>
 
-                    <div class="col-lg-5 col-md-5 col-xs-12 col-sm-12">
+                    <!-- <div class="col-lg-5 col-md-5 col-xs-12 col-sm-12">
                         <img class="image-style-border" src="public/assets/images/page-pictures/IT SUPPORT SPECIALIST/it_support_specialist_1.jpg" width="100%" height="200px" alt="">
-                    </div>
-
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
-
-                        <h4> Job Summary</span></h4>
-
-                        <p style="margin: 0;">We are recruiting an experienced IT Support Technician to provide a high level of technical support. This is a technical role requiring proven support experience using W10 desktop environment, support with Office 2016 along with printers/scanners & mobile communications. The company is approximately 30 users and has a refreshed server/storage/network infrastructure.</p>
-
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30">
                         <img class="image-style-border" src="public/assets/images/page-pictures/IT SUPPORT SPECIALIST/it_support_specialist_2.jpg" width="100%" height="350px" alt="IT Support">
+                    </div> -->
+
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-bottom-60 margin-top-20 pl-0">
+                        <h2>Responsibilities</h2>
+
                     </div>
 
-
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-bottom-60 margin-top-20">
-                        <h4>Responsibilities</h4>
-
-                    </div>
-
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
                         <ul>
 
                             <li><i class="fa fa-caret-right"></i>Provide a courteous and professional service to our clients at all time.</li>
@@ -155,7 +167,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -375,25 +387,22 @@
 
                 </div>
 
+            </div> -->
+            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/IT SUPPORT SPECIALIST/it_support_specialist_1.jpg" width="100%" height="200px" alt="">
             </div>
-
             <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
-                <img class="image-style-border" src="public/assets/images/page-pictures/IT SUPPORT SPECIALIST/it_support_specialist_4.jpg" width="100%" height="350px" alt="IT Support">
+                <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/IT SUPPORT SPECIALIST/it_support_specialist_4.jpg" width="100%" height="200px" alt="">
             </div>
-
-            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
-                <img class="image-style-border" src="public/assets/images/page-pictures/IT SUPPORT SPECIALIST/it_support_specialist_3.jpg" width="100%" height="350px" alt="IT Support">
-            </div>
-
-            <div class="about_text_wrapper col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-bottom-60 margin-top-20">
-                <h4>Requirements</h4>
+            <div class="about_text_wrapper col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-bottom-60 margin-top-30">
+                <h2>Requirements</h2>
             </div>
             <div class="about_text_wrapper col-lg-12 col-md-12 col-xs-12 col-sm-12">
                 <ul>
 
                     <li><i class="fa fa-caret-right"></i>Certifications in: Cisco CCNA, Mac OS, CompTIA A+, Microsoft Certified IT, Network security (degree in IT is desirable but not required.)</li>
                     <li><i class="fa fa-caret-right"></i>Min 3 years experience.</li>
-                    <li><i class="fa fa-caret-right"></i>Proven experience as <a href="#">IT Support Technician.</a> </li>
+                    <li><i class="fa fa-caret-right"></i>Proven experience as IT Support Technician.</a> </li>
                     <li><i class="fa fa-caret-right"></i>Excellent diagnostic and problem solving skills.</li>
                     <li><i class="fa fa-caret-right"></i>Fast learner as we continuously evaluating and installing new products.</li>
                     <li><i class="fa fa-caret-right"></i>Excellent communication ability.</li>
@@ -412,19 +421,6 @@
                 <p style="margin: 0;"><strong>http://workers-direct.com/cv-registration</strong></p>
 
             </div>
-
-
-
-
-
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
-
-
-
-            <!-- </div> -->
-
-
-
         </div>
 
     </div>
@@ -459,7 +455,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -495,7 +491,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
@@ -535,7 +531,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -955,7 +951,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

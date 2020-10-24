@@ -1,7 +1,25 @@
 @extends('layouts.base')
 @section('title','Workers Direct')
+@section('description', 'Workers Direct specialised in temporary & short term staff recruitment. As one of the best Recruitment Agency
+London we provide temp & perm warehouse, catering staff across UK.')
 @section('content')
-
+<html prefix="og: https://ogp.me/ns#">
+<meta property="og:title" content="Workers Direct"/>
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.workers-direct.com/" />
+<!-- <link href="https://temping-agency.com" rel="canonical"/> -->
+<meta name="twitter:site" content="@workersdirect">
+<meta property="twitter:account_id" content="1234567890">
+<meta property="twitter:title" content="Workers Direct">
+<meta property="twitter:description" content="Workers Direct specialised in temporary & short term staff recruitment. As one of the best Recruitment Agency
+London we provide temp & perm warehouse, catering staff across UK.">
+<meta property="twitter:card" content="summary">
+<style>
+    .heading h2 a {
+        color: #000000;
+        font-weight: 700;
+    }
+</style>
 <?php
 // $curPageName = substr($_SERVER["SCRIPT_NAME"], strrpos($_SERVER["SCRIPT_NAME"], "/") + 1);
 // if ($curPageName == 'index.php') {
@@ -292,7 +310,7 @@
                                 <div class="grid-box">
                                     <div class="iconn green"> <i class="green fa fa-h-square "></i> </div>
                                     <div class="heading">
-                                        <h1> <a> Hospitality & Catering </a> </h1>
+                                        <h2> <a> Hospitality & Catering </a> </h2>
                                     </div>
                                     <div class="content margin-top-10">
                                         <p>If you want to hire you can Submit a Job. We have a large pool of candidates, who ....</p>
@@ -313,7 +331,7 @@
                                 <div class="grid-box">
                                     <div class="iconn green"> <i class="green fa fa-user "></i> </div>
                                     <div class="heading">
-                                        <h1> <a> Admin & Reception </a> </h1>
+                                        <h2> <a> Admin & Reception </a> </h2>
                                     </div>
                                     <div class="content margin-top-10">
                                         <p>If you want to hire you can Submit a Job. We have a large pool of candidates, who always ready....</p>
@@ -334,7 +352,7 @@
                                 <div class="grid-box">
                                     <div class="iconn green"> <i class="green fa fa-graduation-cap" aria-hidden="true"></i> </div>
                                     <div class="heading">
-                                        <h1> <a> Schools & Academics </a> </h1>
+                                        <h2> <a> Schools & Academics </a> </h2>
                                     </div>
                                     <div class="content margin-top-10">
                                         <p>If you want to hire you can Submit a Job. We have a large pool of candidates, who ....</p>
@@ -355,7 +373,7 @@
                                 <div class="grid-box">
                                     <div class="iconn green"> <i class="green fa fa-medkit" aria-hidden="true"></i> </div>
                                     <div class="heading">
-                                        <h1> <a> Health & Social Care </a> </h1>
+                                        <h2> <a> Health & Social Care </a> </h2>
                                     </div>
                                     <div class="content margin-top-10">
                                         <p>If you want to hire you can Submit a Job. We have a large pool of candidates, who always ready....</p>
@@ -380,7 +398,7 @@
                                 <div class="grid-box">
                                     <div class="iconn green"> <i class="green fa fa-building" aria-hidden="true"></i> </div>
                                     <div class="heading">
-                                        <h1> <a> Trade & Construction </a> </h1>
+                                        <h2> <a> Trade & Construction </a> </h2>
                                     </div>
                                     <div class="content margin-top-10">
                                         <p>If you want to hire you can Submit a Job. We have a large pool of candidates, who ....</p>
@@ -401,7 +419,7 @@
                                 <div class="grid-box">
                                     <div class="iconn green"> <i class="green fa fa-bank" aria-hidden="true"></i> </div>
                                     <div class="heading">
-                                        <h1> <a> Warehouse & Logistics </a> </h1>
+                                        <h2> <a> Warehouse & Logistics </a> </h2>
                                     </div>
                                     <div class="content margin-top-10">
                                         <p>If you want to hire you can Submit a Job. We have a large pool of candidates, who ....</p>
@@ -422,7 +440,7 @@
                                 <div class="grid-box">
                                     <div class="iconn green"> <i class="green fa fa-code" aria-hidden="true"></i> </div>
                                     <div class="heading">
-                                        <h1> <a> IT & Technology </a> </h1>
+                                        <h2> <a> IT & Technology </a> </h2>
                                     </div>
                                     <div class="content margin-top-10">
                                         <p>If you want to hire you can Submit a Job. We have a large pool of candidates, who always ready....</p>
@@ -443,7 +461,7 @@
                                 <div class="grid-box">
                                     <div class="iconn green"> <i class="green fa fa-american-sign-language-interpreting" aria-hidden="true"></i> </div>
                                     <div class="heading">
-                                        <h1> <a> Virtual & Remote Employees </a> </h1>
+                                        <h2> <a> Virtual & Remote Employees </a> </h2>
                                     </div>
                                     <div class="content margin-top-10">
                                         <p>If you want to hire you can Submit a Job. We have a large pool of candidates, who ....</p>
@@ -479,7 +497,12 @@
             </div>
             <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
                 <!-- Youtube Iframe -->
-                <div class="embed-responsive embed-responsive-16by9 videoo"> <iframe width="560" height="315" src="https://www.youtube.com/embed/rVJ7shidmB0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div> <!-- End Youtube Iframe -->
+                <div class="embed-responsive embed-responsive-16by9 videoo">
+                    <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/rVJ7shidmB0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  -->
+                    <object data='https://www.youtube.com/embed/rVJ7shidmB0' width='560px' height='315px'>
+                    </object>
+                </div>
+                <!-- End Youtube Iframe -->
                 <h4 class="italy">Explore our Services in Minutes</h4>
                 <p class="mb-0 pl-4">&#8212; Learn the benefits</p>
             </div>
@@ -3177,7 +3200,7 @@
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                     <div class="ss_download_wrapper_details">
-                        <h1><span>Download</span><br>Job Portal App Now!</h1>
+                        <h2><span>Download</span><br>Job Portal App Now!</h2>
                         <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p> <a href="https://play.google.com/store/apps/details?id=com.mst_developers.workers_direct&hl=en" class="ss_playstore"><span><i class="fa fa-android" aria-hidden="true"></i></span> Play Store</a>
                     </div>
                 </div>

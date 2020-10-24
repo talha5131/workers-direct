@@ -1,5 +1,9 @@
 @extends('layouts.base')
 @section('title','Catering Staff')
+@section('description','Workers Direct as one of the leading catering agency have a database of professional, fully trained and security
+screened catering staff. Whether you need a Chef, Cook, Kitchen assistant or Kitchen porter, we have the staff for you, and we always ensure
+that the staff member will be the right fit')
+@section('keywords','Catering Staff')
 @section('content')
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
 <style>
@@ -30,7 +34,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Catering Staff</h2>
+                        <h1>Catering Staff</h1>
 
                     </div>
 
@@ -78,7 +82,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Catering <span>Staff</span></h1>
+                        <h2>Catering <span>Staff</span></h2>
 
                     </div>
 
@@ -86,9 +90,114 @@
 
             </div>
 
+            <div class="col-md-12">
+                <div class="box">
+                    <div class="grid-box" style="padding-left: 0px;">
+
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding-left: 0px;">
+                            <div class="section_heading section_2_heading about_text_wrapper">
+
+                                <h2> Right chef on right time </h2>
+
+                            </div>
+
+                            <div class="margin-top-60">
+
+                                <p>Workers Direct as one of the leading catering agency have a database of professional, fully trained and security screened catering staff. Whether you need a Chef, Cook, Kitchen assistant or Kitchen porter, we have the staff for you, and we always ensure that the staff member will be the right fit for your business.</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="grid-box" style="padding-left: 0px;">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding-left: 0px;">
+                            <div class="section_heading section_2_heading about_text_wrapper ">
+                                <h2> Hospitality & Catering temps we have available </h2>
+                            </div>
+                            <div class=" margin-top-60 ">
+                                <p>If you are looking for a chef, we will have the candidate for you. Our recruitment specialists will make sure that we get the right person for your kitchen, whether that is for a short term, contract or permanent position. Call the Workers Direct team and we will strive to match you with the right candidate. If you need a tandoori chef, a sushi master or a carvery king, tell us exactly what you are looking for and we will do the work of finding the best fit.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                    <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/Catering Staff/catering_staff_5.jpg" width="100%" height="200px" alt="">
+                </div>
+                <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                    <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/Catering Staff/catering_staff_4.jpg" width="100%" height="200px" alt="">
+                </div>
+                <div class="box">
+                    <div class="grid-box" style="padding-left: 0px;">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-top-30" style="padding-left: 0px;">
+                            <div class="section_heading section_2_heading about_text_wrapper">
+                                <h2> Experienced & Professionals Kitchen Crew </h2>
+                            </div>
+                            <div class="margin-top-60">
+                                <p>Any large-scale kitchen will rely upon catering assistants to keep things ticking over efficiently and seamlessly, so a vacant Assistant role can mean catering chaos! If you have staff holidays or absence coming up, or have been left unexpectedly short-handed, call us. We can arrange temporary cover with experienced Catering Assistants, even for immediate starts.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
 
-            <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
+
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-bottom-20 margin-top-50">
+
+                <div class="about_text_wrapper">
+
+                    <div class="section_heading section_2_heading margin-bottom-20">
+
+                        <h2>Hire Reliable & Flexible Hospitality,
+                            <span>Catering Agency Temps</span>
+                        </h2>
+
+                    </div>
+                    <!-- ----------- -->
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
+                        <h2 class="margin-top-30">
+                            KiChefs & Cooks
+                        </h2>
+
+                        <p>We regularly provide the professionals chefs & cooks for restaurants, schools, canteens and pubs. Staff shortage in the kitchen can not only affect your revenue but your existing staff, adding pressure to them. Don’t get caught short – call Workers Direct and we can provide cooks on permanent, contract or short term agreements. Our experienced candidates are ready to cover your staff maternity leave, sick leave or holiday absence.</p>
+                    </div>
+                    <!-- ----------- -->
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
+                        <h2 class="margin-top-30">
+                            Kitchen Porters
+                        </h2>
+
+                        <p>Do you need an extra pair of hands? Kitchen support staff such as porters are a vital component in ensuring that you have a smoothly running kitchen. Our catering recruitment specialists will make sure that your kitchen is never shorthanded. If someone is away on holiday or perhaps ill, a temporary Kitchen assistant could be the perfect solution to fill the gap. Let us take away the stress of unexpected or ill-timed absence by providing you with that extra bit of help.</p>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/Catering Staff/catering_staff_2.jpg" width="100%" height="200px" alt="">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/Catering Staff/catering_staff_1.png" width="100%" height="200px" alt="">
+                    </div>
+                    <!-- ----------- -->
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
+                        <h2 class="margin-top-30">
+                            Catering Assistants
+                        </h2>
+
+                        <p>Any large-scale kitchen will rely upon catering assistants to keep things ticking over efficiently and seamlessly, so a vacant Assistant role can mean catering chaos! If you have staff holidays or absence coming up, or have been left unexpectedly short-handed, call us. We can arrange temporary cover with experienced Catering Assistants, even for immediate starts.</p>
+                    </div>
+                    <!-- ----------- -->
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
+                        <h2 class="margin-top-30">
+                            Our Guarantee
+                        </h2>
+
+                        <p>First and foremost in the mind of all staff at Workers Direct is our guarantee: to find and match the very best candidate to the right job, at a competitive cost, and as efficiently as possible, even on short notice. With over a decade of experience we are Catering Staff Agency, and consider ourselves partners to our clients. Workers Direct is not just another agency, but a team player that you can rely upon.</p>
+
+                    </div>
+
+                </div>
+
+            </div>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
@@ -108,7 +217,7 @@
 
                                     <div class="heading ">
 
-                                        <h1> <a> Chefs All Levels </a> </h1>
+                                        <h2> <a> Chefs All Levels </a> </h2>
 
                                     </div>
 
@@ -165,7 +274,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> School Cook </a> </h1>
+                                        <h2> <a> School Cook </a> </h2>
 
                                     </div>
 
@@ -226,7 +335,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> Kitchen Assistants </a> </h1>
+                                        <h2> <a> Kitchen Assistants </a> </h2>
 
                                     </div>
 
@@ -262,7 +371,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> Serving Staff </a> </h1>
+                                        <h2> <a> Serving Staff </a> </h2>
 
                                     </div>
 
@@ -324,7 +433,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> Kitchen Porters & Cleaners </a> </h1>
+                                        <h2> <a> Kitchen Porters & Cleaners </a> </h2>
 
                                     </div>
 
@@ -385,7 +494,7 @@
 
                                     <div class="heading">
 
-                                        <h1> <a> Delivery Drivers </a> </h1>
+                                        <h2> <a> Delivery Drivers </a> </h2>
 
                                     </div>
 
@@ -428,118 +537,8 @@
                         </a>
                     </div>
                 </div>
-
-                <div class="row margin-top-60">
-                    <div class="box">
-                        <div class="grid-box">
-
-                            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
-                                <div class="section_heading section_2_heading about_text_wrapper">
-
-                                    <h2> Right chef on right time </h2>
-
-                                </div>
-
-                                <div class="content margin-top-60">
-
-                                    <p>Workers Direct as one of the leading catering agency have a database of professional, fully trained and security screened catering staff. Whether you need a Chef, Cook, Kitchen assistant or Kitchen porter, we have the staff for you, and we always ensure that the staff member will be the right fit for your business.</p>
-
-                                </div>
-                            </div>
-
-                            <div class="iconn green col-lg-4 col-md-4 col-sm-12 col-xs-12 image-style-border">
-
-                                <a href="#"><img src="public/assets/images/page-pictures/Catering Staff/catering_staff_1.png" alt="Catering Staff" width="100%" height="100%"></a>
-
-
-                            </div>
-
-
-                        </div>
-
-
-
-
-
-                    </div>
-
-                    <div class="box">
-
-                        <div class="grid-box">
-
-                            <div class="iconn green col-lg-4 col-md-4 col-sm-12 col-xs-12 image-style-border">
-
-                                <a href="#"><img src="public/assets/images/page-pictures/Catering Staff/catering_staff_3.jpg" alt="hospitality" width="100%" height="210px"></a>
-
-
-                            </div>
-
-                            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
-                                <div class="section_heading section_2_heading about_text_wrapper ">
-
-                                    <h2> Hospitality & Catering temps we have available </h2>
-
-                                </div>
-
-                                <div class="content margin-top-60 ">
-
-                                    <p>If you are looking for a chef, we will have the candidate for you. Our recruitment specialists will make sure that we get the right person for your kitchen, whether that is for a short term, contract or permanent position. Call the Workers Direct team and we will strive to match you with the right candidate. If you need a tandoori chef, a sushi master or a carvery king, tell us exactly what you are looking for and we will do the work of finding the best fit.</p>
-
-                                </div>
-                            </div>
-
-                        </div>
-
-
-
-
-
-                    </div>
-
-                    <div class="box">
-
-                        <div class="grid-box">
-
-                            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
-                                <div class="section_heading section_2_heading about_text_wrapper">
-
-                                    <h2> Experienced & Professionals Kitchen Crew </h2>
-
-                                </div>
-
-                                <div class="content margin-top-60">
-
-                                    <p>Any large-scale kitchen will rely upon catering assistants to keep things ticking over efficiently and seamlessly, so a vacant Assistant role can mean catering chaos! If you have staff holidays or absence coming up, or have been left unexpectedly short-handed, call us. We can arrange temporary cover with experienced Catering Assistants, even for immediate starts.</p>
-
-                                </div>
-                            </div>
-
-                            <div class="iconn green col-lg-4 col-md-4 col-sm-12 col-xs-12 image-style-border">
-
-                                <a href="#"><img src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/hospitality-agency-london-ojfzzk5w493ded9taxjgv5dl2mnikdjfz54npnglfo.jpg" alt="hospitality" width="100%" height="100%"></a>
-
-                            </div>
-
-
-
-
-
-                        </div>
-
-
-
-
-
-                    </div>
-
-
-
-                </div>
             </div>
-
-
-
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 ">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 ">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -759,69 +758,7 @@
 
                 </div>
 
-            </div>
-
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20 margin-top-100">
-
-                <div class="about_text_wrapper">
-
-                    <div class="section_heading section_2_heading margin-bottom-20">
-
-                        <h1>Hire Reliable & Flexible Hospitality,
-                            <span>Catering Agency Temps</span>
-                        </h1>
-
-                    </div>
-                    <!-- ----------- -->
-                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
-                        <h3 class="green margin-top-60">
-                            KiChefs & Cooks
-                        </h3>
-
-                        <p>We regularly provide the professionals chefs & cooks for restaurants, schools, canteens and pubs. Staff shortage in the kitchen can not only affect your revenue but your existing staff, adding pressure to them. Don’t get caught short – call Workers Direct and we can provide cooks on permanent, contract or short term agreements. Our experienced candidates are ready to cover your staff maternity leave, sick leave or holiday absence.</p>
-                    </div>
-                    <!-- ----------- -->
-                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
-                        <h3 class="green margin-top-60">
-                            Kitchen Porters
-                        </h3>
-
-                        <p>Do you need an extra pair of hands? Kitchen support staff such as porters are a vital component in ensuring that you have a smoothly running kitchen. Our catering recruitment specialists will make sure that your kitchen is never shorthanded. If someone is away on holiday or perhaps ill, a temporary Kitchen assistant could be the perfect solution to fill the gap. Let us take away the stress of unexpected or ill-timed absence by providing you with that extra bit of help.</p>
-                    </div>
-                    <!-- ----------- -->
-                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
-                        <h3 class="green margin-top-60">
-                            Catering Assistants
-                        </h3>
-
-                        <p>Any large-scale kitchen will rely upon catering assistants to keep things ticking over efficiently and seamlessly, so a vacant Assistant role can mean catering chaos! If you have staff holidays or absence coming up, or have been left unexpectedly short-handed, call us. We can arrange temporary cover with experienced Catering Assistants, even for immediate starts.</p>
-                    </div>
-                    <!-- ----------- -->
-                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
-                        <h3 class="green margin-top-60">
-                            Our Guarantee
-                        </h3>
-
-                        <p>First and foremost in the mind of all staff at Workers Direct is our guarantee: to find and match the very best candidate to the right job, at a competitive cost, and as efficiently as possible, even on short notice. With over a decade of experience we are Catering Staff Agency, and consider ourselves partners to our clients. Workers Direct is not just another agency, but a team player that you can rely upon.</p>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-
-
-
-
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
-
-
-
-            <!-- </div> -->
-
-
-
+            </div> -->
         </div>
 
     </div>
@@ -856,7 +793,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -892,7 +829,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
@@ -932,7 +869,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -1005,7 +942,7 @@
 
                                     <ul>
 
-                                        <li><img src="public/assets/images/content/blog_small_img.jpg" alt="small_img" class="img-circle">&nbsp;&nbsp; <a href="#">Jhon Doe</a></li>
+                                        <li><img src="public/assets/images/content/blog_small_img.jpg" alt="blog-small-img" class="img-circle">&nbsp;&nbsp; <a href="#">Jhon Doe</a></li>
 
                                     </ul>
 
@@ -1041,7 +978,7 @@
 
                                     <ul>
 
-                                        <li><img src="public/assets/images/content/blog_small_img.jpg" alt="small_img" class="img-circle">&nbsp;&nbsp; <a href="#">Jhon Doe</a></li>
+                                        <li><img src="public/assets/images/content/blog_small_img.jpg" alt="blog-small-img" class="img-circle">&nbsp;&nbsp; <a href="#">Jhon Doe</a></li>
 
                                     </ul>
 
@@ -1077,7 +1014,7 @@
 
                                     <ul>
 
-                                        <li><img src="public/assets/images/content/blog_small_img.jpg" alt="small_img" class="img-circle">&nbsp;&nbsp; <a href="#">Jhon Doe</a></li>
+                                        <li><img src="public/assets/images/content/blog_small_img.jpg" alt="blog-small-img" class="img-circle">&nbsp;&nbsp; <a href="#">Jhon Doe</a></li>
 
                                     </ul>
 
@@ -1353,7 +1290,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

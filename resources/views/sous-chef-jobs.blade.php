@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','Sous Chef Jobs | Sous Chef Vacancies | Sous Chef')
+@section('keywords','sous,chef')
+@section('description','Sous chef will work alongside with Head Chef to create fresh, seasonal menus for residents and growing regular customers. An ideal candidate must be ambitious and have real passion for creating great food also must be a team player and be able to assist with any section within the Kitchen.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Sous Chef Jobs</h2>
+                        <h1>Sous Chef Jobs</h1>
 
                     </div>
 
@@ -73,13 +75,13 @@
 
         <div class="row">
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20 pl-0">
 
                 <div class="about_text_wrapper">
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Sous Chef <span> Jobs</span></h1>
+                        <h2>Sous Chef <span> Jobs</span></h2>
 
                     </div>
 
@@ -89,22 +91,25 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
                 <div class="row about_text_wrapper ">
 
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
 
                         <p style="margin: 0;">We are recruiting a talented Sous Chefs X 2 on permanent basis for a well-known busy restaurant based in central London area.</p>
                         <p style="margin: 0;">Sous chef will work alongside with Head Chef to create fresh, seasonal menus for residents and growing regular customers. An ideal candidate must be ambitious and have real passion for creating great food also must be a team player and be able to assist with any section within the Kitchen.</p>
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
-                        <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/SOUS CHEF JOBS/sous_chef_jobs_2.jpg" width="100%" height="380px" alt="#">
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/SOUS CHEF JOBS/sous_chef_jobs_2.jpg" width="100%" height="200px" alt="">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/SOUS CHEF JOBS/sous_chef_jobs_5.jpg" width="100%" height="200px" alt="">
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60 pl-0">
                         <div class="section_heading section_2_heading ">
 
                             <h2>Main Duties / Key Responsibilities:<span></span></h2>
@@ -122,7 +127,7 @@
 
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60 pl-0">
                         <p style="margin: 0;">For immediate placement sends your CV Today.</p>
                         <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
                         <a href="# "><strong> OR Apply Online</strong></a>
@@ -133,7 +138,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -353,20 +358,7 @@
 
                 </div>
 
-            </div>
-
-
-
-
-
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
-
-
-
-            <!-- </div> -->
-
-
-
+            </div> -->
         </div>
 
     </div>
@@ -401,7 +393,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -437,7 +429,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
@@ -477,7 +469,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -897,7 +889,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

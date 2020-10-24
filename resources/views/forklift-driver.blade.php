@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','Forklift Driver Jobs - Recruitment Agency London | Workers Direct')
+@section('keywords','Forklift,Driver')
+@section('description','We are looking for a temporary CPCS industrial Forklift Operator URGENTLY (with reach & counterbalance truck experience) for minimum three months to work for our Client in Chelsea, central London.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>CPCS Forklift Driver</h2>
+                        <h1>CPCS Forklift Driver</h1>
 
                     </div>
 
@@ -79,80 +81,85 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>CPCS Forklift<span> Driver</span></h1>
+                        <h2>CPCS Forklift<span> Driver</span></h2>
 
                     </div>
 
                 </div>
 
             </div>
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-30">
-                <img class="image-style-border" src="public/assets/images/page-pictures/CPCS FORKLIFT DRIVER/cpcs_forklift_driver_1.jpg" width="100%" height="250px" alt="CPCS Forklift Driver">
-            </div>
-            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-30">
-                <img class="image-style-border" src="public/assets/images/page-pictures/CPCS FORKLIFT DRIVER/cpcs_forklift_driver_2.jpg" width="100%" height="250px" alt="CPCS Forklift Driver">
-            </div>
-            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-30">
-                <img class="image-style-border" src="public/assets/images/page-pictures/CPCS FORKLIFT DRIVER/cpcs_forklift_driver_5.jpg" width="100%" height="250px" alt="CPCS Forklift Driver">
-            </div>
+                <div class="about_text_wrapper">
 
+                    <div class="section_heading section_2_heading col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
 
-
-
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
-
-                <div class="about_text_wrapper abt_2_para">
-
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                        <table class="table table-bordered">
-
-                            <tr>
-                                <th><strong>Job Title</strong></th>
-                                <td>CPCS Industrial Forklift Driver (Reach & Counterbalance truck experience)</td>
-
-                            </tr>
-                            <tr>
-                                <th><strong>Number of Vacancies</strong></th>
-                                <td>1</td>
-                            </tr>
-                            <tr>
-                                <th><strong>Job Duration</strong></th>
-                                <td>Temporary</td>
-                            </tr>
-                            <tr>
-                                <th><strong>Job Location</strong></th>
-                                <td>Chelsea, Central London </td>
-                            </tr>
-                            <tr>
-                                <th><strong>Job Start</strong></th>
-                                <td>ASAP</td>
-                            </tr>
-                            <tr>
-                                <th><strong>Job Days</strong></th>
-                                <td>Mon to Fri – 8am to 5pm</td>
-                            </tr>
-                            <tr>
-                                <th><strong>Pay Rate</strong></th>
-                                <td>£13 – £14 per hour</td>
-                            </tr>
-
-                        </table>
+                        <p style="margin: 0;">We are looking for a temporary CPCS industrial Forklift Operator URGENTLY (with reach &
+                            counterbalance truck experience) for minimum three months to work for our Client in Chelsea, central London.
+                        </p>
+                        <p style="margin: 0;">An ideal candidate must be able to operate all kind of forklift trucks (with CPCS industrial
+                            forklift [ A16 ] License) Telehandler experience will be an advantage but not essential.
+                        </p>
+                        <p style="margin: 0;">As this role will involve the operation of a <strong> Counterbalance & Reach Forklift Truck,
+                            </strong> holding valid license / certificate is important for this position.
+                        </p>
+                        <p style="margin: 0px;">Minimum one year Forklift driving experience (reach & counterbalance) is essential, working from
+                            <strong> Monday to Friday 08:00-17:00,</strong> this will be an on-going temporary assignment (initially for three
+                            months).
+                        </p>
                     </div>
-
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/CPCS FORKLIFT DRIVER/cpcs_forklift_driver_4.jpg" width="100%" height="350px" alt="CPCS Forklift Driver">
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30 pl-0">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/CPCS FORKLIFT DRIVER/cpcs_forklift_driver_1.jpg" width="100%" height="250px" alt="CPCS Forklift Driver">
                     </div>
-
-                    <div class="section_heading section_2_heading col-lg-12 col-md-12 col-xs-12 col-sm-12">
-
-                        <p style="margin: 0;">We are looking for a temporary CPCS industrial Forklift Operator URGENTLY (with reach & counterbalance truck experience) for minimum three months to work for our Client in Chelsea, central London.</p>
-                        <p style="margin: 0;">An ideal candidate must be able to operate all kind of forklift trucks (with CPCS industrial forklift [ A16 ] License) Telehandler experience will be an advantage but not essential.</p>
-                        <p style="margin: 0;">As this role will involve the operation of a <strong> Counterbalance & Reach Forklift Truck,</strong> holding valid license / certificate is important for this position.</p>
-                        <p style="margin: 0;">Minimum one year Forklift driving experience (reach & counterbalance) is essential, working from <strong> Monday to Friday 08:00-17:00,</strong> this will be an on-going temporary assignment (initially for three months).</p>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/CPCS FORKLIFT DRIVER/cpcs_forklift_driver_2.jpg" width="100%" height="250px" alt="CPCS Forklift Driver">
                     </div>
+                    <div class="col-md-12 col-sm-12 margin-top-30 pl-0">
+                        <h2>CPCS Forklift Driver Job Requirements</h2>
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-40 pr-0">
+                            <table class="table table-bordered">
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                                <tr>
+                                    <th><strong>Job Title</strong></th>
+                                    <td>CPCS Industrial Forklift Driver (Reach & Counterbalance truck experience)</td>
+
+                                </tr>
+                                <tr>
+                                    <th><strong>Number of Vacancies</strong></th>
+                                    <td>1</td>
+                                </tr>
+                                <tr>
+                                    <th><strong>Job Duration</strong></th>
+                                    <td>Temporary</td>
+                                </tr>
+                                <tr>
+                                    <th><strong>Job Location</strong></th>
+                                    <td>Chelsea, Central London </td>
+                                </tr>
+                                <tr>
+                                    <th><strong>Job Start</strong></th>
+                                    <td>ASAP</td>
+                                </tr>
+                                <tr>
+                                    <th><strong>Job Days</strong></th>
+                                    <td>Mon to Fri – 8am to 5pm</td>
+                                </tr>
+                                <tr>
+                                    <th><strong>Pay Rate</strong></th>
+                                    <td>£13 – £14 per hour</td>
+                                </tr>
+
+                            </table>
+                        </div>
+
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30 pl-0">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/CPCS FORKLIFT DRIVER/cpcs_forklift_driver_4.jpg" width="100%" height="250px" alt="CPCS Forklift Driver">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/CPCS FORKLIFT DRIVER/cpcs_forklift_driver_5.jpg" width="100%" height="250px" alt="CPCS Forklift Driver">
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
                         <p style="margin: 0;">Please send your CV today for quick start.</p>
                         <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
                         <a href="# " class="green"><strong> OR Apply Online</strong></a>
@@ -163,7 +170,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -383,26 +390,7 @@
 
                 </div>
 
-            </div>
-
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-top-30">
-                <img class="image-style-border" src="public/assets/images/page-pictures/CPCS FORKLIFT DRIVER/cpcs_forklift_driver_3.jpg" width="100%" alt="CPCS Forklift Driver">
-            </div>
-
-
-
-
-
-
-
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
-
-
-
-            <!-- </div> -->
-
-
-
+            </div> -->
         </div>
 
     </div>
@@ -437,7 +425,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -473,7 +461,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
@@ -513,7 +501,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -933,7 +921,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','Waitress Jobs London | Hospitality Jobs London | Catering Jobs London')
+@section('keywords','waitress,jobs')
+@section('description','One of our client looking for an Experience Waitress in Central London area. MAIN JOB RESPONSIBILITIES AS WAITRESS / FRONT OF HOUSE STAFF. Serving Foods & Drinks.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Waitress</h2>
+                        <h1>Waitress</h1>
 
                     </div>
 
@@ -79,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Waitress<span></span></h1>
+                        <h2>Waitress<span></span></h2>
 
                     </div>
 
@@ -89,27 +91,33 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
 
                 <div class="about_text_wrapper">
 
 
                     <div class="section_heading section_2_heading">
+                        <div class="col-md-12">
+                            <p style="margin: 0;">One of our client looking for an Experience Waitress in Central London area.</p>
+                            <p style="margin: 0;">Competitive Pay Rate.</p>
+                        </div>
+                        <div class="margin-top-40 col-md-6">
 
-                        <p style="margin: 0;">One of our client looking for an Experience Waitress in Central London area.</p>
-                        <p style="margin: 0;">Competitive Pay Rate.</p>
-
-                        <div class="margin-top-40">
-
-                            <img class="image-style-border" src="public/assets/images/page-pictures/WAITRESS/waitress_1.jpg" width="100%" height="300px" alt="about-img">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/WAITRESS/waitress_3.jpg" width="100%" height="300px" alt="about-img">
 
                         </div>
 
-                        <div class="margin-top-20">
+                        <div class="margin-top-40 col-md-6">
+
+                            <img class="image-style-border" src="public/assets/images/page-pictures/WAITRESS/waitress_2.jpg" width="100%" height="300px" alt="about-img">
+
+                        </div>
+
+                        <div class="margin-top-20 col-md-12">
                             <h2>Main Job Responsibilities As Waitress / Front of House Staff</h2>
                         </div>
 
-                        <div class="margin-top-60">
+                        <div class="margin-top-60 col-md-12">
                             <ul>
                                 <li><i class="fa fa-caret-right"></i> Serving Foods & Drinks</li>
                                 <li><i class="fa fa-caret-right"></i> Taking Orders</li>
@@ -117,11 +125,12 @@
                                 <li><i class="fa fa-caret-right"></i> Help in Kitchen (if require)</li>
                             </ul>
                         </div>
+                        <div class="col-md-12">
+                            <p style="margin: 0;"><strong>Send Your CV for waitress jobs at</strong></p>
 
-                        <p style="margin: 0;"><strong>Send Your CV for waitress jobs at</strong></p>
-
-                        <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
-                        <a href="# " class="green"><strong> OR Apply Online</strong></a>
+                            <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
+                            <a href="# " class="green"><strong> OR Apply Online</strong></a>
+                        </div>
                     </div>
 
 
@@ -130,7 +139,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -350,7 +359,7 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
 
 
@@ -398,7 +407,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -434,7 +443,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
@@ -474,7 +483,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -894,7 +903,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','Activities Coordinator - Find Healthcare & Activities Coordinator ')
+@section('keywords','activities,coordinator')
+@section('description','To contribute to the pleasant environment of the Home with a particular remit for involving the residents in a variety of activities designed to address a wide range of interests and varied limitations on physical and mental agility.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Activities Coordinator</h2>
+                        <h1>Activities Coordinator</h1>
 
                     </div>
 
@@ -73,13 +75,13 @@
 
         <div class="row">
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20 pl-0">
 
                 <div class="about_text_wrapper">
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Activities <span> Coordinator</span></h1>
+                        <h2>Activities <span> Coordinator</span></h2>
 
                     </div>
 
@@ -89,11 +91,21 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
 
                 <div class="about_text_wrapper margin-top-30">
 
-                    <div class="col-lg-7 col-md-7 col-xs-12 col-sm-12">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
+
+                        <div class="section_heading section_2_heading">
+
+                            <h2>JOB SUMMARY ACTIVITIEIS <span> COORDINATOR</span></h2>
+
+                        </div>
+
+                        <div>
+                            <p>To contribute to the pleasant environment of the Home with a particular remit for involving the residents in a variety of activities designed to address a wide range of interests and varied limitations on physical and mental agility.</p>
+                        </div>
 
                         <table class="table table-bordered " style="width:100%">
                             <tr>
@@ -129,20 +141,14 @@
 
                     </div>
 
-                    <div class="col-lg-5 col-md-5 col-xs-12 col-sm-12">
-                        <img style="border:4px solid #7CC24D; border-radius:5px;"  src="public/assets/images/page-pictures/Activities Coordinator/activities_coordinator_2.jpg" width="100%" height="270px" alt="activities coordinator">
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/Activities Coordinator/activities_coordinator_1.jpg" width="100%" height="200px" alt="">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/Activities Coordinator/activities_coordinator_2.jpg" width="100%" height="200px" alt="">
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                        <div class="section_heading section_2_heading margin-top-60">
-
-                            <h2>JOB SUMMARY ACTIVITIEIS <span> COORDINATOR</span></h2>
-
-                        </div>
-
-                        <div>
-                            <p>To contribute to the pleasant environment of the Home with a particular remit for involving the residents in a variety of activities designed to address a wide range of interests and varied limitations on physical and mental agility.</p>
-                        </div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
 
                         <div class="section_heading section_2_heading margin-top-60">
 
@@ -170,14 +176,23 @@
                             <p>This is not intended as an exhaustive description of duties and responsibilities and may be amended following consultation with the jobholder / Activities Coordinator.</p>
                         </div>
 
-                        <div class="section_heading section_2_heading margin-top-60">
+                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                            <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/Activities Coordinator/activities_coordinator_3.jpg" width="100%" height="200px" alt="">
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                            <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/Activities Coordinator/activities_coordinator_5.jpg" width="100%" height="200px" alt="">
+                        </div>
 
-                            <h2>PERSON <span> SPECIFICATION</span></h2>
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                            <div class="section_heading section_2_heading">
 
+                                <h2>PERSON <span> SPECIFICATION</span></h2>
+
+                            </div>
                         </div>
                     </div>
 
-                    <div class="col-lg-7 col-md-7 col-xs-12 col-sm-12">
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0">
                         <div class="margin-top-60">
                             <h4>Knowledge & Qualifications</h4>
                         </div>
@@ -192,16 +207,36 @@
                             </ul>
                         </div>
                     </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <div class="about_text_wrapper section_heading section_2_heading margin-top-60 margin-bottom-60">
 
-                    <div class="col-lg-5 col-md-5 col-xs-12 col-sm-12 margin-top-60">
-                        <img style="border:4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/Activities Coordinator/activities_coordinator_1.jpg" width="100%" alt="Activities Coordinator">
+                            <h2>Skills<span></span></h2>
+
+                        </div>
+
+                        <div class="about_text_wrapper">
+                            <ul>
+                                <li><i class="fa fa-caret-right"></i> Exude enthusiasm, commitment and energy.</li>
+                                <li><i class="fa fa-caret-right"></i> Demonstrate influencing and persuasive skills.</li>
+                                <li><i class="fa fa-caret-right"></i> Display a positive and flexible attitude to teamwork.</li>
+                                <li><i class="fa fa-caret-right"></i> Demonstrate initiative and imagination.</li>
+                                <li><i class="fa fa-caret-right"></i> Exhibit a caring and understanding attitude towards the elderly.</li>
+
+                            </ul>
+
+                        </div>
                     </div>
 
+                    <div class="about_text_wrapper col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
+                        <p style="margin: 0;"><strong>To apply forward your CV to arrange an immediate interview at,</strong></p>
+                        <p style="margin: 0;"><strong>jobs@Workers-direct.com</strong></p>
+                        <a href="#" class="green"><strong> OR Apply online</strong></a>
+                    </div>
                 </div>
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-30">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-30">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -421,56 +456,7 @@
 
                 </div>
 
-            </div>
-
-
-
-            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
-                <div class="about_text_wrapper section_heading section_2_heading margin-top-60 margin-bottom-60">
-
-                    <h2>Skills<span></span></h2>
-
-                </div>
-
-                <div class="about_text_wrapper">
-                    <ul>
-                        <li><i class="fa fa-caret-right"></i> Exude enthusiasm, commitment and energy.</li>
-                        <li><i class="fa fa-caret-right"></i> Demonstrate influencing and persuasive skills.</li>
-                        <li><i class="fa fa-caret-right"></i> Display a positive and flexible attitude to teamwork.</li>
-                        <li><i class="fa fa-caret-right"></i> Demonstrate initiative and imagination.</li>
-                        <li><i class="fa fa-caret-right"></i> Exhibit a caring and understanding attitude towards the elderly.</li>
-
-                    </ul>
-
-                </div>
-            </div>
-
-            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-60">
-                <img style="border:4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/Activities Coordinator/activities_coordinator_5.jpg" width="100%" height="300px" alt="Activities Coordinator">
-            </div>
-
-            <div class="about_text_wrapper col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                <p style="margin: 0;"><strong>To apply forward your CV to arrange an immediate interview at,</strong></p>
-                <p style="margin: 0;"><strong>jobs@Workers-direct.com</strong></p>
-                <a href="#" class="green"><strong> OR Apply online</strong></a>
-            </div>
-
-            <div class="margin-top-60 col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                <img style="border:4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/Activities Coordinator/activities_coordinator_3.jpg" width="100%" alt="Activities Coordinator">
-            </div>
-
-
-
-
-
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
-
-
-
-            <!-- </div> -->
-
-
-
+            </div> -->
         </div>
 
     </div>
@@ -505,7 +491,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Hotel Experience </a> </h1>
+                                <h2> <a> Hotel Experience </a> </h2>
 
                             </div>
 
@@ -541,7 +527,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Customer Services </a> </h1>
+                                <h2> <a> Customer Services </a> </h2>
 
                             </div>
 
@@ -581,7 +567,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -1001,7 +987,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

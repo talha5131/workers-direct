@@ -1,5 +1,9 @@
 @extends('layouts.base')
 @section('title','Warehouse Staff')
+@section('description',"Stock management is a key part of any business. Does your warehouse need more staff to meet a seasonal demand? Is a
+member of your warehouse team on leave? Call Workers Direct today to be sure you have the manpower to cover the demands of your stock
+movement.")
+@section('keywords','Warehouse,Staff')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +35,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Warehouse Staff</h2>
+                        <h1>Warehouse Staff</h1>
 
                     </div>
 
@@ -79,7 +83,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Warehouse <span> Staff</span></h1>
+                        <h2>Warehouse <span> Staff</span></h2>
 
                     </div>
 
@@ -89,7 +93,7 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12" style="padding-left: 0px;">
 
                 <div class="about_text_wrapper abt_2_para">
 
@@ -100,19 +104,25 @@
 
                         </div>
 
-                        <p class="margin-bottom-20">Stock management is a key part of any business. Does your warehouse need more staff to meet a seasonal demand? Is a member of your warehouse team on leave? Call Workers Direct today to be sure you have the manpower to cover the demands of your stock movement; we have general and skilled staff that can temporarily join your team and ease the pressure.</p>
+                        <p class="margin-bottom-20">Stock management is a key part of any business. Does your warehouse need more staff to
+                            meet a seasonal demand? Is a member of your warehouse team on leave? Call Workers Direct today to be sure you
+                            have the manpower to cover the demands of your stock movement; we have general and skilled staff that can
+                            temporarily join your team and ease the pressure.
+                        </p>
 
                     </div>
 
-                    <div class="margin-top-20 col-lg-12 col-md-12 col-xs-12 col-sm-12">
-
-                        <img class="image-style-border" src="public/assets/images/page-pictures/WAREHOUSE STAFF/warehouse_staff_1.jpg" width="100%" height="270px" alt="about-img">
-
+                    <div class="margin-top-20 col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/WAREHOUSE STAFF/warehouse_staff_4.jpg" width="100%" height="270px" alt="about-img">
                     </div>
+                    <div class="margin-top-20 col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/WAREHOUSE STAFF/warehouse_staff_3.jpg" width="100%" height="270px" alt="about-img">
+                    </div>
+
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <div class="section_heading section_2_heading margin-top-20">
 
-                            <h4> Temp Agency – Skilled & Semi <span> Skilled Workers</span></h4>
+                            <h2> Temp Agency – Skilled & Semi <span> Skilled Workers</span></h2>
 
                         </div>
 
@@ -144,118 +154,68 @@
 
                     </div>
 
-                    <div class="margin-top-20 col-lg-12 col-md-12 col-xs-12 col-sm-12">
-
-                        <img class="image-style-border" src="public/assets/images/page-pictures/WAREHOUSE STAFF/warehouse_staff_6.jpeg" width="100%" height="270px" alt="about-img">
-
-                    </div>
-
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
                         <div class="section_heading section_2_heading">
-
-                            <h4> Factory Workers <span> Staffing Agency</span></h4>
-
+                            <h2> Factory Workers <span> Staffing Agency</span></h2>
                         </div>
-
                         <p class="margin-bottom-20">
-
                             Workers Direct have Skilled, Semi-skilled and Non-skilled workers available to fill the vacancy in your factory or manufacturing plant. We know how crucial it is to ensure that your business has enough staff to fulfil your orders, and can provide flexible staff that are ready to work, to help you to stay on top of demand.
-
                         </p>
 
                     </div>
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <div class="section_heading section_2_heading">
-
-                            <h4>Picker / Packer <span> Warehouse Jobs</span></h4>
-
+                            <h2>Picker / Packer <span> Warehouse Jobs</span></h2>
                         </div>
-
                         <p class="margin-bottom-20">
-
                             Are you experiencing a boom in orders? Workers Direct have experienced Pickers and Packers ready to begin work. Growing orders are useless without staff numbers that also meet your customer’s needs – contact with our <a href="#">temp agency</a> allows you access to a candidate that can help you. We match the right person to you and organise their time, so that you don’t have to waste yours advertising and interviewing.
-
                         </p>
                     </div>
 
-                    <div class="row">
+                    <div class="margin-top-20 col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/WAREHOUSE STAFF/warehouse_staff_5.jpg" width="100%" height="270px" alt="about-img">
+                    </div>
+                    <div class="margin-top-20 col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/WAREHOUSE STAFF/warehouse_staff_7.jpg" width="100%" height="270px" alt="about-img">
+                    </div>
 
-                        <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 ">
-                            <img style="border: 4px solid #7CC24D; border-radius:5px; " class="img-responsive " src="public/assets/images/page-pictures/WAREHOUSE STAFF/warehouse_staff_2.jpg" width="100%" alt="#">
-
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30">
+                        <div class="section_heading section_2_heading">
+                            <h2> Right temp on right time </h2>
                         </div>
-                        <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
-
-                            <div class="section_heading section_2_heading">
-
-                                <h2> <a> Right temp on right time </a> </h2>
-
-                            </div>
-
-                            <div class="content margin-top-10">
-
-                                <p>We all know the year is becoming roughest each month since it flinched. Saying that; would you be not sending-off that anxiety our way instead of for yourself? Why having HR to pay for sitting doing nothing throughout the year when we can do all the same in much better price and time composed? Your necessity is what we accomplish so after all we objectively being here for yourself.</p>
-
-                            </div>
-
-
+                        <div class="content margin-top-10">
+                            <p>We all know the year is becoming roughest each month since it flinched. Saying that; would you be not sending-off that anxiety our way instead of for yourself? Why having HR to pay for sitting doing nothing throughout the year when we can do all the same in much better price and time composed? Your necessity is what we accomplish so after all we objectively being here for yourself.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <div class="section_heading section_2_heading">
+                            <h2> Operatives we have available</h2>
+                        </div>
+                        <div class="content margin-top-10">
+                            <p>Workers Direct have Skilled, Semi-skilled and Non-skilled workers available to fill the vacancy in your factory or manufacturing plant. We know how crucial it is to ensure that your business has enough staff to fulfill your orders, and can provide flexible staff that are ready to work, to help you to stay on top of demand.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <div class="section_heading section_2_heading">
+                            <h2> Experienced & Professionals </h2>
+                        </div>
+                        <div class="content margin-top-10">
+                            <p>Are you experiencing a boom in orders? Workers Direct have experienced Pickers and Packers ready to begin work. Growing orders are useless without staff numbers that also meet your customer’s needs – contact with our <a href="#">staffing agency</a> allows you access to a candidate that can help you. We match the right person to you and organise their time, so that you don’t have to waste yours advertising and interviewing.</p>
                         </div>
                     </div>
 
-                    <div class="row">
-                        <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
-
-                            <div class="section_heading section_2_heading">
-
-                                <h2> <a> Operatives we have available </a> </h2>
-
-                            </div>
-
-                            <div class="content margin-top-10">
-
-                                <p>Workers Direct have Skilled, Semi-skilled and Non-skilled workers available to fill the vacancy in your factory or manufacturing plant. We know how crucial it is to ensure that your business has enough staff to fulfill your orders, and can provide flexible staff that are ready to work, to help you to stay on top of demand.</p>
-
-                            </div>
-
-
-                        </div>
-                        <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
-                            <img style="border: 4px solid #7CC24D; border-radius:5px;" class="img-responsive " src="public/assets/images/page-pictures/WAREHOUSE STAFF/warehouse_staff_3.jpg" width="100%" alt="#">
-
-                        </div>
+                    <div class="margin-top-20 col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/WAREHOUSE STAFF/warehouse_staff_2.jpg" width="100%" height="270px" alt="about-img">
                     </div>
-                    <div class="row">
-                        <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 ">
-                            <img style="border: 4px solid #7CC24D; border-radius:5px; height:200px;" class="img-responsive " src="public/assets/images/page-pictures/WAREHOUSE STAFF/warehouse_staff_5.jpg" width="100%" alt="#">
-
-                        </div>
-                        <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
-
-                            <div class="section_heading section_2_heading">
-
-                                <h2> <a> Experienced & Professionals </a> </h2>
-
-                            </div>
-
-                            <div class="content margin-top-10">
-
-                                <p>Are you experiencing a boom in orders? Workers Direct have experienced Pickers and Packers ready to begin work. Growing orders are useless without staff numbers that also meet your customer’s needs – contact with our <a href="#">staffing agency</a> allows you access to a candidate that can help you. We match the right person to you and organise their time, so that you don’t have to waste yours advertising and interviewing.</p>
-
-                            </div>
-
-
-                        </div>
+                    <div class="margin-top-20 col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/WAREHOUSE STAFF/warehouse_staff_6.jpeg" width="100%" height="270px" alt="about-img">
                     </div>
-
-
-
-
 
                 </div>
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -475,7 +435,7 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
 
 
@@ -506,15 +466,9 @@
         <div class="row">
 
             <div class="row">
-
-                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
-
-                    <a href="#">
-
+                <div class="col-md-12">
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
                         <div class="box">
-
-
-
                             <div class="grid-box">
 
                                 <div class="iconn green">
@@ -525,7 +479,7 @@
 
                                 <div class="heading">
 
-                                    <h1> <a> Pickers & Packers </a> </h1>
+                                    <h2> <a> Pickers & Packers </a> </h2>
 
                                 </div>
 
@@ -534,35 +488,15 @@
                                     <p>Our reliable & flexible packing staff are ready to join any busy warehouse.</p>
 
                                 </div>
-
-
                             </div>
-
-                            <div class="grid-box-1">
-
-                                <div class="img-section">
-
-                                    <div class="middle">
-
-                                        <i class="green fa fa-plus-circle"></i>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-
-
-
 
                         </div>
 
-                    </a> </div>
+                    </div>
 
-                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
 
-                    <a href="#">
+
 
                         <div class="box">
 
@@ -578,7 +512,7 @@
 
                                 <div class="heading">
 
-                                    <h1> <a>Warehouse Operatives </a> </h1>
+                                    <h2> <a>Warehouse Operatives </a> </h2>
 
                                 </div>
 
@@ -592,33 +526,14 @@
 
                             </div>
 
-                            <div class="grid-box-1">
-
-                                <div class="img-section">
-
-                                    <div class="middle">
-
-                                        <i class="fa fa-plus-circle"></i>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-
-
-
-
                         </div>
 
-                    </a>
 
-                </div>
 
-                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
 
-                    <a href="#">
+
 
                         <div class="box">
 
@@ -634,7 +549,7 @@
 
                                 <div class="heading">
 
-                                    <h1> <a> Delivery Drivers </a> </h1>
+                                    <h2> <a> Delivery Drivers </a> </h2>
 
                                 </div>
 
@@ -646,172 +561,118 @@
 
 
                             </div>
+                        </div>
 
-                            <div class="grid-box-1">
 
-                                <div class="img-section">
 
-                                    <div class="middle">
+                    </div>
+                </div>
+                <div class="col-md-12" style="margin-top: 20px;">
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+                        <div class="box">
 
-                                        <i class="fa fa-plus-circle"></i>
+                            <div class="grid-box">
 
-                                    </div>
+                                <div class="iconn green">
+
+                                    <i class=" font-size-icon green far fa-check-square"></i>
+
+                                </div>
+
+                                <div class="heading">
+
+                                    <h2> <a> Relevant Experience </a> </h2>
+
+                                </div>
+
+                                <div class="content margin-top-10">
+
+                                    <p>We make sure all our operatvies Must have minimum 2 - 5 years relevant Experience.</p>
 
                                 </div>
 
                             </div>
 
+                        </div>
 
+
+
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+
+
+
+                        <div class="box">
+
+
+
+                            <div class="grid-box">
+
+                                <div class="iconn green">
+
+                                    <i class="font-size-icon green far fa-hand-point-down"></i>
+
+                                </div>
+
+                                <div class="heading">
+
+                                    <h2> <a> 24/7 Availability </a> </h2>
+
+                                </div>
+
+                                <div class="content margin-top-10">
+
+                                    <p>Our Customer Service staff available online & on phone 24/7 to fill any urgent vacancy.</p>
+
+                                </div>
+
+
+
+                            </div>
 
 
 
                         </div>
 
-                    </a>
 
+
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+
+                        <div class="box">
+
+
+
+                            <div class="grid-box">
+
+                                <div class="iconn green">
+
+                                    <i class="green font-size-icon fas fa-paper-plane"></i>
+
+                                </div>
+
+                                <div class="heading">
+
+                                    <h2> <a> Flexible & Reliable Staffing </a> </h2>
+
+                                </div>
+
+                                <div class="content margin-top-10">
+
+                                    <p>As one of the leading staffing agency in UK, All our temps are fully able to start on short notice whenever require.</p>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
                 </div>
-
             </div>
-
-
-
         </div>
-
-
-
     </div>
-
 </div>
-<div class="col-lg-3 col-md-3 col-xs-12 col-sm-12 "></div>
-<div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 ">
-    <img style="border: 4px solid #7CC24D; border-radius:5px; height:300px;" class="img-responsive " src="https://workers-direct.com/wp-content/uploads/2014/02/Warehouse-Staffing-1024x683.jpg" width="100%" alt="#">
-
-</div>
-<div class="col-lg-3 col-md-3 col-xs-12 col-sm-12 "></div>
-
-<div class="jp_best_deal_main_wrapper">
-
-    <div class="container">
-
-        <div class="row">
-
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
-
-                <a href="#">
-
-                    <div class="box">
-
-                        <div class="grid-box">
-
-                            <div class="iconn green">
-
-                                <i class=" font-size-icon green far fa-check-square"></i>
-
-                            </div>
-
-                            <div class="heading">
-
-                                <h1> <a> Relevant Experience </a> </h1>
-
-                            </div>
-
-                            <div class="content margin-top-10">
-
-                                <p>We make sure all our operatvies Must have minimum 2 - 5 years relevant Experience.</p>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </a>
-
-            </div>
-
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
-
-                <a href="#">
-
-                    <div class="box">
-
-
-
-                        <div class="grid-box">
-
-                            <div class="iconn green">
-
-                                <i class="font-size-icon green far fa-hand-point-down"></i>
-
-                            </div>
-
-                            <div class="heading">
-
-                                <h1> <a> 24/7 Availability </a> </h1>
-
-                            </div>
-
-                            <div class="content margin-top-10">
-
-                                <p>Our Customer Service staff available online & on phone 24/7 to fill any urgent vacancy.</p>
-
-                            </div>
-
-
-
-                        </div>
-
-
-
-                    </div>
-
-                </a>
-
-            </div>
-
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
-
-                <a href="#">
-
-                    <div class="box">
-
-
-
-                        <div class="grid-box">
-
-                            <div class="iconn green">
-
-                                <i class="green font-size-icon fas fa-paper-plane"></i>
-
-                            </div>
-
-                            <div class="heading">
-
-                                <h1> <a> Flexible & Reliable Staffing </a> </h1>
-
-                            </div>
-
-                            <div class="content margin-top-10">
-
-                                <p>As one of the leading staffing agency in UK, All our temps are fully able to start on short notice whenever require.</p>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </a>
-
-            </div>
-
-        </div>
-
-
-    </div>
-
-</div>
-<!-- jp career Wrapper Start -->
 
 <div class="jp_career_main_wrapper">
 
@@ -1207,7 +1068,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

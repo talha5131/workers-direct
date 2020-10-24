@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','Nursery Nurses Jobs in London | Nursery Assistant Jobs')
+@section('keywords','nursery,nurses')
+@section('description','We are recruiting level 2 / 3 qualified nursery nurses for a well-established children’s nursery in chad well heath area, we are looking for somebody who is passionate about working with children and is seeking further training and career progression opportunities.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Nursery Nurses</h2>
+                        <h1>Nursery Nurses</h1>
 
                     </div>
 
@@ -79,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Nursery <span> Nurses</span></h1>
+                        <h2>Nursery <span> Nurses</span></h2>
 
                     </div>
 
@@ -89,11 +91,21 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper ">
 
                     <div class="section_heading section_2_heading row">
+
+                        <div class="section_heading section_2_heading col-md-12 margin-top-20">
+
+                            <h4>Job <span> Description</span></h4>
+
+                        </div>
+
+                        <div class="col-md-12">
+                            <p>We are recruiting level 2 / 3 qualified nursery nurses for a well-established children’s nursery in chad well heath area, we are looking for somebody who is passionate about working with children and is seeking further training and career progression opportunities.</p>
+                        </div>
 
                         <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                             <table class="table table-bordered " style="width:100%">
@@ -131,7 +143,11 @@
 
                         </div>
 
-                        <div class=" col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <div class=" col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/NURSERY NURSES/nursery_nurses_1.jpg" width="100%" height="310px" alt="IT Support">
+                        </div>
+
+                        <div class=" col-lg-6 col-md-6 col-xs-12 col-sm-12">
                             <img class="image-style-border" src="public/assets/images/page-pictures/NURSERY NURSES/nursery_nurses_2.jpg" width="100%" height="310px" alt="IT Support">
                         </div>
 
@@ -142,15 +158,7 @@
 
                     <div class="section_heading section_2_heading margin-top-60">
 
-                        <div class="section_heading section_2_heading ">
 
-                            <h2>Job <span> Description</span></h2>
-
-                        </div>
-
-                        <div>
-                            <p>We are recruiting level 2 / 3 qualified nursery nurses for a well-established children’s nursery in chad well heath area, we are looking for somebody who is passionate about working with children and is seeking further training and career progression opportunities.</p>
-                        </div>
 
                         <div class="section_heading section_2_heading margin-top-60">
 
@@ -161,9 +169,7 @@
                             <p>Following early years curriculum and planning and implementing learning and creative activities for children, working as part of team, following safeguarding and health and safety policies and procedures, supervising play, carrying out observations of children. Interacting with parents and updating them on child’s day and monitoring progress.</p>
                         </div>
 
-                        <div>
-                            <img class="image-style-border" src="public/assets/images/page-pictures/NURSERY NURSES/nursery_nurses_1.jpg" width="100%" height="450px" alt="IT Support">
-                        </div>
+
 
                         <div class="section_heading section_2_heading margin-top-40 ">
 
@@ -209,7 +215,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -429,7 +435,7 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
 
 
@@ -477,7 +483,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -513,7 +519,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
@@ -553,7 +559,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -973,7 +979,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','Virtual Assistant | Find PA & admin Assistants | London Temp Agency')
+@section('keywords','virtual,assistant')
+@section('description',' Interacts with hiring managers and supervisors regarding a recruitment strategy to ensure a complete understanding of their needs in order to find a suitable match for their open position.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Virtual Assistant</h2>
+                        <h1>Virtual Assistant</h1>
 
                     </div>
 
@@ -79,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Virtual <span> Assistant</span></h1>
+                        <h2>Virtual <span> Assistant</span></h2>
 
                     </div>
 
@@ -89,29 +91,48 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper">
-
-                    <div>
-                    </div>
+                <div class="about_text_wrapper row">
 
 
-
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <!-- <div class="section_heading section_2_heading margin-top-60">
 
                         <h2>Find Experinced Administrators / Personal Assistants – Who Can Work On <span> Reomte Basis</span></h2>
 
-                        <img class="image-style-border margin-top-50" src="public/assets/images/page-pictures/VIRTUAL ASSISTANT/virtual_assistant_2.jpg" width="100%" alt="Virtual Assistant Jobs">
+                    </div> -->
+                    <div class="margin-top-40 col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <h4>What skills you will need</h4>
+                    </div>
+
+                    <div class="margin-top-40 col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <ul>
+                            <li><i class="fa fa-caret-right"></i> 2 year of call center agent hiring and virtual assistant jobs experience.</li>
+                            <li><i class="fa fa-caret-right"></i> Maintain regular and reliable attendance, including the daily schedule as assigned.</li>
+                            <li><i class="fa fa-caret-right"></i> Consistently meeting hiring targets.</li>
+                            <li><i class="fa fa-caret-right"></i> Flexible with the working schedule; may be expected to work weekends, holidays and event.</li>
+                            <li><i class="fa fa-caret-right"></i> Computer proficiency with application.</li>
+                            <li><i class="fa fa-caret-right"></i> Confidence in your hiring techniques.</li>
+                            <li><i class="fa fa-caret-right"></i> Professional appearance and conduct.</li>
+                        </ul>
+                    </div>
+                    <div class="margin-top-40 col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <img class="image-style-border " src="public/assets/images/page-pictures/VIRTUAL ASSISTANT/virtual_assistant_2.jpg" width="100%" height="300px" alt="Virtual Assistant Jobs">
+                    </div>
+
+                    <div class="margin-top-40 col-lg-6 col-md-6 col-xs-12 col-sm-12">
+
+                        <img class="image-style-border" src="public/assets/images/page-pictures/VIRTUAL ASSISTANT/virtual_assistant_1.jpg" width="100%" height="300px" alt="about-img">
 
                     </div>
-                    <div class="section_heading section_2_heading margin-top-30">
+
+                    <div class="section_heading section_2_heading margin-top-30 col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
                         <h4>Main Responsibilities of <span> Virtual Assistants</span></h4>
 
                     </div>
 
-                    <div class="margin-top-30">
+                    <div class="margin-top-30 col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <ul>
                             <li><i class="fa fa-caret-right"></i> Interacts with hiring managers and supervisors regarding a recruitment strategy to ensure a complete understanding of their needs in order to find a suitable match for their open position.</li>
                             <li><i class="fa fa-caret-right"></i> Coordinates full cycle recruiting process to include: prepares employment advertisements and places them in an appropriate distribution channel to attract best applicant pool; oversees the routing of all position requisitions in compliance with ATS requirements; Administer on line assessments and track completion and success rates , conducts video interviews with candidates to further assess qualifications for the job and fit; initiates employment offers and ensures new hire paperwork is complete promptly and accurately.</li>
@@ -128,30 +149,11 @@
                         </ul>
                     </div>
 
-                    <div class="margin-top-40">
-
-                        <img class="image-style-border" src="public/assets/images/page-pictures/VIRTUAL ASSISTANT/virtual_assistant_1.jpg" width="100%" height="400px" alt="about-img">
-
-                    </div>
 
 
-                    <div class="margin-top-40">
-                        <h4>What skills you will need</h4>
-                    </div>
 
-                    <div class="margin-top-40">
-                        <ul>
-                            <li><i class="fa fa-caret-right"></i> 2 year of call center agent hiring and virtual assistant jobs experience.</li>
-                            <li><i class="fa fa-caret-right"></i> Maintain regular and reliable attendance, including the daily schedule as assigned.</li>
-                            <li><i class="fa fa-caret-right"></i> Consistently meeting hiring targets.</li>
-                            <li><i class="fa fa-caret-right"></i> Flexible with the working schedule; may be expected to work weekends, holidays and event.</li>
-                            <li><i class="fa fa-caret-right"></i> Computer proficiency with application.</li>
-                            <li><i class="fa fa-caret-right"></i> Confidence in your hiring techniques.</li>
-                            <li><i class="fa fa-caret-right"></i> Professional appearance and conduct.</li>
-                        </ul>
-                    </div>
 
-                    <div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <p><strong> jobs@Workers-direct.com</strong></p>
                         <a href="#" class="green"><strong> OR Apply online now</strong></a>
                     </div>
@@ -160,7 +162,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -380,7 +382,7 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
 
 
@@ -428,7 +430,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Hotel Experience </a> </h1>
+                                <h2> <a> Hotel Experience </a> </h2>
 
                             </div>
 
@@ -464,7 +466,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Customer Services </a> </h1>
+                                <h2> <a> Customer Services </a> </h2>
 
                             </div>
 
@@ -504,7 +506,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -924,7 +926,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

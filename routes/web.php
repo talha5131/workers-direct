@@ -31,9 +31,10 @@ Route::get('/why-us', function () {
 Route::get('/terms-&-conditions', function () {
     return view('terms-&-conditions');
 });
-Route::get('/submit-a-job', function () {
-    return view('submit-a-job');
-});
+Route::get('/submit-a-job', 'JobController@Postajob');
+
+Route::post('/submit-a-job', 'JobController@PostJob');
+
 Route::get('/register', function () {
     return view('register');
 });
@@ -55,9 +56,10 @@ Route::get('/listing-right', function () {
 Route::get('/listing-left', function () {
     return view('listing-left');
 });
-Route::get('/job-seeker', function () {
-    return view('job-seeker');
-});
+Route::get('/job-seeker', 'JobController@Seekajob' );
+
+Route::post('/job-seeker', 'JobController@SeekJob' );
+
 Route::get('/index_vi', function () {
     return view('index_vi');
 });
@@ -297,4 +299,7 @@ Route::get('/temporary-jobs', function () {
 });
 Route::get('/temp-agencies-near-me', function () {
     return view('temp-agencies-near');
+});
+Route::get('/admin', function () {
+    return view('admin.index');
 });

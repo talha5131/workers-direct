@@ -1,5 +1,7 @@
 @extends('layouts.base')
-@section('title','Beautician Jobs London | Beautician Jobs in London | Saloon Jobs London')
+@section('title','Beautician Jobs London | Saloon Jobs London')
+@section('keywords','beautician,jobs')
+@section('description',' One of client looking for experienced level 2 / 3 beauticians ASAP in West End Central London area. Main responsibilities will involve Manicure, Pedicure and Waxing, etc.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Beautician</h2>
+                        <h1>Beautician</h1>
 
                     </div>
 
@@ -79,30 +81,39 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Beautician<span></span></h1>
+                        <h2>Beautician<span></span></h2>
 
                     </div>
 
                 </div>
 
             </div>
-            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-10">
-                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/beautician/beautician_1.jpg" width="100%" alt="Beautician">
-            </div>
-            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-10">
+
+            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-10">
                 <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/beautician/beautician_2.jpg" width="100%" alt="Beautician">
-            </div>
-            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-10">
-                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/beautician/beautician_3.jpg" width="100%" alt="Beautician">
-            </div>
+            </div> -->
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper margin-top-30">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-                    <div>
+                <div class="about_text_wrapper  row">
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <p style="margin: 0;">One of client looking for experienced level 2 / 3 beauticians ASAP in West End Central London area.</p>
+                        <p style="margin: 0;">Main responsibilities will involve Manicure, Pedicure and Waxing, etc.</p>
+                    </div>
+
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img class="image-class-border" src="public/assets/images/page-pictures/beautician/beautician_1.jpg" width="100%" alt="Beautician">
+                    </div>
+
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img class="image-class-border" src="public/assets/images/page-pictures/beautician/beautician_3.jpg" width="100%" alt="Beautician">
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30">
                         <table class="table table-bordered " style="width:100%">
                             <tr>
                                 <th>Job Title</th>
@@ -124,21 +135,22 @@
                                 <th>Salary</th>
                                 <td>£8.00 to £10.00 per hour (depends on experience)</td>
                             </tr>
-                            
+
                         </table>
                     </div>
 
-                   
 
-                    <div class="margin-top-50">
-                        <p style="margin: 0;">One of client looking for experienced level 2 / 3  beauticians ASAP in West End Central London area.</p>
-                        <p style="margin: 0;">Main responsibilities will involve Manicure, Pedicure and Waxing, etc.</p>
+
+
+
+                    <div class=" col-lg-12 col-md-12 col-xs-12 col-sm-12">
+
                         <p style="margin: 0;"><strong>If you’re interested please send your CV to arrange an immediate interview.</strong></p>
                     </div>
 
-                    
 
-                    <div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                         <p><strong> jobs@Workers-direct.com</strong></p>
                         <a href="#" class="green"><strong> OR Apply online now</strong></a>
                     </div>
@@ -147,7 +159,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-30">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-30">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -367,7 +379,7 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
 
 
@@ -415,7 +427,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Hotel Experience </a> </h1>
+                                <h2> <a> Hotel Experience </a> </h2>
 
                             </div>
 
@@ -451,7 +463,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Customer Services </a> </h1>
+                                <h2> <a> Customer Services </a> </h2>
 
                             </div>
 
@@ -491,7 +503,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -911,7 +923,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

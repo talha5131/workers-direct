@@ -1,8 +1,11 @@
 @extends('layouts.base')
 @section('title','Van Drivers | Van Driving Jobs in London | Luton Van Drivers')
+@section('keywords','van,drivers')
+@section('description','We are recruiting two temporary Van Drivers for one our client based in East London area. The main duties will be to drive a 3.5t luton van around London area dropping off and collecting boxes. Additionally, general warehouse duties if and when required. Light to medium lifting will be involved.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
+
 <style>
     .font-size-icon {
         font-size: 55px;
@@ -31,7 +34,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Van Drivers</h2>
+                        <h1>Van Drivers</h1>
 
                     </div>
 
@@ -79,7 +82,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Van <span> Drivers</span></h1>
+                        <h2>Van <span> Drivers</span></h2>
 
                     </div>
 
@@ -89,13 +92,36 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper ">
 
                     <div class="section_heading section_2_heading row">
 
-                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <div class="section_heading section_2_heading col-md-12 margin-top-40">
+                            <h4>
+                                Job <span>Summary</span>
+                            </h4>
+                        </div>
+                        <div class="col-md-12">
+                            <p style="margin: 0;">We are recruiting two temporary Van Drivers for one our client based in East London area.</p>
+                            <p style="margin: 0;">The main duties will be to drive a 3.5t luton van around London area dropping off and collecting boxes. Additionally, general warehouse duties if and when required. Light to medium lifting will be involved.</p>
+                            <p style="margin: 0;">Ideal candidates must hold clean full B1 driving license, with at least three years experience of driving a 3.5t vehicle, preferably luton van. Good command of spoken and written English is a must. Reach truck/ Forklift driving experience will be an advantage.</p>
+                        </div>
+
+                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12  margin-top-40">
+
+                            <img class="image-style-border" src="public/assets/images/page-pictures/VAN DRIVERS/van_drivers_2.jpg" width="100%" height="300px" alt="about-img">
+
+                        </div>
+
+                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-40">
+
+                            <img class="image-style-border" src="public/assets/images/page-pictures/VAN DRIVERS/van_drivers_1.jpg" width="100%" height="300px" alt="about-img">
+
+                        </div>
+
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30">
                             <table class="table table-bordered " style="width:100%">
                                 <tr>
                                     <th>Job Title</th>
@@ -125,37 +151,29 @@
                             </table>
 
                         </div>
-                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12  ">
 
-                            <img class="image-style-border" src="public/assets/images/page-pictures/VAN DRIVERS/van_drivers_2.jpg" width="100%" height="240px" alt="about-img">
-
-                        </div>
 
 
                     </div>
 
                     <div class="section_heading section_2_heading margin-top-20">
 
-                        <div class="section_heading section_2_heading">
 
-                            <h2>Job <spanSummary</span> </h2> </div> <p style="margin: 0;">We are recruiting two temporary Van Drivers for one our client based in East London area.</p>
-                                    <p style="margin: 0;">The main duties will be to drive a 3.5t luton van around London area dropping off and collecting boxes. Additionally, general warehouse duties if and when required. Light to medium lifting will be involved.</p>
-                                    <p style="margin: 0;">Ideal candidates must hold clean full B1 driving license, with at least three years experience of driving a 3.5t vehicle, preferably luton van. Good command of spoken and written English is a must. Reach truck/ Forklift driving experience will be an advantage.</p>
-                                    <p style="margin: 0;">Working days are <strong> Monday- Friday</strong> (may require overtime on busy days).</p>
+                        <p style="margin: 0;">Working days are <strong> Monday- Friday</strong> (may require overtime on busy days).</p>
 
-                                    <p style="margin: 0;">If you are interested send your CV or Call us on <strong>(020)30869080</strong> for immediate placement.</p>
+                        <p style="margin: 0;">If you are interested send your CV or Call us on <strong>(020)30869080</strong> for immediate placement.</p>
 
-                                    <p><strong>jobs@ Workers-direct.com</strong></p>
-                                    <a href="# " class="green"><strong> OR Apply Online</strong></a>
-                        </div>
-
-
-
+                        <p><strong>jobs@ Workers-direct.com</strong></p>
+                        <a href="# " class="green"><strong> OR Apply Online</strong></a>
                     </div>
+
+
 
                 </div>
 
-                <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            </div>
+
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                     <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -375,281 +393,279 @@
 
                     </div>
 
-                </div>
+                </div> -->
 
 
 
 
 
-                <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
+            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
 
 
 
-                <!-- </div> -->
+            <!-- </div> -->
 
 
-
-            </div>
 
         </div>
 
     </div>
 
-
-
-    <!-- jp best deal Wrapper Start -->
+</div>
 
 
 
-    <div class="jp_best_deal_main_wrapper">
+<!-- jp best deal Wrapper Start -->
 
-        <div class="container">
 
-            <div class="row">
 
-                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+<div class="jp_best_deal_main_wrapper">
 
-                    <a href="#">
+    <div class="container">
 
-                        <div class="box">
+        <div class="row">
 
-                            <div class="grid-box">
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
 
-                                <div class="iconn green">
+                <a href="#">
 
-                                    <i class=" font-size-icon green far fa-check-square"></i>
+                    <div class="box">
 
-                                </div>
+                        <div class="grid-box">
 
-                                <div class="heading">
+                            <div class="iconn green">
 
-                                    <h1> <a> Relevant Experience </a> </h1>
+                                <i class=" font-size-icon green far fa-check-square"></i>
 
-                                </div>
+                            </div>
 
-                                <div class="content margin-top-10">
+                            <div class="heading">
 
-                                    <p>We make sure all our operatvies Must have minimum 2 - 5 years relevant Experience.</p>
+                                <h2> <a> Relevant Experience </a> </h2>
 
-                                </div>
+                            </div>
+
+                            <div class="content margin-top-10">
+
+                                <p>We make sure all our operatvies Must have minimum 2 - 5 years relevant Experience.</p>
 
                             </div>
 
                         </div>
 
-                    </a>
+                    </div>
 
-                </div>
-
-                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
-
-                    <a href="#">
-
-                        <div class="box">
-
-
-
-                            <div class="grid-box">
-
-                                <div class="iconn green">
-
-                                    <i class="font-size-icon green far fa-hand-point-down"></i>
-
-                                </div>
-
-                                <div class="heading">
-
-                                    <h1> <a> 24/7 Availability </a> </h1>
-
-                                </div>
-
-                                <div class="content margin-top-10">
-
-                                    <p>Our Customer Service staff available online & on phone 24/7 to fill any urgent vacancy.</p>
-
-                                </div>
-
-
-
-                            </div>
-
-
-
-                        </div>
-
-                    </a>
-
-                </div>
-
-                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
-
-                    <a href="#">
-
-                        <div class="box">
-
-
-
-                            <div class="grid-box">
-
-                                <div class="iconn green">
-
-                                    <i class="green font-size-icon fas fa-paper-plane"></i>
-
-                                </div>
-
-                                <div class="heading">
-
-                                    <h1> <a> Flexible & Reliable </a> </h1>
-
-                                </div>
-
-                                <div class="content margin-top-10">
-
-                                    <p>All our temps are fully able to start on short noitce whenever require.</p>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                    </a>
-
-                </div>
+                </a>
 
             </div>
 
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
 
-        </div>
+                <a href="#">
 
-    </div>
-    <!-- jp career Wrapper Start -->
+                    <div class="box">
 
-    <div class="jp_career_main_wrapper">
 
-        <div class="container">
 
-            <div class="row">
+                        <div class="grid-box">
 
-                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <div class="iconn green">
 
-                    <div class="jp_hiring_slider_main_wrapper">
+                                <i class="font-size-icon green far fa-hand-point-down"></i>
 
-                        <div class="jp_career_slider_heading_wrapper">
+                            </div>
 
-                            <h2>Career advice</h2>
+                            <div class="heading">
+
+                                <h2> <a> 24/7 Availability </a> </h2>
+
+                            </div>
+
+                            <div class="content margin-top-10">
+
+                                <p>Our Customer Service staff available online & on phone 24/7 to fill any urgent vacancy.</p>
+
+                            </div>
+
+
 
                         </div>
 
-                        <div class="jp_career_slider_wrapper">
 
-                            <div class="owl-carousel owl-theme">
 
-                                <div class="item jp_recent_main">
+                    </div>
 
-                                    <div class="jp_career_main_box_wrapper">
+                </a>
 
-                                        <div class="jp_career_img_wrapper">
+            </div>
 
-                                            <img src="public/assets/images/content/car_img1.jpg" alt="career_img" />
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
 
-                                        </div>
+                <a href="#">
 
-                                        <div class="jp_career_cont_wrapper">
+                    <div class="box">
 
-                                            <p><i class="fa fa-calendar"></i>&nbsp;&nbsp; <a href="#">20 OCT, 2017</a></p>
 
-                                            <h3><a href="#">Hey Seeker, It’s Time</a></h3>
 
-                                            <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat.</p>
+                        <div class="grid-box">
 
-                                        </div>
+                            <div class="iconn green">
+
+                                <i class="green font-size-icon fas fa-paper-plane"></i>
+
+                            </div>
+
+                            <div class="heading">
+
+                                <h2> <a> Flexible & Reliable </a> </h2>
+
+                            </div>
+
+                            <div class="content margin-top-10">
+
+                                <p>All our temps are fully able to start on short noitce whenever require.</p>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </a>
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+</div>
+<!-- jp career Wrapper Start -->
+
+<div class="jp_career_main_wrapper">
+
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+                <div class="jp_hiring_slider_main_wrapper">
+
+                    <div class="jp_career_slider_heading_wrapper">
+
+                        <h2>Career advice</h2>
+
+                    </div>
+
+                    <div class="jp_career_slider_wrapper">
+
+                        <div class="owl-carousel owl-theme">
+
+                            <div class="item jp_recent_main">
+
+                                <div class="jp_career_main_box_wrapper">
+
+                                    <div class="jp_career_img_wrapper">
+
+                                        <img src="public/assets/images/content/car_img1.jpg" alt="career_img" />
 
                                     </div>
 
-                                    <div class="jp_career_slider_bottom_cont">
+                                    <div class="jp_career_cont_wrapper">
 
-                                        <ul>
+                                        <p><i class="fa fa-calendar"></i>&nbsp;&nbsp; <a href="#">20 OCT, 2017</a></p>
 
-                                            <li><img src="public/assets/images/content/blog_small_img.jpg" alt="small_img" class="img-circle">&nbsp;&nbsp; <a href="#">Jhon Doe</a></li>
+                                        <h3><a href="#">Hey Seeker, It’s Time</a></h3>
 
-                                        </ul>
-
-                                        <p><a href="#"><i class="fa fa-comments"></i></a></p>
+                                        <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat.</p>
 
                                     </div>
 
                                 </div>
 
-                                <div class="item jp_recent_main">
+                                <div class="jp_career_slider_bottom_cont">
 
-                                    <div class="jp_career_main_box_wrapper">
+                                    <ul>
 
-                                        <div class="jp_career_img_wrapper">
+                                        <li><img src="public/assets/images/content/blog_small_img.jpg" alt="small_img" class="img-circle">&nbsp;&nbsp; <a href="#">Jhon Doe</a></li>
 
-                                            <img src="public/assets/images/content/car_img2.jpg" alt="career_img" />
+                                    </ul>
 
-                                        </div>
+                                    <p><a href="#"><i class="fa fa-comments"></i></a></p>
 
-                                        <div class="jp_career_cont_wrapper">
+                                </div>
 
-                                            <p><i class="fa fa-calendar"></i>&nbsp;&nbsp; <a href="#">20 OCT, 2017</a></p>
+                            </div>
 
-                                            <h3><a href="#">Hey Seeker, It’s Time</a></h3>
+                            <div class="item jp_recent_main">
 
-                                            <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat.</p>
+                                <div class="jp_career_main_box_wrapper">
 
-                                        </div>
+                                    <div class="jp_career_img_wrapper">
+
+                                        <img src="public/assets/images/content/car_img2.jpg" alt="career_img" />
 
                                     </div>
 
-                                    <div class="jp_career_slider_bottom_cont">
+                                    <div class="jp_career_cont_wrapper">
 
-                                        <ul>
+                                        <p><i class="fa fa-calendar"></i>&nbsp;&nbsp; <a href="#">20 OCT, 2017</a></p>
 
-                                            <li><img src="public/assets/images/content/blog_small_img.jpg" alt="small_img" class="img-circle">&nbsp;&nbsp; <a href="#">Jhon Doe</a></li>
+                                        <h3><a href="#">Hey Seeker, It’s Time</a></h3>
 
-                                        </ul>
-
-                                        <p><a href="#"><i class="fa fa-comments"></i></a></p>
+                                        <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat.</p>
 
                                     </div>
 
                                 </div>
 
-                                <div class="item jp_recent_main">
+                                <div class="jp_career_slider_bottom_cont">
 
-                                    <div class="jp_career_main_box_wrapper">
+                                    <ul>
 
-                                        <div class="jp_career_img_wrapper">
+                                        <li><img src="public/assets/images/content/blog_small_img.jpg" alt="small_img" class="img-circle">&nbsp;&nbsp; <a href="#">Jhon Doe</a></li>
 
-                                            <img src="public/assets/images/content/car_img3.jpg" alt="career_img" />
+                                    </ul>
 
-                                        </div>
+                                    <p><a href="#"><i class="fa fa-comments"></i></a></p>
 
-                                        <div class="jp_career_cont_wrapper">
+                                </div>
 
-                                            <p><i class="fa fa-calendar"></i>&nbsp;&nbsp; <a href="#">20 OCT, 2017</a></p>
+                            </div>
 
-                                            <h3><a href="#">Hey Seeker, It’s Time</a></h3>
+                            <div class="item jp_recent_main">
 
-                                            <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat.</p>
+                                <div class="jp_career_main_box_wrapper">
 
-                                        </div>
+                                    <div class="jp_career_img_wrapper">
+
+                                        <img src="public/assets/images/content/car_img3.jpg" alt="career_img" />
+
+                                    </div>
+
+                                    <div class="jp_career_cont_wrapper">
+
+                                        <p><i class="fa fa-calendar"></i>&nbsp;&nbsp; <a href="#">20 OCT, 2017</a></p>
+
+                                        <h3><a href="#">Hey Seeker, It’s Time</a></h3>
+
+                                        <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat.</p>
 
                                     </div>
 
-                                    <div class="jp_career_slider_bottom_cont">
+                                </div>
 
-                                        <ul>
+                                <div class="jp_career_slider_bottom_cont">
 
-                                            <li><img src="public/assets/images/content/blog_small_img.jpg" alt="small_img" class="img-circle">&nbsp;&nbsp; <a href="#">Jhon Doe</a></li>
+                                    <ul>
 
-                                        </ul>
+                                        <li><img src="public/assets/images/content/blog_small_img.jpg" alt="small_img" class="img-circle">&nbsp;&nbsp; <a href="#">Jhon Doe</a></li>
 
-                                        <p><a href="#"><i class="fa fa-comments"></i></a></p>
+                                    </ul>
 
-                                    </div>
+                                    <p><a href="#"><i class="fa fa-comments"></i></a></p>
 
                                 </div>
 
@@ -667,225 +683,285 @@
 
     </div>
 
-    <!-- jp career Wrapper End -->
+</div>
 
-    <!-- jp counter Wrapper Start -->
+<!-- jp career Wrapper End -->
 
-    <div class="jp_counter_main_wrapper">
+<!-- jp counter Wrapper Start -->
 
-        <div class="gc_counter_cont_wrapper">
+<div class="jp_counter_main_wrapper">
 
-            <div class="count-description">
+    <div class="gc_counter_cont_wrapper">
 
-                <span class="timer">2540</span><i class="fa fa-plus"></i>
+        <div class="count-description">
 
-                <h5 class="con1">Jobs Available</h5>
+            <span class="timer">2540</span><i class="fa fa-plus"></i>
 
-            </div>
-
-        </div>
-
-        <div class="gc_counter_cont_wrapper2">
-
-            <div class="count-description">
-
-                <span class="timer">7325</span><i class="fa fa-plus"></i>
-
-                <h5 class="con2">Members</h5>
-
-            </div>
-
-        </div>
-
-        <div class="gc_counter_cont_wrapper3">
-
-            <div class="count-description">
-
-                <span class="timer">1924</span><i class="fa fa-plus"></i>
-
-                <h5 class="con3">Resumes</h5>
-
-            </div>
-
-        </div>
-
-        <div class="gc_counter_cont_wrapper4">
-
-            <div class="count-description">
-
-                <span class="timer">4275</span><i class="fa fa-plus"></i>
-
-                <h5 class="con4">Company</h5>
-
-            </div>
+            <h5 class="con1">Jobs Available</h5>
 
         </div>
 
     </div>
 
-    <!-- jp counter Wrapper End -->
+    <div class="gc_counter_cont_wrapper2">
 
-    <!-- aboutus_section end -->
+        <div class="count-description">
 
-    <div class="aboutus_page_2_section">
+            <span class="timer">7325</span><i class="fa fa-plus"></i>
 
-        <div class="container">
+            <h5 class="con2">Members</h5>
 
-            <div class="row">
+        </div>
 
-                <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+    </div>
 
-                    <div class="aboutus_text_section abt_txt_page_2">
+    <div class="gc_counter_cont_wrapper3">
 
-                        <h2>How We <span>Work</span></h2>
+        <div class="count-description">
 
-                        <p>We do not depend always on technology for candidate searches, preferring to use experience, industry acumen and intuition to identify what each individual could bring to a specific business. This intelligent & human approach pays surpluses time after time. We recognise the trust clients make in Workers Direct and our priority is always to make sure we attain the best results for all concerned.</p>
+            <span class="timer">1924</span><i class="fa fa-plus"></i>
 
-                        <div class="row">
+            <h5 class="con3">Resumes</h5>
 
-                            <div class="col-md-6">
+        </div>
 
-                                <ul>
+    </div>
 
-                                    <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Audit &amp; Assurance</li>
+    <div class="gc_counter_cont_wrapper4">
 
-                                    <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Business Services</li>
+        <div class="count-description">
 
-                                    <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;IT Control Solutions</li>
+            <span class="timer">4275</span><i class="fa fa-plus"></i>
 
-                                </ul>
+            <h5 class="con4">Company</h5>
+
+        </div>
+
+    </div>
+
+</div>
+
+<!-- jp counter Wrapper End -->
+
+<!-- aboutus_section end -->
+
+<div class="aboutus_page_2_section">
+
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+
+                <div class="aboutus_text_section abt_txt_page_2">
+
+                    <h2>How We <span>Work</span></h2>
+
+                    <p>We do not depend always on technology for candidate searches, preferring to use experience, industry acumen and intuition to identify what each individual could bring to a specific business. This intelligent & human approach pays surpluses time after time. We recognise the trust clients make in Workers Direct and our priority is always to make sure we attain the best results for all concerned.</p>
+
+                    <div class="row">
+
+                        <div class="col-md-6">
+
+                            <ul>
+
+                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Audit &amp; Assurance</li>
+
+                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Business Services</li>
+
+                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;IT Control Solutions</li>
+
+                            </ul>
+
+                        </div>
+
+                        <div class="col-md-6">
+
+                            <ul>
+
+                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Audit &amp; Assurance</li>
+
+                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Business Services</li>
+
+                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;IT Control Solutions</li>
+
+                            </ul>
+
+                        </div>
+
+                    </div>
+
+
+
+                </div>
+
+            </div>
+
+
+
+            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+
+                <div class="accordion_wrapper abt_page_2_wrapper">
+
+                    <div class="panel-group" id="accordion_threeLeft">
+
+                        <div class="panel panel-default">
+
+                            <div class="panel-heading desktop">
+
+                                <h4 class="panel-title">
+
+                                    <a class="collapsed" data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftone" aria-expanded="true">
+
+                                        Our Visions and Missions
+
+                                    </a>
+
+                                </h4>
 
                             </div>
 
-                            <div class="col-md-6">
+                            <div id="collapseTwentyLeftone" class="panel-collapse collapse" aria-expanded="true" role="tablist">
 
-                                <ul>
+                                <div class="panel-body">
 
-                                    <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Audit &amp; Assurance</li>
+                                    Praesent in nisl egestas mauris aliquam luctus. Ut auctor faucibus orci, nec semper purus ultrices idorbi nec lorem risus orbi vitae felis gravida Pellentesque id eros quis massa convallis feugiat eu quis urna.
 
-                                    <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Business Services</li>
-
-                                    <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;IT Control Solutions</li>
-
-                                </ul>
+                                </div>
 
                             </div>
 
                         </div>
 
+                        <!-- /.panel-default -->
 
+                        <div class="panel panel-default">
 
-                    </div>
+                            <div class="panel-heading horn">
 
-                </div>
+                                <h4 class="panel-title">
 
+                                    <a data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftTwo" aria-expanded="false">
 
+                                        Our Corporate Responsibility
 
-                <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                                    </a>
 
-                    <div class="accordion_wrapper abt_page_2_wrapper">
+                                </h4>
 
-                        <div class="panel-group" id="accordion_threeLeft">
+                            </div>
 
-                            <div class="panel panel-default">
+                            <div id="collapseTwentyLeftTwo" class="panel-collapse collapse in" aria-expanded="false" role="tablist">
 
-                                <div class="panel-heading desktop">
+                                <div class="panel-body">
 
-                                    <h4 class="panel-title">
-
-                                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftone" aria-expanded="true">
-
-                                            Our Visions and Missions
-
-                                        </a>
-
-                                    </h4>
-
-                                </div>
-
-                                <div id="collapseTwentyLeftone" class="panel-collapse collapse" aria-expanded="true" role="tablist">
-
-                                    <div class="panel-body">
-
-                                        Praesent in nisl egestas mauris aliquam luctus. Ut auctor faucibus orci, nec semper purus ultrices idorbi nec lorem risus orbi vitae felis gravida Pellentesque id eros quis massa convallis feugiat eu quis urna.
-
-                                    </div>
+                                    Praesent in nisl egestas mauris aliquam luctus. Ut auctor faucibus orci, nec semper purus ultrices idorbi nec lorem risus orbi vitae felis gravida Pellentesque id eros quis massa convallis feugiat eu quis urna.
 
                                 </div>
 
                             </div>
-
-                            <!-- /.panel-default -->
-
-                            <div class="panel panel-default">
-
-                                <div class="panel-heading horn">
-
-                                    <h4 class="panel-title">
-
-                                        <a data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftTwo" aria-expanded="false">
-
-                                            Our Corporate Responsibility
-
-                                        </a>
-
-                                    </h4>
-
-                                </div>
-
-                                <div id="collapseTwentyLeftTwo" class="panel-collapse collapse in" aria-expanded="false" role="tablist">
-
-                                    <div class="panel-body">
-
-                                        Praesent in nisl egestas mauris aliquam luctus. Ut auctor faucibus orci, nec semper purus ultrices idorbi nec lorem risus orbi vitae felis gravida Pellentesque id eros quis massa convallis feugiat eu quis urna.
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <!-- /.panel-default -->
-
-                            <div class="panel panel-default">
-
-                                <div class="panel-heading bell">
-
-                                    <h4 class="panel-title">
-
-                                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftThree" aria-expanded="false">
-
-                                            Visual Page Builder
-
-                                        </a>
-
-                                    </h4>
-
-                                </div>
-
-                                <div id="collapseTwentyLeftThree" class="panel-collapse collapse" aria-expanded="false" role="tablist">
-
-                                    <div class="panel-body">
-
-                                        Praesent in nisl egestas mauris aliquam luctus. Ut auctor faucibus orci, nec semper purus ultrices idorbi nec lorem risus orbi vitae felis gravida Pellentesque id eros quis massa convallis feugiat eu quis urna.
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                            <!-- /.panel-default -->
 
                         </div>
 
-                        <!--end of /.panel-group-->
+                        <!-- /.panel-default -->
+
+                        <div class="panel panel-default">
+
+                            <div class="panel-heading bell">
+
+                                <h4 class="panel-title">
+
+                                    <a class="collapsed" data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftThree" aria-expanded="false">
+
+                                        Visual Page Builder
+
+                                    </a>
+
+                                </h4>
+
+                            </div>
+
+                            <div id="collapseTwentyLeftThree" class="panel-collapse collapse" aria-expanded="false" role="tablist">
+
+                                <div class="panel-body">
+
+                                    Praesent in nisl egestas mauris aliquam luctus. Ut auctor faucibus orci, nec semper purus ultrices idorbi nec lorem risus orbi vitae felis gravida Pellentesque id eros quis massa convallis feugiat eu quis urna.
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                        <!-- /.panel-default -->
 
                     </div>
 
+                    <!--end of /.panel-group-->
+
                 </div>
 
-                <!--end of /.col-sm-6-->
+            </div>
+
+            <!--end of /.col-sm-6-->
+
+        </div>
+
+    </div>
+
+</div>
+
+<!--end of /.col-sm-6-->
+
+<!-- jp downlord Wrapper Start -->
+
+<div class="jp_downlord_main_wrapper">
+
+    <div class="jp_downlord_img_overlay"></div>
+
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 hidden-sm hidden-xs">
+
+                <div class="jp_down_mob_img_wrapper">
+
+                    <img src="public/assets/images/content/mobail.png" alt="mobail_img" />
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+
+                <div class="ss_download_wrapper_details">
+
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
+
+                    <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
+
+
+
+                    <a href="https://play.google.com/store/apps/details?id=com.mst_developers.workers_direct&hl=en" class="ss_playstore"><span><i class="fa fa-android" aria-hidden="true"></i></span> Play Store</a>
+
+
+
+
+
+
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 visible-sm visible-xs">
+
+                <div class="jp_down_mob_img_wrapper">
+
+                    <img src="public/assets/images/content/mobail.png" class="img-responsive" alt="mobail_img" />
+
+                </div>
 
             </div>
 
@@ -893,65 +969,7 @@
 
     </div>
 
-    <!--end of /.col-sm-6-->
+</div>
 
-    <!-- jp downlord Wrapper Start -->
-
-    <div class="jp_downlord_main_wrapper">
-
-        <div class="jp_downlord_img_overlay"></div>
-
-        <div class="container">
-
-            <div class="row">
-
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 hidden-sm hidden-xs">
-
-                    <div class="jp_down_mob_img_wrapper">
-
-                        <img src="public/assets/images/content/mobail.png" alt="mobail_img" />
-
-                    </div>
-
-                </div>
-
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-
-                    <div class="ss_download_wrapper_details">
-
-                        <h1><span>Download</span><br>Job Portal App Now!</h1>
-
-                        <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
-
-
-
-                        <a href="https://play.google.com/store/apps/details?id=com.mst_developers.workers_direct&hl=en" class="ss_playstore"><span><i class="fa fa-android" aria-hidden="true"></i></span> Play Store</a>
-
-
-
-
-
-
-
-                    </div>
-
-                </div>
-
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 visible-sm visible-xs">
-
-                    <div class="jp_down_mob_img_wrapper">
-
-                        <img src="public/assets/images/content/mobail.png" class="img-responsive" alt="mobail_img" />
-
-                    </div>
-
-                </div>
-
-            </div>
-
-        </div>
-
-    </div>
-
-    <!-- jp downlord Wrapper End -->
-    @endsection
+<!-- jp downlord Wrapper End -->
+@endsection

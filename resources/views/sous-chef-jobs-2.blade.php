@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','Sous Chef Jobs - Immediate Start Chef & Catering Jobs Surrey')
+@section('keywords','sous,chef,jobs')
+@section('description','We are looking for couple of experienced sous Chef with excellent knowledge food preparation from scratch. Must be able to use own initiative and work part of a team in a fast past environment.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Sous Chef Jobs</h2>
+                        <h1>Sous Chef Jobs</h1>
 
                     </div>
 
@@ -79,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Sous Chef <span> Jobs</span></h1>
+                        <h2>Sous Chef <span> Jobs</span></h2>
 
                     </div>
 
@@ -89,13 +91,22 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper margin-top-30">
 
                     <div class="section_heading section_2_heading row">
 
                         <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                            <div class="section_heading section_2_heading ">
+
+                                <h2>Job <span> Summary</span></h2>
+
+                            </div>
+
+                            <div>
+                                <p>We are looking for couple of experienced sous Chef with excellent knowledge food preparation from scratch. Must be able to use own initiative and work part of a team in a fast past environment.An ideal sous chef will work from a set menu but offer ideas and input if needed, Chef will be required to work 11:00am – 10:30pm Mon – Sun 5 days a week on rota basis.</p>
+                            </div>
                             <table class="table table-bordered " style="width:100%">
                                 <tr>
                                     <th>Job Title</th>
@@ -134,21 +145,16 @@
 
                     </div>
 
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/SOUS CHEF JOBS/sous_chef_jobs_5.jpg" width="100%" height="200px" alt="">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/SOUS CHEF JOBS/sous_chef_jobs_2.jpg" width="100%" height="200px" alt="">
+                    </div>
 
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40 pl-0">
 
-                    <div class="section_heading section_2_heading margin-top-60">
-
-                        <div class="section_heading section_2_heading ">
-
-                            <h2>Job <span> Summary</span></h2>
-
-                        </div>
-
-                        <div>
-                            <p>We are looking for couple of experienced sous Chef with excellent knowledge food preparation from scratch. Must be able to use own initiative and work part of a team in a fast past environment.An ideal sous chef will work from a set menu but offer ideas and input if needed, Chef will be required to work 11:00am – 10:30pm Mon – Sun 5 days a week on rota basis.</p>
-                        </div>
-
-                        <div class="section_heading section_2_heading margin-top-60 ">
+                        <div class="section_heading section_2_heading">
 
                             <h2>An ideal Candidate <span> will be :</span></h2>
 
@@ -164,9 +170,16 @@
                                 <li><i class="fa fa-caret-right"></i> Good interpersonal skills</li>
                             </ul>
                         </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/SOUS CHEF JOBS/sous_chef_jobs_3.jpg" width="100%" height="200px" alt="">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/SOUS CHEF JOBS/sous_chef_jobs_6.jpg" width="100%" height="200px" alt="">
+                    </div>
+                    <div class="col-md-12 col-sm-12 section_heading section_2_heading pl-0">
 
-                        
-                        <div >
+                        <div>
                             <p>All applicants must be passionate about food, producing exceptional dishes and have previous experience working in kitchens producing high quality food for large numbers. If you think this sounds perfect and you think you are what we are looking for please apply on-line to be considered.</p>
                         </div>
 
@@ -183,7 +196,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -403,20 +416,7 @@
 
                 </div>
 
-            </div>
-
-
-
-
-
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
-
-
-
-            <!-- </div> -->
-
-
-
+            </div> -->
         </div>
 
     </div>
@@ -451,7 +451,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -487,7 +487,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
@@ -527,7 +527,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -947,7 +947,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

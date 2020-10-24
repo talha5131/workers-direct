@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','Upholsterer & Upholstery Tailor Jobs')
+@section('keywords','upholsterer,upholstery,tailor')
+@section('description','We recruiting furniture-makers with the skill and know-how that only experience brings and they have your comfort in mind as they expertly craft ergonomically designed Sofas, Chairs, Bedhead, Fitted Furniture, Stools & Ottomans.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Upholsterer & Upholstery Tailor</h2>
+                        <h1>Upholsterer & Upholstery Tailor</h1>
 
                     </div>
 
@@ -73,13 +75,13 @@
 
         <div class="row">
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
 
                 <div class="about_text_wrapper">
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Upholsterer & Upholstery <span> Tailor</span></h1>
+                        <h2>Upholsterer & Upholstery <span> Tailor</span></h2>
 
                     </div>
 
@@ -90,11 +92,11 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
                 <div class="row about_text_wrapper">
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
 
                         <div class="about_text_wrapper">
                             <p style="margin: 0;">We recruiting furniture-makers with the skill and know-how that only experience brings and they have your comfort in mind as they expertly craft ergonomically designed Sofas, Chairs, Bedhead, Fitted Furniture, Stools & Ottomans.</p>
@@ -102,68 +104,59 @@
                             <p style="margin: 0;">Expected earnings from £8 up to £11.05 per hour plus overtime.</p><br>
                         </div>
 
-                        <div class=" margin-top-60 ">
+                    </div>
 
-                            <img class="image-style-border" src="public/assets/images/page-pictures/UPHOLSTERER & UPHOLSTERY TAILOR/upholsterer_1.jpg" width="100%" alt="about-img">
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/UPHOLSTERER & UPHOLSTERY TAILOR/upholsterer_1.jpg" width="100%" height="200px" alt="">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/UPHOLSTERER & UPHOLSTERY TAILOR/upholsterer_2.jpg" width="100%" height="200px" alt="">
+                    </div>
 
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-40 pl-0">
+
+
+                        <h2>General <span> Duties</span></h2>
+
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40 pl-0">
+                            <ul>
+                                <li><i class="fa fa-caret-right"></i> Provide good quality work to set company standards.</li>
+                                <li><i class="fa fa-caret-right"></i> To meet agreed company production targets.</li>
+                                <li><i class="fa fa-caret-right"></i> To support overtime when the business requires it at busy times after being given significant notification.</li>
+                                <li><i class="fa fa-caret-right"></i> Ensuring good housekeeping is maintained at all times especially around work stations.</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-40">
+
+                        <h2>Specific <span> Duties</span></h2>
+
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40 pl-0">
+                            <ul>
+                                <li><i class="fa fa-caret-right"></i> To have experience in upholstery in a fast paced environment.</li>
+                                <li><i class="fa fa-caret-right"></i> To Cutting, stapling and template making knowledge Essential Framework knowledge is beneficial.</li>
+                                <li><i class="fa fa-caret-right"></i> To respond to training on new products as to the demands of the business.</li>
+                                <li><i class="fa fa-caret-right"></i> To have responsibility for the booking in of work.</li>
+                            </ul>
                         </div>
 
                     </div>
-
-                    <div class="row col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40">
-                        <div class="col-md-6">
-                            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 section_heading section_2_heading margin-bottom-20">
-
-                                <h2>General <span> Duties</span></h2>
-
-                            </div>
-
-                            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                                <ul>
-                                    <li><i class="fa fa-caret-right"></i> Provide good quality work to set company standards.</li>
-                                    <li><i class="fa fa-caret-right"></i> To meet agreed company production targets.</li>
-                                    <li><i class="fa fa-caret-right"></i> To support overtime when the business requires it at busy times after being given significant notification.</li>
-                                    <li><i class="fa fa-caret-right"></i> Ensuring good housekeeping is maintained at all times especially around work stations.</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 section_heading section_2_heading margin-bottom-20">
-
-                                <h2>Specific <span> Duties</span></h2>
-
-                            </div>
-
-                            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                                <ul>
-                                    <li><i class="fa fa-caret-right"></i> To have experience in upholstery in a fast paced environment.</li>
-                                    <li><i class="fa fa-caret-right"></i> To Cutting, stapling and template making knowledge Essential Framework knowledge is beneficial.</li>
-                                    <li><i class="fa fa-caret-right"></i> To respond to training on new products as to the demands of the business.</li>
-                                    <li><i class="fa fa-caret-right"></i> To have responsibility for the booking in of work.</li>
-                                </ul>
-                            </div>
-
-                        </div>
-                    </div>
-
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 section_heading section_2_heading margin-top-30">
-
-                        <h2>To <span> Apply</span></h2>
-                        <p style="margin: 0;">If you are interested please Send Your CV at</p>
-                        <p style="margin: 0;"><strong>jobs@Workers-Direct.com</strong></p>
-                        <p style="margin: 0;"><strong>Call </strong>(020)36207794</p><br>
-                        <a href="#" class="green"><strong>OR Apply Online</strong></a>
-
-
-                    </div>
-
-
-
                 </div>
+            </div>
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30 pl-0" style="line-height: 30px;">
+
+                <h2><strong>To <span> Apply</span></strong></h2>
+                <p style="margin: 0;">If you are interested please Send Your CV at</p>
+                <p style="margin: 0;"><strong>jobs@Workers-Direct.com</strong></p>
+                <p style="margin: 0;"><strong>Call </strong>(020)36207794</p><br>
+                <a href="#" class="green"><strong>OR Apply Online</strong></a>
+
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
+        </div>
+
+        <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -383,11 +376,11 @@
 
                 </div>
 
-            </div>
-
-        </div>
+            </div> -->
 
     </div>
+
+</div>
 
 </div>
 
@@ -418,7 +411,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -454,7 +447,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
@@ -494,7 +487,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -914,7 +907,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

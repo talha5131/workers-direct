@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','Healthcare Staff | Best care Workers & Healthcare Staff Agency')
+@section('keywords','healthcare,staff')
+@section('description','At Workers Direct our recruitment team for the healthcare sector can find you permanent, casual and contract workers that are available across the UK. Workers Direct have qualified professionals ready to start nursing work today.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Healthcare Staff</h2>
+                        <h1>Healthcare Staff</h1>
 
                     </div>
 
@@ -79,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Healthcare <span> Staff</span></h1>
+                        <h2>Healthcare <span> Staff</span></h2>
 
                     </div>
 
@@ -87,19 +89,7 @@
 
             </div>
 
-            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-30">
-                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/HEALTHCARE STAFF/healthcare_staff_1.jpg" width="100%" height="250px" alt="#">
-            </div>
-            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-30">
-                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/HEALTHCARE STAFF/healthcare_staff_2.jpg" width="100%" height="250px" alt="#">
-            </div>
-            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-30">
-                <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/HEALTHCARE STAFF/healthcare_staff_3.jpeg" width="100%" height="250px" alt="#">
-            </div>
-
-
-
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
 
                 <div class="about_text_wrapper ">
 
@@ -110,7 +100,12 @@
 
                     </div>
 
-
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/HEALTHCARE STAFF/healthcare_staff_1.jpg" height="270px" width="100%" alt="Hairdresser">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/HEALTHCARE STAFF/healthcare_staff_4.jpg" height="270px" width="100%" alt="Hairdresser">
+                    </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
 
@@ -126,9 +121,9 @@
 
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30">
+                    <!-- <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30">
                         <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/HEALTHCARE STAFF/healthcare_staff_4.jpg" width="100%" height="350px" alt="#">
-                    </div>
+                    </div> -->
 
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
@@ -144,6 +139,13 @@
                         <p style="margin: 0;">Our agency find only the best workers and we have high placement rates and a history of contented medical employers.</p>
                         <p style="margin: 0;">Contact us today to let us know your staffing needs!</p>
 
+                    </div>
+
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/HEALTHCARE STAFF/healthcare_staff_6.jpg" height="300px" width="100%" alt="Hairdresser">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/HEALTHCARE STAFF/healthcare_staff_7.jpg" height="300px" width="100%" alt="Hairdresser">
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
@@ -164,7 +166,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -384,23 +386,7 @@
 
                 </div>
 
-            </div>
-
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30">
-                <img class="image-style-border" src="public/assets/images/page-pictures/HEALTHCARE STAFF/healthcare_staff_5.jpg" height="270px" width="100%" alt="Hairdresser">
-            </div>
-
-
-
-
-
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
-
-
-
-            <!-- </div> -->
-
-
+            </div> -->
 
         </div>
 
@@ -436,7 +422,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -472,7 +458,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
@@ -512,7 +498,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -932,7 +918,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

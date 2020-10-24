@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','School Bus Driver Jobs in London | Temping Agency London')
+@section('keywords','school,bus,driver')
+@section('description','We are currently recruiting for experienced mini bus driver on temporary basis who have previous driving experience with in a school/nursery environment. Candidate should be friendly flexible approachable to working as part of a team.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>School Bus Driver</h2>
+                        <h1>School Bus Driver</h1>
 
                     </div>
 
@@ -79,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>School Bus <span> Driver</span></h1>
+                        <h2>School Bus <span> Driver</span></h2>
 
                     </div>
 
@@ -89,11 +91,21 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper margin-top-30">
+                <div class="about_text_wrapper margin-top-20">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20 pl-0">
 
-                    <div class="col-lg-7 col-md-7 col-xs-12 col-sm-12">
+                        <h2>Description<span></span></h2>
+
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
+                        <p>We are currently recruiting for experienced mini bus driver on temporary basis who have previous driving experience with in a school/nursery environment. Candidate should be friendly flexible approachable to working as part of a team. Candidate must hold a current clean DV1 driving license. Successful candidate will start work in Sep 2016 to drive a 16 seater mini bus.</p>
+                        <p style="margin-top: 0px;">We have both full time and part time positions the ideal Driver shall be transporting children to and from home to school during term-time. Each bus has a driver and a Passenger Assistant, who is responsible for ensuring the children are safe whilst on the bus</p>
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-20">
 
                         <table class="table table-bordered " style="width:100%">
                             <tr>
@@ -120,34 +132,20 @@
 
                     </div>
 
-                    <div class="col-lg-5 col-md-5 col-xs-12 col-sm-12">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/SCHOOL BUS DRIVER/school-bus-driver_1.jpg" width="100%" height="200px" alt="BUS DRIVER">
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-20">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/SCHOOL BUS DRIVER/school-bus-driver_1.jpg" width="100%" height="300px" alt="BUS DRIVER">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/SCHOOL BUS DRIVER/school-bus-driver_2.jpg" width="100%" height="300px" alt="BUS DRIVER">
                     </div>
 
-
-
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
-
-                        <h2>Description<span></span></h2>
-
-                    </div>
-
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                        <p>We are currently recruiting for experienced mini bus driver on temporary basis who have previous driving experience with in a school/nursery environment. Candidate should be friendly flexible approachable to working as part of a team. Candidate must hold a current clean DV1 driving license. Successful candidate will start work in Sep 2016 to drive a 16 seater mini bus.</p>
-                        <p>We have both full time and part time positions the ideal Driver shall be transporting children to and from home to school during term-time. Each bus has a driver and a Passenger Assistant, who is responsible for ensuring the children are safe whilst on the bus</p>
-                    </div>
-
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/SCHOOL BUS DRIVER/school-bus-driver_2.jpg" width="100%" height="400px" alt="BUS DRIVER">
-
-                    </div>
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30 pl-0">
 
                         <h2>Suitable candidates must have the <span> following</span></h2>
 
                     </div>
 
-                    <div class="margin-top-30 col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                    <div class="margin-top-30 col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
                         <ul>
                             <li><i class="fa fa-caret-right"></i> Have a valid PCV (D) license.</li>
                             <li><i class="fa fa-caret-right"></i> Have full CPC.</li>
@@ -159,11 +157,11 @@
 
 
 
-                    <div class="margin-top-30 col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                    <div class="margin-top-30 col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
                         <h2>Duties shall include the following</h2>
                     </div>
 
-                    <div class="margin-top-30 col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                    <div class="margin-top-30 col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
                         <ul>
                             <li><i class="fa fa-caret-right"></i> To collect children from home and take them to school in the morning.</li>
                             <li><i class="fa fa-caret-right"></i> To collect children from school in the afternoon and take them home.</li>
@@ -173,7 +171,7 @@
 
                     <hr>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
                         <p style="margin: 0;">Successful candidate will be paid a rate of <strong> £10 per hour</strong>.</p>
                         <p style="margin: 0;"><strong>This is an excellent opportunity to work with a massive client and is not to be missed. Please send in your CV as soon as possible at</strong></p>
                         <p><strong> jobs@Workers-direct.com</strong></p>
@@ -184,7 +182,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-30">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-30">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -404,20 +402,7 @@
 
                 </div>
 
-            </div>
-
-
-
-
-
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
-
-
-
-            <!-- </div> -->
-
-
-
+            </div> -->
         </div>
 
     </div>
@@ -452,7 +437,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Hotel Experience </a> </h1>
+                                <h2> <a> Hotel Experience </a> </h2>
 
                             </div>
 
@@ -488,7 +473,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Customer Services </a> </h1>
+                                <h2> <a> Customer Services </a> </h2>
 
                             </div>
 
@@ -528,7 +513,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -948,7 +933,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

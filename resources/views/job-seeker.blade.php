@@ -65,17 +65,37 @@
                 </div>
 
             </div>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-
+                <form method="POST" action="job-seeker">
+                     @csrf
+                     <!-- @if (session()->has('success'))
+                      <div class="alert-success" id="popup_notification">
+                      {{ session('success') }}
+                      </div>
+                     @endif -->
+=======
+            <form action="" id="form-validation-job-seeker" class="col-xs-12" name="job-seeker">
+>>>>>>> b82cae34f847d42b4e67759e9f5a73b86cb36ad8
+=======
+           
+=======
+            <form action="" id="form-validation-job-seeker" class="col-xs-12" name="job-seeker">
+>>>>>>> b82cae34f847d42b4e67759e9f5a73b86cb36ad8
                 <div class="jp_contact_form_box">
+
 
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
                         <div class="jp_contact_inputs_wrapper">
 
-                            <i class="fa fa-user"></i><input type="text" name="name" id="name" placeholder="Full Name">
+                            <i class="fa fa-user"></i><input type="text" name="name" id="name" placeholder="Full Name" autocomplete="off">
+                            <span style="color: #ed244f;" id="name-error"></span>
 
                         </div>
+
 
                     </div>
 
@@ -83,8 +103,8 @@
 
                         <div class="jp_contact_inputs_wrapper jp_contact_inputs2_wrapper">
 
-                            <i class="fa fa-envelope"></i><input type="text" name="email" id="email" placeholder="Email ">
-
+                            <i class="fa fa-envelope"></i><input type="text" name="email" id="email" placeholder="Email " autocomplete="off">
+                            <span style="color: #ed244f;" id="email-error"></span>
                         </div>
 
                     </div>
@@ -95,7 +115,7 @@
 
                         <div class="row">
 
-                           
+
                             <div class="phone_number_custom_style jp_contact_inputs3_wrapper col-lg-3 col-md-3 col-sm-2 col-xs-2">
                                 <select name="CC" id="CC">
                                     <option data-countryCode="GB" value="+44" Selected>+44</option>
@@ -324,7 +344,8 @@
                             <div class="col-lg-9 col-md-9 col-sm-10 col-xs-10">
 
                                 <div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
-                                    <i class="fa fa-phone"></i><input type="text" maxlength="10" id="phone" name="phone" placeholder="Enter Your Phone Number">
+                                    <i class="fa fa-phone"></i><input type="text" maxlength="10" id="phone" name="phone" placeholder="Enter Your Phone Number" autocomplete="off">
+                                    <span style="color: #ed244f;" id="phone-error"></span>
                                 </div>
                             </div>
 
@@ -339,6 +360,7 @@
                         <div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
 
                             <i class="fa fa-map-marker"></i><input type="text" name="address" id="address" placeholder="Address / Post Code (Where Staff)">
+                            <span style="color: #ed244f;" id="address-error"></span>
 
                         </div>
 
@@ -373,6 +395,8 @@
                                 <option value="Cleaning">Cleaning</option>
                                 <option value="Property Maintenance">Property Maintenance</option>
                             </select>
+                            <span style="color: #ed244f;" id="jobCategory-error"></span>
+
 
                         </div>
 
@@ -399,6 +423,8 @@
 
                             <i style="font-size: 17px;" class="fas fa-wallet"></i><input type="text" name="desiredSalary" id="desiredSalary" placeholder="Desired Salary / Wages (Per Hour Rate)">
 
+                            <span style="color: #ed244f;" id="salary-error"></span>
+
                         </div>
 
                     </div>
@@ -407,7 +433,9 @@
 
                         <div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
 
-                        <i style="font-size: 17px;" class="fas fa-calendar-alt"></i><input type="text" name="availability" id="availability" placeholder="Availability (Are you immediately available to start work or need notice period)">
+                            <i style="font-size: 17px;" class="fas fa-calendar-alt"></i><input type="text" name="availability" id="availability" placeholder="Availability (Are you immediately available to start work or need notice period)">
+
+                            <span style="color: #ed244f;" id="availability-error"></span>
 
                         </div>
 
@@ -417,10 +445,10 @@
 
                         <div class=" jp_contact_inputs3_wrapper">
 
-                            <label style="color: #7CC24D; margin-bottom:20px;" for="pictureUpload">Upload Your Picture</label> <br>
+                            <label style="color: #7CC24D; margin-bottom:20px;" for="pictureUpload">Upload Your Picture (Optional)</label> <br>
                             <label for="image" class="btn btn-success">Choose File</label>
                             <div class="form_upload_btn_custom">
-                                <input id="image" type="file" name="image" />
+                                <input id="image" type="file" name="image" accept=".rtf,.doc,.docx,.pdf">
                             </div> <br>
                             <small class="form-text text-muted">Maximum file size: 2 MB.</small>
 
@@ -435,15 +463,15 @@
                             <label style="color: #7CC24D; margin-bottom:20px;" for="pictureUpload">Upload Your CV</label> <br>
                             <label for="cv" class="btn btn-success">Choose File</label>
                             <div class="form_upload_btn_custom">
-                                <input id="cv" type="file" name="cv" />
-                            </div> <br>
+                                <input id="cv" type="file" name="cv" accept=".rtf,.doc,.docx,.pdf">
+                            </div>
+                            <span style="color: #ed244f;" id="cv-error"></span><br>
+
                             <small class="form-text text-muted">Maximum file size: 2 MB.</small>
 
                         </div>
 
                     </div>
-
-
 
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
@@ -458,20 +486,284 @@
                             <label for="submit_button" class="submit_button_custom_styling">Submit</label>
                             <div class="form_upload_btn_custom">
                                 <input id="submit_button" type="submit" name="submit_button">
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+                             
+=======
+                                <!-- <input id="submit_button" type="submit"> -->
+>>>>>>> b82cae34f847d42b4e67759e9f5a73b86cb36ad8
                             </div>
+                            <!-- @if(session()->has('message'))
+                            <div class="alert alert-success">
+                            {{ session()->get('message') }}
+=======
+                                <!-- <input id="submit_button" type="submit"> -->
+>>>>>>> b82cae34f847d42b4e67759e9f5a73b86cb36ad8
+=======
+                                <!-- <input id="submit_button" type="submit"> -->
+>>>>>>> b82cae34f847d42b4e67759e9f5a73b86cb36ad8
+                            </div>
+                             @endif -->
                         </div>
 
                     </div>
 
 
-
                 </div>
-
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+                </form>
             </div>
+=======
+
+
+            </form>
+>>>>>>> b82cae34f847d42b4e67759e9f5a73b86cb36ad8
+=======
+
+
+            </form>
+>>>>>>> b82cae34f847d42b4e67759e9f5a73b86cb36ad8
+=======
+
+
+            </form>
+>>>>>>> b82cae34f847d42b4e67759e9f5a73b86cb36ad8
         </div>
     </div>
 </div>
-<script>
-document.getElementById()
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $("#name-error").hide();
+        $("#email-error").hide();
+        $("#phone-error").hide();
+        $("#address-error").hide();
+        $("#jobCategory-error").hide();
+        $("#salary-error").hide();
+        $("#availability-error").hide();
+        $("#cv-error").hide();
+
+        var name_Error = true;
+        var email_Error = true;
+        var phone_Error = true;
+        var address_Error = true;
+        var jobCategory_Error = true;
+        var salary_Error = true;
+        var availability_Error = true;
+        var cv_Error = true;
+
+        // Name Validation
+
+        $("#name").keyup(function() {
+            name_check();
+        });
+
+        function name_check() {
+            var name_val = $("#name").val();
+
+            if (name_val.length == "") {
+                $("#name-error").show();
+                $("#name-error").html("This Field Is Required");
+                name_Error = false;
+                return false;
+            } else {
+                $("#name-error").hide();
+            }
+            if (name_val.length < 3) {
+                $("#name-error").show();
+                $("#name-error").html("Please Enter A Valid Name");
+                name_Error = false;
+                return false;
+            } else {
+                $("#name-error").hide();
+            }
+        }
+
+        // Email Validation
+
+        $("#email").keyup(function() {
+            email_check();
+        });
+
+        function email_check() {
+            var email_val = $("#email").val();
+            var atPosition = email_val.indexOf("@");
+            var dotPosition = email_val.lastIndexOf(".");
+
+            if (email_val.length == "") {
+                $("#email-error").show();
+                $("#email-error").html("This Field Is Required");
+                email_Error = false;
+                return false;
+            } else if (atPosition < 1 || dotPosition < atPosition + 2 || dotPosition + 2 >= email_val.length) {
+                $("#email-error").show();
+                $('#email-error').text("Please enter a valid e-mail address.");
+                email_Error = false;
+                return false;
+            } else {
+                $("#email-error").hide();
+            }
+        }
+
+        // Phone Validation
+
+        $("#phone").keyup(function() {
+            phone_check();
+        });
+
+        function phone_check() {
+            var phone_val = $("#phone").val();
+
+            if (phone_val.length == "") {
+                $("#phone-error").show();
+                $("#phone-error").html("This Field Is Required");
+                phone_Error = false;
+                return false;
+            } else {
+                $("#phone-error").hide();
+            }
+        }
+
+        // Address Validation
+
+        $("#address").keyup(function() {
+            address_check();
+        });
+
+        function address_check() {
+            var address_val = $("#address").val();
+
+            if (address_val.length == "") {
+                $("#address-error").show();
+                $("#address-error").html("This Field Is Required");
+                address_Error = false;
+                return false;
+            } else {
+                $("#address-error").hide();
+            }
+        }
+
+        // Job Category Validation
+
+        $("#submit_button").click(function() {
+            jobCategory_check();
+        });
+
+        function jobCategory_check() {
+            var jobCategory_val = $("#jobCategory").val();
+
+            if (jobCategory_val == null) {
+                $("#jobCategory-error").show();
+                $("#jobCategory-error").html("Please Select Your Relevant Job Category");
+                jobCategory_Error = false;
+                event.preventDefault()
+            } else {
+                $("#jobCategory-error").hide();
+            }
+        }
+
+        $("#jobCategory").click(function() {
+            jobCategory_check();
+        });
+
+        $("#jobCategory").keyup(function() {
+            jobCategory_check();
+        });
+
+        // Salary Validation
+
+        $("#desiredSalary").keyup(function() {
+            salary_check();
+        });
+
+        function salary_check() {
+            var salary_val = $("#desiredSalary").val();
+
+            if (salary_val.length == "") {
+                $("#salary-error").show();
+                $("#salary-error").html("This Field Is Required");
+                salary_Error = false;
+                return false;
+            } else {
+                $("#salary-error").hide();
+            }
+        }
+
+        // Availability Validation
+
+        $("#availability").keyup(function() {
+            availability_check();
+        });
+
+        function availability_check() {
+            var availability_val = $("#availability").val();
+
+            if (availability_val.length == "") {
+                $("#availability-error").show();
+                $("#availability-error").html("This Field Is Required");
+                availability_Error = false;
+                return false;
+            } else {
+                $("#availability-error").hide();
+            }
+        }
+
+        // CV Validation
+
+        $("#submit_button").click(function() {
+            cv_check();
+        });
+
+        function cv_check() {
+            var cv_val = $("#cv").val();
+
+            if (cv_val == "") {
+                $("#cv-error").show();
+                $("#cv-error").html("Please Upload Your CV");
+                cv_Error = false;
+
+                event.preventDefault()
+
+            } else {
+                $("#cv-error").hide();
+            }
+        }
+        $("#cv").click(function(){
+            setTimeout(function(){
+                cv_check(); 
+                 }, 15000);
+        });
+
+        $("#submit_button").click(function() {
+            var name_Error = true;
+            var email_Error = true;
+            var phone_Error = true;
+            var address_Error = true;
+            var jobCategory_Error = true;
+            var salary_Error = true;
+            var availability_Error = true;
+            var cv_Error = true;
+
+            name_check();
+            email_check();
+            phone_check();
+            address_check();
+            jobCategory_check();
+            salary_check();
+            availability_check();
+            cv_check();
+
+            if ((name_Error == true) && (phone_Error == true) && (address_Error == true) && (jobCategory_Error == true) && (salary_Error == true) && (availability_Error == true) && (cv_Error == true)) {
+                return true;
+            } else {
+                return false;
+            }
+
+        });
+
+    });
 </script>
 @endsection

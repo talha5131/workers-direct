@@ -1,5 +1,7 @@
 @extends('layouts.base')
-@section('title','Data Entry Operator | Data Entry Operator Jobs London - IT Jobs Recruitment Agency London | Workers Direct')
+@section('title','Data Entry Operator | Workers Direct')
+@section('keywords','dataentry,operator')
+@section('description','We are recruiting an experienced Data Entry Operator Urgently basis for one of client based in Victoria, Central London. This is a temporary role requiring very good typing & basic IT skills along with MS word / excel knowledge.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Data Entry Operator</h2>
+                        <h1>Data Entry Operator</h1>
 
                     </div>
 
@@ -73,30 +75,46 @@
 
         <div class="row">
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20">
+            <!-- <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20">
 
                 <div class="about_text_wrapper">
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Data Entry <span> Operator</span></h1>
+                        <h2>Data Entry <span> Operator</span></h2>
 
                     </div>
 
                 </div>
 
-            </div>
+            </div> -->
 
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-                <div class="row about_text_wrapper abt_2_para">
+                <div class="row about_text_wrapper">
 
-                    <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
+                        <div class="section_heading section_2_heading">
 
-                        <table class="table table-bordered">
+                            <h2>Job <span> Summary</span></h2>
+
+                        </div>
+                        <p>We are recruiting an experienced Data Entry Operator Urgently basis for one of client based in Victoria, Central London. This is a temporary role requiring very good typing & basic IT skills along with MS word / excel knowledge.</p>
+
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/DATA ENTRY OPERATOR/data_entry_operator_1.jpg" width="100%" height="200px" alt="">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/DATA ENTRY OPERATOR/data_entry_operator_2.jpg" width="100%" height="200px" alt="">
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30 pl-0">
+                        <h2>Data Entry <span> Operator</span></h2>
+                        <table class="table table-bordered margin-top-40">
 
                             <tr>
                                 <th>Job Title</th>
@@ -125,20 +143,10 @@
 
                     </div>
 
-                    <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
+                    <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
                         <img class="image-style-border" src="public/assets/images/page-pictures/DATA ENTRY OPERATOR/data_entry_operator_1.jpg" width="100%" height="160px" alt="Data Entry">
-                    </div>
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
-                        <div class="section_heading section_2_heading">
-
-                            <h2>Job <span> Summary</span></h2>
-
-                        </div>
-                        <p>We are recruiting an experienced Data Entry Operator Urgently basis for one of client based in Victoria, Central London. This is a temporary role requiring very good typing & basic IT skills along with MS word / excel knowledge.</p>
-
-                    </div>
-
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
+                    </div> -->
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-60">
                         <div class="section_heading section_2_heading ">
 
                             <h2>Responsibilities<span></span></h2>
@@ -153,11 +161,11 @@
 
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40">
+                    <!-- <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40">
                         <img class="image-style-border" src="public/assets/images/page-pictures/DATA ENTRY OPERATOR/data_entry_operator_2.jpg" width="100%" height="490px" alt="Data Entry">
-                    </div>
+                    </div> -->
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-60">
 
                         <div class="section_heading section_2_heading ">
 
@@ -174,18 +182,18 @@
 
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-60">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
                         <p style="margin: 0;">To apply forward your CV to arrange an immediate interview.</p>
-                        <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
+                        <p style="margin: 0; padding-top: 0px ;" class="pt-0"><strong>jobs@ Workers-direct.com</strong></p>
                         <a href="#" class="green"><strong> OR Apply Online</strong></a>
-                        <p style="margin: 0;"><strong>http://workers-direct.com/cv-registration</strong></p>
+                        <p style="margin: 0; padding-top: 0px ;" class="pt-0"><strong>http://workers-direct.com/cv-registration</strong></p>
 
                     </div>
                 </div>
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -405,19 +413,7 @@
 
                 </div>
 
-            </div>
-
-
-
-
-
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
-
-
-
-            <!-- </div> -->
-
-
+            </div> -->
 
         </div>
 
@@ -453,7 +449,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -489,7 +485,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
@@ -529,7 +525,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -949,7 +945,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','Talesales Executive')
+@section('keywords','Telesales,Executive')
+@section('description','Our client is one of the leading providers of soft skills / eLibrary to corporate sectors. They are looking for couple of Telesales Executives to approach HR decision makers through outbound calls to offer learning solutions of their employees.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Talesales Executive</h2>
+                        <h1>Talesales Executive</h1>
 
                     </div>
 
@@ -79,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Talesales <span> Executive</span></h1>
+                        <h2>Talesales <span> Executive</span></h2>
 
                     </div>
 
@@ -89,11 +91,22 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12" style="padding-left: 0px;">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper">
 
-                    <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <p style="margin: 0;">Our client is one of the leading providers of soft skills / eLibrary to corporate sectors.
+                            They are looking for couple of Telesales Executives to approach HR decision makers through outbound calls to offer
+                            learning solutions of their employees.
+                        </p>
+                        <p style="margin: 0;">The successful applicants must have a very good command on German language & previous experience
+                            in telesales field. This role will need someone who can multi tasks and work to a variety of deadlines and product
+                            offerings, whilst reporting into and the Team Leader ensuring best practices are maintained, commercial strategies
+                            are followed and the targets achieved.
+                        </p>
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30">
                         <table class="table table-bordered">
                             <tr>
                                 <th>Job Title</th>
@@ -131,22 +144,15 @@
                             </tr>
                         </table>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
-                        <div class="text-center">
-                            <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/TALESALES EXECUTIVE/talesales_executive_2.jpg" width="100%" height="270px" alt="#">
-                        </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/TALESALES EXECUTIVE/talesales_executive_4.jpg" width="100%" height="270px" alt="#">
                     </div>
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-
-
-                        <p style="margin: 0;">Our client is one of the leading providers of soft skills / eLibrary to corporate sectors. They are looking for couple of Telesales Executives to approach HR decision makers through outbound calls to offer learning solutions of their employees.</p>
-                        <p style="margin: 0;">The successful applicants must have a very good command on German language & previous experience in telesales field. This role will need someone who can multi tasks and work to a variety of deadlines and product offerings, whilst reporting into and the Team Leader ensuring best practices are maintained, commercial strategies are followed and the targets achieved.</p>
-
-
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/TALESALES EXECUTIVE/talesales_executive_5.jpg" width="100%" height="270px" alt="#">
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
-                        <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/TALESALES EXECUTIVE/talesales_executive_4.jpg" width="100%" height="380px" alt="#">
+                        <!-- <img style="border: 4px solid #7CC24D; border-radius:5px;" src="public/assets/images/page-pictures/TALESALES EXECUTIVE/talesales_executive_4.jpg" width="100%" height="380px" alt="#"> -->
                     </div>
 
                     <div class="section_heading section_2_heading col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
@@ -167,7 +173,7 @@
 
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 section_heading section_2_heading margin-top-20">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 section_heading section_2_heading margin-top-40">
 
                         <h4 class="margin-bottom-60"> Skills &<span> Experience</span></h4>
 
@@ -200,7 +206,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -420,20 +426,11 @@
 
                 </div>
 
-            </div>
-
-
-
-
+            </div> -->
 
             <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
 
-
-
             <!-- </div> -->
-
-
-
         </div>
 
     </div>
@@ -468,7 +465,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -504,7 +501,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
@@ -544,7 +541,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -964,7 +961,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

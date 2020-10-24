@@ -1,5 +1,9 @@
 @extends('layouts.base')
-@section('title','Cleaners')
+@section('title',' Site Cleaners')
+@section('description',"We have all sorts of cleaning staff always available for еvеnіng оr оn thе wееkеnds, dереndіng оn whаt suіts уоur
+sсhеdulе bеst. On the flip side, if you endeavor to wash the warehouse on your own, you're going to be taking time from your work or
+professional schedule to complete the task.")
+@section('keywords','Site Cleaners')
 @section('content')
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
 <style>
@@ -86,38 +90,115 @@
 
             </div>
 
+            <div class="col-md-12">
+                <div class="box">
+                    <div class="grid-box" style="padding-left: 0px;">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding-left: 0px;">
+                            <div class="section_heading section_2_heading about_text_wrapper">
+                                <h2> Right temp on right time </h2>
+                            </div>
+                            <div class="margin-top-60">
+                                <p>We all know the year is becoming roughest each month since it flinched. Saying that; would you be not sending-off that anxiety our way instead of for yourself? Why having HR to pay for sitting doing nothing throughout the year when we can do all the same in much better price and time composed? Your necessity is what we accomplish so after all we objectively being here for yourself.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="grid-box" style="padding-left: 0px;">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding-left: 0px;">
+                            <div class="section_heading section_2_heading about_text_wrapper">
+                                <h2> Cleaners we have available </h2>
+                            </div>
+                            <div class="margin-top-60">
+                                <p>We have all sorts of cleaning staff always available for еvеnіng оr оn thе wееkеnds, dереndіng оn whаt suіts уоur sсhеdulе bеst. On the flip side, if you endeavor to wash the warehouse on your own, you're going to be taking time from your work or professional schedule to complete the task. Even if you pay your staff for cleaning, you cannot be sure they have the abilities or experience required to do the work properly.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                    <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/Cleaners/cleaners_3.jpg" width="100%" height="200px" alt="">
+                </div>
+                <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                    <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/Cleaners/cleaners_4.jpg" width="100%" height="200px" alt="">
+                </div>
+                <div class="box">
+                    <div class="grid-box" style="padding-left: 0px;">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding-left: 0px;">
+                            <div class="section_heading section_2_heading about_text_wrapper">
+                                <h2> Experienced & Professionals </h2>
+                            </div>
+                            <div class="content margin-top-60">
+                                <p>Fetching aptitude in all sorts of jobs is rigid, specifically when market is being so vulnerable plus exclusively when time is bounded. Hence, we provide you access to more information about candidates you’re trying to reach as soon as you confirm with us about any job role. Initially with CV we commence leading on your declaration, interview and/or trial to carve your trademark.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
 
-            <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12  margin-top-60">
-                <div class="row">
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
-                        <a href="#">
-                            <div class="box">
-                                <div class="grid-box">
+            <div class="col-md-12">
+                <br>
 
-                                    <div class="iconn green">
+                <div class="section_heading section_2_heading about_text_wrapper">
 
-                                        <i class=" font-size-icon green far fa-check-square"></i>
+                    <div class="col-md-6 col-sm-12">
+                        <h2 style="margin-top: 40px;">Key Responsibilities:</h2>
+                        <ul style="margin-top: 40px;">
+                            <li><i class="fa fa-caret-right"></i> To carry out the daily planned and adhoc cleaning duties.</li>
+                            <li><i class="fa fa-caret-right"></i> Cleaning</li>
+                            <li><i class="fa fa-caret-right"></i> Vacuuming</li>
+                            <li><i class="fa fa-caret-right"></i> Wiping down</li>
+                            <li><i class="fa fa-caret-right"></i> Mopping</li>
+                            <li><i class="fa fa-caret-right"></i> Litter picking</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 col-sm-12">
+                        <h2 style="margin-top: 40px;">Personal skills & Essential Requirements:</h2>
+                        <ul style="margin-top: 40px;">
+                            <li><i class="fa fa-caret-right"></i> Must be self-motivated and have a ‘can do’ attitude</li>
+                            <li><i class="fa fa-caret-right"></i> Flexibility</li>
+                            <li><i class="fa fa-caret-right"></i> Must be able to provide TWO employment references</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-12 col-sm-12">
+                        <h2 style="margin-top: 40px;">Experience/Knowledge:</h2>
+                        <ul style="margin-top: 40px;">
+                            <li><i class="fa fa-caret-right"></i> Experience as a professional cleaner</li>
+                            <li><i class="fa fa-caret-right"></i> Ability to perform well within a pressurised environment.</li>
+                        </ul>
+                    </div>
+
+                </div>
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12  margin-top-60">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
+                            <a href="#">
+                                <div class="box">
+                                    <div class="grid-box">
+
+                                        <div class="iconn green">
+
+                                            <i class=" font-size-icon green far fa-check-square"></i>
+
+                                        </div>
+
+                                        <div class="heading">
+
+                                            <h2>Office Cleaners</h2>
+
+                                        </div>
+
+                                        <div class="content margin-top-10">
+
+                                            <p>We have experienced office cleaners for day to day cleaning.</p>
+
+                                        </div>
+
+
 
                                     </div>
 
-                                    <div class="heading">
-
-                                        <h1> <a> Office Cleaners </a> </h1>
-
-                                    </div>
-
-                                    <div class="content margin-top-10">
-
-                                        <p>We have experienced office cleaners for day to day cleaning.</p>
-
-                                    </div>
-
-
-
-                                </div>
-
-                                <!-- <div class="grid-box-1">
+                                    <!-- <div class="grid-box-1">
 
                             <div class="img-section">
 
@@ -135,40 +216,40 @@
 
 
 
-                            </div>
+                                </div>
 
-                        </a>
-                    </div>
+                            </a>
+                        </div>
 
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
+                        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
-                        <a href="#">
+                            <a href="#">
 
-                            <div class="box">
+                                <div class="box">
 
 
 
-                                <div class="grid-box">
+                                    <div class="grid-box">
 
-                                    <div class="iconn green">
+                                        <div class="iconn green">
 
-                                        <i class="font-size-icon green fas fa-id-card"></i>
+                                            <i class="font-size-icon green fas fa-id-card"></i>
 
-                                    </div>
+                                        </div>
 
-                                    <div class="heading">
+                                        <div class="heading">
 
-                                        <h1> <a> Warehouse Cleaners </a> </h1>
+                                            <h2> <a> Warehouse Cleaners </a> </h2>
 
-                                    </div>
+                                        </div>
 
-                                    <div class="content margin-top-10">
+                                        <div class="content margin-top-10">
 
-                                        <p>Hire temporary cleaners on short noitce whenever you require.</p>
+                                            <p>Hire temporary cleaners on short noitce whenever you require.</p>
 
-                                    </div>
+                                        </div>
 
-                                    <!-- <ul class=" margin-top-10">
+                                        <!-- <ul class=" margin-top-10">
 
                                 <li><i class="green fa fa-plus-circle"></i> <a class="green">&nbsp; READ MORE</a></li>
 
@@ -176,9 +257,9 @@
 
 
 
-                                </div>
+                                    </div>
 
-                                <!-- <div class="grid-box-1">
+                                    <!-- <div class="grid-box-1">
 
                             <div class="img-section">
 
@@ -196,41 +277,41 @@
 
 
 
-                            </div>
+                                </div>
 
-                        </a>
+                            </a>
 
-                    </div>
+                        </div>
 
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
+                        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
-                        <a href="#">
+                            <a href="#">
 
-                            <div class="box">
+                                <div class="box">
 
 
 
-                                <div class="grid-box">
+                                    <div class="grid-box">
 
-                                    <div class="iconn green">
+                                        <div class="iconn green">
 
-                                        <i class="font-size-icon green far fa-hand-point-down"></i>
+                                            <i class="font-size-icon green far fa-hand-point-down"></i>
 
-                                    </div>
+                                        </div>
 
-                                    <div class="heading">
+                                        <div class="heading">
 
-                                        <h1> <a> General Cleaners </a> </h1>
+                                            <h2> <a> General Cleaners </a> </h2>
 
-                                    </div>
+                                        </div>
 
-                                    <div class="content margin-top-10">
+                                        <div class="content margin-top-10">
 
-                                        <p>General cleaning temps can help you in on demand deep cleaning work.</p>
+                                            <p>General cleaning temps can help you in on demand deep cleaning work.</p>
 
-                                    </div>
+                                        </div>
 
-                                    <!-- <ul class=" margin-top-10">
+                                        <!-- <ul class=" margin-top-10">
 
                                 <li><i class="green fa fa-plus-circle"></i> <a class="green">&nbsp; READ MORE</a></li>
 
@@ -238,9 +319,9 @@
 
 
 
-                                </div>
+                                    </div>
 
-                                <!-- <div class="grid-box-1">
+                                    <!-- <div class="grid-box-1">
 
                             <div class="img-section">
 
@@ -258,42 +339,42 @@
 
 
 
-                            </div>
+                                </div>
 
-                        </a>
+                            </a>
 
-                    </div>
-
-
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
-
-                        <a href="#">
-
-                            <div class="box">
+                        </div>
 
 
+                        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
-                                <div class="grid-box">
+                            <a href="#">
 
-                                    <div class="iconn green">
+                                <div class="box">
 
-                                        <i class="font-size-icon green fas fa-utensils"></i>
 
-                                    </div>
 
-                                    <div class="heading">
+                                    <div class="grid-box">
 
-                                        <h1> <a> Restaurant Cleaners </a> </h1>
+                                        <div class="iconn green">
 
-                                    </div>
+                                            <i class="font-size-icon green fas fa-utensils"></i>
 
-                                    <div class="content margin-top-10">
+                                        </div>
 
-                                        <p>Our reliable & flexible cleaners are ready to join any busy kitchen.</p>
+                                        <div class="heading">
 
-                                    </div>
+                                            <h2> <a> Restaurant Cleaners </a> </h2>
 
-                                    <!-- <ul class=" margin-top-10">
+                                        </div>
+
+                                        <div class="content margin-top-10">
+
+                                            <p>Our reliable & flexible cleaners are ready to join any busy kitchen.</p>
+
+                                        </div>
+
+                                        <!-- <ul class=" margin-top-10">
 
                                 <li><i class="green fa fa-plus-circle"></i> <a class="green">&nbsp; READ MORE</a></li>
 
@@ -301,9 +382,9 @@
 
 
 
-                                </div>
+                                    </div>
 
-                                <!-- <div class="grid-box-1">
+                                    <!-- <div class="grid-box-1">
 
                             <div class="img-section">
 
@@ -321,40 +402,40 @@
 
 
 
-                            </div>
+                                </div>
 
-                        </a>
-                    </div>
+                            </a>
+                        </div>
 
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
+                        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
-                        <a href="#">
+                            <a href="#">
 
-                            <div class="box">
+                                <div class="box">
 
 
 
-                                <div class="grid-box">
+                                    <div class="grid-box">
 
-                                    <div class="iconn green">
+                                        <div class="iconn green">
 
-                                        <i class="font-size-icon green fas fa-recycle"></i>
+                                            <i class="font-size-icon green fas fa-recycle"></i>
 
-                                    </div>
+                                        </div>
 
-                                    <div class="heading">
+                                        <div class="heading">
 
-                                        <h1> <a> Housekeepers & Rooms Attendants </a> </h1>
+                                            <h2> <a> Housekeepers & Rooms Attendants </a> </h2>
 
-                                    </div>
+                                        </div>
 
-                                    <div class="content margin-top-10">
+                                        <div class="content margin-top-10">
 
-                                        <p>Professional & experienced housekeeping and rooms attendants temps.</p>
+                                            <p>Professional & experienced housekeeping and rooms attendants temps.</p>
 
-                                    </div>
+                                        </div>
 
-                                    <!-- <ul class=" margin-top-10">
+                                        <!-- <ul class=" margin-top-10">
 
                                 <li><i class="green fa fa-plus-circle"></i> <a class="green">&nbsp; READ MORE</a></li>
 
@@ -362,9 +443,9 @@
 
 
 
-                                </div>
+                                    </div>
 
-                                <!-- <div class="grid-box-1">
+                                    <!-- <div class="grid-box-1">
 
                             <div class="img-section">
 
@@ -382,40 +463,40 @@
 
 
 
-                            </div>
+                                </div>
 
-                        </a>
-                    </div>
+                            </a>
+                        </div>
 
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
+                        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
-                        <a href="#">
+                            <a href="#">
 
-                            <div class="box">
+                                <div class="box">
 
 
 
-                                <div class="grid-box">
+                                    <div class="grid-box">
 
-                                    <div class="iconn green">
+                                        <div class="iconn green">
 
-                                        <i class="font-size-icon green fas fa-truck"></i>
+                                            <i class="font-size-icon green fas fa-truck"></i>
 
-                                    </div>
+                                        </div>
 
-                                    <div class="heading">
+                                        <div class="heading">
 
-                                        <h1> <a> Domestic & Commmercial Cleaners </a> </h1>
+                                            <h2> <a> Domestic & Commmercial Cleaners </a> </h2>
 
-                                    </div>
+                                        </div>
 
-                                    <div class="content margin-top-10">
+                                        <div class="content margin-top-10">
 
-                                        <p>Hire Domestic & Commercial cleaning operatives on short noitce.</p>
+                                            <p>Hire Domestic & Commercial cleaning operatives on short noitce.</p>
 
-                                    </div>
+                                        </div>
 
-                                    <!-- <ul class=" margin-top-10">
+                                        <!-- <ul class=" margin-top-10">
 
                                 <li><i class="green fa fa-plus-circle"></i> <a class="green">&nbsp; READ MORE</a></li>
 
@@ -423,9 +504,9 @@
 
 
 
-                                </div>
+                                    </div>
 
-                                <!-- <div class="grid-box-1">
+                                    <!-- <div class="grid-box-1">
 
                             <div class="img-section">
 
@@ -443,110 +524,34 @@
 
 
 
-                            </div>
+                                </div>
 
-                        </a>
+                            </a>
+                        </div>
                     </div>
                 </div>
 
-                <div class="row margin-top-60">
-                    <div class="box">
+                <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                    <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/Cleaners/cleaners_2.png" width="100%" height="200px" alt="">
+                </div>
+                <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                    <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/Cleaners/cleaners_1.jpeg" width="100%" height="200px" alt="">
+                </div>
 
-                        <div class="grid-box">
-                            <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
-                                <div class="section_heading section_2_heading about_text_wrapper">
-
-                                    <h2> Right temp on right time </h2>
-
-                                </div>
-
-                                <div class="content margin-top-60">
-
-                                    <p>We all know the year is becoming roughest each month since it flinched. Saying that; would you be not sending-off that anxiety our way instead of for yourself? Why having HR to pay for sitting doing nothing throughout the year when we can do all the same in much better price and time composed? Your necessity is what we accomplish so after all we objectively being here for yourself.</p>
-
-                                </div>
-                            </div>
-
-                            <div class="iconn green col-lg-5 col-md-5 col-sm-12 col-xs-12">
-
-                                <a href="#"><img class="image-style-border" src="public/assets/images/page-pictures/Cleaners/cleaners_1.jpeg" alt="Cleaning Job London" width="100%" height="220px"></a>
-
-
-                            </div>
-                        </div>
-
-                    </div>
-                    <div class="box">
-
-
-
-                        <div class="grid-box">
-
-                            <div class=" col-lg-4 col-md-4 col-sm-12 col-xs-12">
-
-                                <a href="#"><img class="image-style-border" src="https://workers-direct.com/wp-content/uploads/elementor/thumbs/Hosekeeping-agencies-ojg0f69co3g29kc4wzyj4yr1q6bftsqmfr5h3f64fi.png" alt="housekeeping agency" width="100%" height="220px"></a>
-
-
-                            </div>
-
-                            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
-                                <div class="section_heading section_2_heading about_text_wrapper">
-
-                                    <h2> Cleaners we have available </h2>
-
-                                </div>
-
-                                <div class="content margin-top-60">
-
-                                    <p>We have all sorts of cleaning staff always available for еvеnіng оr оn thе wееkеnds, dереndіng оn whаt suіts уоur sсhеdulе bеst. On the flip side, if you endeavor to wash the warehouse on your own, you're going to be taking time from your work or professional schedule to complete the task. Even if you pay your staff for cleaning, you cannot be sure they have the abilities or experience required to do the work properly.</p>
-
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-
-                    <div class="box">
-
-                        <div class="grid-box">
-
-                            <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
-                                <div class="section_heading section_2_heading about_text_wrapper">
-
-                                    <h2> Experienced & Professionals </h2>
-
-                                </div>
-
-                                <div class="content margin-top-60">
-
-                                    <p>Fetching aptitude in all sorts of jobs is rigid, specifically when market is being so vulnerable plus exclusively when time is bounded. Hence, we provide you access to more information about candidates you’re trying to reach as soon as you confirm with us about any job role. Initially with CV we commence leading on your declaration, interview and/or trial to carve your trademark.</p>
-
-                                </div>
-                            </div>
-
-                            <div class="green col-lg-5 col-md-5 col-sm-12 col-xs-12 ">
-
-                                <a href="#"><img class="image-style-border" src="public/assets/images/page-pictures/Cleaners/cleaners_4.jpg" alt="maid making bed on hotel room" width="100%" height="220px"></a>
-
-
-                            </div>
-
-                        </div>
-
-
-
-
-
-                    </div>
-
-
-
+                <div class="section_heading section_2_heading about_text_wrapper col-md-12 col-sm-12">
+                    <p>We are recruiting temporary part time cleaners from (9am to 2pm) on temporary basis in central London, Old street area.
+                        <strong>Main Purpose:</strong> You will be responsible to ensure and provide a very high standard of cleaning.</p>
+                    <p style="padding-top: 0px !important;"><strong>Hours of Work:</strong> Mon To Fri – 09.00 – 14.00</p>
+                    <p style="padding-top: 0px !important;"><strong>Pay Rate:</strong> Competitive</p>
+                    <p style="padding-top: 0px !important;">Please contact Bill for more details on <strong>+44203089080</strong></p>
+                    <p style="padding-top: 0px !important;">To apply forward your CV to arrange an immediate interview.</p>
+                    <em style="padding-top: 0px !important;">jobs@ Workers-direct.com</em>
                 </div>
             </div>
 
 
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -766,28 +771,7 @@
 
                 </div>
 
-            </div>
-
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-30">
-                <img class="image-style-border" src="public/assets/images/page-pictures/Cleaners/cleaners_2.png" width="100%" height="300" alt="Cleaners">
-            </div>
-
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-30">
-                <img class="image-style-border" src="public/assets/images/page-pictures/Cleaners/cleaners_3.jpg" width="100%" height="300" alt="Cleaners">
-            </div>
-
-
-
-
-
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
-
-
-
-            <!-- </div> -->
-
-
-
+            </div> -->
         </div>
 
     </div>
@@ -822,7 +806,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -858,7 +842,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
@@ -898,7 +882,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -1311,7 +1295,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

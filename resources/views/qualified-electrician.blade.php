@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','Qualified Electrician Jobs')
+@section('keywords','qualified,electrician')
+@section('description','The position of electrical engineer (EICR) is to undertake electrical testing for electrical services in accordance with The Electricity at work regulations 1989, used by clients various sites within the UK to ensure that such services are safe to use and do not give rise to danger.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>Qualified Electrician</h2>
+                        <h1>Qualified Electrician</h1>
 
                     </div>
 
@@ -79,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Qualified <span> Electrician</span></h1>
+                        <h2>Qualified <span> Electrician</span></h2>
 
                     </div>
 
@@ -89,13 +91,26 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper">
 
                     <div class="section_heading section_2_heading row">
 
                         <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                            <p style="margin: 0;">We are recruiting FIVE qualified electricians on behalf of our client for six months to test domestic electrical installations across M25 / London area.</p>
+                            <p style="margin: 0;"><strong> The position of electrical engineer (EICR)</strong> is to undertake electrical testing for electrical services in accordance with The Electricity at work regulations 1989, used by clients various sites within the UK to ensure that such services are safe to use and do not give rise to danger. This role may require overnight, weekend and out of our working, traveling to and from sites, liaising with customers representatives on site, organizing the work programme to ensure that the works are carried out to the required specification, programme and that reports are filed in the Cambridge office within seven days of the works completion.</p>
+                            <p style="margin: 0;">Uphold and promote the company’s ethical, moral sustainable and environmental values, in particular to business ethics, philosophy, and integrity, corporate and social responsibility. In essence treating our customers, work colleagues , suppliers, sub-contractors and other business partners as we would like to be treated and ensuring that the company meets the contractual obligations to its customers and carries out duties accurately and efficiently so as to promote and maintain good business relationships and generate profit for the company</p>
+                        </div>
+
+                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                            <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/QUALIFIED ELECTRICIAN/qualified_electrician_1.jpg" width="100%" height="200px" alt="">
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                            <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/QUALIFIED ELECTRICIAN/qualified_electrician_2.jpg" width="100%" height="200px" alt="">
+                        </div>
+
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30">
                             <table class="table table-bordered " style="width:100%">
                                 <tr>
                                     <th>Job Titles</th>
@@ -134,27 +149,13 @@
                             </table>
 
                         </div>
-
-                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-top-40 ">
-                            <img class="image-style-border" src="public/assets/images/page-pictures/QUALIFIED ELECTRICIAN/qualified_electrician_1.jpg" width="100%" height="440px" alt="Electrician">
-                        </div>
-
-
-
-                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                            <p style="margin: 0;">We are recruiting FIVE qualified electricians on behalf of our client for six months to test domestic electrical installations across M25 / London area.</p>
-                            <p style="margin: 0;"><strong> The position of electrical engineer (EICR)</strong> is to undertake electrical testing for electrical services in accordance with The Electricity at work regulations 1989, used by clients various sites within the UK to ensure that such services are safe to use and do not give rise to danger. This role may require overnight, weekend and out of our working, traveling to and from sites, liaising with customers representatives on site, organizing the work programme to ensure that the works are carried out to the required specification, programme and that reports are filed in the Cambridge office within seven days of the works completion.</p>
-                            <p style="margin: 0;">Uphold and promote the company’s ethical, moral sustainable and environmental values, in particular to business ethics, philosophy, and integrity, corporate and social responsibility. In essence treating our customers, work colleagues , suppliers, sub-contractors and other business partners as we would like to be treated and ensuring that the company meets the contractual obligations to its customers and carries out duties accurately and efficiently so as to promote and maintain good business relationships and generate profit for the company</p>
-                        </div>
-
-
                     </div>
 
 
 
-                    <div class="section_heading section_2_heading margin-top-60">
+                    <div class="section_heading section_2_heading margin-top-30">
 
-                        <div class="section_heading section_2_heading margin-bottom-60">
+                        <div class="section_heading section_2_heading margin-bottom-40">
 
                             <h2>Key areas of <span> Responsibility</span></h2>
 
@@ -174,9 +175,16 @@
                             </ul>
                         </div>
 
+                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                            <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/QUALIFIED ELECTRICIAN/qualified_electrician_3.jpg" width="100%" height="200px" alt="">
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+                            <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/QUALIFIED ELECTRICIAN/qualified_electrician_4.jpg" width="100%" height="200px" alt="">
+                        </div>
+
                         <div class="row">
-                            <div class="col-md-6">
-                                <div class="section_heading section_2_heading margin-bottom-60 margin-top-60">
+                            <div class="col-md-6 col-sm-12">
+                                <div class="section_heading section_2_heading margin-bottom-40 margin-top-40">
 
                                     <h2>Qualifications & <span> Experience</span></h2>
 
@@ -192,8 +200,8 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="col-md-6">
-                                <div class="section_heading section_2_heading margin-bottom-60 margin-top-60">
+                            <div class="col-md-6 col-sm-12">
+                                <div class="section_heading section_2_heading margin-bottom-40 margin-top-40">
 
                                     <h2>Required <span> Skills</span></h2>
 
@@ -225,7 +233,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -445,20 +453,7 @@
 
                 </div>
 
-            </div>
-
-
-
-
-
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
-
-
-
-            <!-- </div> -->
-
-
-
+            </div> -->
         </div>
 
     </div>
@@ -493,7 +488,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -529,7 +524,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
@@ -569,7 +564,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -989,7 +984,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 

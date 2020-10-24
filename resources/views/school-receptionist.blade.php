@@ -1,5 +1,7 @@
 @extends('layouts.base')
 @section('title','School Receptionist - School Receptionist Jobs London')
+@section('keywords','school,receptionist')
+@section('description','On behalf of our client we are recruiting an experienced SCHOOL RECEPTIONIST who must be highly enthusiastic, happy people on board to make this happen, people who are full of the joy of life and who will be infectious with their enthusiasm for what we are trying to achieve.')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h2>School Receptionist</h2>
+                        <h1>School Receptionist</h1>
 
                     </div>
 
@@ -79,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>School <span> Receptionist</span></h1>
+                        <h2>School <span> Receptionist</span></h2>
 
                     </div>
 
@@ -89,17 +91,37 @@
 
 
 
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
-                <div class="about_text_wrapper abt_2_para">
+                <div class="about_text_wrapper">
 
                     <div class="section_heading section_2_heading row">
 
-                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-bottom-60">
+
+                        <div class="section_heading section_2_heading col-md-12 margin-top-40">
+
+                            <h4>ROLE <span> OVERVIEW</span></h4>
+
+                        </div>
+
+                        <div class="col-md-12">
+                            <p>On behalf of our client we are recruiting an experienced SCHOOL RECEPTIONIST who must be highly enthusiastic, happy people on board to make this happen, people who are full of the joy of life and who will be infectious with their enthusiasm for what we are trying to achieve.</p>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-40">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/SCHOOL RECEPTIONIST/school_receptionist_1.jpg" width="100%" height="300px" alt="BUS DRIVER">
+
+                        </div>
+
+                        <div class="margin-top-40 col-md-6">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/SCHOOL RECEPTIONIST/school_receptionist_2.jpg" width="100%" height="300px" alt="BUS DRIVER">
+
+                        </div>
+
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-bottom-60 margin-top-40">
                             <h2>SCHOOL RECEPTIONIST JOBS LONDON (Temporary)</h2>
                         </div>
 
-                        <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12">
+                        <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
                             <table class="table table-bordered " style="width:100%">
                                 <tr>
                                     <th>JOB LOCATION</th>
@@ -126,34 +148,20 @@
 
                         </div>
 
-                        <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
-                            <img class="image-style-border" src="public/assets/images/page-pictures/SCHOOL RECEPTIONIST/school_receptionist_1.jpg" width="100%" height="240px" alt="BUS DRIVER">
-
-                        </div>
+                        
 
 
 
 
                     </div>
 
-                    <div class="section_heading section_2_heading margin-top-60">
 
-                        <div class="section_heading section_2_heading">
-
-                            <h2>ROLE <span> OVERVIEW</span></h2>
-
-                        </div>
-
-                        <p>On behalf of our client we are recruiting an experienced SCHOOL RECEPTIONIST who must be highly enthusiastic, happy people on board to make this happen, people who are full of the joy of life and who will be infectious with their enthusiasm for what we are trying to achieve.</p>
-
-
-                    </div>
 
                     <div class="section_heading section_2_heading margin-top-60">
 
                         <div class="section_heading section_2_heading">
 
-                            <h4>The duties of the Receptionist <span> will include :</span></h4>
+                            <h4>The duties of the Receptionist <span> will include </span></h4>
 
                         </div>
 
@@ -170,14 +178,11 @@
                             </ul>
                         </div>
 
-                        <div class="margin-top-40">
-                            <img class="image-style-border" src="public/assets/images/page-pictures/SCHOOL RECEPTIONIST/school_receptionist_2.jpg" width="100%" height="340px" alt="BUS DRIVER">
-
-                        </div>
+                        
 
                         <div class="section_heading section_2_heading margin-top-60">
 
-                            <h4>AN IDEAL SCHOOL RECEPTIONIST <span> MUST HAVE :</span></h4>
+                            <h4>AN IDEAL SCHOOL RECEPTIONIST <span> MUST HAVE </span></h4>
 
                         </div>
 
@@ -203,7 +208,7 @@
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -423,7 +428,7 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
 
 
@@ -471,7 +476,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Relevant Experience </a> </h1>
+                                <h2> <a> Relevant Experience </a> </h2>
 
                             </div>
 
@@ -507,7 +512,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> 24/7 Availability </a> </h1>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
@@ -547,7 +552,7 @@
 
                             <div class="heading">
 
-                                <h1> <a> Flexible & Reliable </a> </h1>
+                                <h2> <a> Flexible & Reliable </a> </h2>
 
                             </div>
 
@@ -967,7 +972,7 @@
 
                 <div class="ss_download_wrapper_details">
 
-                    <h1><span>Download</span><br>Job Portal App Now!</h1>
+                    <h2><span>Download</span><br>Job Portal App Now!</h2>
 
                     <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
 
