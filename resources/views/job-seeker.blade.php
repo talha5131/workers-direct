@@ -65,7 +65,25 @@
                 </div>
 
             </div>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <form method="POST" action="job-seeker">
+                     @csrf
+                     <!-- @if (session()->has('success'))
+                      <div class="alert-success" id="popup_notification">
+                      {{ session('success') }}
+                      </div>
+                     @endif -->
+=======
             <form action="" id="form-validation-job-seeker" class="col-xs-12" name="job-seeker">
+>>>>>>> b82cae34f847d42b4e67759e9f5a73b86cb36ad8
+=======
+           
+=======
+            <form action="" id="form-validation-job-seeker" class="col-xs-12" name="job-seeker">
+>>>>>>> b82cae34f847d42b4e67759e9f5a73b86cb36ad8
                 <div class="jp_contact_form_box">
 
 
@@ -468,17 +486,51 @@
                             <label for="submit_button" class="submit_button_custom_styling">Submit</label>
                             <div class="form_upload_btn_custom">
                                 <input id="submit_button" type="submit" name="submit_button">
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+                             
+=======
                                 <!-- <input id="submit_button" type="submit"> -->
+>>>>>>> b82cae34f847d42b4e67759e9f5a73b86cb36ad8
                             </div>
+                            <!-- @if(session()->has('message'))
+                            <div class="alert alert-success">
+                            {{ session()->get('message') }}
+=======
+                                <!-- <input id="submit_button" type="submit"> -->
+>>>>>>> b82cae34f847d42b4e67759e9f5a73b86cb36ad8
+=======
+                                <!-- <input id="submit_button" type="submit"> -->
+>>>>>>> b82cae34f847d42b4e67759e9f5a73b86cb36ad8
+                            </div>
+                             @endif -->
                         </div>
 
                     </div>
 
 
                 </div>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+                </form>
+            </div>
+=======
 
 
             </form>
+>>>>>>> b82cae34f847d42b4e67759e9f5a73b86cb36ad8
+=======
+
+
+            </form>
+>>>>>>> b82cae34f847d42b4e67759e9f5a73b86cb36ad8
+=======
+
+
+            </form>
+>>>>>>> b82cae34f847d42b4e67759e9f5a73b86cb36ad8
         </div>
     </div>
 </div>

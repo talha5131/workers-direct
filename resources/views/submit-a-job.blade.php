@@ -50,6 +50,8 @@
 
 <div class="aboutus_section">
 	<div class="container">
+		<form method="POST" action="submit-a-job">
+			@csrf
 		<div class="row">
 
 			<div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
@@ -425,7 +427,7 @@
 
 					</div> -->
 
-					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+					<!-- <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
 						<div class="phone_number_custom_style jp_contact_inputs3_wrapper">
 
@@ -529,7 +531,7 @@
 
 							<ul>
 
-								<!-- <li><a href="#"><i class="white fa fa-plus-circle"></i>&nbsp; Submit</a></li> -->
+								 <li><a href="#"><i class="white fa fa-plus-circle"></i>&nbsp; Submit</a></li> -->
 
 							</ul>
 
@@ -547,8 +549,9 @@
 
 			</div>
 		</div>
+		</form>
 	</div>
-</div>
+</div> -->
 
 <!-- jp Tittle Wrapper Start -->
 
