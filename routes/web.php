@@ -102,6 +102,9 @@ Route::get('/candidate-profile', function () {
 Route::get('/candidate-listing', function () {
     return view('candidate-listing');
 });
+Route::get('/blogs', function () {
+    return view('blogs');
+});
 Route::get('/blog-single-right', function () {
     return view('blog-single-right');
 });
