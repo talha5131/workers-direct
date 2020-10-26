@@ -76,47 +76,16 @@
                 <p>Contact Team Workers Direct For Any Kind of Staff Recruitment (Temporary or Permanent) Can Call On 02030869080 or email to us on info@workers-direct.com or our Fax number is 02071128033 alternatively complete the form below and One of our Representative will contact you very shortly. You can also register your resume with us and employers please submit your vacancies here.</p>
             </div>
 
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center margin-top-60">
-                <img style="border: 4px solid #7CC24D; border-radius: 5px;" src="http://workers-direct.com/wp-content/uploads/2015/01/Contact-Workers-Direct1-1024x688.jpg" height="600px" alt="workers direct">
-            </div>
-
         </div>
 
     </div>
 
 </div>
 
-<div class="jp_contact_map_wrapper">
-
-    <div class="container">
-
-        <div style="width:100%; float:left; height:600px;">
-
-            <iframe style="border: 4px solid #7CC24D; border-radius: 5px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2480.4054139491323!2d0.08116921520262564!3d51.56080101461914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a6863c22706b%3A0xdfb224d6cd4eee4c!2s344-348%20High%20Rd%2C%20Ilford%20IG1%201QP%2C%20UK!5e0!3m2!1sen!2s!4v1580738057832!5m2!1sen!2s" width="100%" height="600" frameborder="0"></iframe></div>
-
-        <div class="jp_map_cont_label">
-
-            <h3>You can Find us..</h3>
-
-            <p>344-48 High Road, Ilford, IG1 1QP</p>
-
-        </div>
-
-    </div>
-
-</div>
-
-
-
-
-
-
-
-<!-- jp Contact heading Wrapper End -->
 
 <!-- jp Contact form Wrapper Start -->
 
-<div class="jp_contact_form_main_wrapper">
+<div class="jp_contact_form_main_wrapper pt-0">
 
     <div class="container">
 
@@ -220,7 +189,7 @@
 
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 
-                <div class="jp_contact_right_box_wrapper">
+                <div class="jp_contact_right_box_wrapper" style="height: 583px;">
 
                     <div class="jp_contact_form_add_heading_wrapper">
 
@@ -321,6 +290,36 @@
 </div>
 
 <!-- jp Contact form Wrapper End -->
+
+<div class="jp_contact_map_wrapper" style="margin: 100px 0;">
+
+    <div class="container">
+
+        <div style="width:100%; float:left; height:300px;">
+
+            <iframe style="border: 4px solid #7CC24D; border-radius: 5px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2480.4054139491323!2d0.08116921520262564!3d51.56080101461914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a6863c22706b%3A0xdfb224d6cd4eee4c!2s344-348%20High%20Rd%2C%20Ilford%20IG1%201QP%2C%20UK!5e0!3m2!1sen!2s!4v1580738057832!5m2!1sen!2s" width="100%" height="325" frameborder="0"></iframe></div>
+
+        <div class="jp_map_cont_label" style="height: 140px;top: 59% !important;">
+
+            <h3>You can Find us..</h3>
+
+            <p>344-48 High Road, Ilford, IG1 1QP</p>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+<!-- jp Contact heading Wrapper End -->
+
+
 
 <!-- jp downlord Wrapper Start -->
 

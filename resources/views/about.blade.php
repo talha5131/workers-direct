@@ -92,19 +92,14 @@
 
             </div>
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-bottom-20">
-
-                <div class="about_image_wrapper">
-
-                    <img class="img-responsive img-thumbnail " src="public/assets/images/content/about-workers-direct.jpg" alt="about-img">
-
-                </div>
-
+            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20 pl-0">
+                <img class="image-style-border" src="public/assets/images/page-pictures/About/about-1.jpg" height="300px" width="100%" alt="CSCS PAINTER">
+            </div>
+            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20 pr-0">
+                <img class="image-style-border" src="public/assets/images/page-pictures/About/about-2.jpg" height="300px" width="100%" alt="CSCS PAINTER">
             </div>
 
-
-
-            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
                 <div class="about_text_wrapper abt_2_para">
 
@@ -158,55 +153,60 @@
 
                     <p class="margin-bottom-20">
 
-                        By outsourcing your recruitment search, we take the stress and hassle out of your already complicated work life. By saving your time, the trouble, cost of advertising, interviewing and hiring. We oversee the entire process and give you the 100% result. We also have connections with universities, Job centres, Employment agencies, job boards and professional bodies that provide us with newly trained staff and graduates, meaning that Workers Direct has a <a href="#"> Database of Millions of temporary staff</a> that can help you.
+                        By outsourcing your recruitment search, we take the stress and hassle out of your already complicated work life. By saving your time, the trouble, cost of advertising, interviewing and hiring. We oversee the entire process and give you the 100% result. We also have connections with universities, Job centres, Employment agencies, job boards and professional bodies that provide us with newly trained staff and graduates, meaning that Workers Direct has a Database of Millions of temporary staff that can help you.
 
                     </p>
 
-                    <div class="section_heading section_2_heading">
-
-                        <h4>CRB <span> / DBS Check </span></h4>
-
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20 pl-0">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/About/about-3.jpg" height="300px" width="100%" alt="CSCS PAINTER">
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20 pr-0">
+                        <img class="image-style-border" src="public/assets/images/page-pictures/About/about-4.jpg" height="300px" width="100%" alt="CSCS PAINTER">
                     </div>
 
-                    <p class="margin-bottom-20">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-30">
+                        <div class="section_heading section_2_heading">
 
-                        With a decade’s experience in matching teaching and support staff to businesses including schools, we know that it is vital to find an honest worker – and we understand the weight of responsibility that all of those roles entail. All employees are CRB/DBS checked, as standard. We organise the process, guiding candidates through the application and supporting them, and meaning that there is no cost or worry for an employer.
+                            <h4>CRB <span> / DBS Check </span></h4>
 
-                    </p>
+                        </div>
 
-                    <div class="section_heading section_2_heading">
+                        <p class="margin-bottom-20">
 
-                        <h4>Reference <span>Check </span></h4>
+                            With a decade’s experience in matching teaching and support staff to businesses including schools, we know that it is vital to find an honest worker – and we understand the weight of responsibility that all of those roles entail. All employees are CRB/DBS checked, as standard. We organise the process, guiding candidates through the application and supporting them, and meaning that there is no cost or worry for an employer.
 
+                        </p>
+
+                        <div class="section_heading section_2_heading">
+
+                            <h4>Reference <span>Check </span></h4>
+
+                        </div>
+
+                        <p class="margin-bottom-20">
+
+                            Nothing is more frustrating, when recruiting, than finding a staff member has made a fraudulent claim on their CV or application. We vet and check all candidates, including contacting references – so that you can be assured that the experienced worker you receive is what you expect. This guarantee also means that our candidates go to businesses that know that they will receive the best – offering them a better opportunity for professional development.
+
+                        </p>
+
+                        <div class="section_heading section_2_heading">
+
+                            <h4> Job <span> Advertisement </span></h4>
+
+                        </div>
+
+                        <p class="margin-bottom-50">
+
+                            With varied sources on hand with which to advertise your vacancy, and the know-how to get it out there, Workers Direct get you the best quality workers. We advertise roles on our site and through the use of social media, as well as through traditional & latest methods, with our team matching candidates that come in every day to the roles that they know we have. We are champions for your business, putting applicant to advertisement and then into jobs quickly and aptly.
+
+                        </p>
                     </div>
-
-                    <p class="margin-bottom-20">
-
-                        Nothing is more frustrating, when recruiting, than finding a staff member has made a fraudulent claim on their CV or application. We vet and check all candidates, including contacting references – so that you can be assured that the experienced worker you receive is what you expect. This guarantee also means that our candidates go to businesses that know that they will receive the best – offering them a better opportunity for professional development.
-
-                    </p>
-
-                    <div class="section_heading section_2_heading">
-
-                        <h4> Job <span> Advertisement </span></h4>
-
-                    </div>
-
-                    <p class="margin-bottom-50">
-
-                        With varied sources on hand with which to advertise your vacancy, and the know-how to get it out there, Workers Direct get you the best quality workers. We advertise roles on our site and through the use of social media, as well as through traditional & latest methods, with our team matching candidates that come in every day to the roles that they know we have. We are champions for your business, putting applicant to advertisement and then into jobs quickly and aptly.
-
-                    </p>
-
-
-
-
 
                 </div>
 
             </div>
 
-            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -426,20 +426,7 @@
 
                 </div>
 
-            </div>
-
-
-
-
-
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
-
-
-
-            <!-- </div> -->
-
-
-
+            </div> -->
         </div>
 
     </div>

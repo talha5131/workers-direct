@@ -568,11 +568,13 @@ Purchase:
 
 
 
-                                    <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation"> Blog&nbsp;<i class="fa fa-angle-down"></i></a>
+                                    <li class="has-mega gc_main_navigation"><a href="blogs" class="gc_main_navigation"> Blog
+                                        <!-- <i class="fa fa-angle-down"></i> -->
+                                    </a>
 
                                         <!-- mega menu start -->
 
-                                        <ul>
+                                        <!-- <ul>
 
                                             <li class="parent"><a href="blog_left.php ">Blog-Left</a></li>
 
@@ -582,7 +584,7 @@ Purchase:
 
                                             <li class="parent"><a href="blog_single_right.php ">Blog-Single-Right</a></li>
 
-                                        </ul>
+                                        </ul> -->
 
                                     </li>
 
