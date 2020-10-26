@@ -3,7 +3,7 @@
 @section('content')
 
 <style>
-    .aboutus_section .container a{
+    .aboutus_section .container a {
         margin-top: 20px;
     }
 </style>
@@ -68,6 +68,8 @@
 
 <div class="aboutus_section">
     <div class="container">
+        <a class="btn btn-success" href="housekeepers">Housekeepers</a>
+        <a class="btn btn-success" href="school-staffing">School Staffing</a>
         <a class="btn btn-success" href="temporary-staffing">Temporary Staffing</a>
         <a class="btn btn-success" href="catering-staff">Catering Staff</a>
         <a class="btn btn-success" href="cleaners">Cleaners</a>
@@ -92,8 +94,6 @@
         <a class="btn btn-success" href="temp-jobs-registration">Temp Jobs Registration</a>
         <a class="btn btn-success" href="cscs-painter">Cscs Painter</a>
         <a class="btn btn-success" href="kitchen-assistant">Kitchen Assistant</a>
-        <a class="btn btn-success" href="housekeepers">Housekeepers</a>
-        <a class="btn btn-success" href="school-staffing">School Staffing</a>
         <a class="btn btn-success" href="shop-manager">Shop Manager</a>
         <a class="btn btn-success" href="admin-staff">Admin Staff</a>
         <a class="btn btn-success" href="mortgage-administrator">Mortgage Administrator</a>
