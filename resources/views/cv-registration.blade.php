@@ -650,7 +650,7 @@
 				if (enteredValue.match(numbers)) {
 					console.log("Number is Entered. And The Number Is " + e.key);
 				} else if (phone_val.match(e.key) !== numbers) {
-					$('#phone').val(phone_val)
+					$('#phone').val()
 					console.log(phone_val);
 				}
 			} else {
