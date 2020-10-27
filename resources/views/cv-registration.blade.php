@@ -635,36 +635,57 @@
 
 		// Phone Validation
 
-		$("#phone").keyup(function() {
-			phone_check();
-		});
-
-		function phone_check() {
+		$("#phone").on('keyup', function(e) {
+			// console.log(e.key);
+			var numbers = /[0-9]/g;
 			var phone_val = $("#phone").val();
-
 
 			if (phone_val.length == "") {
 				$("#phone-error").show();
 				$("#phone-error").html("This Field Is Required");
 				phone_Error = false;
 				return false;
+			} else if (phone_val.match(e.key)) {
+				var enteredValue = phone_val.match(e.key)[0];
+				if (enteredValue.match(numbers)) {
+					console.log("Number is Entered. And The Number Is " + e.key);
+				}
+				 else if (phone_val.match(e.key) !== numbers) {
+					console.log("Number is Not Entered. And The Key Is " + e.key);
+				}
 			} else {
 				$("#phone-error").hide();
 			}
-		}
+		});
 
-		function allnumeric(inputtxt) {
-			var numbers = /^[0-9]+$/;
-			if (inputtxt.value.match(numbers)) {
-				alert('Your Registration number has accepted....');
-				document.form1.text1.focus();
-				return true;
-			} else {
-				alert('Please input numeric characters only');
-				document.form1.text1.focus();
-				return false;
-			}
-		}
+		// function phone_check() {
+		// 	var phone_val = $("#phone").val();
+		// 	var numbers = /[0-9]/g;
+
+		// 	if (phone_val.length == "") {
+		// 		$("#phone-error").show();
+		// 		$("#phone-error").html("This Field Is Required");
+		// 		phone_Error = false;
+		// 		return false;
+		// 	} else if (phone_val.match(numbers)) {
+		// 		console.log("Found Number");
+		// 	} else {
+		// 		$("#phone-error").hide();
+		// 	}
+		// }
+
+		// function allnumeric(inputtxt) {
+		// 	var numbers = /^[0-9]+$/;
+		// 	if (inputtxt.value.match(numbers)) {
+		// 		alert('Your Registration number has accepted....');
+		// 		document.form1.text1.focus();
+		// 		return true;
+		// 	} else {
+		// 		alert('Please input numeric characters only');
+		// 		document.form1.text1.focus();
+		// 		return false;
+		// 	}
+		// }
 
 
 
