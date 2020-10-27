@@ -333,7 +333,7 @@
 								<div class="col-lg-9 col-md-9 col-sm-10 col-xs-10">
 
 									<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
-										<i class="fa fa-phone"></i><input type="number" maxlength="10" id="phone" name="phone" placeholder="Enter Your Phone Number" autocomplete="off">
+										<i class="fa fa-phone"></i><input type="text" maxlength="10" id="phone" name="phone" contenteditable="true" placeholder="Enter Your Phone Number" autocomplete="off">
 										<span style="color: #ed244f;" id="phone-error"></span>
 									</div>
 								</div>
@@ -635,35 +635,46 @@
 
 		// Phone Validation
 
-		// $("#phone").on('keyup', function(e) {
-		// 	// console.log(e.key);
-		// 	var numbers = /[0-9]/g;
-		// 	var phone_val = $("#phone").val();
+		$("#phone").on('keyup', function(e) {
+			// console.log(e.key);
+			var numbers = /[0-9]/g;
+			var phone_val = $("#phone").val();
 
-		// 	if (phone_val.length == "") {
-		// 		$("#phone-error").show();
-		// 		$("#phone-error").html("This Field Is Required");
-		// 		phone_Error = false;
-		// 		return false;
-		// 	} else if (phone_val.match(e.key)) {
-		// 		var enteredValue = phone_val.match(e.key)[0];
-		// 		if (enteredValue.match(numbers)) {
-		// 			phone_val = $("#phone").val();
-		// 			// console.log(phone_val);
-		// 			// console.log("Number is Entered. And The Number Is " + e.key);
-		// 		} else if (phone_val.match(e.key) !== numbers) {
-		// 			$("#phone").val(function(n) {
-		// 				n = phone_val;
-						
-		// 				return n;
-		// 			});
-		// 			// $('#phone').val(test)
-		// 			// console.log(phone_val);
-		// 		}
-		// 	} else {
-		// 		$("#phone-error").hide();
-		// 	}
-		// });
+			if (phone_val.length == "") {
+				$("#phone-error").show();
+				$("#phone-error").html("This Field Is Required");
+				phone_Error = false;
+				return false;
+			} else if (phone_val.match(e.key)) {
+				var enteredValue = phone_val.match(e.key)[0];
+				if (enteredValue.match(numbers)) {
+					phone_val = $("#phone").val();
+					console.log(phone_val);
+					console.log("Number is Entered. And The Number Is " + e.key);
+				} else if (phone_val.match(e.key) !== numbers) {
+					backSpace();
+
+
+					// $("#phone").val(function(n) {
+					// 	n = phone_val;
+
+					// 	return n;
+					// });
+					// $('#phone').val(test)
+					// console.log(phone_val);
+				}
+			} else {
+				$("#phone-error").hide();
+			}
+
+			function backSpace() {
+				var txt = $("#phone").text();
+				console.log($("#phone").html());
+				txt = txt.substr(0, txt.length - 1)
+				// $("#phone").text(txt);
+				// console.log($("#phone").text(txt));
+			}
+		});
 
 		// function phone_check() {
 		// 	var phone_val = $("#phone").val();
