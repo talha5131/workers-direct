@@ -649,9 +649,9 @@
 				var enteredValue = phone_val.match(e.key)[0];
 				if (enteredValue.match(numbers)) {
 					console.log("Number is Entered. And The Number Is " + e.key);
-				}
-				 else if (phone_val.match(e.key) !== numbers) {
-					console.log("Number is Not Entered. And The Key Is " + e.key);
+				} else if (phone_val.match(e.key) !== numbers) {
+					$('#phone').val(phone_val)
+					console.log(phone_val);
 				}
 			} else {
 				$("#phone-error").hide();
