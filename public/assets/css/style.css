@@ -2190,12 +2190,19 @@ ul {
     width: 50%;
     padding-top: 85px;
     padding-bottom: 85px;
-    background: url('../images/content/candidate-bg.jpg') 50% 0 repeat-y;
-    background-position: center 0;
+    /* background: url('../images/content/candidate-bg.jpg') 50% 0 repeat-y; */
+    /* background-position: center 0;
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; */
     position: relative;
     text-align: center;
+    float: left;
+    width: 50%;
+    text-align: center;
+    background: #ffffff;
+    border: 1px solid #e9e9e9;
+    border-bottom: 1px solid #7CC24D;
+    border-right: 0;
 }
 
 .jp_regis_right_img_overlay {
