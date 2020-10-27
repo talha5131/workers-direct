@@ -668,11 +668,11 @@
 			}
 
 			function backSpace() {
-				var txt = $("#phone").text();
-				console.log($("#phone").html());
+				var txt = $("#phone").val();
+				console.log(txt);
 				txt = txt.substr(0, txt.length - 1)
 				// $("#phone").text(txt);
-				// console.log($("#phone").text(txt));
+				console.log($("#phone").text(txt));
 			}
 		});
 
