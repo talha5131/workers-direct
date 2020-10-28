@@ -7620,3 +7620,9 @@ html {
 .pb-0 {
     padding-bottom: 0px;
 }
+
+label.formsLabel {
+    color: #7CC24D;
+    padding-bottom: 15px;
+    font-size: 20px;
+}
