@@ -4,6 +4,49 @@
 
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="public/assets/css/richtext.min.css">
+
+<style type="text/css">
+	.badge-info {
+		color: #fff !important;
+		background-color: #ffb100 !important;
+		font-size: 13px;
+		margin-right: 12px;
+	}
+
+	.richText-toolbar {
+		background: #fff !important;
+	}
+
+	.richText .richText-toolbar ul li a {
+		display: block;
+		padding: 10px 13px;
+		border: none;
+		border-right: 1px solid green !important;
+		cursor: pointer;
+		-webkit-transition: background-color 0.4s;
+		-moz-transition: background-color 0.4s;
+		transition: background-color 0.4s;
+		color: green !important;
+		font-size: 15px;
+	}
+
+	.richText-editor {
+		background: #fff !important;
+		color: green !important;
+		border-left: none !important;
+	}
+
+	.richText {
+		position: relative;
+		background-color: red !important;
+		border: none !important;
+		color: #fff;
+		width: 100%;
+	}
+</style>
+
 
 <div class="jp_tittle_main_wrapper">
 	<div class="jp_tittle_img_overlay"></div>
@@ -89,7 +132,8 @@
 
 							<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
 
-								<i style="font-size: 17px;" class="far fa-newspaper"></i><textarea rows="7" id="desc" name="desc" placeholder="Job Description (optional)"></textarea>
+								<!-- <i style="font-size: 17px;" class="far fa-newspaper"></i> -->
+								<textarea rows="7" id="desc" name="desc" placeholder="Job Description (optional)"></textarea>
 
 							</div>
 						</div>
@@ -124,7 +168,7 @@
 							<label for="phone" class="formsLabel">Phone</label>
 						</div>
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-20 ">
-							<label for="tags" class="formsLabel">Job Tags</label>
+							<label for="jobCategory" class="formsLabel">Job Category</label>
 						</div>
 
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
@@ -371,23 +415,6 @@
 
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
-							<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
-
-								<i style="font-size: 17px;" class="fas fa-tag"></i><input type="tags" data-role="tagsinput" id="tags" name="tags" placeholder="Job Tags (optional)">
-
-							</div>
-
-						</div>
-						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-20 ">
-							<label for="jobCategory" class="formsLabel">Job Category</label>
-						</div>
-						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-20 ">
-							<label for="location" class="formsLabel">Location</label>
-						</div>
-
-
-						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-
 							<div class="phone_number_custom_style jp_contact_inputs3_wrapper">
 
 								<select class="form-control" id="jobCategory" name="jobCategory">
@@ -413,6 +440,24 @@
 
 						</div>
 
+						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-20 ">
+							<label for="tags" class="formsLabel">Job Tags</label>
+						</div>
+						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-20 ">
+							<label for="location" class="formsLabel">Location</label>
+						</div>
+
+						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+
+							<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
+
+								<i style="font-size: 17px;" class="fas fa-tag"></i><input type="tags" data-role="tagsinput" id="tags" name="tags" placeholder="Job Tags (optional)">
+								<span></span>
+							</div>
+
+						</div>
+
+
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
 							<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
@@ -434,7 +479,7 @@
 
 							<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
 
-								<i style="font-size: 17px;" class="far fa-calendar-check"></i><input type="number" name="joining" id="joining" placeholder="Joining Date">
+								<i style="font-size: 17px;" class="far fa-calendar-check"></i><input type="number" name="joining" id="joining" placeholder="DD/MM/YYYY">
 								<span style="color: #ed244f;" id="joiningDate_error"></span>
 
 							</div>
@@ -445,7 +490,7 @@
 
 							<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
 
-								<i style="font-size: 17px;" class="fas fa-calendar-times"></i><input type="text" name="endDate" id="endDate" placeholder="Ending Date">
+								<i style="font-size: 17px;" class="fas fa-calendar-times"></i><input type="text" name="endDate" id="endDate" placeholder="DD/MM/YYYY">
 								<span style="color: #ed244f;" id="endingDate_error"></span>
 
 							</div>
@@ -463,7 +508,7 @@
 
 							<div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
 
-								<i style="font-size: 17px;" class="fas fa-calendar-check"></i><input type="text" name="openingDate" id="openingDate" placeholder="Opening Date">
+								<i style="font-size: 17px;" class="fas fa-calendar-check"></i><input type="text" name="openingDate" id="openingDate" placeholder="DD/MM/YYYY">
 								<span style="color: #ed244f;" id="openingDate_error"></span>
 
 							</div>
@@ -891,7 +936,10 @@
     </div> -->
 
 <!-- jp downlord Wrapper End -->
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script src="public/assets/js/jquery.richtext.min.js"></script>
 <script type="text/javascript">
 	$(document).ready(function() {
 		$("#title_error").hide();
@@ -931,12 +979,12 @@
 
 			if (title_val.length == "") {
 				$("#title_error").show();
-				$("#title_error").html("This Field Is Required");
+				$("#title_error").text("This Field Is Required");
 				title_error = false;
 				return false;
 			} else if (title_val.length < 5) {
 				$("#title_error").show();
-				$("#title_error").html("Please Enter A Valid Job Title");
+				$("#title_error").text("Please Enter A Valid Job Title");
 				title_error = false;
 				return false;
 			} else {
@@ -958,7 +1006,7 @@
 
 			if (name_val.length == "") {
 				$("#name_error").show();
-				$("#name_error").html("This Field Is Required");
+				$("#name_error").text("This Field Is Required");
 				name_Error = false;
 				return false;
 			} else {
@@ -966,7 +1014,7 @@
 			}
 			if (name_val.length < 3) {
 				$("#name_error").show();
-				$("#name_error").html("Please Enter A Valid Name");
+				$("#name_error").text("Please Enter A Valid Name");
 				name_Error = false;
 				return false;
 			} else {
@@ -987,7 +1035,7 @@
 
 			if (email_val.length == "") {
 				$("#email_error").show();
-				$("#email_error").html("This Field Is Required");
+				$("#email_error").text("This Field Is Required");
 				email_Error = false;
 				return false;
 			} else if (atPosition < 1 || dotPosition < atPosition + 2 || dotPosition + 2 >= email_val.length) {
@@ -1011,8 +1059,13 @@
 
 			if (phone_val.length == "") {
 				$("#phone_error").show();
-				$("#phone_error").html("This Field Is Required");
+				$("#phone_error").text("This Field Is Required");
 				phone_Error = false;
+				return false;
+			} else if (phone_val.length < 10) {
+				$("#phone_error").show();
+				$("#phone_error").text("Please Enter A Valid Phone Number");
+				phone_error = false;
 				return false;
 			} else {
 				$("#phone_error").hide();
@@ -1030,7 +1083,7 @@
 
 			if (jobCategory_val == null) {
 				$("#jobCategory_error").show();
-				$("#jobCategory_error").html("Please Select Your Relevant Job Category");
+				$("#jobCategory_error").text("Please Select Your Relevant Job Category");
 				jobCategory_Error = false;
 				event.preventDefault()
 			} else {
@@ -1057,9 +1110,10 @@
 
 			if (joiningDate.length == "") {
 				$("#joiningDate_error").show();
-				$("#joiningDate_error").html("This Field Is Required");
+				$("#joiningDate_error").text("This Field Is Required");
 				joiningDate_error = false;
 				return false;
+
 			} else {
 				$("#joiningDate_error").hide();
 			}
@@ -1078,7 +1132,7 @@
 
 			if (endDate_val.length == "") {
 				$("#endingDate_error").show();
-				$("#endingDate_error").html("This Field Is Required");
+				$("#endingDate_error").text("This Field Is Required");
 				endingDate_error = false;
 				return false;
 			} else {
@@ -1097,7 +1151,7 @@
 
 			if (openingDate_val.length == "") {
 				$("#openingDate_error").show();
-				$("#openingDate_error").html("This Field Is Required");
+				$("#openingDate_error").text("This Field Is Required");
 				openingDate_error = false;
 				return false;
 			} else {
@@ -1116,7 +1170,7 @@
 
 			if (jobTiming_val == null) {
 				$("#jobTiming_error").show();
-				$("#jobTiming_error").html("This Field Is required");
+				$("#jobTiming_error").text("This Field Is required");
 				jobTiming_error = false;
 
 				event.preventDefault()
@@ -1145,7 +1199,7 @@
 
 			if (requirements_val == "") {
 				$("#requirements_error").show();
-				$("#requirements_error").html("This Field Is required");
+				$("#requirements_error").text("This Field Is required");
 				requirements_error = false;
 
 				event.preventDefault()
@@ -1166,7 +1220,7 @@
 
 			if (vacancy_val == "") {
 				$("#vacancy_error").show();
-				$("#vacancy_error").html("This Field Is required");
+				$("#vacancy_error").text("This Field Is required");
 				vacancy_error = false;
 
 				event.preventDefault()
@@ -1187,7 +1241,7 @@
 
 			if (image_val == "") {
 				$("#image_error").show();
-				$("#image_error").html("Please Upload Your Picture");
+				$("#image_error").text("Please Upload Your Picture");
 				image_error = false;
 
 				event.preventDefault()
@@ -1240,6 +1294,10 @@
 
 		});
 
+
 	});
+	$("#desc").richText();
 </script>
+
+
 @endsection
