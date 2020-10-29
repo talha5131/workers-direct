@@ -96,7 +96,7 @@
 
 								<div class="form-group i-email">
 									<label class="formsLabel" for="email">Email:</label>
-									<input type="email" class="form-control" required="" id="email2" placeholder="email">
+									<input type="email" class="form-control" id="email" name="email" placeholder="email">
 
 								</div>
 
@@ -106,7 +106,7 @@
 
 								<div class="form-group i-password">
 									<label class="formsLabel" for="email">Password:</label>
-									<input type="password" class="form-control" required="" id="password2" placeholder="Password">
+									<input type="password" class="form-control" id="password" name="password" placeholder="Password">
 
 								</div>
 
@@ -142,7 +142,7 @@
 							<p>Don’t have an account ? <a href="#"> Register Now </a> </p>
 
 						</div>
-						<button id="loginBtn" class="btn btn-primary login_btn"> Login </button>
+						<!-- <button id="loginBtn" class="btn btn-primary login_btn"> Login </button> -->
 
 					</div>
 
@@ -169,8 +169,53 @@
 <!-- jp Newsletter Wrapper Start -->
 <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
 <script>
+	var emailIsValid = false;
 	$('#loginBtn').click(function() {
 		console.log('jQuery Is Working!!!');
+	});
+
+	// Email Validations
+	$('#email').keyup(function() {
+		// var reg = ^\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,3}$;
+		var x = $('#email').val();
+		var atposition = x.indexOf("@");
+		var dotposition = x.lastIndexOf(".");
+
+		if ($('#email').val() == '') {
+			$('#emailError').text('This field is required.');
+			emailIsValid = false;
+		} else if (atposition < 1 || dotposition < atposition + 2 || dotposition + 2 >= x.length) {
+			$('#emailError').text("Please enter a valid e-mail address.");
+			emailIsValid = false;
+		} else {
+			$('#emailError').text("");
+			emailIsValid = true;
+		};
+	});
+	// Password Validations
+	$('#password').keyup(function() {
+		var passWord = $('#pswd2').val();
+		var lowerCaseLetters = /[a-z]/g;
+		var upperCaseLetters = /[A-Z]/g;
+		var numbers = /[0-9]/g;
+
+		if ($('#pswd2').val() == '') {
+			$('#pswd2Error').text('This field is required.');
+			pswd2IsValid = false;
+		} else if (!(passWord.length >= 6)) {
+			pswd2IsValid = false;
+			$('#pswd2Error').text("Your Password Must Contain atleast 6 Characters");
+		} else if (passWord.length >= 6) {
+			pswd2IsValid = true;
+			$('#pswd2Error').text('');
+			if ($('#pswd2').val() !== $('#conPswd').val() && $('#conPswd').val() !== '') {
+				$('#conPswdError').text('Password does not match.');
+				passwordValidated = false;
+			} else {
+				$('#conPswdError').text('');
+				passwordValidated = true;
+			}
+		}
 	});
 	// Variables Initialization
 	var button = $('#registerBtn');

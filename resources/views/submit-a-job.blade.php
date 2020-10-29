@@ -940,7 +940,7 @@
 				title_error = false;
 				return false;
 			} else {
-				$("#title-error").hide();
+				$("#title_error").hide();
 
 			}
 		}
