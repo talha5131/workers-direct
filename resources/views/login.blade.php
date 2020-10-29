@@ -96,8 +96,8 @@
 
 								<div class="form-group i-email">
 									<label class="formsLabel" for="email">Email:</label>
-									<input type="email" class="form-control" id="email" name="email" placeholder="email">
-
+									<input type="text" class="form-control" id="email" name="email" placeholder="email">
+									<span class="error" id="emailError"></span>
 								</div>
 
 							</div>
@@ -107,7 +107,7 @@
 								<div class="form-group i-password">
 									<label class="formsLabel" for="email">Password:</label>
 									<input type="password" class="form-control" id="password" name="password" placeholder="Password">
-
+									<span class="error" id="passwordError"></span>
 								</div>
 
 							</div>
@@ -132,17 +132,16 @@
 
 							<div class="login_btn_wrapper">
 
-								<!-- <a id="loginBtn" href="#" class="btn btn-primary login_btn"> Login </a> -->
-								<button id="loginBtn" class="btn btn-primary login_btn"> Login </button>
+								<!-- <a id="loginBtn" type="submit" class="btn btn-primary login_btn"> Login </a> -->
+								<button id="loginBtn" type="submit" class="btn login_btn"> Login </button>
 
 							</div>
 						</form>
 						<div class="login_message">
 
-							<p>Don’t have an account ? <a href="#"> Register Now </a> </p>
+							<p>Don’t have an account ? <a href="register"> Register Now </a> </p>
 
 						</div>
-						<!-- <button id="loginBtn" class="btn btn-primary login_btn"> Login </button> -->
 
 					</div>
 
@@ -169,12 +168,12 @@
 <!-- jp Newsletter Wrapper Start -->
 <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
 <script>
-	var emailIsValid = false;
-	$('#loginBtn').click(function() {
-		console.log('jQuery Is Working!!!');
-	});
+	// Boolean Variables Initialization
 
-	// Email Validations
+	var emailIsValid = false;
+	var passwordIsValid = false;
+
+	// Email Validations Start
 	$('#email').keyup(function() {
 		// var reg = ^\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,3}$;
 		var x = $('#email').val();
@@ -192,131 +191,35 @@
 			emailIsValid = true;
 		};
 	});
-	// Password Validations
+	// Email Validations End
+
+
+	// Password Validations Start
 	$('#password').keyup(function() {
-		var passWord = $('#pswd2').val();
+		var passWord = $('#password').val();
 		var lowerCaseLetters = /[a-z]/g;
 		var upperCaseLetters = /[A-Z]/g;
 		var numbers = /[0-9]/g;
 
-		if ($('#pswd2').val() == '') {
-			$('#pswd2Error').text('This field is required.');
-			pswd2IsValid = false;
+		if ($('#password').val() == '') {
+			$('#passwordError').text('This field is required.');
+			passwordIsValid = false;
 		} else if (!(passWord.length >= 6)) {
-			pswd2IsValid = false;
-			$('#pswd2Error').text("Your Password Must Contain atleast 6 Characters");
-		} else if (passWord.length >= 6) {
-			pswd2IsValid = true;
-			$('#pswd2Error').text('');
-			if ($('#pswd2').val() !== $('#conPswd').val() && $('#conPswd').val() !== '') {
-				$('#conPswdError').text('Password does not match.');
-				passwordValidated = false;
-			} else {
-				$('#conPswdError').text('');
-				passwordValidated = true;
-			}
-		}
-	});
-	// Variables Initialization
-	var button = $('#registerBtn');
-	var fullNameIsValid = false;
-	var email2IsValid = false;
-	var phoneIsValid = false;
-	var pswd2IsValid = false;
-	var conPswdIsValid = false;
-	var passwordValidated = false;
-
-	button.prop('disabled', true);
-
-
-	// Full Name Validations
-	$('#fullName').keyup(function() {
-		if ($('#fullName').val() == '') {
-			$('#fullNameError').text('This field is required.');
-			fullNameIsValid = false;
+			passwordIsValid = false;
+			$('#passwordError').text("Your Password Must Contain atleast 6 Characters");
 		} else {
-			$('#fullNameError').text('');
-			fullNameIsValid = true;
+			$('#passwordError').text("");
+			passwordIsValid = true;
 		}
 	});
 
-	// Email Validations
-	$('#email2').keyup(function() {
-		// var reg = ^\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,3}$;
-		var x = $('#email2').val();
-		var atposition = x.indexOf("@");
-		var dotposition = x.lastIndexOf(".");
-
-		if ($('#email2').val() == '') {
-			$('#email2Error').text('This field is required.');
-			email2IsValid = false;
-		} else if (atposition < 1 || dotposition < atposition + 2 || dotposition + 2 >= x.length) {
-			$('#email2Error').text("Please enter a valid e-mail address.");
-			email2IsValid = false;
-		} else {
-			$('#email2Error').text("");
-			email2IsValid = true;
-		};
-	});
-	// Phone Number Validations
-	$('#phone').keyup(function() {
-		if ($('#phone').val() == '') {
-			$('#phoneError').text('This field is required.');
-			phoneIsValid = false;
-		} else {
-			$('#phoneError').text('');
-			phoneIsValid = true;
-		}
-	});
-	// Password Validations
-	$('#pswd2').keyup(function() {
-		var passWord = $('#pswd2').val();
-		var lowerCaseLetters = /[a-z]/g;
-		var upperCaseLetters = /[A-Z]/g;
-		var numbers = /[0-9]/g;
-
-		if ($('#pswd2').val() == '') {
-			$('#pswd2Error').text('This field is required.');
-			pswd2IsValid = false;
-		} else if (!(passWord.length >= 6)) {
-			pswd2IsValid = false;
-			$('#pswd2Error').text("Your Password Must Contain atleast 6 Characters");
-		} else if (passWord.length >= 6) {
-			pswd2IsValid = true;
-			$('#pswd2Error').text('');
-			if ($('#pswd2').val() !== $('#conPswd').val() && $('#conPswd').val() !== '') {
-				$('#conPswdError').text('Password does not match.');
-				passwordValidated = false;
-			} else {
-				$('#conPswdError').text('');
-				passwordValidated = true;
-			}
-		}
-	});
-	// Confirm Password Validations
-	$('#conPswd').keyup(function() {
-		if ($('#conPswd').val() == '') {
-			$('#conPswdError').text('This field is required.');
-			conPswdIsValid = false;
-			passwordValidated = false;
-		} else if ($('#conPswd').val() !== $('#pswd2').val()) {
-			$('#conPswdError').text('Password does not match.');
-			conPswdIsValid = false;
-			passwordValidated = false;
-		} else {
-			$('#conPswdError').text('');
-			conPswdIsValid = true;
-			passwordValidated = true;
-		}
-	});
+	// Password Validations End
 
 	// SignUp Form -> Register Button Validations (Enabling & Disabling)
-	$('#signupForm').keyup(function() {
-		if (!(fullNameIsValid && email2IsValid && phoneIsValid && $('#conPswd').val() == $('#pswd2').val())) {
-			button.prop('disabled', true);
-		} else {
-			button.prop('disabled', false);
-		}
+	$('#loginForm').submit(function() {
+		if (!(emailIsValid && passwordIsValid)) {
+			event.preventDefault();
+		};
 	});
 </script>
 @endsection

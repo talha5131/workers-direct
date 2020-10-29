@@ -7,45 +7,44 @@
 <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="public/assets/css/richtext.min.css">
 
-<style type="text/css">
-	.badge-info {
-		color: #fff !important;
-		background-color: #ffb100 !important;
-		font-size: 13px;
-		margin-right: 12px;
-	}
-
-	.richText-toolbar {
-		background: #fff !important;
-	}
-
-	.richText .richText-toolbar ul li a {
-		display: block;
-		padding: 10px 13px;
-		border: none;
-		border-right: 1px solid green !important;
-		cursor: pointer;
-		-webkit-transition: background-color 0.4s;
-		-moz-transition: background-color 0.4s;
-		transition: background-color 0.4s;
-		color: green !important;
-		font-size: 15px;
-	}
-
-	.richText-editor {
-		background: #fff !important;
-		color: green !important;
-		border-left: none !important;
-	}
-
-	.richText {
-		position: relative;
-		background-color: red !important;
-		border: none !important;
-		color: #fff;
-		width: 100%;
-	}
-</style>
+ <style type="text/css">
+ 	.badge-info {
+ 		color: #fff;
+ 		background-color: #ffb100!important;
+ 		font-size: 13px;
+ 		margin-right: 12px;
+ 	}
+ 	.richText-toolbar{
+ 		background: #7CC24D !important;
+ 	}
+ 	.richText .richText-toolbar ul li a {
+ 		display: block;
+ 		padding: 10px 13px;
+ 		border: none;
+ 		border-right: 1px solid #121212 !important; 
+ 		cursor: pointer;
+ 		-webkit-transition: background-color 0.4s;
+ 		-moz-transition: background-color 0.4s;
+ 		transition: background-color 0.4s;
+ 		color: white;
+ 		font-size: 15px;
+	 }
+	 /* .richText .richText-toolbar ul li a span {
+		 color: #7CC24D;
+	 } */
+ 	.richText-editor{
+ 		background: #fff !important;
+ 		color: #7CC24D;
+ 		border-left: none !important;
+ 	}
+ 	.richText {
+ 		position: relative;
+ 		background-color: #FAFAFA;
+ 		border: none !important;
+ 		color: #333333;
+ 		width: 100%;
+ 	}
+ </style>
 
 
 <div class="jp_tittle_main_wrapper">

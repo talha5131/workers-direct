@@ -43,7 +43,6 @@ Purchase:
     <meta name="MobileOptimized" content="320" />
 
     <!--srart theme style -->
-
     <link rel="stylesheet" type="text/css" href="public/assets/css/animate.css" />
 
 
@@ -70,6 +69,7 @@ Purchase:
 
     <link rel="stylesheet" type="text/css" href="public/assets/css/preloader.css" />
 
+    <!-- <link rel="stylesheet" href="public/assets/css/richtext.min.css"> -->
     <!-- UPDATED FONT AWESOME  -->
 
 
@@ -569,8 +569,8 @@ Purchase:
 
 
                                     <li class="has-mega gc_main_navigation"><a href="blogs" class="gc_main_navigation"> Blog
-                                        <!-- <i class="fa fa-angle-down"></i> -->
-                                    </a>
+                                            <!-- <i class="fa fa-angle-down"></i> -->
+                                        </a>
 
                                         <!-- mega menu start -->
 
