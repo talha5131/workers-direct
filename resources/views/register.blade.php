@@ -104,92 +104,95 @@
 
                                 <div class="row">
 
-                                    <!--Form Group-->
+                                    <form id="personalRegistration">
+                                        <!--Form Group-->
 
-                                    <div class="form-group col-md-6 col-sm-6 col-xs-12">
-                                        <label class="formsLabel" for="userName">Username</label>
-                                        <input type="text" id="userName" name="userName" placeholder="Username">
-                                        <span class="error" id="userNameError"></span>
-                                    </div>
-
-
-
-                                    <!--Form Group-->
-
-                                    <div class="form-group col-md-6 col-sm-6 col-xs-12">
-                                        <label class="formsLabel" for="email">Email</label>
-                                        <input type="text" id="email" name="email" placeholder="E-mail">
-                                        <span class="error" id="emailError"></span>
-                                    </div>
-
-                                    <!--Form Group-->
-
-                                    <div class="form-group col-md-6 col-sm-6 col-xs-12">
-                                        <label class="formsLabel" for="password">Password</label>
-                                        <input type="password" name="password" id="password" placeholder="Password">
-                                        <span class="error" id="passwordError"></span>
-                                    </div>
-
-                                    <!--Form Group-->
-
-                                    <div class="form-group col-md-6 col-sm-6 col-xs-12">
-                                        <label class="formsLabel" for="confirmPassword">Confirm Password</label>
-                                        <input type="password" name="confirmPassword" id="confirmPassword" placeholder="Re-Enter Password">
-                                        <span class="error" id="confirmPasswordError"></span>
-                                    </div>
-
-                                    <!--Form Group-->
-
-                                    <div class="form-group col-md-6 col-sm-6 col-xs-12">
-                                        <label class="formsLabel" for="currentLocation">Current Location <span>(Optional)</span></label>
-                                        <input type="text" name="currentLocation" id="currentLocation" placeholder="Current Location">
-                                    </div>
-
-                                    <!--Form Group-->
-
-                                    <div class="form-group col-md-6 col-sm-6 col-xs-12">
-                                        <label class="formsLabel" for="phoneNumber">Phone Number</label>
-                                        <input type="text" name="phoneNumber" id="phoneNumber" placeholder="Phone Number">
-                                        <span class="error" id="phoneNumberError"></span>
-                                    </div>
-
-                                    <!--Form Group-->
-
-                                    <div class="form-group col-md-6 col-sm-6 col-xs-12 custom_input">
-
-                                        <!-- <input type="file" name="resume"> -->
-                                        <label class="formsLabel" for="cv">Upload Your CV</label>
-                                        <label for="cv" class="btn btn-success">Choose File</label>
-                                        <div class="form_upload_btn_custom">
-                                            <input id="cv" type="file" style="background: #7CC24D; border-color: #7CC24D;" name="cv" />
+                                        <div class="form-group col-md-6 col-sm-6 col-xs-12">
+                                            <label class="formsLabel" for="userName">Username</label>
+                                            <input type="text" id="userName" name="userName" placeholder="Username">
+                                            <span class="error" id="userNameError"></span>
                                         </div>
 
-                                        <p>DOC, DOCX, RTF, PDF FILES - 2MB MAX PREFERRED CV FORMAT</p>
 
-                                    </div>
 
-                                    <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                        <!--Form Group-->
 
-                                        <div class="check-box text-center">
+                                        <div class="form-group col-md-6 col-sm-6 col-xs-12">
+                                            <label class="formsLabel" for="email">Email</label>
+                                            <input type="text" id="email" name="email" placeholder="E-mail">
+                                            <span class="error" id="emailError"></span>
+                                        </div>
 
-                                            <input type="checkbox" name="shipping-option" id="account-option_1"> &ensp;
+                                        <!--Form Group-->
 
-                                            <!-- <label for="account-option_1">I agreed to the <a href="#" class="check_box_anchr">Terms and Conditions</a> governing the use of jobportal</label> -->
-                                            <label for="account-option_1">I agree to the <a href="#" class="check_box_anchr">Terms and Conditions</a>.</label>
+                                        <div class="form-group col-md-6 col-sm-6 col-xs-12">
+                                            <label class="formsLabel" for="password">Password</label>
+                                            <input type="password" name="password" id="password" placeholder="Password">
+                                            <span class="error" id="passwordError"></span>
+                                        </div>
+
+                                        <!--Form Group-->
+
+                                        <div class="form-group col-md-6 col-sm-6 col-xs-12">
+                                            <label class="formsLabel" for="confirmPassword">Confirm Password</label>
+                                            <input type="password" name="confirmPassword" id="confirmPassword" placeholder="Re-Enter Password">
+                                            <span class="error" id="confirmPasswordError"></span>
+                                        </div>
+
+                                        <!--Form Group-->
+
+                                        <div class="form-group col-md-6 col-sm-6 col-xs-12">
+                                            <label class="formsLabel" for="currentLocation">Current Location <span>(Optional)</span></label>
+                                            <input type="text" name="currentLocation" id="currentLocation" placeholder="Current Location">
+                                        </div>
+
+                                        <!--Form Group-->
+
+                                        <div class="form-group col-md-6 col-sm-6 col-xs-12">
+                                            <label class="formsLabel" for="phoneNumber">Phone Number</label>
+                                            <input type="text" name="phoneNumber" id="phoneNumber" placeholder="Phone Number">
+                                            <span class="error" id="phoneNumberError"></span>
+                                        </div>
+
+                                        <!--Form Group-->
+
+                                        <div class="form-group col-md-6 col-sm-6 col-xs-12 custom_input">
+
+                                            <!-- <input type="file" name="resume"> -->
+                                            <label class="formsLabel" for="cv">Upload Your CV</label>
+                                            <label for="cv" class="btn btn-success">Choose File</label>
+                                            <div class="form_upload_btn_custom">
+                                                <input id="cv" type="file" style="background: #7CC24D; border-color: #7CC24D;" name="cv" />
+                                            </div>
+
+                                            <p>DOC, DOCX, RTF, PDF FILES - 2MB MAX PREFERRED CV FORMAT</p>
 
                                         </div>
 
-                                    </div>
+                                        <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
+                                            <div class="check-box text-center">
+
+                                                <input type="checkbox" name="shipping-option" id="account-option_1"> &ensp;
+
+                                                <!-- <label for="account-option_1">I agreed to the <a href="#" class="check_box_anchr">Terms and Conditions</a> governing the use of jobportal</label> -->
+                                                <label for="account-option_1">I agree to the <a href="#" class="check_box_anchr">Terms and Conditions</a>.</label>
+
+                                            </div>
+
+                                        </div>
+
+                                        <div class="login_btn_wrapper register_btn_wrapper login_wrapper ">
+
+                                            <button type="submit" class="btn btn-primary login_btn"> Register </button>
+
+                                        </div>
+                                    </form>
                                 </div>
 
 
 
-                                <div class="login_btn_wrapper register_btn_wrapper login_wrapper ">
 
-                                    <a href="#" class="btn btn-primary login_btn"> register </a>
-
-                                </div>
 
                                 <div class="login_message">
 
@@ -355,11 +358,42 @@
 
 <!-- jQuery Initialization -->
 <script src="public/assets/js/jquery_min.js"></script>
- <!-- jQuery Validation -->
- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/jquery.validate.min.js"></script>
+<!-- jQuery Validation -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/jquery.validate.min.js"></script>
 
- <script>
+<script>
+    $(document).ready(function() {
+        // alert("ALERT")
 
- </script>
+    });
+    $('#personalRegistration').validate({
+        rules: {
+            userName: {
+                required: true,
+            },
+        },
+
+        // errorPlacement: function(error, element) {
+        //   error.insertAfter(#fullName);
+        // }
+        errorPlacement: function(error, element) {
+            if (element.closest('.i-checks').length === 1) {
+                error.insertAfter(element.closest('.i-checks'));
+            } else {
+                error.insertAfter(element);
+            }
+            if (element.closest('.i-select').length === 1) {
+                error.insertAfter(element.closest('.i-select'));
+            } else {
+                error.insertAfter(element);
+            }
+            if (element.closest('.custom_select_box').length === 1) {
+                error.insertAfter(element.closest('.custom_select_box'));
+            } else {
+                error.insertAfter(element);
+            }
+        },
+    });
+</script>
 
 @endsection
