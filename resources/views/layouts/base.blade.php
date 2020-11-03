@@ -9,6 +9,7 @@
 <!-- <link rel="stylesheet" href="style.css"> -->
 
 
+@include('layouts.modal')
 
 @yield('content')
 
