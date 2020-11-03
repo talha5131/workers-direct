@@ -423,7 +423,7 @@ extensive demands of all that we deal with. ")
             <div class="col-md-12">
 
                 <div class="about_text_wrapper">
-                    <p style="margin: 0px;"><strong> Jobs@ Workers-Direct.com</strong><br> OR <br> Contact <a href="#" class="green">catering staff agency</a> for more informations.</p>
+                    <p style="margin: 0px;"><strong> Jobs@ Workers-Direct.com</strong><br> OR <br> Contact <a href="catering-staff" class="green">catering staff agency</a> for more informations.</p>
                 </div>
 
             </div>

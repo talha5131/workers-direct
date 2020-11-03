@@ -162,7 +162,7 @@
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
                         <p style="margin: 0;">Please send your CV today for quick start.</p>
                         <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
-                        <a href="# " class="green"><strong> OR Apply Online</strong></a>
+                        <a href="cv-register" class="green"><strong> OR Apply Online</strong></a>
                         <p style="margin: 0;"><strong>http://workers-direct.com/cv-registration</strong></p>
 
                     </div>

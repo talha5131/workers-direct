@@ -201,39 +201,37 @@ that the staff member will be the right fit')
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
-                        <a href="#">
-
-                            <div class="box">
+                        <div class="box">
 
 
 
-                                <div class="grid-box">
+                            <div class="grid-box">
 
-                                    <div class="iconn green">
+                                <div class="iconn green">
 
-                                        <i class=" font-size-icon green far fa-check-square"></i>
-
-                                    </div>
-
-                                    <div class="heading ">
-
-                                        <h2> <a> Chefs All Levels </a> </h2>
-
-                                    </div>
-
-                                    <div class="content margin-top-10">
-
-                                        <p>We have highly experienced Chefs from head chef to commis chef to fulfil any kitchen requirements.</p>
-
-                                    </div>
-
-
-
-
+                                    <i class=" font-size-icon green far fa-check-square"></i>
 
                                 </div>
 
-                                <!-- <div class="grid-box-1">
+                                <div class="heading ">
+
+                                    <h2> <a> Chefs All Levels </a> </h2>
+
+                                </div>
+
+                                <div class="content margin-top-10">
+
+                                    <p>We have highly experienced Chefs from head chef to commis chef to fulfil any kitchen requirements.</p>
+
+                                </div>
+
+
+
+
+
+                            </div>
+
+                            <!-- <div class="grid-box-1">
 
                             <div class="img-section">
 
@@ -247,44 +245,42 @@ that the staff member will be the right fit')
 
                             </div>
 
-                        </div> -->
+                            </div> -->
 
 
 
-                            </div>
-
-                        </a>
+                        </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
-                        <a href="#">
-
-                            <div class="box">
 
 
+                        <div class="box">
 
-                                <div class="grid-box">
 
-                                    <div class="iconn green">
 
-                                        <i class="font-size-icon green fas fa-id-card"></i>
+                            <div class="grid-box">
 
-                                    </div>
+                                <div class="iconn green">
 
-                                    <div class="heading">
+                                    <i class="font-size-icon green fas fa-id-card"></i>
 
-                                        <h2> <a> School Cook </a> </h2>
+                                </div>
 
-                                    </div>
+                                <div class="heading">
 
-                                    <div class="content margin-top-10">
+                                    <h2> <a> School Cook </a> </h2>
 
-                                        <p>Hire temporary DBS checked school cook on short notice whenever you require.</p>
+                                </div>
 
-                                    </div>
+                                <div class="content margin-top-10">
 
-                                    <!-- <ul class=" margin-top-10">
+                                    <p>Hire temporary DBS checked school cook on short notice whenever you require.</p>
+
+                                </div>
+
+                                <!-- <ul class=" margin-top-10">
 
                                 <li><i class="green fa fa-plus-circle"></i> <a class="green">&nbsp; READ MORE</a></li>
 
@@ -292,9 +288,9 @@ that the staff member will be the right fit')
 
 
 
-                                </div>
+                            </div>
 
-                                <!-- <div class="grid-box-1">
+                            <!-- <div class="grid-box-1">
 
                             <div class="img-section">
 
@@ -312,76 +308,69 @@ that the staff member will be the right fit')
 
 
 
-                            </div>
-
-                        </a>
+                        </div>
 
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
-                        <a href="#">
 
-                            <div class="box">
+                        <div class="box">
 
-                                <div class="grid-box">
+                            <div class="grid-box">
 
-                                    <div class="iconn green">
+                                <div class="iconn green">
 
-                                        <i class="font-size-icon green far fa-hand-point-down"></i>
+                                    <i class="font-size-icon green far fa-hand-point-down"></i>
 
-                                    </div>
+                                </div>
 
-                                    <div class="heading">
+                                <div class="heading">
 
-                                        <h2> <a> Kitchen Assistants </a> </h2>
+                                    <h2> <a> Kitchen Assistants </a> </h2>
 
-                                    </div>
+                                </div>
 
-                                    <div class="content margin-top-10">
+                                <div class="content margin-top-10">
 
-                                        <p>Kitchen Assistants can help chefs in food preparation & kitchen cleaning tasks.</p>
-
-                                    </div>
+                                    <p>Kitchen Assistants can help chefs in food preparation & kitchen cleaning tasks.</p>
 
                                 </div>
 
                             </div>
 
-                        </a>
+                        </div>
 
                     </div>
 
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
-                        <a href="#">
-
-                            <div class="box">
+                        <div class="box">
 
 
 
-                                <div class="grid-box">
+                            <div class="grid-box">
 
-                                    <div class="iconn green">
+                                <div class="iconn green">
 
-                                        <i class="font-size-icon green fas fa-utensils"></i>
+                                    <i class="font-size-icon green fas fa-utensils"></i>
 
-                                    </div>
+                                </div>
 
-                                    <div class="heading">
+                                <div class="heading">
 
-                                        <h2> <a> Serving Staff </a> </h2>
+                                    <h2> <a> Serving Staff </a> </h2>
 
-                                    </div>
+                                </div>
 
-                                    <div class="content margin-top-10">
+                                <div class="content margin-top-10">
 
-                                        <p>Our reliable & flexible waitress and waiters are ready to join any busy kitchen.</p>
+                                    <p>Our reliable & flexible waitress and waiters are ready to join any busy kitchen.</p>
 
-                                    </div>
+                                </div>
 
-                                    <!-- <ul class=" margin-top-10">
+                                <!-- <ul class=" margin-top-10">
 
                                 <li><i class="green fa fa-plus-circle"></i> <a class="green">&nbsp; READ MORE</a></li>
 
@@ -389,9 +378,9 @@ that the staff member will be the right fit')
 
 
 
-                                </div>
+                            </div>
 
-                                <!-- <div class="grid-box-1">
+                            <!-- <div class="grid-box-1">
 
                             <div class="img-section">
 
@@ -409,41 +398,38 @@ that the staff member will be the right fit')
 
 
 
-                            </div>
+                        </div>
 
-                        </a>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
-                        <a href="#">
-
-                            <div class="box">
+                        <div class="box">
 
 
 
-                                <div class="grid-box">
+                            <div class="grid-box">
 
-                                    <div class="iconn green">
+                                <div class="iconn green">
 
-                                        <i class="font-size-icon green fas fa-recycle"></i>
+                                    <i class="font-size-icon green fas fa-recycle"></i>
 
-                                    </div>
+                                </div>
 
-                                    <div class="heading">
+                                <div class="heading">
 
-                                        <h2> <a> Kitchen Porters & Cleaners </a> </h2>
+                                    <h2> <a> Kitchen Porters & Cleaners </a> </h2>
 
-                                    </div>
+                                </div>
 
-                                    <div class="content margin-top-10">
+                                <div class="content margin-top-10">
 
-                                        <p>Professional & experienced housekeeping and kitchen porters for cleaning / dish washing job.</p>
+                                    <p>Professional & experienced housekeeping and kitchen porters for cleaning / dish washing job.</p>
 
-                                    </div>
+                                </div>
 
-                                    <!-- <ul class=" margin-top-10">
+                                <!-- <ul class=" margin-top-10">
 
                                 <li><i class="green fa fa-plus-circle"></i> <a class="green">&nbsp; READ MORE</a></li>
 
@@ -451,9 +437,9 @@ that the staff member will be the right fit')
 
 
 
-                                </div>
+                            </div>
 
-                                <!-- <div class="grid-box-1">
+                            <!-- <div class="grid-box-1">
 
                             <div class="img-section">
 
@@ -471,40 +457,37 @@ that the staff member will be the right fit')
 
 
 
-                            </div>
+                        </div>
 
-                        </a>
                     </div>
 
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
-                        <a href="#">
-
-                            <div class="box">
+                        <div class="box">
 
 
 
-                                <div class="grid-box">
+                            <div class="grid-box">
 
-                                    <div class="iconn green">
+                                <div class="iconn green">
 
-                                        <i class="font-size-icon green fas fa-truck"></i>
+                                    <i class="font-size-icon green fas fa-truck"></i>
 
-                                    </div>
+                                </div>
 
-                                    <div class="heading">
+                                <div class="heading">
 
-                                        <h2> <a> Delivery Drivers </a> </h2>
+                                    <h2> <a> Delivery Drivers </a> </h2>
 
-                                    </div>
+                                </div>
 
-                                    <div class="content margin-top-10">
+                                <div class="content margin-top-10">
 
-                                        <p>Hire Delivery Drivers on full time and part time basis to deliver foods on short notice.</p>
+                                    <p>Hire Delivery Drivers on full time and part time basis to deliver foods on short notice.</p>
 
-                                    </div>
+                                </div>
 
-                                    <!-- <ul class=" margin-top-10">
+                                <!-- <ul class=" margin-top-10">
 
                                 <li><i class="green fa fa-plus-circle"></i> <a class="green">&nbsp; READ MORE</a></li>
 
@@ -512,9 +495,9 @@ that the staff member will be the right fit')
 
 
 
-                                </div>
+                            </div>
 
-                                <!-- <div class="grid-box-1">
+                            <!-- <div class="grid-box-1">
 
                             <div class="img-section">
 
@@ -532,9 +515,8 @@ that the staff member will be the right fit')
 
 
 
-                            </div>
+                        </div>
 
-                        </a>
                     </div>
                 </div>
             </div>
@@ -777,69 +759,61 @@ that the staff member will be the right fit')
 
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
 
-                <a href="#">
-
-                    <div class="box">
+                <div class="box">
 
 
 
-                        <div class="grid-box">
+                    <div class="grid-box">
 
-                            <div class="iconn green">
+                        <div class="iconn green">
 
-                                <i class=" font-size-icon green far fa-check-square"></i>
+                            <i class=" font-size-icon green far fa-check-square"></i>
 
-                            </div>
+                        </div>
 
-                            <div class="heading">
+                        <div class="heading">
 
-                                <h2> <a> Relevant Experience </a> </h2>
+                            <h2> <a> Relevant Experience </a> </h2>
 
-                            </div>
+                        </div>
 
-                            <div class="content margin-top-10">
+                        <div class="content margin-top-10">
 
-                                <p>We make sure all our operatvies Must have minimum 2 - 5 years relevant Experience.</p>
-
-                            </div>
+                            <p>We make sure all our operatvies Must have minimum 2 - 5 years relevant Experience.</p>
 
                         </div>
 
                     </div>
 
-                </a>
+                </div>
+
 
             </div>
 
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
 
-                <a href="#">
 
-                    <div class="box">
-
+                <div class="box">
 
 
-                        <div class="grid-box">
 
-                            <div class="iconn green">
+                    <div class="grid-box">
 
-                                <i class="font-size-icon green far fa-hand-point-down"></i>
+                        <div class="iconn green">
 
-                            </div>
+                            <i class="font-size-icon green far fa-hand-point-down"></i>
 
-                            <div class="heading">
+                        </div>
 
-                                <h2> <a> 24/7 Availability </a> </h2>
+                        <div class="heading">
 
-                            </div>
+                            <h2> <a> 24/7 Availability </a> </h2>
 
-                            <div class="content margin-top-10">
+                        </div>
 
-                                <p>Our Customer Service staff available online & on phone 24/7 to fill any urgent vacancy.</p>
+                        <div class="content margin-top-10">
 
-                            </div>
-
-
+                            <p>Our Customer Service staff available online & on phone 24/7 to fill any urgent vacancy.</p>
 
                         </div>
 
@@ -847,43 +821,44 @@ that the staff member will be the right fit')
 
                     </div>
 
-                </a>
+
+
+                </div>
+
 
             </div>
 
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
 
-                <a href="#">
 
-                    <div class="box">
-
+                <div class="box">
 
 
-                        <div class="grid-box">
 
-                            <div class="iconn green">
+                    <div class="grid-box">
 
-                                <i class="green font-size-icon fas fa-paper-plane"></i>
+                        <div class="iconn green">
 
-                            </div>
+                            <i class="green font-size-icon fas fa-paper-plane"></i>
 
-                            <div class="heading">
+                        </div>
 
-                                <h2> <a> Flexible & Reliable </a> </h2>
+                        <div class="heading">
 
-                            </div>
+                            <h2> <a> Flexible & Reliable </a> </h2>
 
-                            <div class="content margin-top-10">
+                        </div>
 
-                                <p>All our temps are fully able to start on short noitce whenever require.</p>
+                        <div class="content margin-top-10">
 
-                            </div>
+                            <p>All our temps are fully able to start on short noitce whenever require.</p>
 
                         </div>
 
                     </div>
 
-                </a>
+                </div>
+
 
             </div>
 

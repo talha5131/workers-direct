@@ -525,7 +525,7 @@
                         <p style="margin: 0;">Please contact Bill for more details on<strong> +44203089080</strong></p>
                         <p style="margin: 0;">To apply forward your CV to arrange an immediate interview.</p>
                         <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
-                        <a href="#" class="green">OR Apply Online</a>
+                        <a href="cv-register" class="green">OR Apply Online</a>
                     </div>
                 </div>
             </div>

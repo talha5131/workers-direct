@@ -417,7 +417,7 @@
             <div class="about_text_wrapper col-lg-12 col-md-12 col-xs-12 col-sm-12">
                 <p style="margin: 0;">To apply, forward your CV to arrange an immediate interview.</p>
                 <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
-                <a href="# " class="green"><strong> OR Apply Online</strong></a>
+                <a href="cv-register" class="green"><strong> OR Apply Online</strong></a>
                 <p style="margin: 0;"><strong>http://workers-direct.com/cv-registration</strong></p>
 
             </div>

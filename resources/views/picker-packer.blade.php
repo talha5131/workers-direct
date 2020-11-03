@@ -443,7 +443,7 @@
                 <p style="margin: 0;">To book an immediate interview for <a href="#">picker and packers jobs</a> Please contact Bill for more details on <strong> 02030869080</strong>.</p>
                 <p style="margin: 0;">Alternatively Email your CV at,</p>
                 <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
-                <a href="# " class="green"><strong> OR Apply Online</strong></a>
+                <a href="cv-register" class="green"><strong> OR Apply Online</strong></a>
             </div>
 
 

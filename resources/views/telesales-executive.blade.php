@@ -198,7 +198,7 @@
 
                         <p style="margin: 0;">If this role interests you please email your CV and we will arrange an immediate interview.</p>
                         <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p>
-                        <a href="# " class="green"><strong> OR Apply Online</strong></a>
+                        <a href="cv-register" class="green"><strong> OR Apply Online</strong></a>
                     </div>
 
 

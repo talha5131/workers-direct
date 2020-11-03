@@ -218,6 +218,8 @@
 	// SignUp Form -> Register Button Validations (Enabling & Disabling)
 	$('#loginForm').submit(function() {
 		if (!(emailIsValid && passwordIsValid)) {
+			$('#emailError').text('This field is required.');
+			$('#passwordError').text('This field is required.');
 			event.preventDefault();
 		};
 	});

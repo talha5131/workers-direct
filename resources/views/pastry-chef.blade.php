@@ -229,7 +229,7 @@
                     <br>
                     <p style="margin: 0;">For immediate placement send your CV Today at:</p><br>
                     <p style="margin: 0;"><strong>jobs@ Workers-direct.com</strong></p><br>
-                    <a href="# " class="green"><strong> OR Apply Online</strong></a>
+                    <a href="cv-register" class="green"><strong> OR Apply Online</strong></a>
                 </div>
             </div>
 

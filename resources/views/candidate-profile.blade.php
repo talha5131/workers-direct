@@ -28,7 +28,7 @@
 
                                 <ul>
 
-                                    <li><a href="#">Home</a> <i class="fa fa-angle-right"></i></li>
+                                    <li><a href="{{url('/')}}">Home</a> <i class="fa fa-angle-right"></i></li>
 
                                     <li><a href="#">Pages</a> <i class="fa fa-angle-right"></i></li>
 

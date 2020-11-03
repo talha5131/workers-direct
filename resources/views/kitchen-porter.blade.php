@@ -485,7 +485,7 @@
                         Send Your CV Today to start ASAP for Kitchen Porter Jobs London.
                     </p>
 
-                    <p style="margin:0px"><strong> Jobs@ Workers-Direct.com </strong><br> OR <br> Contact<a href="#" class="green"> catering staff agency</a> for more informations.</p>
+                    <p style="margin:0px"><strong> Jobs@ Workers-Direct.com </strong><br> OR <br> Contact<a href="catering-staff" class="green"> catering staff agency</a> for more informations.</p>
                 </div>
 
             </div>

@@ -56,9 +56,9 @@ Route::get('/listing-right', function () {
 Route::get('/listing-left', function () {
     return view('listing-left');
 });
-Route::get('/job-seeker', 'JobController@Seekajob' );
+Route::get('/job-seeker', 'JobController@Seekajob');
 
-Route::post('/job-seeker', 'JobController@SeekJob' );
+Route::post('/job-seeker', 'JobController@SeekJob');
 
 Route::get('/index_vi', function () {
     return view('index_vi');

@@ -457,7 +457,7 @@
             <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
                 <p>To apply, forward your CV to arrange an immediate interview.</p>
                 <p><strong> jobs@Workers-direct.com</strong></p>
-                <a href="#" class="green"><strong> OR Apply online now</strong></a>
+                <a href="cv-register" class="green"><strong> OR Apply online now</strong></a>
             </div>
 
 
@@ -483,67 +483,60 @@
 
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
 
-                <a href="#">
 
-                    <div class="box">
+                <div class="box">
 
-                        <div class="grid-box">
+                    <div class="grid-box">
 
-                            <div class="iconn green">
+                        <div class="iconn green">
 
-                                <i class=" font-size-icon green far fa-check-square"></i>
+                            <i class=" font-size-icon green far fa-check-square"></i>
 
-                            </div>
+                        </div>
 
-                            <div class="heading">
+                        <div class="heading">
 
-                                <h2> <a> Hotel Experience </a> </h2>
+                            <h2> <a> Hotel Experience </a> </h2>
 
-                            </div>
+                        </div>
 
-                            <div class="content margin-top-10">
+                        <div class="content margin-top-10">
 
-                                <p>Must have previous Experience in a Reputed Hotel</p>
-
-                            </div>
+                            <p>Must have previous Experience in a Reputed Hotel</p>
 
                         </div>
 
                     </div>
 
-                </a>
+                </div>
+
 
             </div>
 
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
 
-                <a href="#">
 
-                    <div class="box">
-
+                <div class="box">
 
 
-                        <div class="grid-box">
 
-                            <div class="iconn green">
+                    <div class="grid-box">
 
-                                <i class="font-size-icon green far fa-hand-point-down"></i>
+                        <div class="iconn green">
 
-                            </div>
+                            <i class="font-size-icon green far fa-hand-point-down"></i>
 
-                            <div class="heading">
+                        </div>
 
-                                <h2> <a> Customer Services </a> </h2>
+                        <div class="heading">
 
-                            </div>
+                            <h2> <a> Customer Services </a> </h2>
 
-                            <div class="content margin-top-10">
+                        </div>
 
-                                <p>Customer Services & Basic IT Skills including Microsoft Office, Excel is Essential.</p>
+                        <div class="content margin-top-10">
 
-                            </div>
-
-
+                            <p>Customer Services & Basic IT Skills including Microsoft Office, Excel is Essential.</p>
 
                         </div>
 
@@ -551,43 +544,44 @@
 
                     </div>
 
-                </a>
+
+
+                </div>
+
 
             </div>
 
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
 
-                <a href="#">
 
-                    <div class="box">
-
+                <div class="box">
 
 
-                        <div class="grid-box">
 
-                            <div class="iconn green">
+                    <div class="grid-box">
 
-                                <i class="green font-size-icon fas fa-paper-plane"></i>
+                        <div class="iconn green">
 
-                            </div>
+                            <i class="green font-size-icon fas fa-paper-plane"></i>
 
-                            <div class="heading">
+                        </div>
 
-                                <h2> <a> Flexible & Reliable </a> </h2>
+                        <div class="heading">
 
-                            </div>
+                            <h2> <a> Flexible & Reliable </a> </h2>
 
-                            <div class="content margin-top-10">
+                        </div>
 
-                                <p>Fully able to start on short noitce on temporary basis</p>
+                        <div class="content margin-top-10">
 
-                            </div>
+                            <p>Fully able to start on short noitce on temporary basis</p>
 
                         </div>
 
                     </div>
 
-                </a>
+                </div>
+
 
             </div>
 

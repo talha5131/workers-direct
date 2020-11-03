@@ -172,33 +172,32 @@ professional schedule to complete the task.")
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12  margin-top-60">
                     <div class="row">
                         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
-                            <a href="#">
-                                <div class="box">
-                                    <div class="grid-box">
+                            <div class="box">
+                                <div class="grid-box">
 
-                                        <div class="iconn green">
+                                    <div class="iconn green">
 
-                                            <i class=" font-size-icon green far fa-check-square"></i>
-
-                                        </div>
-
-                                        <div class="heading">
-
-                                            <h2>Office Cleaners</h2>
-
-                                        </div>
-
-                                        <div class="content margin-top-10">
-
-                                            <p>We have experienced office cleaners for day to day cleaning.</p>
-
-                                        </div>
-
-
+                                        <i class=" font-size-icon green far fa-check-square"></i>
 
                                     </div>
 
-                                    <!-- <div class="grid-box-1">
+                                    <div class="heading">
+
+                                        <h2> <a>Office Cleaners</a></h2>
+
+                                    </div>
+
+                                    <div class="content margin-top-10">
+
+                                        <p>We have experienced office cleaners for day to day cleaning.</p>
+
+                                    </div>
+
+
+
+                                </div>
+
+                                <!-- <div class="grid-box-1">
 
                             <div class="img-section">
 
@@ -216,40 +215,38 @@ professional schedule to complete the task.")
 
 
 
-                                </div>
+                            </div>
 
-                            </a>
                         </div>
 
                         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
-                            <a href="#">
 
-                                <div class="box">
-
+                            <div class="box">
 
 
-                                    <div class="grid-box">
 
-                                        <div class="iconn green">
+                                <div class="grid-box">
 
-                                            <i class="font-size-icon green fas fa-id-card"></i>
+                                    <div class="iconn green">
 
-                                        </div>
+                                        <i class="font-size-icon green fas fa-id-card"></i>
 
-                                        <div class="heading">
+                                    </div>
 
-                                            <h2> <a> Warehouse Cleaners </a> </h2>
+                                    <div class="heading">
 
-                                        </div>
+                                        <h2> <a> Warehouse Cleaners </a> </h2>
 
-                                        <div class="content margin-top-10">
+                                    </div>
 
-                                            <p>Hire temporary cleaners on short noitce whenever you require.</p>
+                                    <div class="content margin-top-10">
 
-                                        </div>
+                                        <p>Hire temporary cleaners on short noitce whenever you require.</p>
 
-                                        <!-- <ul class=" margin-top-10">
+                                    </div>
+
+                                    <!-- <ul class=" margin-top-10">
 
                                 <li><i class="green fa fa-plus-circle"></i> <a class="green">&nbsp; READ MORE</a></li>
 
@@ -257,9 +254,9 @@ professional schedule to complete the task.")
 
 
 
-                                    </div>
+                                </div>
 
-                                    <!-- <div class="grid-box-1">
+                                <!-- <div class="grid-box-1">
 
                             <div class="img-section">
 
@@ -277,41 +274,39 @@ professional schedule to complete the task.")
 
 
 
-                                </div>
+                            </div>
 
-                            </a>
 
                         </div>
 
                         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
-                            <a href="#">
 
-                                <div class="box">
-
+                            <div class="box">
 
 
-                                    <div class="grid-box">
 
-                                        <div class="iconn green">
+                                <div class="grid-box">
 
-                                            <i class="font-size-icon green far fa-hand-point-down"></i>
+                                    <div class="iconn green">
 
-                                        </div>
+                                        <i class="font-size-icon green far fa-hand-point-down"></i>
 
-                                        <div class="heading">
+                                    </div>
 
-                                            <h2> <a> General Cleaners </a> </h2>
+                                    <div class="heading">
 
-                                        </div>
+                                        <h2> <a> General Cleaners </a> </h2>
 
-                                        <div class="content margin-top-10">
+                                    </div>
 
-                                            <p>General cleaning temps can help you in on demand deep cleaning work.</p>
+                                    <div class="content margin-top-10">
 
-                                        </div>
+                                        <p>General cleaning temps can help you in on demand deep cleaning work.</p>
 
-                                        <!-- <ul class=" margin-top-10">
+                                    </div>
+
+                                    <!-- <ul class=" margin-top-10">
 
                                 <li><i class="green fa fa-plus-circle"></i> <a class="green">&nbsp; READ MORE</a></li>
 
@@ -319,9 +314,9 @@ professional schedule to complete the task.")
 
 
 
-                                    </div>
+                                </div>
 
-                                    <!-- <div class="grid-box-1">
+                                <!-- <div class="grid-box-1">
 
                             <div class="img-section">
 
@@ -339,42 +334,40 @@ professional schedule to complete the task.")
 
 
 
-                                </div>
+                            </div>
 
-                            </a>
 
                         </div>
 
 
                         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
-                            <a href="#">
 
-                                <div class="box">
-
+                            <div class="box">
 
 
-                                    <div class="grid-box">
 
-                                        <div class="iconn green">
+                                <div class="grid-box">
 
-                                            <i class="font-size-icon green fas fa-utensils"></i>
+                                    <div class="iconn green">
 
-                                        </div>
+                                        <i class="font-size-icon green fas fa-utensils"></i>
 
-                                        <div class="heading">
+                                    </div>
 
-                                            <h2> <a> Restaurant Cleaners </a> </h2>
+                                    <div class="heading">
 
-                                        </div>
+                                        <h2> <a> Restaurant Cleaners </a> </h2>
 
-                                        <div class="content margin-top-10">
+                                    </div>
 
-                                            <p>Our reliable & flexible cleaners are ready to join any busy kitchen.</p>
+                                    <div class="content margin-top-10">
 
-                                        </div>
+                                        <p>Our reliable & flexible cleaners are ready to join any busy kitchen.</p>
 
-                                        <!-- <ul class=" margin-top-10">
+                                    </div>
+
+                                    <!-- <ul class=" margin-top-10">
 
                                 <li><i class="green fa fa-plus-circle"></i> <a class="green">&nbsp; READ MORE</a></li>
 
@@ -382,9 +375,9 @@ professional schedule to complete the task.")
 
 
 
-                                    </div>
+                                </div>
 
-                                    <!-- <div class="grid-box-1">
+                                <!-- <div class="grid-box-1">
 
                             <div class="img-section">
 
@@ -402,40 +395,38 @@ professional schedule to complete the task.")
 
 
 
-                                </div>
+                            </div>
 
-                            </a>
                         </div>
 
                         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
-                            <a href="#">
 
-                                <div class="box">
-
+                            <div class="box">
 
 
-                                    <div class="grid-box">
 
-                                        <div class="iconn green">
+                                <div class="grid-box">
 
-                                            <i class="font-size-icon green fas fa-recycle"></i>
+                                    <div class="iconn green">
 
-                                        </div>
+                                        <i class="font-size-icon green fas fa-recycle"></i>
 
-                                        <div class="heading">
+                                    </div>
 
-                                            <h2> <a> Housekeepers & Rooms Attendants </a> </h2>
+                                    <div class="heading">
 
-                                        </div>
+                                        <h2> <a> Housekeepers & Rooms Attendants </a> </h2>
 
-                                        <div class="content margin-top-10">
+                                    </div>
 
-                                            <p>Professional & experienced housekeeping and rooms attendants temps.</p>
+                                    <div class="content margin-top-10">
 
-                                        </div>
+                                        <p>Professional & experienced housekeeping and rooms attendants temps.</p>
 
-                                        <!-- <ul class=" margin-top-10">
+                                    </div>
+
+                                    <!-- <ul class=" margin-top-10">
 
                                 <li><i class="green fa fa-plus-circle"></i> <a class="green">&nbsp; READ MORE</a></li>
 
@@ -443,9 +434,9 @@ professional schedule to complete the task.")
 
 
 
-                                    </div>
+                                </div>
 
-                                    <!-- <div class="grid-box-1">
+                                <!-- <div class="grid-box-1">
 
                             <div class="img-section">
 
@@ -463,40 +454,38 @@ professional schedule to complete the task.")
 
 
 
-                                </div>
+                            </div>
 
-                            </a>
                         </div>
 
                         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center">
 
-                            <a href="#">
 
-                                <div class="box">
-
+                            <div class="box">
 
 
-                                    <div class="grid-box">
 
-                                        <div class="iconn green">
+                                <div class="grid-box">
 
-                                            <i class="font-size-icon green fas fa-truck"></i>
+                                    <div class="iconn green">
 
-                                        </div>
+                                        <i class="font-size-icon green fas fa-truck"></i>
 
-                                        <div class="heading">
+                                    </div>
 
-                                            <h2> <a> Domestic & Commmercial Cleaners </a> </h2>
+                                    <div class="heading">
 
-                                        </div>
+                                        <h2> <a> Domestic & Commmercial Cleaners </a> </h2>
 
-                                        <div class="content margin-top-10">
+                                    </div>
 
-                                            <p>Hire Domestic & Commercial cleaning operatives on short noitce.</p>
+                                    <div class="content margin-top-10">
 
-                                        </div>
+                                        <p>Hire Domestic & Commercial cleaning operatives on short noitce.</p>
 
-                                        <!-- <ul class=" margin-top-10">
+                                    </div>
+
+                                    <!-- <ul class=" margin-top-10">
 
                                 <li><i class="green fa fa-plus-circle"></i> <a class="green">&nbsp; READ MORE</a></li>
 
@@ -504,9 +493,9 @@ professional schedule to complete the task.")
 
 
 
-                                    </div>
+                                </div>
 
-                                    <!-- <div class="grid-box-1">
+                                <!-- <div class="grid-box-1">
 
                             <div class="img-section">
 
@@ -524,9 +513,8 @@ professional schedule to complete the task.")
 
 
 
-                                </div>
+                            </div>
 
-                            </a>
                         </div>
                     </div>
                 </div>
@@ -790,69 +778,62 @@ professional schedule to complete the task.")
 
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
 
-                <a href="#">
 
-                    <div class="box">
-
+                <div class="box">
 
 
-                        <div class="grid-box">
 
-                            <div class="iconn green">
+                    <div class="grid-box">
 
-                                <i class=" font-size-icon green far fa-check-square"></i>
+                        <div class="iconn green">
 
-                            </div>
+                            <i class=" font-size-icon green far fa-check-square"></i>
 
-                            <div class="heading">
+                        </div>
 
-                                <h2> <a> Relevant Experience </a> </h2>
+                        <div class="heading">
 
-                            </div>
+                            <h2> <a> Relevant Experience </a> </h2>
 
-                            <div class="content margin-top-10">
+                        </div>
 
-                                <p>We make sure all our operatvies Must have minimum 2 - 5 years relevant Experience.</p>
+                        <div class="content margin-top-10">
 
-                            </div>
+                            <p>We make sure all our operatvies Must have minimum 2 - 5 years relevant Experience.</p>
 
                         </div>
 
                     </div>
 
-                </a>
+                </div>
+
 
             </div>
 
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
 
-                <a href="#">
 
-                    <div class="box">
-
+                <div class="box">
 
 
-                        <div class="grid-box">
 
-                            <div class="iconn green">
+                    <div class="grid-box">
 
-                                <i class="font-size-icon green far fa-hand-point-down"></i>
+                        <div class="iconn green">
 
-                            </div>
+                            <i class="font-size-icon green far fa-hand-point-down"></i>
 
-                            <div class="heading">
+                        </div>
 
-                                <h2> <a> 24/7 Availability </a> </h2>
+                        <div class="heading">
 
-                            </div>
+                            <h2> <a> 24/7 Availability </a> </h2>
 
-                            <div class="content margin-top-10">
+                        </div>
 
-                                <p>Our Customer Service staff available online & on phone 24/7 to fill any urgent vacancy.</p>
+                        <div class="content margin-top-10">
 
-                            </div>
-
-
+                            <p>Our Customer Service staff available online & on phone 24/7 to fill any urgent vacancy.</p>
 
                         </div>
 
@@ -860,43 +841,44 @@ professional schedule to complete the task.")
 
                     </div>
 
-                </a>
+
+
+                </div>
+
 
             </div>
 
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
 
-                <a href="#">
 
-                    <div class="box">
-
+                <div class="box">
 
 
-                        <div class="grid-box">
 
-                            <div class="iconn green">
+                    <div class="grid-box">
 
-                                <i class="green font-size-icon fas fa-paper-plane"></i>
+                        <div class="iconn green">
 
-                            </div>
+                            <i class="green font-size-icon fas fa-paper-plane"></i>
 
-                            <div class="heading">
+                        </div>
 
-                                <h2> <a> Flexible & Reliable </a> </h2>
+                        <div class="heading">
 
-                            </div>
+                            <h2> <a> Flexible & Reliable </a> </h2>
 
-                            <div class="content margin-top-10">
+                        </div>
 
-                                <p>All our temps are fully able to start on short noitce whenever require.</p>
+                        <div class="content margin-top-10">
 
-                            </div>
+                            <p>All our temps are fully able to start on short noitce whenever require.</p>
 
                         </div>
 
                     </div>
 
-                </a>
+                </div>
+
 
             </div>
 

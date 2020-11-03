@@ -216,13 +216,13 @@
 
                                     <ul>
 
-                                        <li><a href="about.php"><i class="fa fa-caret-right" aria-hidden="true"></i> About Us</a></li>
+                                        <li><a href="about-us"><i class="fa fa-caret-right" aria-hidden="true"></i> About Us</a></li>
 
-                                        <li><a href="terms-conditions.php"><i class="fa fa-caret-right" aria-hidden="true"></i> Terms & Conditions</a></li>
+                                        <li><a href="terms-&-conditions"><i class="fa fa-caret-right" aria-hidden="true"></i> Terms & Conditions</a></li>
 
                                         <li><a href="privacy-policy.php"><i class="fa fa-caret-right" aria-hidden="true"></i> Privacy Policy</a></li>
 
-                                        <li><a href="#"><i class="fa fa-caret-right" aria-hidden="true"></i> Careers with Us</a></li>
+                                        <li><a href="jobs"><i class="fa fa-caret-right" aria-hidden="true"></i> Careers with Us</a></li>
 
 
 
