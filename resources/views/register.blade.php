@@ -413,10 +413,11 @@
 
                                                         <!-- <label for="account-option_1">I agreed to the <a href="#" class="check_box_anchr">Terms and Conditions</a> governing the use of jobportal</label> -->
                                                         <label for="account-option_1">I agree to the <a href="#" class="check_box_anchr">Terms and Conditions</a>.</label>
-                                                        <span id="termsAndConditionsError1"></span>
 
                                                     </div>
-
+                                                    <div class="col-md-12" style="text-align: center;">
+                                                        <span class="error" id="termsAndConditionsError1"></span>
+                                                    </div>
                                                 </div>
                                             </div>
                                             <div class="row">
@@ -750,16 +751,21 @@
                                             </div>
 
                                         </div>
-                                        <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                        <div class="row">
+                                            <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-                                            <div class="check-box text-center">
+                                                <div class="check-box text-center">
 
-                                                <input type="checkbox" name="shipping-option" id="account-option_2"> &ensp;
+                                                    <input type="checkbox" name="termsAndConditions2" id="termsAndConditions2">
 
-                                                <label for="account-option_2">I agreed to the <a href="#" class="check_box_anchr">Terms and Conditions</a> governing the use of jobportal</label>
+                                                    <!-- <label for="account-option_1">I agreed to the <a href="#" class="check_box_anchr">Terms and Conditions</a> governing the use of jobportal</label> -->
+                                                    <label for="termsAndConditions2">I agree to the <a href="#" class="check_box_anchr">Terms and Conditions</a>.</label>
 
+                                                </div>
+                                                <div class="col-md-12" style="text-align: center;">
+                                                    <span class="error" id="termsAndConditionsError2"></span>
+                                                </div>
                                             </div>
-
                                         </div>
 
                                         <div class="login_btn_wrapper register_btn_wrapper login_wrapper ">
@@ -814,7 +820,6 @@
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/jquery.validate.min.js"></script>
 
 <script>
-    
     var personalCheckboxStatus = false;
     var cvUploadStatus = false;
 
@@ -822,12 +827,12 @@
         // alert("Form Submitted!!!")
         if ($('input[type="checkbox"]').prop("checked") == true) {
             $("#termsAndConditionsError1").text("");
-            console.log("Checkbox is checked.");
+            // console.log("Checkbox is checked.");
             personalCheckboxStatus = true;
         } else {
             $("#termsAndConditionsError1").text("This field is required.");
             // console.log("Checkbox is unchecked.");
-            personalCheckboxStatus = true;
+            personalCheckboxStatus = false;
             event.preventDefault();
         }
         if (!(cvUploadStatus)) {
@@ -877,6 +882,22 @@
         },
     });
 
+    var companyCheckboxStatus = false;
+
+    $('#companyRegistration').submit(function() {
+        // alert("Form Submitted!!!")
+        if ($('#termsAndConditions2').prop("checked") == true) {
+            $("#termsAndConditionsError2").text("");
+            console.log("Checkbox is checked.");
+            companyCheckboxStatus = true;
+        } else {
+            $("#termsAndConditionsError2").text("This field is required.");
+            console.log("Checkbox is unchecked.");
+            companyCheckboxStatus = true;
+            event.preventDefault();
+        }
+    });
+
     $("#companyRegistration").validate({
         rules: {
             userName1: {
@@ -904,9 +925,9 @@
             companyName: {
                 required: true,
             },
-            website: {
-                required: true,
-            },
+            // website: {
+            //     required: true,
+            // },
             address: {
                 required: true,
             },

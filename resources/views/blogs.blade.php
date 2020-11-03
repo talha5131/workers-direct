@@ -33,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h1>Jobs</h1>
+                        <h1>Blogs</h1>
 
                     </div>
 
@@ -47,7 +47,7 @@
 
 
 
-                                <li>Jobs</li>
+                                <li>Blogs</li>
 
                             </ul>
 
@@ -81,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h2>Jobs<span></span></h2>
+                        <h2>Blogs<span></span></h2>
 
                     </div>
 

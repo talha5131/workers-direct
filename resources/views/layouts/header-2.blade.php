@@ -78,6 +78,18 @@ Purchase:
 
     <link rel="icon" href="public/assets/images/header/favicon.gif" />
 
+    <style>
+        .jp_navi_right_btn_wrapper li:last-child a:hover {
+            background: rgba(124, 194, 77, 0.8);
+            border: 1px solid #7CC24D;
+            -webkit-transition: all 0.5s;
+            -o-transition: all 0.5s;
+            -ms-transition: all 0.5s;
+            -moz-transition: all 0.5s;
+            transition: all 0.5s;
+        }
+    </style>
+
 </head>
 
 
@@ -592,6 +604,10 @@ Purchase:
 
                                     <li class="gc_main_navigation parent"><a href="pages-links" class="gc_main_navigation">Pages Links</a></li>
 
+                                    <li class="gc_main_navigation parent"><a href="cv-register" class="gc_main_navigation">CV Upload</a></li>
+
+                                    <li class="gc_main_navigation parent"><a href="why-us" class="gc_main_navigation">Why Us</a></li>
+
                                 </ul>
 
                             </div>
@@ -774,7 +790,7 @@ Purchase:
 
                                                                 <li><a href="message ">message</a></li>
 
-                                                                <li><a href="client_reivew.php ">client reivew</a></li>
+                                                                <li><a href="client-review">client reivew</a></li>
 
                                                                 <!-- .has-children -->
 
@@ -884,7 +900,7 @@ Purchase:
 
                             <ul>
 
-                                <li><a href="submit-a-job "><i class="fa fa-plus-circle"></i>&nbsp; SUBMIT A JOB</a>
+                                <li><a href="submit-a-job "><i class="fa fa-plus-circle"></i> SUBMIT A JOB</a>
 
                                 </li>
 

@@ -33,9 +33,9 @@ Purchase:
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
 
     <!-- <meta name="description" content="Workers Direct specialised in temporary & short term staff recruitment. As one of the best Recruitment Agency London we provide temp & perm warehouse, catering staff across UK." /> -->
-    
+
     <meta name="description" content="@yield('description')">
-    
+
     <meta name="keywords" content="@yield('keywords')" />
 
     <meta name="author" content="" />
@@ -521,7 +521,7 @@ Purchase:
                                     <li class="has-mega gc_main_navigation"><a href="blogs" class="gc_main_navigation"> Blog</a>
 
                                         <!-- mega menu start -->
-<!-- 
+                                        <!-- 
                                         <ul>
 
                                             <li class="parent"><a href="blog_left.php ">Blog-Left</a></li>
@@ -540,6 +540,9 @@ Purchase:
 
                                     <li class="gc_main_navigation parent"><a href="pages-links " class="gc_main_navigation">Pages Links</a></li>
 
+                                    <li class="gc_main_navigation parent"><a href="cv-register" class="gc_main_navigation">CV Upload</a></li>
+
+                                    <li class="gc_main_navigation parent"><a href="why-us" class="gc_main_navigation">Why Us</a></li>
                                 </ul>
 
                             </div>
