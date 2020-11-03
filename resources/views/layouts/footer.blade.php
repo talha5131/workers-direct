@@ -360,11 +360,11 @@
 
     <!-- chat box Wrapper start -->
 
-    <div id="chat-circle" class="btn btn-raised">
+    <!-- <div id="chat-circle" class="btn btn-raised">
 
         <i class="fa fa-envelope"></i>
 
-    </div>
+    </div> -->
 
     <div class="chat-box">
 
