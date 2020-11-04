@@ -4703,6 +4703,7 @@ i {
     -ms-animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 0.7);
     animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 0.7);
 }
+
 #chat-circle-new {
     position: fixed;
     bottom: 55px;
@@ -4717,6 +4718,7 @@ i {
     text-align: center;
     cursor: pointer;
 }
+
 .white {
     color: #fff;
 }

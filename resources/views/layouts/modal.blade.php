@@ -83,7 +83,7 @@
 
 
 
-                    <form id="contact-form">
+                    <form id="askUsForm">
 
                         <div class="row">
 
@@ -120,7 +120,7 @@
                                     <div class="jp_contact_inputs_wrapper">
 
                                         <label class="formsLabel" for="subject">Subject</label>
-                                        <i class="fa fa-envelope" style="position: absolute;z-index: 1;top: 55px;left: 40px;color: #7CC24D;"></i><input type="text" id="subject" name="subject" placeholder="Email">
+                                        <i class="fa fa-envelope" style="position: absolute;z-index: 1;top: 55px;left: 40px;color: #7CC24D;"></i><input type="text" id="subject" name="subject" placeholder="Subject">
 
                                     </div>
                                 </div>
@@ -130,11 +130,9 @@
                         </div>
 
                         <div class="form-group">
-
-                            <label>Message</label>
-
+                            <label class="formsLabel" for="askUsMessage">Message</label>
                             <textarea class="form-control" name="askUsMessage" id="askUsMessage"></textarea>
-
+                            <span class="error" id="askUsMessage-error"></span>
                         </div>
 
                         <!--Footer-->
@@ -157,9 +155,7 @@
 
                                 <div class="col-md-4">
 
-                                    <a role="button" id="valid" class="btn btn-success form-control" style="background-color: #51284f; border: 1px solid #51284f; height: 40px;
-
-									font-size:large; color:white;">Submit</a>
+                                    <a role="button" id="valid" class="btn btn-success form-control" style="background-color: #7CC24D; border: 1px solid #7CC24D; height: 40px;font-size:large; color:white;">Submit</a>
 
                                 </div>
 
@@ -169,7 +165,7 @@
 
                         <div class="modal-footer justify-content-center">
 
-                            <button type="submit" id="send" class="btn btn-primary waves-effect waves-light">Send
+                            <button type="submit" id="send" style="background-color: #7CC24D; border: 1px solid #7CC24D; height: 40px;font-size:large; color:white;" class="btn btn-primary waves-effect waves-light">Send
 
                                 <i class="fa fa-paper-plane ml-1"></i>
 
@@ -177,7 +173,7 @@
 
 
 
-                            <button type="button" class="btn btn-primary waves-effect" data-dismiss="modal">Cancel</button>
+                            <button type="button" style="background-color: #7CC24D; border: 1px solid #7CC24D; height: 40px;font-size:large; color:white;" class="btn btn-primary waves-effect" data-dismiss="modal">Cancel</button>
 
                             <!-- <button type="submit" class="btn btn-primary">Save Draft</button> -->
 
@@ -220,11 +216,10 @@
 
 
     <script type="text/javascript">
-
         $("#askUsMessage").richText();
 
         var button = $('#send');
-
+        var captchaStatus = false;
         button.prop('disabled', true);
 
 
@@ -243,10 +238,13 @@
 
                 $('.captcha').hide();
 
+                captchaStatus = true;
+                console.log(captchaStatus);
             } else {
 
                 button.prop('disabled', true);
-
+                captchaStatus = false;
+                console.log(captchaStatus);
             }
 
         })
@@ -262,6 +260,40 @@
 
         // test if the code is correct
         captcha.valid("");
+
+        $('#askUsForm').validate({
+            rules: {
+                name: {
+                    required: true,
+                },
+                email: {
+                    required: true,
+                    email: true
+                },
+                subject: {
+                    required: true,
+                },
+            }
+        });
+
+        $("#askUsForm").submit(function() {
+
+
+            if ($("#askUsMessage").val() == "") {
+                $("#askUsMessage-error").html("This field is required");
+                console.log("button is clicked");
+                event.preventDefault();
+            }
+            if ($("#askUsMessage").val() == "<div><br></div>") {
+                $("#askUsMessage-error").html("This field is required");
+                event.preventDefault();
+            } else if ($("#askUsMessage").val() == "<br>") {
+                $("#askUsMessage-error").html("This field is required");
+                event.preventDefault();
+            } else {
+                $("#askUsMessage-error").html("");
+            }
+        });
     </script>
 
 </body>

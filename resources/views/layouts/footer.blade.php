@@ -450,8 +450,8 @@
                                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                             <div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
                                                 <label class="formsLabel" for="message">Detail</label>
-                                                <i class="fa fa-pencil-square-o" style="position: absolute;z-index: 1;top: 180px;left: 15px;color: #7CC24D;"></i>
-                                                <textarea name="message" id="message" class="content" placeholder="Enter Your Details"></textarea>
+                                                <!-- <i class="fa fa-pencil-square-o" style="position: absolute;z-index: 1;top: 180px;left: 15px;color: #7CC24D;"></i> -->
+                                                <textarea name="message" id="message" class="footerContent" placeholder="Enter Your Details"></textarea>
                                                 <span class="error" id="message-error"></span>
                                             </div>
                                         </div>
@@ -755,7 +755,7 @@
 
 
     <script>
-        $(".content").richText();
+        $(".footerContent").richText();
 
         function initMap() {
 
