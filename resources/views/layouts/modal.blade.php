@@ -21,48 +21,7 @@
 
     <link rel="stylesheet" href="{{ url('public/assets/css/richtext.min.css')}}">
 
-    <style>
-        .badge-info {
-            color: #fff;
-            background-color: #ffb100 !important;
-            font-size: 13px;
-            margin-right: 12px;
-        }
 
-        /* .richText-toolbar {
-        background: #7CC24D !important;
-    } */
-        .richText .richText-toolbar ul li a span {
-            color: #7CC24D;
-        }
-
-        .richText .richText-toolbar ul li a {
-            display: block;
-            padding: 10px 13px;
-            border: none;
-            /* border-right: 1px solid #121212 !important; */
-            cursor: pointer;
-            -webkit-transition: background-color 0.4s;
-            -moz-transition: background-color 0.4s;
-            transition: background-color 0.4s;
-            color: white;
-            font-size: 15px;
-        }
-
-        .richText-editor {
-            background: #fff !important;
-            color: black;
-            border-left: none !important;
-        }
-
-        .richText {
-            position: relative;
-            background-color: #FAFAFA;
-            border: none !important;
-            color: #333333;
-            width: 100%;
-        }
-    </style>
 </head>
 
 
@@ -70,8 +29,8 @@
 <body>
 
     <button id="chat-circle-new" type="button" class="btn btn-success zoom" data-toggle="modal" data-target="#modalPoll-1-new">
-        <span style="font-size: 25px; color: white">ASK US </span>
-        <i class="fa fa-question-circle" style="font-size: 25px; color: white" aria-hidden="true"></i>
+        <span style="font-size: 25px; color: white;position:absolute; top: 3px; left: 20px;">ASK US </span>
+        <i class="fa fa-question-circle" style="font-size: 25px; color: white;position:absolute; top: 15px; right: 20px;" aria-hidden="true"></i>
     </button>
 
     <!-- <i class="fa fa-question-circle" style="font-size: 50px; color: white" aria-hidden="true"></i> -->
@@ -132,10 +91,12 @@
 
                                 <div class="form-group">
 
-                                    <label>Name</label>
+                                    <div class="jp_contact_inputs_wrapper">
 
-                                    <input class="form-control" name="name" id="name" placeholder="" type="text">
+                                        <label class="formsLabel" for="name">Name</label>
+                                        <i class="fa fa-user" style="position: absolute;z-index: 1;top: 55px;left: 40px;color: #7CC24D;"></i><input type="text" id="name" name="name" placeholder="Name">
 
+                                    </div>
                                 </div>
 
                             </div>
@@ -143,11 +104,12 @@
                             <div class="col-md-4">
 
                                 <div class="form-group">
+                                    <div class="jp_contact_inputs_wrapper">
 
-                                    <label>Email</label>
+                                        <label class="formsLabel" for="email">Email</label>
+                                        <i class="fa fa-envelope" style="position: absolute;z-index: 1;top: 55px;left: 40px;color: #7CC24D;"></i><input type="text" id="email" name="email" placeholder="Email">
 
-                                    <input class="form-control" name="email" id="email" placeholder="" type="email">
-
+                                    </div>
                                 </div>
 
                             </div>
@@ -155,11 +117,12 @@
                             <div class="col-md-4">
 
                                 <div class="form-group">
+                                    <div class="jp_contact_inputs_wrapper">
 
-                                    <label>Subject</label>
+                                        <label class="formsLabel" for="subject">Subject</label>
+                                        <i class="fa fa-envelope" style="position: absolute;z-index: 1;top: 55px;left: 40px;color: #7CC24D;"></i><input type="text" id="subject" name="subject" placeholder="Email">
 
-                                    <input class="form-control" name="subject" id="subject" placeholder="">
-
+                                    </div>
                                 </div>
 
                             </div>
@@ -170,25 +133,25 @@
 
                             <label>Message</label>
 
-                            <textarea class="form-control content" name="message" id="message" placeholder="" rows="10"></textarea>
+                            <textarea class="form-control" name="askUsMessage" id="askUsMessage"></textarea>
 
                         </div>
 
                         <!--Footer-->
 
-                        <div class="captcha form-group">
+                        <div class="form-group">
 
-                            <div class="row">
+                            <div class="row captcha">
 
                                 <div class="col-md-4">
 
-                                    <!-- <canvas id="canvas" style="width: 100%;"></canvas> -->
+                                    <canvas id="canvas" style="width: 100%;"></canvas>
 
                                 </div>
 
                                 <div class="col-md-4">
 
-                                    <!-- <input style="height: 40px;" name="code" class="form-control" placeholder="Enter Code Here..."> -->
+                                    <input style="height: 40px;" name="code" class="form-control" placeholder="Enter Code Here...">
 
                                 </div>
 
@@ -244,8 +207,8 @@
 
 
 
+    <!-- jQuery Captcha Plugin -->
     <script src="{{ url('public/assets/js/jquery-captcha-lgh.min.js')}}"></script>
-
 
 
     <!-- jQuery Validation -->
@@ -257,20 +220,19 @@
 
 
     <script type="text/javascript">
-        $('.content').richText();
 
-
-
-        // Captcha Code Starts
+        $("#askUsMessage").richText();
 
         var button = $('#send');
 
         button.prop('disabled', true);
 
 
+        //Captcha Code Starts
+        //Captcha Initialization
+        const captcha = new Captcha($('#canvas'));
 
-
-
+        //Enabling the submit button to test if the code user typed is correct.
         $('#valid').on('click', function() {
 
             const ans = captcha.valid($('input[name="code"]').val());
@@ -288,6 +250,18 @@
             }
 
         })
+
+
+        //Captcha Plugin API Methods
+
+        // refresh
+        captcha.refresh();
+
+        // get the code
+        captcha.getCode();
+
+        // test if the code is correct
+        captcha.valid("");
     </script>
 
 </body>
