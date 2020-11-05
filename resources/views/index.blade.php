@@ -2975,6 +2975,39 @@ London we provide temp & perm warehouse, catering staff across UK.">
         </div>
     </div>
 </div> <!-- jp Client Wrapper End -->
+<!-- jp Client Wrapper Start -->
+<div class="jp_hiring_heading_wrapper">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h2 class="margin-top-30">Our Clients</h2>
+                <section class="customer-logos slider margin-top-60">
+                    <div class="slide"><img src="public/assets/images/clientsLogos/Client Logos (1).jpeg"></div>
+                    <div class="slide"><img src="public/assets/images/clientsLogos/Client Logos (2).jpeg"></div>
+                    <div class="slide"><img src="public/assets/images/clientsLogos/Client Logos (3).jpeg"></div>
+                    <div class="slide"><img src="public/assets/images/clientsLogos/Client Logos (4).jpeg"></div>
+                    <div class="slide"><img src="public/assets/images/clientsLogos/Client Logos (5).jpeg"></div>
+                    <div class="slide"><img src="public/assets/images/clientsLogos/Client Logos (6).jpeg"></div>
+                    <div class="slide"><img src="public/assets/images/clientsLogos/Client Logos (7).jpeg"></div>
+                    <div class="slide"><img src="public/assets/images/clientsLogos/Client Logos (8).jpeg"></div>
+                    <div class="slide"><img src="public/assets/images/clientsLogos/Client Logos (9).jpeg"></div>
+                    <div class="slide"><img src="public/assets/images/clientsLogos/Client Logos (10).jpeg"></div>
+                    <div class="slide"><img src="public/assets/images/clientsLogos/Client Logos (11).jpeg"></div>
+                    <div class="slide"><img src="public/assets/images/clientsLogos/Client Logos (12).jpeg"></div>
+                    <div class="slide"><img src="public/assets/images/clientsLogos/Client Logos (13).jpeg"></div>
+                    <div class="slide"><img src="public/assets/images/clientsLogos/Client Logos (14).jpeg"></div>
+                    <div class="slide"><img src="public/assets/images/clientsLogos/Client Logos (15).jpeg"></div>
+                    <div class="slide"><img src="public/assets/images/clientsLogos/Client Logos (16).jpeg"></div>
+                    <div class="slide"><img src="public/assets/images/clientsLogos/Client Logos (17).jpeg"></div>
+                    <div class="slide"><img src="public/assets/images/clientsLogos/Client Logos (18).jpeg"></div>
+                    <div class="slide"><img src="public/assets/images/clientsLogos/Client Logos (19).jpeg"></div>
+                    <div class="slide"><img src="public/assets/images/clientsLogos/Client Logos (20).jpeg"></div>
+                    <div class="slide"><img src="public/assets/images/clientsLogos/Client Logos (21).jpeg"></div>
+                </section>
+            </div>
+        </div>
+    </div>
+</div> <!-- jp Client Wrapper End -->
 <div class="aboutus_section-1">
     <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -3059,4 +3092,29 @@ London we provide temp & perm warehouse, catering staff across UK.">
     <!-- jp downlord Wrapper End -->
     <script src="public/assets/js/jquery-2.1.1.js"></script>
     <script src="public/assets/js/main.js"></script>
+    <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script>
+        $('.customer-logos').slick({
+            slidesToShow: 6,
+            slidesToScroll: 1,
+            autoplay: true,
+            autoplaySpeed: 1500,
+            arrows: false,
+            dots: false,
+            pauseOnHover: false,
+            responsive: [{
+                breakpoint: 768,
+                settings: {
+                    slidesToShow: 4
+                }
+            }, {
+                breakpoint: 520,
+                settings: {
+                    slidesToShow: 3
+                }
+            }]
+        });
+    </script>
     @endsection
