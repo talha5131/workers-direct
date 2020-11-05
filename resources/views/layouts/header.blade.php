@@ -218,13 +218,55 @@ Purchase:
 
 
 
-                                    <li class="has-mega"><a href="services.php" class="gc_main_navigation"> Services&nbsp;<i class="fa fa-angle-down"></i></a>
+
+
+                                    <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation"> What We Do&nbsp;<i class="fa fa-angle-down"></i></a>
 
                                         <!-- mega menu start -->
 
+                                        <ul>
+
+                                            <li class="parent"><a href="/what-we-do/contract-staffing.php">Contract Staffing </a></li>
+
+                                            <li class="parent"><a href="/what-we-do/recruitment-solutions.php">Recruitment Solutions </a></li>
+
+                                            <li class="parent"><a href="/what-we-do/short-term-staff.php">Short Term Staff </a></li>
+
+                                            <li class="parent"><a href="/what-we-do/job-advertisements-solutions.php">Job Advertisements Solutions </a></li>
+
+                                            <li class="parent"><a href="/what-we-do/agency-workers.php">Agency Workers </a></li>
+
+
+
+                                        </ul>
+
+                                    </li>
+
+
+
+
+
+                                    <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation"> Jobs&nbsp;<i class="fa fa-angle-down"></i></a>
+
+                                        <!-- jobs -->
+
+                                        <ul>
+
+                                            <li class="parent"><a href="listing_left.php ">Listing-Left</a></li>
+
+                                            <li class="parent"><a href="listing_right.php ">Listing-Right</a></li>
+
+                                            <li class="parent"><a href="listing_single.php ">Listing-Single</a></li>
+
+                                        </ul>
+
+                                    </li>
+
+                                    <li class="has-mega"><a href="services.php" class="gc_main_navigation"> Services&nbsp;<i class="fa fa-angle-down"></i></a>
+
+                                        <!-- mega menu start -->
+                                        
                                         <ul class="mega_menu">
-
-
 
                                             <li class="services-mega-box">
 
@@ -424,7 +466,7 @@ Purchase:
 
                                     </li>
 
-                                    <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation"> What We Do&nbsp;<i class="fa fa-angle-down"></i></a>
+                                    <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation"> Services &nbsp;<i class="fa fa-angle-down"></i></a>
 
                                         <!-- mega menu start -->
 
@@ -440,73 +482,9 @@ Purchase:
 
                                             <li class="parent"><a href="/what-we-do/agency-workers.php">Agency Workers </a></li>
 
-
-
                                         </ul>
 
                                     </li>
-
-
-
-
-
-                                    <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation"> Jobs&nbsp;<i class="fa fa-angle-down"></i></a>
-
-                                        <!-- jobs -->
-
-                                        <ul>
-
-                                            <li class="parent"><a href="listing_left.php ">Listing-Left</a></li>
-
-                                            <li class="parent"><a href="listing_right.php ">Listing-Right</a></li>
-
-                                            <li class="parent"><a href="listing_single.php ">Listing-Single</a></li>
-
-                                        </ul>
-
-                                    </li>
-
-                                    <li class="parent gc_main_navigation"><a href="#" class="gc_main_navigation">Company &nbsp;<i class="fa fa-angle-down"></i></a>
-
-                                        <!-- Jobs-1 -->
-
-                                        <ul>
-
-
-
-
-
-                                            <li class="parent"><a href="#">How We Work </a></li>
-
-                                            <li class="parent"><a href="#">Packing Staff </a></li>
-
-                                            <li class="parent"><a href="#">Temp Agency London </a></li>
-
-                                            <li class="parent"><a href="#"> Temp Chef Agency</a></li>
-
-                                            <li class="parent"><a href="our-approach.php">Our Approach </a></li>
-
-                                            <li class="parent"><a href="#">Our Statistics </a></li>
-
-                                            <li class="parent"><a href="#">Our Guarentee </a></li>
-
-                                            <li class="parent"><a href="#">Testimonials </a></li>
-
-                                            <li class="parent"><a href="company_listing.php ">Company-Listing</a></li>
-
-                                            <li class="parent"><a href="company_listing_single.php ">Company-Single</a></li>
-
-                                            <li class="parent"><a href="candidate_listing.php ">candidate-Listing</a></li>
-
-                                            <li class="parent"><a href="candidate_profile.php ">candidate-Profile</a></li>
-
-
-
-
-
-                                        </ul>
-
-                                        <!-- jobs-1-->
 
                                     </li>
 
