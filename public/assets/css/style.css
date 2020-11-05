@@ -406,7 +406,7 @@ ul {
     text-transform: capitalize;
     /* letter-spacing: 1px; */
     padding: 8px 10px 8px 20px;
-    border-bottom: 1px solid #ffffff52;
+    /* border-bottom: 1px solid #ffffff52; */
 }
 
 .mainmenu ul li.has-mega .mega-menu span a:hover {
@@ -7784,4 +7784,8 @@ label.formsLabel {
 
 .slick-arrow.slick-hidden {
     display: none;
+}
+
+.widthFull {
+    width: 100% !important;
 }

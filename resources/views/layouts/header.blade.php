@@ -262,201 +262,292 @@ Purchase:
 
                                     </li>
 
-                                    <li class="has-mega"><a href="services.php" class="gc_main_navigation"> Services&nbsp;<i class="fa fa-angle-down"></i></a>
+
+                                    <li class="gc_main_navigation parent"><a href="why-us" class="gc_main_navigation">Why Us</a></li>
+
+
+                                    <li class="has-mega"><a href="#" class="gc_main_navigation"> Services&nbsp;<i class="fa fa-angle-down"></i></a>
 
                                         <!-- mega menu start -->
-                                        
-                                        <ul class="mega_menu">
+
+                                        <ul class="mega_menu" style="width: 1295px; left: -50%;">
 
                                             <li class="services-mega-box">
 
                                                 <div class="row">
 
-                                                    <div class="col-lg-3 col-md-3 text-center">
+                                                    <div class="col-lg-2 col-md-2">
+
+                                                        <div class="list-item-service widthFull">
+                                                            <i class="green fa fa-plus-circle"></i> <a href="temporary-staffing">Staffing </a>
+                                                        </div>
+
+                                                        <div>
+                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                        </div>
+
+                                                        <div class="list-item-service widthFull">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="temp-jobs-london">Hire Temp </a>
+
+                                                        </div>
+
+                                                        <div>
+                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                        </div>
+
+                                                        <div class="list-item-service widthFull">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="admin-staff">Admin </a>
+
+                                                        </div>
+
+                                                        <div>
+                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                        </div>
 
                                                         <div class="list-item-service">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
 
                                                         </div>
 
                                                         <div class="list-item-service">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
 
                                                         </div>
 
                                                         <div class="list-item-service">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
 
                                                         </div>
 
                                                         <div class="list-item-service">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                        <div class="list-item-service">
-
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                        <div class="list-item-service">
-
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                        <div class="list-item-service">
-
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                    </div>
-
-                                                    <div class="col-lg-3 col-md-3 text-center">
-
-                                                        <div class="list-item-service">
-
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                        <div class="list-item-service">
-
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                        <div class="list-item-service">
-
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                        <div class="list-item-service">
-
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                        <div class="list-item-service">
-
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                        <div class="list-item-service">
-
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                        <div class="list-item-service">
-
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
 
                                                         </div>
 
                                                     </div>
 
-                                                    <div class="col-lg-3 col-md-3 text-center">
+                                                    <div class="col-lg-2 col-md-2">
+
+                                                        <div class="list-item-service widthFull">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="catering-staff">Catering </a>
+
+                                                        </div>
+
+                                                        <div>
+                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                        </div>
+
+                                                        <div class="list-item-service widthFull">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="hospitality-staff">Hospitality </a>
+
+                                                        </div>
+
+                                                        <div>
+                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                        </div>
+
+                                                        <div class="list-item-service widthFull">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="healthcare-staff">Healthcare </a>
+
+                                                        </div>
+
+                                                        <div>
+                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                        </div>
 
                                                         <div class="list-item-service">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
 
                                                         </div>
 
                                                         <div class="list-item-service">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
 
                                                         </div>
 
                                                         <div class="list-item-service">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
 
                                                         </div>
 
                                                         <div class="list-item-service">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                        <div class="list-item-service">
-
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                        <div class="list-item-service">
-
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                        <div class="list-item-service">
-
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                    </div>
-
-                                                    <div class="col-lg-3 col-md-3 text-center">
-
-                                                        <div class="list-item-service">
-
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                        <div class="list-item-service">
-
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                        <div class="list-item-service">
-
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                        <div class="list-item-service">
-
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                        <div class="list-item-service">
-
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                        <div class="list-item-service">
-
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
-
-                                                        </div>
-
-                                                        <div class="list-item-service">
-
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Temporary Staffing </a>
 
                                                         </div>
 
                                                     </div>
 
+                                                    <div class="col-lg-2 col-md-2">
 
+                                                        <div class="list-item-service widthFull">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="school-staffing">Academics </a>
+
+                                                        </div>
+
+                                                        <div>
+                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                        </div>
+
+                                                        <div class="list-item-service widthFull">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="reception-staff">Receptionist </a>
+
+                                                        </div>
+
+                                                        <div>
+                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                        </div>
+
+                                                        <div class="list-item-service widthFull">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">PA </a>
+
+                                                        </div>
+
+                                                        <div>
+                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                        </div>
+
+                                                        <div class="list-item-service">
+
+
+                                                        </div>
+
+                                                        <div class="list-item-service">
+
+
+                                                        </div>
+
+                                                        <div class="list-item-service">
+
+
+                                                        </div>
+
+                                                        <div class="list-item-service">
+
+
+                                                        </div>
+
+                                                    </div>
+
+                                                    <div class="col-lg-2 col-md-2">
+
+                                                        <div class="list-item-service widthFull">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="construction-staff">Construction </a>
+
+                                                        </div>
+
+                                                        <div>
+                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                        </div>
+
+                                                        <div class="list-item-service widthFull">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="event-staff">Events </a>
+
+                                                        </div>
+
+                                                        <div>
+                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                        </div>
+
+                                                        <div class="list-item-service widthFull">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Industrial </a>
+
+                                                        </div>
+
+                                                        <div>
+                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                        </div>
+
+                                                        <div class="list-item-service">
+
+
+                                                        </div>
+
+                                                        <div class="list-item-service">
+
+
+                                                        </div>
+
+                                                        <div class="list-item-service">
+
+
+                                                        </div>
+
+                                                        <div class="list-item-service">
+
+
+                                                        </div>
+
+                                                    </div>
+
+                                                    <div class="col-lg-2 col-md-2">
+
+                                                        <div class="list-item-service widthFull">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="warehouse-staff">Warehouse </a>
+
+                                                        </div>
+
+                                                        <div>
+                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                        </div>
+
+                                                        <div class="list-item-service widthFull">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="picker-packer">Packers </a>
+
+                                                        </div>
+
+                                                        <div>
+                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                        </div>
+
+                                                        <div class="list-item-service widthFull">
+
+                                                            <i class="green fa fa-plus-circle"></i> <a href="van-drivers">Drivers </a>
+
+                                                        </div>
+
+                                                        <div>
+                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                        </div>
+
+                                                        <div class="list-item-service">
+
+
+                                                        </div>
+
+                                                        <div class="list-item-service">
+
+
+                                                        </div>
+
+                                                        <div class="list-item-service">
+
+
+                                                        </div>
+
+                                                        <div class="list-item-service">
+
+
+                                                        </div>
+
+                                                    </div>
+
+                                                    <div class="col-lg-2 col-md-2" >
+                                                        <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+
+                                                    </div>
 
                                                 </div>
 
@@ -466,9 +557,8 @@ Purchase:
 
                                     </li>
 
-                                    <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation"> Services &nbsp;<i class="fa fa-angle-down"></i></a>
+                                    <!-- <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation"> Services &nbsp;<i class="fa fa-angle-down"></i></a>
 
-                                        <!-- mega menu start -->
 
                                         <ul>
 
@@ -484,7 +574,7 @@ Purchase:
 
                                         </ul>
 
-                                    </li>
+                                    </li> -->
 
                                     </li>
 
@@ -510,11 +600,10 @@ Purchase:
 
                                     <li class="gc_main_navigation parent"><a href="contact-us " class="gc_main_navigation">Contact</a></li>
 
-                                    <li class="gc_main_navigation parent"><a href="pages-links " class="gc_main_navigation">Pages Links</a></li>
+                                    <!-- <li class="gc_main_navigation parent"><a href="pages-links " class="gc_main_navigation">Pages Links</a></li> -->
 
                                     <li class="gc_main_navigation parent"><a href="cv-register" class="gc_main_navigation">CV Upload</a></li>
 
-                                    <li class="gc_main_navigation parent"><a href="why-us" class="gc_main_navigation">Why Us</a></li>
                                 </ul>
 
                             </div>
