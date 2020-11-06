@@ -10,7 +10,7 @@
 
                     <div class="jp_career_slider_heading_wrapper">
 
-                        <h2>Latest Jobs</h2>
+                        <h2>Featured Jobs</h2>
 
                     </div>
 

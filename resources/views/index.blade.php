@@ -1,5 +1,5 @@
 @extends('layouts.base')
-@section('title','Workers Direct')
+@section('title','Find Jobs & Jobseekers with Workers Direct | Best Recruitment Agency')
 @section('description', 'Workers Direct specialised in temporary & short term staff recruitment. As one of the best Recruitment Agency
 London we provide temp & perm warehouse, catering staff across UK.')
 @section('content')
@@ -19,16 +19,12 @@ London we provide temp & perm warehouse, catering staff across UK.">
         color: #000000;
         font-weight: 700;
     }
-</style>
-<?php
-// $curPageName = substr($_SERVER["SCRIPT_NAME"], strrpos($_SERVER["SCRIPT_NAME"], "/") + 1);
-// if ($curPageName == 'index.php') {
-//     @include('shared.errors');
-// } else {
-//     // include('header.php');
 
-// }
-?>
+    .owl-nav.disabled,
+    .owl-dots.disabled {
+        display: none;
+    }
+</style>
 
 <div class="jp_banner_heading_cont_wrapper">
     <div class="container">
@@ -37,7 +33,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                 <div class="jp_job_heading_wrapper">
                     <div class="jp_job_heading">
                         <section class="cd-intro">
-                            <h1 class="cd-headline clip is-full-width"> <span>LOOKING FOR A </span> <span class="cd-words-wrapper"> <b class="is-visible">STAFF?</b> <b>JOB?</b> <b>WORK?</b> </span> </h1>
+                            <h1 class="cd-headline clip is-full-width"> <span>LOOKING FOR A </span> <span class="cd-words-wrapper"> <b class="is-visible">STAFF?</b> <b>JOB?</b> <b>TEMP?</b> </span> </h1>
                         </section>
                     </div>
                 </div>
@@ -45,14 +41,14 @@ London we provide temp & perm warehouse, catering staff across UK.">
             <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="jp_job_heading_wrapper">
                     <div class="jp_job_heading">
-                        <p>Workers Direct specialised in temporary & short term staff recruitment. As one of the best Recruitment Agency London we provide temp & perm warehouse, catering staff across UK.</p>
+                        <p>As the Best Recruitment Agency, Workers Direct Can Provide Both Temporary & Permanent Recruitment Solutions for Businesses of All Needs. Whether You’re Looking for New Workers Quickly or Want to Bring in World-Class Talent Long-Term & Short Terms Basis, Our Recruitment Solutions Can Take Care of Everything on Your Behalf. </p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="jp_banner_main_jobs_wrapper">
                     <div class="jp_job_heading">
-                        <p>Find Jobs, Employment & Career Opportunities</p>
+                        <p>Find Jobs, Employment & Career Opportunities.</p>
                     </div>
                 </div>
             </div>
@@ -140,7 +136,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                 <div class="section_heading section_2_heading">
                                     <h2>Temporary <span> Staffing Solution </span></h2>
                                 </div>
-                                <p> Workers Direct is the authority when it comes to <b>temporary staffing</b>. We recruit for temporary, temp-to-perm and short-term roles across a range of specialisations and are dedicated to getting it right. We are as flexible as your needs, with workers that can fill a gap in any workforce from very next day. </p>
+                                <p> Workers Direct is the authority when it comes to <b><a href="temporary-staffing" style="color: #7CC24D;"> temporary staffing</b></a>. We recruit for temporary, temp-to-perm and short-term roles across a range of specialisations and are dedicated to getting it right. We are as flexible as your needs, with workers that can fill a gap in any workforce from very next day. </p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
@@ -386,24 +382,164 @@ London we provide temp & perm warehouse, catering staff across UK.">
     </div>
 </div> <!-- jp counter Wrapper End -->
 <!-- jp first sidebar Wrapper Start -->
+
 <div class="jp_first_sidebar_main_wrapper">
     <div class="container">
         <div class="row">
             <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
                 <div class="row">
-                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                        @include('layouts.latestJobs')
+                    <div class="jp_career_main_wrapper">
+
+                        <div class="container">
+
+                            <div class="row">
+
+                                <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
+
+                                    <div class="jp_hiring_slider_main_wrapper">
+
+                                        <div class="jp_career_slider_heading_wrapper jp_best_deal_heading">
+
+                                            <h2 class="margin-bottom-30" style="font-size: 20px;color: #000000;font-weight: 900;text-transform: uppercase;position: relative;">Featured Jobs</h2>
+
+                                        </div>
+
+                                        <div class="jp_career_slider_wrapper">
+
+                                            <div class="owl-carousel owl-theme">
+
+                                                <div class="item jp_recent_main">
+
+                                                    <div class="jp_career_main_box_wrapper">
+
+                                                        <div class="jp_career_img_wrapper">
+
+                                                            <img src="public/assets/images/content/job-seeker-workers-direct.jpg" alt="career_img" />
+
+                                                        </div>
+
+                                                        <div class="jp_career_cont_wrapper margin-top-20">
+
+                                                            <p><i class="fa fa-calendar"></i>&nbsp;&nbsp; <a style="margin-left: 50px;" href="#">20 OCT, 2017</a></p>
+
+                                                            <h3 class="margin-top-10"><a style="color: black;font-weight: 700;font-size: 17px;" href="#">Construction Labourers In Recruitment Agency</a></h3>
+
+                                                            <p style="margin-top: 15px;line-height: 30px;">Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat.</p>
+
+                                                        </div>
+
+                                                    </div>
+
+                                                    <!-- <div class="jp_career_slider_bottom_cont">
+
+                                <ul>
+
+                                    <li><img src="public/assets/images/content/blog_small_img.jpg" alt="small_img" class="img-circle">&nbsp;&nbsp; <a href="#">Jhon Doe</a></li>
+
+                                </ul>
+
+                                <p><a href="#"><i class="fa fa-comments"></i></a></p>
+
+                            </div> -->
+
+                                                </div>
+
+                                                <div class="item jp_recent_main">
+
+                                                    <div class="jp_career_main_box_wrapper">
+
+                                                        <div class="jp_career_img_wrapper">
+
+                                                            <img src="public/assets/images/content/job-seeker-workers-direct.jpg" alt="career_img" />
+
+                                                        </div>
+
+                                                        <div class="jp_career_cont_wrapper margin-top-20">
+
+                                                            <p><i class="fa fa-calendar"></i>&nbsp;&nbsp; <a style="margin-left: 50px;" href="#">20 OCT, 2017</a></p>
+
+                                                            <h3 class="margin-top-10"><a style="color: black;font-weight: 700;font-size: 17px;" href="#">Construction Plant Hire In Recruitment Agency</a></h3>
+
+                                                            <p style="margin-top: 15px;line-height: 30px;">Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat.</p>
+
+                                                        </div>
+
+                                                    </div>
+
+                                                    <!-- <div class="jp_career_slider_bottom_cont">
+
+                                <ul>
+
+                                    <li><img src="public/assets/images/content/blog_small_img.jpg" alt="small_img" class="img-circle">&nbsp;&nbsp; <a href="#">Jhon Doe</a></li>
+
+                                </ul>
+
+                                <p><a href="#"><i class="fa fa-comments"></i></a></p>
+
+                            </div> -->
+
+                                                </div>
+
+                                                <div class="item jp_recent_main">
+
+                                                    <div class="jp_career_main_box_wrapper">
+
+                                                        <div class="jp_career_img_wrapper">
+
+                                                            <img src="public/assets/images/content/job-seeker-workers-direct.jpg" alt="career_img" />
+
+                                                        </div>
+
+                                                        <div class="jp_career_cont_wrapper margin-top-20">
+
+                                                            <p><i class="fa fa-calendar"></i>&nbsp;&nbsp; <a style="margin-left: 50px;" href="#">20 OCT, 2017</a></p>
+
+                                                            <h3 class="margin-top-10"><a style="color: black;font-weight: 700;font-size: 17px;" href="#">Labourer Jobs In Broadstairs</a></h3>
+
+                                                            <p style="margin-top: 15px;line-height: 30px;">Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat.</p>
+
+                                                        </div>
+
+                                                    </div>
+
+                                                    <!-- <div class="jp_career_slider_bottom_cont">
+
+                                <ul>
+
+                                    <li><img src="public/assets/images/content/blog_small_img.jpg" alt="small_img" class="img-circle">&nbsp;&nbsp; <a href="#">Jhon Doe</a></li>
+
+                                </ul>
+
+                                <p><a href="#"><i class="fa fa-comments"></i></a></p>
+
+                            </div> -->
+
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
                     </div>
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                         <div class="cc_featured_product_main_wrapper">
                             <div class="jp_hiring_heading_wrapper jp_job_post_heading_wrapper">
-                                <h2>Recent Jobs</h2>
+                                <h2>Latest Jobs</h2>
                             </div>
                             <ul class="nav nav-tabs" role="tablist">
-                                <li role="presentation" class="active"><a href="#remotely" aria-controls="hot" role="tab" data-toggle="tab">Remotely</a></li>
-                                <li role="presentation"><a href="#part-time" aria-controls="trand" role="tab" data-toggle="tab">Part Time</a></li>
-                                <li role="presentation"><a href="#full-time" aria-controls="best" role="tab" data-toggle="tab">Full Time </a></li>
+                                <li role="presentation"><a href="#part-time" aria-controls="trand" role="tab" data-toggle="tab">Temporary</a></li>
+                                <li role="presentation"><a href="#full-time" aria-controls="best" role="tab" data-toggle="tab">Party Time </a></li>
+                                <li role="presentation"><a href="#permanent" aria-controls="best" role="tab" data-toggle="tab">Full Time</a></li>
                                 <li role="presentation"><a href="#permanent" aria-controls="best" role="tab" data-toggle="tab">Permanent</a></li>
+                                <li role="presentation" class="active"><a href="#remotely" aria-controls="hot" role="tab" data-toggle="tab">Quick Start</a></li>
                             </ul>
                         </div>
                         <div class="tab-content">
@@ -2814,23 +2950,23 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                 </div>
                             </div>
                         </div>
-                        <!-- <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="jp_rightside_job_categories_wrapper">
                                 <div class="jp_rightside_job_categories_heading">
-                                    <h4>Jobs by Category</h4>
+                                    <h4>Book a Temp</h4>
                                 </div>
                                 <div class="jp_rightside_job_categories_content">
                                     <ul>
-                                        <li><i class="fa fa-caret-right"></i> <a href="#">Graphic Designer <span>(214)</span></a></li>
-                                        <li><i class="fa fa-caret-right"></i> <a href="#">Engineering Jobs <span>(514)</span></a></li>
-                                        <li><i class="fa fa-caret-right"></i> <a href="#">Mainframe Jobs <span>(554)</span></a></li>
-                                        <li><i class="fa fa-caret-right"></i> <a href="#">Legal Jobs <span>(457)</span></a></li>
-                                        <li><i class="fa fa-caret-right"></i> <a href="#">IT Jobs <span>(1254)</span></a></li>
-                                        <li><i class="fa fa-plus-circle"></i> <a href="#">View All Categories</a></li>
+                                        <li><i class="fa fa-caret-right"></i> <a href="temporary-staffing">Temporary Staffing</a></li>
+                                        <li><i class="fa fa-caret-right"></i> <a href="catering-staff">Catering Staff</a></li>
+                                        <li><i class="fa fa-caret-right"></i> <a href="event-staff">Event Staff</a></li>
+                                        <li><i class="fa fa-caret-right"></i> <a href="warehouse-staff">Warehouse Staff</a></li>
+                                        <li><i class="fa fa-caret-right"></i> <a href="reception-staff">Reception Staff</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="latest-jobs">View All Jobs</a></li>
                                     </ul>
                                 </div>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                 </div>
             </div>

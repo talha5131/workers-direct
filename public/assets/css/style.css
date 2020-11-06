@@ -2823,6 +2823,7 @@ ul {
     padding-bottom: 50px;
     background: #7CC24D;
 }
+
 .gc_counter_cont_wrapper_new {
     float: left;
     /* width: 25%; */
@@ -7809,4 +7810,22 @@ label.formsLabel {
 
 .widthFull {
     width: 100% !important;
+}
+
+.jp_career_slider_heading_wrapper h2:before {
+    content: '';
+    border: 1px solid #7CC24D;
+    width: 8px;
+    position: absolute;
+    bottom: -15px;
+    left: 0;
+}
+
+.jp_career_slider_heading_wrapper h2:after {
+    content: '';
+    border: 1px solid #7CC24D;
+    width: 30px;
+    position: absolute;
+    bottom: -15px;
+    left: 12px;
 }
