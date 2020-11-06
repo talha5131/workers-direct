@@ -306,3 +306,9 @@ Route::get('/temp-agencies-near-me', function () {
 Route::get('/admin', function () {
     return view('admin.index');
 });
+Route::get('/industrial-staff', function () {
+    return view('industrial-staff');
+});
+Route::get('/personal-assistant', function () {
+    return view('personal-assistant');
+});
