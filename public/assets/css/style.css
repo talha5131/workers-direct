@@ -2803,6 +2803,11 @@ ul {
 
 /*-- jp counter Wrapper Start --*/
 
+.slider_icon_size {
+    font-size: 30px !important;
+    padding-left: 5px;
+}
+
 .jp_counter_main_wrapper {
     float: left;
     width: 100%;
@@ -2813,6 +2818,14 @@ ul {
 .gc_counter_cont_wrapper {
     float: left;
     width: 25%;
+    display: inline-block;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: #7CC24D;
+}
+.gc_counter_cont_wrapper_new {
+    float: left;
+    /* width: 25%; */
     display: inline-block;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -2855,6 +2868,14 @@ ul {
 
 .count-description span {
     font-size: 50px;
+    color: #ffffff;
+    margin-top: 50px;
+    font-weight: 900;
+    position: relative;
+}
+
+.count-description-new span {
+    font-size: 38px;
     color: #ffffff;
     margin-top: 50px;
     font-weight: 900;

@@ -103,14 +103,14 @@ London we provide temp & perm warehouse, catering staff across UK.">
             <!-- <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">			<div class="jp_best_deal_heading_wrapper">				<div class="jp_best_deal_heading">					<h4>Welcome To Workers Direct</h4>				</div>			</div>		</div> -->
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="cc_featured_product_main_wrapper">
-                    <div class="jp_hiring_heading_wrapper jp_job_post_heading_wrapper">
-                        <h2>Welcome To Workers Direct</h2>
+                    <div class="jp_hiring_heading_wrapper jp_job_post_heading_wrapper margin-bottom-60">
+                        <h2>Welcome To Workers Direct - The Recruitment Agency</h2>
                     </div>
                     <ul class="nav nav-tabs text-center" role="tablist">
                         <li role="presentation" class="active"><a href="#best" aria-controls="best" role="tab" data-toggle="tab">About</a></li>
                         <li role="presentation"><a href="#hot" aria-controls="hot" role="tab" data-toggle="tab">Employer</a></li>
                         <li role="presentation"><a href="#trand" aria-controls="trand" role="tab" data-toggle="tab">Job Seeker</a></li>
-                        <li role="presentation"><a href="#ideal" aria-controls="ideal" role="tab" data-toggle="tab">The Best Temp Agency </a></li>
+                        <li role="presentation"><a href="#ideal" aria-controls="ideal" role="tab" data-toggle="tab">Workers Direct - Best Recruitment Agency</a></li>
                     </ul>
                 </div>
                 <div class="tab-content">
@@ -249,7 +249,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                         <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 padding-top-20">
                             <div class="about_text_wrapper">
                                 <div class="section_heading section_2_heading">
-                                    <h2>The <span>Best Temping Agency</span></h2>
+                                    <h2>Workers Direct - <span>Best Recruitment Agency</span></h2>
                                 </div>
                                 <p> Workers Direct has been providing outstanding recruitment and staffing services to its clients since 2010. This temping agency has been one of the leading staffing agencies in London, especially when it comes to providing temporary staff to employers. </p>
                                 <p>Temporary agencies or <a href="https://workers-direct.com/jobs/"> temp agencies</a> are organizations that supply employees to employers who are in need of workers. Such employees may be considered for either short term or a long term basis. Many temporary agencies provide human resources consultations for organizations that need such service.</p>
@@ -349,27 +349,40 @@ London we provide temp & perm warehouse, catering staff across UK.">
 <!-- jp tittle slider Wrapper End -->
 <!-- jp counter Wrapper Start -->
 <div class="jp_counter_main_wrapper">
-    <div class="container">
-        <div class="gc_counter_cont_wrapper">
-            <div class="count-description"> <span class="timer">2540</span><i class="fa fa-plus"></i>
-                <h5 class="con1">Jobs Available</h5>
+    <div class="container-fluid pl-0 pr-0">
+        <div class="row">
+            <div class="gc_counter_cont_wrapper_new col-md-2">
+                <div class="count-description-new"> <span class="timer">52950</span><i class="slider_icon_size fa fa-plus"></i>
+                    <h5 class="con1">WORKERS</h5>
+                </div>
+            </div>
+            <div class="gc_counter_cont_wrapper_new col-md-2">
+                <div class="count-description-new"> <span class="timer">98</span><i class="slider_icon_size fas fa-percent"></i>
+                    <h5 class="con2">ENJOY WORK WITH US</h5>
+                </div>
+            </div>
+            <div class="gc_counter_cont_wrapper_new col-md-2">
+                <div class="count-description-new"> <span class="timer">92</span><i class="slider_icon_size fas fa-percent"></i>
+                    <h5 class="con3">RETAINED WORKERS</h5>
+                </div>
+            </div>
+            <div class="gc_counter_cont_wrapper_new col-md-2">
+                <div class="count-description-new"> <span class="timer">4773600</span><i class="slider_icon_size fa fa-plus"></i>
+                    <h5 class="con4">WORKED HOURS</h5>
+                </div>
+            </div>
+            <div class="gc_counter_cont_wrapper_new col-md-2">
+                <div class="count-description-new"> <span class="timer">1200</span><i class="slider_icon_size fa fa-plus"></i>
+                    <h5 class="con4">CLIENTS</h5>
+                </div>
+            </div>
+            <div class="gc_counter_cont_wrapper_new col-md-2">
+                <div class="count-description-new"> <span class="timer">39780</span><i class="slider_icon_size fa fa-plus"></i>
+                    <h5 class="con4">SITES</h5>
+                </div>
             </div>
         </div>
-        <div class="gc_counter_cont_wrapper2">
-            <div class="count-description"> <span class="timer">7325</span><i class="fa fa-plus"></i>
-                <h5 class="con2">Members</h5>
-            </div>
-        </div>
-        <div class="gc_counter_cont_wrapper3">
-            <div class="count-description"> <span class="timer">1924</span><i class="fa fa-plus"></i>
-                <h5 class="con3">Resumes</h5>
-            </div>
-        </div>
-        <div class="gc_counter_cont_wrapper4">
-            <div class="count-description"> <span class="timer">4275</span><i class="fa fa-plus"></i>
-                <h5 class="con4">Company</h5>
-            </div>
-        </div>
+
     </div>
 </div> <!-- jp counter Wrapper End -->
 <!-- jp first sidebar Wrapper Start -->
@@ -379,115 +392,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
             <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
                 <div class="row">
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                        <!-- <div class="jp_hiring_slider_main_wrapper">
-                            <div class="jp_hiring_heading_wrapper">
-                                <h2>Featured Jobs</h2>
-                            </div>
-                            <div class="jp_hiring_slider_wrapper">
-                                <div class="owl-carousel owl-theme">
-                                    <div class="item">
-                                        <div class="jp_hiring_content_main_wrapper">
-                                            <div class="jp_hiring_content_wrapper"> <img src="public/assets/images/content/hiring_img1.png" alt="hiring_img" />
-                                                <h4>Akshay INC.</h4>
-                                                <p>(NewYork)</p>
-                                                <ul>
-                                                    <li><a href="#">4 Opening</a></li>
-                                                </ul>
-                                            </div>
-                                            <div class="jp_hiring_content_wrapper"> <img src="public/assets/images/content/hiring_img1.png" alt="hiring_img" />
-                                                <h4>Akshay INC.</h4>
-                                                <p>(NewYork)</p>
-                                                <ul>
-                                                    <li><a href="#">4 Opening</a></li>
-                                                </ul>
-                                            </div>
-                                            <div class="jp_hiring_content_wrapper hidden-xs"> <img src="public/assets/images/content/hiring_img1.png" alt="hiring_img" />
-                                                <h4>Akshay INC.</h4>
-                                                <p>(NewYork)</p>
-                                                <ul>
-                                                    <li><a href="#">4 Opening</a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="item">
-                                        <div class="jp_hiring_content_main_wrapper">
-                                            <div class="jp_hiring_content_wrapper"> <img src="public/assets/images/content/hiring_img2.png" alt="hiring_img" />
-                                                <h4>Akshay INC.</h4>
-                                                <p>(NewYork)</p>
-                                                <ul>
-                                                    <li><a href="#">4 Opening</a></li>
-                                                </ul>
-                                            </div>
-                                            <div class="jp_hiring_content_wrapper"> <img src="public/assets/images/content/hiring_img2.png" alt="hiring_img" />
-                                                <h4>Akshay INC.</h4>
-                                                <p>(NewYork)</p>
-                                                <ul>
-                                                    <li><a href="#">4 Opening</a></li>
-                                                </ul>
-                                            </div>
-                                            <div class="jp_hiring_content_wrapper hidden-xs"> <img src="public/assets/images/content/hiring_img2.png" alt="hiring_img" />
-                                                <h4>Akshay INC.</h4>
-                                                <p>(NewYork)</p>
-                                                <ul>
-                                                    <li><a href="#">4 Opening</a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="item">
-                                        <div class="jp_hiring_content_main_wrapper">
-                                            <div class="jp_hiring_content_wrapper"> <img src="public/assets/images/content/hiring_img3.png" alt="hiring_img" />
-                                                <h4>Akshay INC.</h4>
-                                                <p>(NewYork)</p>
-                                                <ul>
-                                                    <li><a href="#">4 Opening</a></li>
-                                                </ul>
-                                            </div>
-                                            <div class="jp_hiring_content_wrapper"> <img src="public/assets/images/content/hiring_img3.png" alt="hiring_img" />
-                                                <h4>Akshay INC.</h4>
-                                                <p>(NewYork)</p>
-                                                <ul>
-                                                    <li><a href="#">4 Opening</a></li>
-                                                </ul>
-                                            </div>
-                                            <div class="jp_hiring_content_wrapper hidden-xs"> <img src="public/assets/images/content/hiring_img3.png" alt="hiring_img" />
-                                                <h4>Akshay INC.</h4>
-                                                <p>(NewYork)</p>
-                                                <ul>
-                                                    <li><a href="#">4 Opening</a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="item">
-                                        <div class="jp_hiring_content_main_wrapper">
-                                            <div class="jp_hiring_content_wrapper"> <img src="public/assets/images/content/hiring_img4.png" alt="hiring_img" />
-                                                <h4>Akshay INC.</h4>
-                                                <p>(NewYork)</p>
-                                                <ul>
-                                                    <li><a href="#">4 Opening</a></li>
-                                                </ul>
-                                            </div>
-                                            <div class="jp_hiring_content_wrapper"> <img src="public/assets/images/content/hiring_img4.png" alt="hiring_img" />
-                                                <h4>Akshay INC.</h4>
-                                                <p>(NewYork)</p>
-                                                <ul>
-                                                    <li><a href="#">4 Opening</a></li>
-                                                </ul>
-                                            </div>
-                                            <div class="jp_hiring_content_wrapper hidden-xs"> <img src="public/assets/images/content/hiring_img4.png" alt="hiring_img" />
-                                                <h4>Akshay INC.</h4>
-                                                <p>(NewYork)</p>
-                                                <ul>
-                                                    <li><a href="#">4 Opening</a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> -->
+                        @include('layouts.latestJobs')
                     </div>
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                         <div class="cc_featured_product_main_wrapper">
