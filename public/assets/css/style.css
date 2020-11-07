@@ -2806,6 +2806,7 @@ ul {
 .slider_icon_size {
     font-size: 30px !important;
     padding-left: 5px;
+    color: #fff;
 }
 
 .jp_counter_main_wrapper {
@@ -4484,8 +4485,30 @@ i {
     text-transform: uppercase;
     position: relative;
 }
+.jp_footer_first_cont h4 {
+    font-size: 15px;
+    color: #7CC24D;
+    font-weight: 900;
+    text-transform: uppercase;
+    position: relative;
+}
+.jp_footer_first_cont_new {
+    font-size: 15px;
+    color: #7CC24D;
+    /* font-weight: 900; */
+    text-transform: uppercase;
+    position: relative;
+}
 
 .jp_footer_first_cont h2:after {
+    content: '';
+    border: 1px solid #7CC24D;
+    width: 30px;
+    position: absolute;
+    bottom: -15px;
+    left: 11px;
+}
+.jp_footer_first_cont h4:after {
     content: '';
     border: 1px solid #7CC24D;
     width: 30px;
@@ -4502,10 +4525,22 @@ i {
     bottom: -15px;
     left: 0;
 }
+.jp_footer_first_cont h4:before {
+    content: '';
+    border: 1px solid #7CC24D;
+    width: 8px;
+    position: absolute;
+    bottom: -15px;
+    left: 0;
+}
 
 .jp_footer_first_cont p {
     padding-top: 60px;
     color: #ffffffd9;
+}
+.jp_footer_first_cont_new p {
+    padding-top: 5px;
+    color: #797979;
 }
 
 .jp_footer_first_cont ul {
@@ -7828,4 +7863,19 @@ label.formsLabel {
     position: absolute;
     bottom: -15px;
     left: 12px;
+}
+
+.form-control {
+    box-shadow: none;
+    border: 1px solid #dedede;
+    padding: 6px 20px;
+    height: 50px;
+    background: none;
+    color: #959595;
+    font-size: 14px;
+    border-radius: 0;
+}
+.header_services_img_size {
+    height: 100px;
+    width: 100%;
 }

@@ -283,7 +283,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/CONSTRUCTION STAFF/construction_staff_2.jpg" alt="about-img" height="100%" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service widthFull">
@@ -293,7 +293,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/TEMP JOBS LONDON/temp-jobs-london_3.jpg" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service widthFull">
@@ -303,7 +303,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/SERVICE ADMIN/service-admin_1.jpg" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service">
@@ -337,7 +337,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/Catering Staff/catering_staff_2.jpg" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service widthFull">
@@ -347,7 +347,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/HOSPITALITY STAFF/hospitality_staff_4.jpg" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service widthFull">
@@ -357,7 +357,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/HEALTHCARE STAFF/healthcare_staff_1.jpg" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service">
@@ -391,7 +391,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/SCHOOL STAFFING/SCHOOL_STAFFING_1.jpg" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service widthFull">
@@ -401,7 +401,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/RECEPTION STAFF/reception_staff_3.jpg" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service widthFull">
@@ -411,7 +411,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/SERVICE ADMIN/service-admin_3.jpg" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service">
@@ -445,7 +445,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/CONSTRUCTION STAFF/construction_staff_1.jpg" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service widthFull">
@@ -455,7 +455,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/EVENT STAFF/event_staff_3.jpg" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service widthFull">
@@ -465,7 +465,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/About/about-3.jpg" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service">
@@ -499,7 +499,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/WAREHOUSE STAFF/warehouse_staff_3.jpg" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service widthFull">
@@ -509,7 +509,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_5.jpg" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service widthFull">
@@ -519,7 +519,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/SCHOOL BUS DRIVER/school-bus-driver_2.jpg" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service">
@@ -545,7 +545,7 @@ Purchase:
                                                     </div>
 
                                                     <div class="col-lg-2 col-md-2" >
-                                                        <img class="img-responsive" src="public/assets/images/content/about-workers-direct-1.jpg" alt="about-img" style="cursor: default;">
+                                                        <img class="img-responsive margin-top-40" src="public/assets/images/page-pictures/CSCS PAINTER/cscs_painter_4.jpg" alt="about-img" style="cursor: default; width: 100%; height: 380px;">
 
                                                     </div>
 

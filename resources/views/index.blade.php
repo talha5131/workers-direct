@@ -3,6 +3,8 @@
 @section('description', 'Workers Direct specialised in temporary & short term staff recruitment. As one of the best Recruitment Agency
 London we provide temp & perm warehouse, catering staff across UK.')
 @section('content')
+
+
 <html prefix="og: https://ogp.me/ns#">
 <meta property="og:title" content="Workers Direct" />
 <meta property="og:type" content="website" />
@@ -14,6 +16,7 @@ London we provide temp & perm warehouse, catering staff across UK.')
 <meta property="twitter:description" content="Workers Direct specialised in temporary & short term staff recruitment. As one of the best Recruitment Agency
 London we provide temp & perm warehouse, catering staff across UK.">
 <meta property="twitter:card" content="summary">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
 <style>
     .heading h2 a {
         color: #000000;
@@ -2865,67 +2868,42 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                            <div class="jp_spotlight_main_wrapper">
-                                <div class="spotlight_header_wrapper">
-                                    <h4>Job Spotlight</h4>
+                        <!-- <div class="jp_downlord_main_wrapper">
+                            <div class="jp_downlord_img_overlay"></div>
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 hidden-sm hidden-xs">
+                                        <div class="jp_down_mob_img_wrapper"> <img style="height: 300px; width: 300px; padding: 0px 0px 15px 0px;" src="public/assets/images/content/mobail.png" alt="mobail_img" /> </div>
+                                    </div>
+                                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                        <div class="ss_download_wrapper_details" style="padding-top: 0px;">
+                                            <h2 style="font-size: 22px;"><span>Download</span><br>Job Portal App Now!</h2>
+                                            <p style="font-size: 15px; margin: 0px 0px 25px 0px;">Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p> <a href="https://play.google.com/store/apps/details?id=com.mst_developers.workers_direct&hl=en" class="ss_playstore"><span><i class="fa fa-android" aria-hidden="true"></i></span> Play Store</a>
+                                        </div>
+                                    </div>
+
                                 </div>
-                                <div class="jp_spotlight_slider_wrapper">
-                                    <div class="owl-carousel owl-theme">
-                                        <div class="item">
-                                            <div class="jp_spotlight_slider_img_Wrapper"> <img src="public/assets/images/content/spotlight_img.jpg" alt="spotlight_img" /> </div>
-                                            <div class="jp_spotlight_slider_cont_Wrapper">
-                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                <p>Webstrot Technology Ltd.</p>
-                                                <ul>
-                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-                                                </ul>
-                                            </div>
-                                            <div class="jp_spotlight_slider_btn_wrapper">
-                                                <div class="jp_spotlight_slider_btn">
-                                                    <ul>
-                                                        <li><a href="cv-registration.php"><i class="fa fa-plus-circle"></i> &nbsp;ADD RESUME</a></li>
-                                                    </ul>
-                                                </div>
+                            </div>
+                        </div> -->
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-top-20">
+                            <div class="jp_rightside_job_categories_heading">
+                                <h4>Download Job Portal App Now!</h4>
+                            </div>
+                            <div class="jp_downlord_main_wrapper">
+                                <div class="jp_downlord_img_overlay"></div>
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 hidden-sm hidden-xs">
+                                            <div class="jp_down_mob_img_wrapper"> <img style="height: 300px;" src="public/assets/images/content/mobail.png" alt="mobail_img" /> </div>
+                                        </div>
+                                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                            <div class="ss_download_wrapper_details" style="padding-top: 14px; padding-left: 14px; padding-bottom: 24px;">
+
+
+                                                <a href="https://play.google.com/store/apps/details?id=com.mst_developers.workers_direct&hl=en" class="ss_playstore"><span><i class="fa fa-android" aria-hidden="true"></i></span> Play Store</a>
                                             </div>
                                         </div>
-                                        <div class="item">
-                                            <div class="jp_spotlight_slider_img_Wrapper"> <img src="public/assets/images/content/spotlight_img.jpg" alt="spotlight_img" /> </div>
-                                            <div class="jp_spotlight_slider_cont_Wrapper">
-                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                <p>Webstrot Technology Ltd.</p>
-                                                <ul>
-                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-                                                </ul>
-                                            </div>
-                                            <div class="jp_spotlight_slider_btn_wrapper">
-                                                <div class="jp_spotlight_slider_btn">
-                                                    <ul>
-                                                        <li><a href="cv-registration.php"><i class="fa fa-plus-circle"></i> &nbsp;ADD RESUME</a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="item">
-                                            <div class="jp_spotlight_slider_img_Wrapper"> <img src="public/assets/images/content/spotlight_img.jpg" alt="spotlight_img" /> </div>
-                                            <div class="jp_spotlight_slider_cont_Wrapper">
-                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                <p>Webstrot Technology Ltd.</p>
-                                                <ul>
-                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-                                                </ul>
-                                            </div>
-                                            <div class="jp_spotlight_slider_btn_wrapper">
-                                                <div class="jp_spotlight_slider_btn">
-                                                    <ul>
-                                                        <li><a href="cv-registration.php"><i class="fa fa-plus-circle"></i> &nbsp;ADD RESUME</a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
+
                                     </div>
                                 </div>
                             </div>
@@ -3111,25 +3089,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
         </div>
     </div> -->
     <!-- <div class="jp_downlord_main_wrapper" style="height: 210px;"> -->
-    <div class="jp_downlord_main_wrapper">
-        <div class="jp_downlord_img_overlay"></div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 hidden-sm hidden-xs">
-                    <div class="jp_down_mob_img_wrapper"> <img style="height: 300px; width: 300px; padding: 0px 0px 15px 0px;" src="public/assets/images/content/mobail.png" alt="mobail_img" /> </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <div class="ss_download_wrapper_details" style="padding-top: 0px;">
-                        <h2 style="font-size: 22px;"><span>Download</span><br>Job Portal App Now!</h2>
-                        <p style="font-size: 15px; margin: 0px 0px 25px 0px;">Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p> <a href="https://play.google.com/store/apps/details?id=com.mst_developers.workers_direct&hl=en" class="ss_playstore"><span><i class="fa fa-android" aria-hidden="true"></i></span> Play Store</a>
-                    </div>
-                </div>
-                <!-- <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 visible-sm visible-xs">
-                    <div class="jp_down_mob_img_wrapper"> <img src="public/assets/images/content/mobail.png" class="img-responsive" alt="mobail_img" /> </div>
-                </div> -->
-            </div>
-        </div>
-    </div>
+    
     <!-- jp downlord Wrapper End -->
     <script src="public/assets/js/jquery-2.1.1.js"></script>
     <script src="public/assets/js/main.js"></script>

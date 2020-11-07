@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="public/assets/css/richtext.min.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
 <style>
     /* .jp_contact_inputs_wrapper i {
@@ -477,10 +478,70 @@
                             </form>
                         </div>
 
+                    </div>
+
+                </div>
+                <div style="text-align:center; " class="col-md-4 margin-top-100">
+                    <a href="http://localhost/workers-direct"><img src="public/assets/images/header/animated-logo-dark.png" alt="Logo" title="Workers Direct" class="img-responsive" style="cursor: default; margin-left: 94px;"></a>
+
+                    <p>Temping Agency is a privately owned recruitment agency based in Central London, W1 area and Established as part of the Workers Direct Group in 2010, TA has delivered excellent recruitment and employment services to clients in a variety of industries.
+                    </p>
+
+                    <p class="margin-top-20">Our services include recruitment, selection, placement, contract and temporary workers and our consultants are highly trained and experienced to deal with each step of the process.</p>
+                </div>
+                <div class="col-md-4">
+                    <div class="jp_contact_map_wrapper" style="margin: 100px 0;">
+
+                        <div style="width:100%; float:left; height:300px;">
+
+                            <iframe style=" border-radius: 5px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2480.4054139491323!2d0.08116921520262564!3d51.56080101461914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a6863c22706b%3A0xdfb224d6cd4eee4c!2s344-348%20High%20Rd%2C%20Ilford%20IG1%201QP%2C%20UK!5e0!3m2!1sen!2s!4v1580738057832!5m2!1sen!2s" width="100%" height="325" frameborder="0"></iframe></div>
+
+                        <div class="jp_footer_first_cont jp_footer_first_cont_new" style="height: 114px; top: 66% !important; position: absolute; background-color: white; left: 80px; width: 232px;">
+
+                            <h4 class="margin-top-20" style="margin-left: 10px;"> You can Find us..</h4>
+
+                            <p class="margin-top-20" style="margin-left: 10px;">344-48 High Road, Ilford, IG1 1QP</p>
+
+                        </div>
 
 
                     </div>
+                </div>
 
+                <div class="col-md-4 margin-top-100 jp_footer_first_cont">
+                    <h2 style="color: #7CC24D;" class="margin-bottom-20">Workers Direct</h2>
+                </div>
+                <div class="col-md-4 jp_footer_first_cont jp_footer_first_cont_new">
+
+                    <h4 class="margin-bottom-20">ADDRESS</h4>
+
+
+                    <p class="margin-bottom-20">344-348 High road, Ilford IG1 1QP</p>
+
+                    <h4 class="margin-bottom-20">EMAIL</h4>
+
+                    <p class="margin-bottom-20">info@temping-agency.com</p>
+
+                    <h4 class="margin-bottom-20">PHONE NO.</h4>
+
+                    <p class="margin-bottom-20">+44 (0) 2030 869080</p>
+
+                    <!-- <input type="email" placeholder="Email Address"> -->
+                    <form action="#" role="form">
+
+                        <div class="input-group subscribe">
+
+                            <input style="border: 1px solid rgba(255, 255, 255, .1);" type="email" class="form-control" placeholder="Email Address" required>
+
+                            <span class="input-group-addon">
+
+                                <button class="btn" type="submit"><i class="fa fa-envelope-o" style="color: #7CC24D; font-weight: 900;"> </i></button>
+
+                            </span>
+
+                        </div>
+
+                    </form>
                 </div>
 
             </div>
