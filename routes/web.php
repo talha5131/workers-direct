@@ -117,16 +117,16 @@ Route::get('/blog-right', function () {
 Route::get('/blog-left', function () {
     return view('blog-left');
 });
-Route::get('/temporary-staffing', function () {
+Route::get('staffing-services/temporary-staffing', function () {
     return view('temporary-staffing');
 });
-Route::get('/catering-staff', function () {
+Route::get('/staffing-services/catering-staff', function () {
     return view('catering-staff');
 });
 Route::get('/cleaners', function () {
     return view('cleaners');
 });
-Route::get('/event-staff', function () {
+Route::get('/staffing-services/event-staff', function () {
     return view('event-staff');
 });
 Route::get('/workers-direct-the-best-temping-agency-in-london', function () {
@@ -138,10 +138,10 @@ Route::get('/kitchen-porter', function () {
 Route::get('/temp-chef-agency', function () {
     return view('temp-chef-agency');
 });
-Route::get('/warehouse-staff', function () {
+Route::get('/staffing-services/warehouse-staff', function () {
     return view('warehouse-staff');
 });
-Route::get('/reception-staff', function () {
+Route::get('/staffing-services/reception-staff', function () {
     return view('reception-staff');
 });
 Route::get('/general-labourer', function () {
@@ -168,7 +168,7 @@ Route::get('/packing-staff', function () {
 Route::get('/temp-jobs-london', function () {
     return view('temp-jobs-london');
 });
-Route::get('/healthcare-staff', function () {
+Route::get('/staffing-services/healthcare-staff', function () {
     return view('healthcare-staff');
 });
 Route::get('/data-entry-operator', function () {
@@ -192,13 +192,13 @@ Route::get('/kitchen-assistant', function () {
 Route::get('/housekeepers', function () {
     return view('housekeepers');
 });
-Route::get('/school-staffing', function () {
+Route::get('/staffing-services/school-staffing', function () {
     return view('school-staffing');
 });
 Route::get('/shop-manager', function () {
     return view('shop-manager');
 });
-Route::get('/admin-staff', function () {
+Route::get('/staffing-services/admin-staff', function () {
     return view('admin-staff');
 });
 Route::get('/mortgage-administrator', function () {
@@ -261,7 +261,7 @@ Route::get('/thai-chef-job', function () {
 Route::get('/sous-chef-jobs-2', function () {
     return view('sous-chef-jobs-2');
 });
-Route::get('/construction-staff', function () {
+Route::get('/staffing-services/construction-staff', function () {
     return view('construction-staff');
 });
 Route::get('/pages-links', function () {

@@ -43,31 +43,31 @@ Purchase:
     <meta name="MobileOptimized" content="320" />
 
     <!--srart theme style -->
-    <link rel="stylesheet" type="text/css" href="public/assets/css/animate.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('public/assets/css/animate.css')}}" />
 
 
 
-    <link rel="stylesheet" type="text/css" href="public/assets/css/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('public/assets/css/bootstrap.css')}}" />
 
-    <link rel="stylesheet" type="text/css" href="public/assets/css/font-awesome.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('public/assets/css/font-awesome.css')}}" />
 
-    <link rel="stylesheet" type="text/css" href="public/assets/css/fonts.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('public/assets/css/fonts.css')}}" />
 
-    <link rel="stylesheet" type="text/css" href="public/assets/css/reset.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('public/assets/css/reset.css')}}" />
 
-    <link rel="stylesheet" type="text/css" href="public/assets/css/owl.carousel.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('public/assets/css/owl.carousel.css')}}" />
 
-    <link rel="stylesheet" type="text/css" href="public/assets/css/owl.theme.default.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('public/assets/css/owl.theme.default.css')}}" />
 
-    <link rel="stylesheet" type="text/css" href="public/assets/css/flaticon.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('public/assets/css/flaticon.css')}}" />
 
-    <link rel="stylesheet" type="text/css" href="public/assets/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('public/assets/css/style.css')}}" />
 
-    <link rel="stylesheet" type="text/css" href="public/assets/css/style_II.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('public/assets/css/style_II.css')}}" />
 
-    <link rel="stylesheet" type="text/css" href="public/assets/css/responsive2.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('public/assets/css/responsive2.css')}}" />
 
-    <link rel="stylesheet" type="text/css" href="public/assets/css/preloader.css" />
+    <link rel="stylesheet" type="text/css" href="{{url('public/assets/css/preloader.css')}}" />
 
     <!-- <link rel="stylesheet" href="public/assets/css/richtext.min.css"> -->
     <!-- UPDATED FONT AWESOME  -->
@@ -100,7 +100,7 @@ Purchase:
 
     <div id="preloader">
 
-        <div id="status"><img src="public/assets/images/header/animated-logo-dark.png" id="preloader_image" alt="loader">
+        <div id="status"><img src="{{url('public/assets/images/header/animated-logo-dark.png')}}" id="preloader_image" alt="loader">
 
         </div>
 

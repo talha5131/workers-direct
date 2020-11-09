@@ -787,27 +787,27 @@
 
     <!--main js file start-->
 
-    <script src="public/assets/js/jquery_min.js"></script>
+    <script src="{{url('public/assets/js/jquery_min.js')}}"></script>
 
-    <script src="public/assets/js/bootstrap.js"></script>
+    <script src="{{url('public/assets/js/bootstrap.js')}}"></script>
 
-    <script src="public/assets/js/jquery.menu-aim.js"></script>
+    <script src="{{url('public/assets/js/jquery.menu-aim.js')}}"></script>
 
-    <script src="public/assets/js/jquery.countTo.js"></script>
+    <script src="{{url('public/assets/js/jquery.countTo.js')}}"></script>
 
-    <script src="public/assets/js/jquery.inview.min.js"></script>
+    <script src="{{url('public/assets/js/jquery.inview.min.js')}}"></script>
 
-    <script src="public/assets/js/owl.carousel.js"></script>
+    <script src="{{url('public/assets/js/owl.carousel.js')}}"></script>
 
-    <script src="public/assets/js/modernizr.js"></script>
+    <script src="{{url('public/assets/js/modernizr.js')}}"></script>
 
-    <script src="public/assets/js/jquery.magnific-popup.js"></script>
+    <script src="{{url('public/assets/js/jquery.magnific-popup.js')}}"></script>
 
-    <script src="public/assets/js/custom_II.js"></script>
+    <script src="{{url('public/assets/js/custom_II.js')}}"></script>
 
-    <script src="public/assets/js/hs.megamenu.js"></script>
+    <script src="{{url('public/assets/js/hs.megamenu.js')}}"></script>
 
-    <script src="public/assets/js/jquery.richtext.min.js"></script>
+    <script src="{{url('public/assets/js/jquery.richtext.min.js')}}"></script>
 
     <!-- jQuery Validation -->
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/jquery.validate.min.js"></script>

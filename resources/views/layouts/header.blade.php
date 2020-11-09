@@ -46,39 +46,38 @@ Purchase:
 
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700' rel='stylesheet' type='text/css'>
 
-    <link rel="stylesheet" type="text/css" href="public/assets/css/animate.css" />
+    <link rel="stylesheet" type="text/css" href="{{asset('public/assets/css/animate.css')}}" />
 
-    <link rel="stylesheet" type="text/css" href="public/assets/css/preloader.css" />
+    <link rel="stylesheet" type="text/css" href="{{asset('public/assets/css/preloader.css')}}" />
 
-    <link rel="stylesheet" type="text/css" href="public/assets/css/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="{{asset('public/assets/css/bootstrap.css')}}" />
 
-    <link rel="stylesheet" type="text/css" href="public/assets/css/font-awesome.css" />
+    <link rel="stylesheet" type="text/css" href="{{asset('public/assets/css/font-awesome.css')}}" />
 
-    <link rel="stylesheet" type="text/css" href="public/assets/css/fonts.css" />
+    <link rel="stylesheet" type="text/css" href="{{asset('public/assets/css/fonts.css')}}" />
 
-    <link rel="stylesheet" type="text/css" href="public/assets/css/reset.css" />
+    <link rel="stylesheet" type="text/css" href="{{asset('public/assets/css/reset.css')}}" />
 
-    <link rel="stylesheet" type="text/css" href="public/assets/css/owl.carousel.css" />
+    <link rel="stylesheet" type="text/css" href="{{asset('public/assets/css/owl.carousel.css')}}" />
 
-    <link rel="stylesheet" type="text/css" href="public/assets/css/owl.theme.default.css" />
+    <link rel="stylesheet" type="text/css" href="{{asset('public/assets/css/owl.theme.default.css')}}" />
 
-    <link rel="stylesheet" type="text/css" href="public/assets/css/flaticon.css" />
+    <link rel="stylesheet" type="text/css" href="{{asset('public/assets/css/flaticon.css')}}" />
 
-    <link rel="stylesheet" type="text/css" href="public/assets/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="{{asset('public/assets/css/style.css')}}" />
 
-    <link rel="stylesheet" type="text/css" href="public/assets/css/hs.megamenu.css" />
-
-
+    <link rel="stylesheet" type="text/css" href="{{asset('public/assets/css/hs.megamenu.css')}}" />
 
 
 
-    <link rel="stylesheet" type="text/css" href="public/assets/css/responsive.css" />
 
-    <link rel="stylesheet" type="text/css" href="public/assets/css/preloader.css" />
+    <link rel="stylesheet" type="text/css" href="{{asset('public/assets/css/responsive.css')}}" />
+
+    <link rel="stylesheet" type="text/css" href="{{asset('public/assets/css/preloader.css')}}" />
 
     <!-- favicon links -->
 
-    <link rel="shortcut icon" type="image/png" href="public/assets/images/header/animated-logo-dark.png" />
+    <link rel="shortcut icon" type="image/png" href="{{asset('public/assets/images/header/animated-logo-dark.png')}}" />
 
 
 
@@ -92,7 +91,7 @@ Purchase:
 
     <div id="preloader">
 
-        <div id="status"><img src="public/assets/images/header/animated-logo-dark.png" id="preloader_image" alt="loader">
+        <div id="status"><img src="{{asset('public/assets/images/header/animated-logo-dark.png')}}" id="preloader_image" alt="loader">
 
         </div>
 
@@ -130,11 +129,11 @@ Purchase:
 
                     <div class="jp_top_header_left_wrapper">
 
-                        <div class="jp_top_header_left_cont">
+                        <div class="jp_top_header_left_cont mobile_view_hiden">
 
                             <p><i class="green fa fa-phone"></i> &nbsp;Phone &nbsp;<a href="tel:0 203 086 90 80">0 203 086 90 80 </a></p>
 
-                            <p class=""><i class="green fa fa-envelope"></i> &nbsp;Email :&nbsp;<a href="mailto:info@workers-direct.com">info@workers-direct.com</a></p>
+                            <p><i class="green fa fa-envelope"></i> &nbsp;Email :&nbsp;<a href="mailto:info@workers-direct.com">info@workers-direct.com</a></p>
 
                         </div>
 
@@ -148,11 +147,11 @@ Purchase:
 
                         <div class="jp_top_header_right_cont">
 
-                            <ul>
+                            <ul class="mobile_view_hiden">
 
-                                <li><a href="register "><i class="green fa fa-user"></i>&nbsp; SIGN UP</a></li>
+                                <li ><a href="register "><i class="green fa fa-user"></i>&nbsp; SIGN UP</a></li>
 
-                                <li><a href="login "><i class="green fa fa-sign-in"></i>&nbsp; LOGIN</a></li>
+                                <li ><a href="login "><i class="green fa fa-sign-in"></i>&nbsp; LOGIN</a></li>
 
                             </ul>
 
@@ -190,7 +189,7 @@ Purchase:
 
                             <div class="gc_logo">
 
-                                <a href="{{url('/')}}"><img src="public/assets/images/header/animated-logo-wd.gif" alt="Logo" title="Workers Direct" class="img-responsive"></a>
+                                <a href="{{url('/')}}"><img src="{{asset('public/assets/images/header/animated-logo-wd.gif')}}" alt="Logo" title="Workers Direct" class="img-responsive"></a>
 
                             </div>
 
