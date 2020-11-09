@@ -44,7 +44,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
             <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="jp_job_heading_wrapper">
                     <div class="jp_job_heading">
-                        <p>As the Best Recruitment Agency, Workers Direct Can Provide Both Temporary & Permanent Recruitment Solutions for Businesses of All Needs. Whether You’re Looking for New Workers Quickly or Want to Bring in World-Class Talent Long-Term & Short Terms Basis, Our Recruitment Solutions Can Take Care of Everything on Your Behalf. </p>
+                        <p class=" wd-intro-para">As the Best Recruitment Agency, Workers Direct Can Provide Both Temporary & Permanent Recruitment Solutions for Businesses of All Needs. Whether You’re Looking for New Workers Quickly or Want to Bring in World-Class Talent Long-Term & Short Terms Basis, Our Recruitment Solutions Can Take Care of Everything on Your Behalf. </p>
                     </div>
                 </div>
             </div>
