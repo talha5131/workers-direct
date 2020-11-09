@@ -104,10 +104,10 @@
             </div>
 
             <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
-                <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/CONSTRUCTION STAFF/construction_staff_2.jpg" width="100%" height="200px" alt="">
+                <img style="height: 300px;" class="image-style-border" src="{{url('public/assets/images/page-pictures/CONSTRUCTION STAFF/construction_staff_2.jpg')}}" width="100%" height="200px" alt="">
             </div>
             <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
-                <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/CONSTRUCTION STAFF/construction_staff_4.jpg" width="100%" height="200px" alt="">
+                <img style="height: 300px;" class="image-style-border" src="{{url('public/assets/images/page-pictures/CONSTRUCTION STAFF/construction_staff_4.jpg')}}" width="100%" height="200px" alt="">
             </div>
 
             <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
@@ -307,11 +307,11 @@
             </div>
 
             <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
-                <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/CONSTRUCTION STAFF/construction_staff_3.png" width="100%" height="200px" alt="">
+                <img style="height: 300px;" class="image-style-border" src="{{url('public/assets/images/page-pictures/CONSTRUCTION STAFF/construction_staff_3.png')}}" width="100%" height="200px" alt="">
             </div>
 
             <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
-                <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/CONSTRUCTION STAFF/construction_staff_5.jpg" width="100%" height="200px" alt="">
+                <img style="height: 300px;" class="image-style-border" src="{{url('public/assets/images/page-pictures/CONSTRUCTION STAFF/construction_staff_5.jpg')}}" width="100%" height="200px" alt="">
             </div>
             <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 about_text_wrapper section_heading section_2_heading margin-top-30">
 
@@ -923,7 +923,7 @@
 
                 <div class="jp_down_mob_img_wrapper">
 
-                    <img src="public/assets/images/content/mobail.png" alt="mobail_img" />
+                    <img src="{{url('public/assets/images/content/mobail.png')}}" alt="mobail_img" />
 
                 </div>
 
@@ -955,7 +955,7 @@
 
                 <div class="jp_down_mob_img_wrapper">
 
-                    <img src="public/assets/images/content/mobail.png" class="img-responsive" alt="mobail_img" />
+                    <img src="{{url('public/assets/images/content/mobail.png')}}" class="img-responsive" alt="mobail_img" />
 
                 </div>
 
