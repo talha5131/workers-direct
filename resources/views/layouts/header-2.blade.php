@@ -234,15 +234,15 @@ Purchase:
 
                                         <ul>
 
-                                            <li class="parent"><a href="/what-we-do/contract-staffing.php">Contract Staffing </a></li>
+                                            <li class="parent"><a href="kitchen-assistant">Kitchen Assistant </a></li>
 
-                                            <li class="parent"><a href="/what-we-do/recruitment-solutions.php">Recruitment Solutions </a></li>
+                                            <li class="parent"><a href="hr-assistant">HR Assistant </a></li>
 
-                                            <li class="parent"><a href="/what-we-do/short-term-staff.php">Short Term Staff </a></li>
+                                            <li class="parent"><a href="data-entry-operator">Data Entry Operator </a></li>
 
-                                            <li class="parent"><a href="/what-we-do/job-advertisements-solutions.php">Job Advertisements Solutions </a></li>
+                                            <li class="parent"><a href="cleaners">Cleaners </a></li>
 
-                                            <li class="parent"><a href="/what-we-do/agency-workers.php">Agency Workers </a></li>
+                                            <li class="parent"><a href="virtual-assistant">Virtual Assistant </a></li>
 
 
 
@@ -310,7 +310,7 @@ Purchase:
 
 
 
-                                    <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation"> Jobs&nbsp;<i class="fa fa-angle-down"></i></a>
+                                    <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation">Latest Jobs<i class="fa fa-angle-down"></i></a>
 
                                         <!-- jobs -->
 
@@ -332,7 +332,7 @@ Purchase:
 
                                         <!-- mega menu start -->
 
-                                        <ul class="mega_menu" style="width: 1295px; left: -50%;">
+                                        <ul class="mega_menu" style="width: 1295px; left: -42%;">
 
                                             <li class="services-mega-box">
 
@@ -468,7 +468,7 @@ Purchase:
 
                                                         <div class="list-item-service widthFull">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">PA </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="personal-assistant">PA </a>
 
                                                         </div>
 
@@ -522,7 +522,7 @@ Purchase:
 
                                                         <div class="list-item-service widthFull">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="#">Industrial </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="industrial-staff">Industrial </a>
 
                                                         </div>
 
@@ -619,7 +619,7 @@ Purchase:
 
                                     </li>
 
-                                
+
                                     <li class="has-mega gc_main_navigation"><a href="blogs" class="gc_main_navigation"> Blog
                                             <!-- <i class="fa fa-angle-down"></i> -->
                                         </a>
@@ -646,7 +646,7 @@ Purchase:
 
                                     <li class="gc_main_navigation parent"><a href="cv-register" class="gc_main_navigation">CV Upload</a></li>
 
-                                    
+
 
                                 </ul>
 
@@ -714,11 +714,11 @@ Purchase:
 
 
 
-                                                        <li class="has-children">
+                                                        <li>
 
-                                                            <a href="#">Home</a>
+                                                            <a href="about-us">About Us</a>
 
-                                                            <ul class="cd-secondary-dropdown is-hidden">
+                                                            <!-- <ul class="cd-secondary-dropdown is-hidden">
 
                                                                 <li class="go-back"><a href="#0">Menu</a></li>
 
@@ -734,9 +734,8 @@ Purchase:
 
                                                                 <li><a href="index_vi ">Home6</a></li>
 
-                                                                <!-- .has-children -->
 
-                                                            </ul>
+                                                            </ul> -->
 
                                                             <!-- .cd-secondary-dropdown -->
 
@@ -746,33 +745,21 @@ Purchase:
 
                                                         <li class="has-children">
 
-                                                            <a href="#">Listing</a>
+                                                            <a href="#">What We Do</a>
 
                                                             <ul class="cd-secondary-dropdown is-hidden">
 
                                                                 <li class="go-back"><a href="#0">Menu</a></li>
 
-                                                                <li>
+                                                                <li class="parent"><a href="kitchen-assistant">Kitchen Assistant </a></li>
 
-                                                                    <a href="listing_left.php ">listing-Left</a>
+                                                                <li class="parent"><a href="hr-assistant">HR Assistant </a></li>
 
-                                                                </li>
+                                                                <li class="parent"><a href="data-entry-operator">Data Entry Operator </a></li>
 
-                                                                <!-- .has-children -->
+                                                                <li class="parent"><a href="cleaners">Cleaners </a></li>
 
-                                                                <li>
-
-                                                                    <a href="listing_right.php ">listing-Right</a>
-
-                                                                </li>
-
-                                                                <!-- .has-children -->
-
-                                                                <li>
-
-                                                                    <a href="listing_single.php ">listing-Single</a>
-
-                                                                </li>
+                                                                <li class="parent"><a href="virtual-assistant">Virtual Assistant </a></li>
 
                                                                 <!-- .has-children -->
 
@@ -782,13 +769,42 @@ Purchase:
 
                                                         </li>
 
-                                                        <!-- .has-children -->
-
                                                         <li class="has-children">
 
-                                                            <a href="#">candidates</a>
+                                                            <a href="#">Services</a>
 
                                                             <ul class="cd-secondary-dropdown is-hidden">
+
+                                                                <li class="go-back"><a href="#0">Menu</a></li>
+
+                                                                <li><a href="temporary-staffing">Staffing </a></li>
+                                                                <li><a href="temp-jobs-london">Hire Temp </a></li>
+                                                                <li><a href="admin-staff">Admin </a></li>
+                                                                <li><a href="catering-staff">Catering </a></li>
+                                                                <li><a href="hospitality-staff">Hospitality </a></li>
+                                                                <li><a href="school-staffing">Academics </a></li>
+                                                                <li><a href="reception-staff">Receptionist </a></li>
+                                                                <li><a href="personal-assistant">PA </a></li>
+                                                                <li><a href="construction-staff">Construction </a></li>
+                                                                <li><a href="event-staff">Events </a></li>
+                                                                <li><a href="industrial-staff">Industrial </a></li>
+                                                                <li><a href="warehouse-staff">Warehouse </a></li>
+                                                                <li><a href="picker-packer">Packers </a></li>
+                                                                <li><a href="van-drivers">Drivers </a></li>
+
+                                                            </ul>
+
+                                                            <!-- .cd-secondary-dropdown -->
+
+                                                        </li>
+
+                                                        <!-- .has-children -->
+
+                                                        <li>
+
+                                                            <a href="jobs">Latest Jobs</a>
+
+                                                            <!-- <ul class="cd-secondary-dropdown is-hidden">
 
                                                                 <li class="go-back"><a href="#0">Menu</a></li>
 
@@ -800,19 +816,18 @@ Purchase:
 
                                                                 <li><a href="candidate_profile.php ">candidate-Profile</a></li>
 
-                                                                <!-- .has-children -->
 
-                                                            </ul>
+                                                            </ul> -->
 
                                                             <!-- .cd-secondary-dropdown -->
 
                                                         </li>
 
-                                                        <li class="has-children">
+                                                        <li>
 
-                                                            <a href="#">Pages</a>
+                                                            <a href="why-us">Why Us </a>
 
-                                                            <ul class="cd-secondary-dropdown is-hidden">
+                                                            <!-- <ul class="cd-secondary-dropdown is-hidden">
 
                                                                 <li class="go-back"><a href="#0">Menu</a></li>
 
@@ -832,9 +847,7 @@ Purchase:
 
                                                                 <li><a href="client-review">client reivew</a></li>
 
-                                                                <!-- .has-children -->
-
-                                                            </ul>
+                                                            </ul> -->
 
                                                             <!-- .cd-secondary-dropdown -->
 
@@ -842,11 +855,11 @@ Purchase:
 
                                                         <!-- .has-children -->
 
-                                                        <li class="has-children">
+                                                        <li>
 
-                                                            <a href="#">Blog</a>
+                                                            <a href="blogs">Blogs</a>
 
-                                                            <ul class="cd-secondary-dropdown is-hidden">
+                                                            <!-- <ul class="cd-secondary-dropdown is-hidden">
 
                                                                 <li class="go-back"><a href="#0">Menu</a></li>
 
@@ -856,15 +869,11 @@ Purchase:
 
                                                                 </li>
 
-                                                                <!-- .has-children -->
-
                                                                 <li>
 
                                                                     <a href="blog_right.php ">Blog-Right</a>
 
                                                                 </li>
-
-                                                                <!-- .has-children -->
 
                                                                 <li>
 
@@ -872,17 +881,13 @@ Purchase:
 
                                                                 </li>
 
-                                                                <!-- .has-children -->
-
                                                                 <li>
 
                                                                     <a href="blog_single_right.php ">Blog-Single-Left</a>
 
                                                                 </li>
 
-                                                                <!-- .has-children -->
-
-                                                            </ul>
+                                                            </ul> -->
 
                                                             <!-- .cd-secondary-dropdown -->
 
@@ -892,11 +897,12 @@ Purchase:
 
                                                         <li>
 
-                                                            <a href="contact-us ">Contact</a>
+                                                            <a href="contact-us ">Contact Us</a>
 
                                                         </li>
 
-                                                        <li>
+                                                        <li><a href="cv-register">CV Upload</a></li>
+                                                        <!-- <li>
 
                                                             <a href="register ">Sign Up</a>
 
@@ -906,7 +912,7 @@ Purchase:
 
                                                             <a href="login ">Login</a>
 
-                                                        </li>
+                                                        </li> -->
 
                                                     </ul>
 
