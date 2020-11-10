@@ -73,6 +73,12 @@
 
 						<h1>CV <span> Registration</span></h1>
 
+						<p>
+							If You Looking for Job? Register Your CV Today
+							We will match the best suitable job according to your
+							Experience and skills from thousands of Available Jobs to Start ASAP basis.
+						</p>
+
 					</div>
 
 				</div>
