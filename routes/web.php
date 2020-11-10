@@ -312,3 +312,19 @@ Route::get('/industrial-staff', function () {
 Route::get('/personal-assistant', function () {
     return view('personal-assistant');
 });
+Route::get('/staffing-services', function () {
+    return view('staffing-services');
+});
+Route::get('/temping-agencies', function () {
+    return view('temping-agencies');
+});
+Route::get('/services/it-telecoms', function () {
+    return view('it-telecoms');
+});
+Route::get('/promotional-staff', function () {
+    return view('promotional-staff');
+});
+Route::get('/what-we-do/short-term-staff', function () {
+    return view('short-term-staff');
+});
+
