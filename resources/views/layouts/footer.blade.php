@@ -158,11 +158,7 @@
 
                         <h2>Get a Quote</h2>
 
-                        <p style="margin-top: -40px;"> Please Ask first to get the weekend jobs and regulat methods!!!!
-
-                            Please Ask first to get the weekend jobs and regulat methods!!!!
-
-                            Please Ask first to get the weekend jobs and regulat methods!!!! Please Ask first Please Ask firstPlease
+                        <p style="margin-top: -40px;"> If you need an urgent staff, fill the quotation form and send back to us an one of our experts can start on your recruitement drive immidiately. In many cases, we can find suitable employees within a matter of hours.
 
                         </p>
 
@@ -170,7 +166,7 @@
 
                 </div>
 
-                <div class="col-lg-9 col-md-8 col-sm-12 col-xs-12">
+                <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
 
 
 

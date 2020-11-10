@@ -149,9 +149,9 @@ Purchase:
 
                             <ul class="mobile_view_hiden">
 
-                                <li ><a href="register "><i class="green fa fa-user"></i>&nbsp; SIGN UP</a></li>
+                                <li><a href="register "><i class="green fa fa-user"></i>&nbsp; SIGN UP</a></li>
 
-                                <li ><a href="login "><i class="green fa fa-sign-in"></i>&nbsp; LOGIN</a></li>
+                                <li><a href="login "><i class="green fa fa-sign-in"></i>&nbsp; LOGIN</a></li>
 
                             </ul>
 
@@ -209,66 +209,32 @@ Purchase:
 
                                 <ul class="float_left">
 
+                                    <li class="gc_main_navigation parent"><a href="about-us " class="gc_main_navigation">About</a></li>
 
+                                    <li class="gc_main_navigation parent"><a href="why-us" class="gc_main_navigation">Why Us</a></li>
 
-
-
-                                    <li class="gc_main_navigation parent"><a href="about-us" class="gc_main_navigation">About</a></li>
-
-
-
-
-
-                                    <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation"> What We Do&nbsp;<i class="fa fa-angle-down"></i></a>
-
-                                        <!-- mega menu start -->
+                                    <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation">How We Work<i class="fa fa-angle-down"></i></a>
 
                                         <ul>
 
-                                            <li class="parent"><a href="kitchen-assistant">Kitchen Assistant </a></li>
+                                            <li class="parent"><a href="#">Our Approach </a></li>
 
-                                            <li class="parent"><a href="hr-assistant">HR Assistant </a></li>
+                                            <li class="parent"><a href="#">Our Statistics </a></li>
 
-                                            <li class="parent"><a href="data-entry-operator">Data Entry Operator </a></li>
+                                            <li class="parent"><a href="#">Our Guarantee </a></li>
 
-                                            <li class="parent"><a href="cleaners">Cleaners </a></li>
-
-                                            <li class="parent"><a href="virtual-assistant">Virtual Assistant </a></li>
+                                            <li class="parent"><a href="#">Our Clients </a></li>
 
 
                                         </ul>
 
                                     </li>
 
-
-
-
-
-                                    <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation">Latest Jobs&nbsp;</a>
-
-                                        <!-- jobs -->
-
-                                        <!-- <ul>
-
-                                            <li class="parent"><a href="listing_left.php ">Listing-Left</a></li>
-
-                                            <li class="parent"><a href="listing_right.php ">Listing-Right</a></li>
-
-                                            <li class="parent"><a href="listing_single.php ">Listing-Single</a></li>
-
-                                        </ul> -->
-
-                                    </li>
-
-
-                                    <li class="gc_main_navigation parent"><a href="why-us" class="gc_main_navigation">Why Us</a></li>
-
-
-                                    <li class="has-mega"><a href="#" class="gc_main_navigation"> Services&nbsp;<i class="fa fa-angle-down"></i></a>
+                                    <li class="has-mega"><a href="#" class="gc_main_navigation"> Services<i class="fa fa-angle-down"></i></a>
 
                                         <!-- mega menu start -->
 
-                                        <ul class="mega_menu" style="width: 1295px; left: -42%;">
+                                        <ul class="mega_menu" style="width: 1295px; left: -27%;">
 
                                             <li class="services-mega-box">
 
@@ -281,7 +247,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/CONSTRUCTION STAFF/construction_staff_2.jpg" alt="about-img" height="100%" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="{{asset('public/assets/images/page-pictures/CONSTRUCTION STAFF/construction_staff_2.jpg')}}" alt="about-img" height="100%" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service widthFull">
@@ -291,7 +257,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/TEMP JOBS LONDON/temp-jobs-london_3.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="{{asset('public/assets/images/page-pictures/TEMP JOBS LONDON/temp-jobs-london_3.jpg')}}" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service widthFull">
@@ -301,7 +267,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/SERVICE ADMIN/service-admin_1.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="{{asset('public/assets/images/page-pictures/SERVICE ADMIN/service-admin_1.jpg')}}" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service">
@@ -335,7 +301,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/Catering Staff/catering_staff_2.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="{{asset('public/assets/images/page-pictures/Catering Staff/catering_staff_2.jpg')}}" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service widthFull">
@@ -345,7 +311,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/HOSPITALITY STAFF/hospitality_staff_4.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="{{asset('public/assets/images/page-pictures/HOSPITALITY STAFF/hospitality_staff_4.jpg')}}" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service widthFull">
@@ -355,7 +321,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/HEALTHCARE STAFF/healthcare_staff_1.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="{{asset('public/assets/images/page-pictures/HEALTHCARE STAFF/healthcare_staff_1.jpg')}}" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service">
@@ -389,7 +355,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/SCHOOL STAFFING/SCHOOL_STAFFING_1.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="{{asset('public/assets/images/page-pictures/SCHOOL STAFFING/SCHOOL_STAFFING_1.jpg')}}" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service widthFull">
@@ -399,7 +365,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/RECEPTION STAFF/reception_staff_3.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="{{asset('public/assets/images/page-pictures/RECEPTION STAFF/reception_staff_3.jpg')}}" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service widthFull">
@@ -409,7 +375,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/SERVICE ADMIN/service-admin_3.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="{{asset('public/assets/images/page-pictures/SERVICE ADMIN/service-admin_3.jpg')}}" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service">
@@ -443,7 +409,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/CONSTRUCTION STAFF/construction_staff_1.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="{{asset('public/assets/images/page-pictures/CONSTRUCTION STAFF/construction_staff_1.jpg')}}" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service widthFull">
@@ -453,7 +419,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/EVENT STAFF/event_staff_3.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="{{asset('public/assets/images/page-pictures/EVENT STAFF/event_staff_3.jpg')}}" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service widthFull">
@@ -463,7 +429,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/About/about-3.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="{{asset('public/assets/images/page-pictures/About/about-3.jpg')}}" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service">
@@ -497,7 +463,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/WAREHOUSE STAFF/warehouse_staff_3.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="{{asset('public/assets/images/page-pictures/WAREHOUSE STAFF/warehouse_staff_3.jpg')}}" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service widthFull">
@@ -507,7 +473,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_5.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="{{asset('public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_5.jpg')}}" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service widthFull">
@@ -517,7 +483,7 @@ Purchase:
                                                         </div>
 
                                                         <div>
-                                                            <img class="img-responsive header_services_img_size" src="public/assets/images/page-pictures/SCHOOL BUS DRIVER/school-bus-driver_2.jpg" alt="about-img" style="cursor: default;">
+                                                            <img class="img-responsive header_services_img_size" src="{{asset('public/assets/images/page-pictures/SCHOOL BUS DRIVER/school-bus-driver_2.jpg')}}" alt="about-img" style="cursor: default;">
                                                         </div>
 
                                                         <div class="list-item-service">
@@ -543,7 +509,7 @@ Purchase:
                                                     </div>
 
                                                     <div class="col-lg-2 col-md-2">
-                                                        <img class="img-responsive margin-top-40" src="public/assets/images/page-pictures/CSCS PAINTER/cscs_painter_4.jpg" alt="about-img" style="cursor: default; width: 100%; height: 380px;">
+                                                        <img class="img-responsive margin-top-40" src="{{asset('public/assets/images/page-pictures/CSCS PAINTER/cscs_painter_4.jpg')}}" alt="about-img" style="cursor: default; width: 100%; height: 380px;">
 
                                                     </div>
 
@@ -555,31 +521,54 @@ Purchase:
 
                                     </li>
 
+                                    <li class="gc_main_navigation parent"><a href="employer" class="gc_main_navigation">Looking For Staff?</a></li>
+
+                                    <li class="gc_main_navigation parent"><a href="job-seeker" class="gc_main_navigation">Looking For Job?</a></li>
+
+                                    <li class="gc_main_navigation parent"><a href="#" class="gc_main_navigation">Jobs</a></li>
+
+                                    <li class="gc_main_navigation parent"><a href="#" class="gc_main_navigation">Locations</a></li>
+
+                                    <li class="gc_main_navigation parent"><a href="#" class="gc_main_navigation">Contact</a></li>
 
 
-                                    <li class="has-mega gc_main_navigation"><a href="blogs" class="gc_main_navigation"> Blog</a>
+                                    <!-- <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation"> What We Do&nbsp;<i class="fa fa-angle-down"></i></a>
 
-                                        <!-- mega menu start -->
-                                        <!-- 
-                                        <ul>
+    <ul>
 
-                                            <li class="parent"><a href="blog_left.php ">Blog-Left</a></li>
+        <li class="parent"><a href="kitchen-assistant">Kitchen Assistant </a></li>
 
-                                            <li class="parent"><a href="blog_right.php ">Blog-Right</a></li>
+        <li class="parent"><a href="hr-assistant">HR Assistant </a></li>
 
-                                            <li class="parent"><a href="blog_single_left.php ">Blog-Single-Left</a></li>
+        <li class="parent"><a href="data-entry-operator">Data Entry Operator </a></li>
 
-                                            <li class="parent"><a href="blog_single_right.php ">Blog-Single-Right</a></li>
+        <li class="parent"><a href="cleaners">Cleaners </a></li>
 
-                                        </ul> -->
+        <li class="parent"><a href="virtual-assistant">Virtual Assistant </a></li>
 
-                                    </li>
 
-                                    <li class="gc_main_navigation parent"><a href="contact-us " class="gc_main_navigation">Contact</a></li>
 
-                                    <!-- <li class="gc_main_navigation parent"><a href="pages-links " class="gc_main_navigation">Pages Links</a></li> -->
+    </ul>
 
-                                    <li class="gc_main_navigation parent"><a href="cv-register" class="gc_main_navigation">CV Upload</a></li>
+</li> -->
+
+
+
+
+                                    <!-- <li class="has-mega gc_main_navigation"><a href="jobs" class="gc_main_navigation">Latest Jobs
+    </a>
+</li> -->
+
+
+                                    <!-- <li class="has-mega gc_main_navigation"><a href="blogs" class="gc_main_navigation"> Blog
+    </a>
+</li> -->
+
+                                    <!-- <li class="gc_main_navigation parent"><a href="contact-us " class="gc_main_navigation">Contact</a></li>
+
+<li class="gc_main_navigation parent"><a href="cv-register" class="gc_main_navigation">CV Upload</a></li> -->
+
+
 
                                 </ul>
 
@@ -651,37 +640,35 @@ Purchase:
 
                                                             <a href="about-us">About Us</a>
 
-
-
-                                                            <!-- .cd-secondary-dropdown -->
-
                                                         </li>
+
+                                                        <li><a href="why-us">Why Us</a></li>
 
                                                         <!-- .has-children -->
 
                                                         <li class="has-children">
 
-                                                            <a href="#">What We Do</a>
+                                                            <a href="#">How We Work</a>
 
                                                             <ul class="cd-secondary-dropdown is-hidden">
 
                                                                 <li class="go-back"><a href="#0">Menu</a></li>
 
-                                                                <li class="parent"><a href="kitchen-assistant">Kitchen Assistant </a></li>
+                                                                <li class="parent"><a href="#">Our Approach </a></li>
 
-                                                                <li class="parent"><a href="hr-assistant">HR Assistant </a></li>
+                                                                <li class="parent"><a href="#">Our Statistics </a></li>
 
-                                                                <li class="parent"><a href="data-entry-operator">Data Entry Operator </a></li>
+                                                                <li class="parent"><a href="#">Our Guarantee </a></li>
 
-                                                                <li class="parent"><a href="cleaners">Cleaners </a></li>
+                                                                <li class="parent"><a href="#">Our Clients </a></li>
 
-                                                                <li class="parent"><a href="virtual-assistant">Virtual Assistant </a></li>
-
-                                                                <!-- .has-children -->
 
                                                             </ul>
 
-                                                            <!-- .cd-secondary-dropdown -->
+                                                        </li>
+
+
+                                                        <!-- .cd-secondary-dropdown -->
 
                                                         </li>
 
@@ -718,31 +705,22 @@ Purchase:
 
                                                         <li>
 
-                                                            <a href="jobs">Latest Jobs</a>
+                                                            <a href="employer">Looking For Staff</a>
+
+                                                            <!-- <ul class="cd-secondary-dropdown is-hidden">
+
+                                                                <li class="go-back"><a href="#0">Menu</a></li>
+
+                                                                <li><a href="company_listing.php ">Company-Listing</a></li>
+
+                                                                <li><a href="company_listing_single.php ">Company-Single</a></li>
+
+                                                                <li><a href="candidate_listing.php ">candidate-Listing</a></li>
+
+                                                                <li><a href="candidate_profile.php ">candidate-Profile</a></li>
 
 
-
-                                                            <!-- .cd-secondary-dropdown -->
-
-                                                        </li>
-
-                                                        <li>
-
-                                                            <a href="why-us">Why Us </a>
-
-
-
-                                                            <!-- .cd-secondary-dropdown -->
-
-                                                        </li>
-
-                                                        <!-- .has-children -->
-
-                                                        <li>
-
-                                                            <a href="blogs">Blogs</a>
-
-
+                                                            </ul> -->
 
                                                             <!-- .cd-secondary-dropdown -->
 
@@ -752,12 +730,61 @@ Purchase:
 
                                                         <li>
 
-                                                            <a href="contact-us ">Contact Us</a>
+                                                            <a href="job-seeker">Looking For Job?</a>
+
+                                                            <!-- <ul class="cd-secondary-dropdown is-hidden">
+
+                                                                <li class="go-back"><a href="#0">Menu</a></li>
+
+                                                                <li>
+
+                                                                    <a href="blog_left.php ">Blog-Left</a>
+
+                                                                </li>
+
+                                                                <li>
+
+                                                                    <a href="blog_right.php ">Blog-Right</a>
+
+                                                                </li>
+
+                                                                <li>
+
+                                                                    <a href="blog_single_left.php ">Blog-Single-Left</a>
+
+                                                                </li>
+
+                                                                <li>
+
+                                                                    <a href="blog_single_right.php ">Blog-Single-Left</a>
+
+                                                                </li>
+
+                                                            </ul> -->
+
+                                                            <!-- .cd-secondary-dropdown -->
 
                                                         </li>
 
-                                                        <li><a href="cv-register">CV Upload</a></li>
+                                                        <!-- .has-children -->
 
+                                                        <li><a href="jobs">Jobs</a></li>
+
+                                                        <li><a href="#">Locations</a></li>
+
+                                                        <li><a href="contact-us">Contact</a></li>
+
+                                                        <!-- <li>
+
+                                                            <a href="register ">Sign Up</a>
+
+                                                        </li>
+
+                                                        <li>
+
+                                                            <a href="login ">Login</a>
+
+                                                        </li> -->
 
                                                     </ul>
 
@@ -792,7 +819,7 @@ Purchase:
 
                             <ul>
 
-                                <li><a href="submit-a-job "><i class="white fa fa-plus-circle"></i>&nbsp; SUBMIT A JOB</a>
+                                <li><a href="submit-a-job "><i class="white fa fa-plus-circle"></i> Get Hired</a>
 
                                 </li>
 

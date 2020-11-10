@@ -539,8 +539,8 @@ London we provide temp & perm warehouse, catering staff across UK.">
                             </div>
                             <ul class="nav nav-tabs" role="tablist">
                                 <li role="presentation"><a href="#part-time" aria-controls="trand" role="tab" data-toggle="tab">Temporary</a></li>
-                                <li role="presentation"><a href="#full-time" aria-controls="best" role="tab" data-toggle="tab">Party Time </a></li>
-                                <li role="presentation"><a href="#permanent" aria-controls="best" role="tab" data-toggle="tab">Full Time</a></li>
+                                <li role="presentation"><a href="#full-time" aria-controls="best" role="tab" data-toggle="tab">Temp to Perm</a></li>
+                                <li role="presentation"><a href="#permanent" aria-controls="best" role="tab" data-toggle="tab">Part Time</a></li>
                                 <li role="presentation"><a href="#permanent" aria-controls="best" role="tab" data-toggle="tab">Permanent</a></li>
                                 <li role="presentation" class="active"><a href="#remotely" aria-controls="hot" role="tab" data-toggle="tab">Quick Start</a></li>
                             </ul>
@@ -2863,7 +2863,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                 <div class="jp_add_resume_cont"> <img src="public/assets/images/header/animated-logo-wd.gif" alt="logo" />
                                     <h4>Get Best Matched Jobs On your Email. Add Resume NOW!</h4>
                                     <ul>
-                                        <li><a href="cv-registration.php"><i class="fa fa-plus-circle"></i> &nbsp;CV Registration</a></li>
+                                        <li><a href="cv-register"><i class="fa fa-plus-circle"></i> CV Registration</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -2931,16 +2931,25 @@ London we provide temp & perm warehouse, catering staff across UK.">
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="jp_rightside_job_categories_wrapper">
                                 <div class="jp_rightside_job_categories_heading">
-                                    <h4>Book a Temp</h4>
+                                    <h4>Hire a Temp</h4>
                                 </div>
                                 <div class="jp_rightside_job_categories_content">
                                     <ul>
-                                        <li><i class="fa fa-caret-right"></i> <a href="temporary-staffing">Temporary Staffing</a></li>
-                                        <li><i class="fa fa-caret-right"></i> <a href="catering-staff">Catering Staff</a></li>
-                                        <li><i class="fa fa-caret-right"></i> <a href="event-staff">Event Staff</a></li>
-                                        <li><i class="fa fa-caret-right"></i> <a href="warehouse-staff">Warehouse Staff</a></li>
-                                        <li><i class="fa fa-caret-right"></i> <a href="reception-staff">Reception Staff</a></li>
-                                        <li><i class="fa fa-plus-circle"></i> <a href="latest-jobs">View All Jobs</a></li>
+                                        <li><i class="fa fa-caret-right"></i> <a href="service-administrator">Administrative</a></li>
+                                        <li><i class="fa fa-caret-right"></i> <a href="staffing-services/reception-staff">Receptionist</a></li>
+                                        <li><i class="fa fa-caret-right"></i> <a href="personal-assistant">PA</a></li>
+                                        <li><i class="fa fa-caret-right"></i> <a href="kitchen-assistant">Kitchen Assistant</a></li>
+                                        <li><i class="fa fa-caret-right"></i> <a href="grill-chef">Chef/Cook</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="#">KP</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="jobs/general-labourer">General Labourer</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="carpenter-multi-skilled">Multi-Skilled Operative</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="#">Handyman</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="caretaker-bus-driver">Driver</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="staffing-services/warehouse-staff">Warehouse Operative</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="it-support-technician">IT Professional</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="data-entry-operator">Data Entry Staff</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="#">Career</a></li>
+                                        <li><i class="fa fa-plus-circle" style="color: #797979 !important;"></i> <a href="nursery-nurses" style="color: #797979 !important;text-transform: capitalize;font-weight: normal;">Nurse</a></li>
                                     </ul>
                                 </div>
                             </div>

@@ -327,4 +327,15 @@ Route::get('/promotional-staff', function () {
 Route::get('/what-we-do/short-term-staff', function () {
     return view('short-term-staff');
 });
-
+Route::get('/our-approach', function () {
+    return view('our-approach');
+});
+Route::get('/our-statistics', function () {
+    return view('our-statistics');
+});
+Route::get('/our-gurantee', function () {
+    return view('our-gurantee');
+});
+Route::get('/our-clients', function () {
+    return view('our-clients');
+});

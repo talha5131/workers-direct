@@ -222,117 +222,32 @@ Purchase:
 
                                 <ul>
 
-
-
-
-
                                     <li class="gc_main_navigation parent"><a href="about-us " class="gc_main_navigation">About</a></li>
-
-                                    <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation"> What We Do&nbsp;<i class="fa fa-angle-down"></i></a>
-
-                                        <!-- mega menu start -->
-
-                                        <ul>
-
-                                            <li class="parent"><a href="kitchen-assistant">Kitchen Assistant </a></li>
-
-                                            <li class="parent"><a href="hr-assistant">HR Assistant </a></li>
-
-                                            <li class="parent"><a href="data-entry-operator">Data Entry Operator </a></li>
-
-                                            <li class="parent"><a href="cleaners">Cleaners </a></li>
-
-                                            <li class="parent"><a href="virtual-assistant">Virtual Assistant </a></li>
-
-
-
-                                        </ul>
-
-                                    </li>
-
-                                    <!-- <li class="has-mega gc_main_navigation"><a href="services.php" class="gc_main_navigation">  Services&nbsp;<i class="fa fa-angle-down"></i></a>
-
-                                          mega menu start  
-
-                                          <ul>
-
-                                              <li class="gc_main_navigation gc_main_navigation-1 "><a href="#">Staffing Services &nbsp;&nbsp;&nbsp;<i class="fa fa-angle-right"></i></a>
-
-                                              <ul class="float_right">
-
-                                               
-
-                                                  <li class="parent"><a href="#">Temporary Staffing</a></li>
-
-                                                  <li class="parent"><a href="#">Catering Staff</a></li>
-
-                                                  <li class="parent"><a href="#">Temporary Staffing</a></li>
-
-                                                  <li class="parent"><a href="#">Catering Staff</a></li>
-
-                                                  <li class="parent"><a href="#">Temporary Staffing</a></li>
-
-                                                  <li class="parent"><a href="#">Catering Staff</a></li>
-
-                                                  <li class="parent"><a href="#">Temporary Staffing</a></li>
-
-                                                  <li class="parent"><a href="#">Catering Staff</a></li>
-
-                                                  
-
-                                              </ul>
-
-                                          </li>
-
-                                          <li class="parent"><a href="#">Temporary Staffing</a></li>
-
-                                          <li class="parent"><a href="#">Catering Staff</a></li>
-
-                                          <li class="parent"><a href="#">School Staffing</a></li>
-
-                                          <li class="parent"><a href="#">Warehouse Staff</a></li>
-
-                                          <li class="parent"><a href="#">Industrial Staff</a></li>
-
-                                          <li class="parent"><a href="#">Construction Staff</a></li>
-
-                                          <li class="parent"><a href="#">Packing Staff</a></li>
-
-                                          <li class="parent"><a href="#">Reception Staff</a></li>
-
-                                          <li class="parent"><a href="#">Event Staff</a></li>
-
-                                      </ul>
-
-                                  </li> -->
-
-
-
-
-
-                                    <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation">Latest Jobs<i class="fa fa-angle-down"></i></a>
-
-                                        <!-- jobs -->
-
-                                        <ul>
-
-                                            <li class="parent"><a href="listing_left.php ">Listing-Left</a></li>
-
-                                            <li class="parent"><a href="listing_right.php ">Listing-Right</a></li>
-
-                                            <li class="parent"><a href="listing_single.php ">Listing-Single</a></li>
-
-                                        </ul>
-
-                                    </li>
 
                                     <li class="gc_main_navigation parent"><a href="why-us" class="gc_main_navigation">Why Us</a></li>
 
-                                    <li class="has-mega"><a href="#" class="gc_main_navigation"> Services&nbsp;<i class="fa fa-angle-down"></i></a>
+                                    <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation">How We Work<i class="fa fa-angle-down"></i></a>
+
+                                        <ul>
+
+                                            <li class="parent"><a href="#">Our Approach </a></li>
+
+                                            <li class="parent"><a href="#">Our Statistics </a></li>
+
+                                            <li class="parent"><a href="#">Our Guarantee </a></li>
+
+                                            <li class="parent"><a href="#">Our Clients </a></li>
+
+
+                                        </ul>
+
+                                    </li>
+
+                                    <li class="has-mega"><a href="#" class="gc_main_navigation"> Services<i class="fa fa-angle-down"></i></a>
 
                                         <!-- mega menu start -->
 
-                                        <ul class="mega_menu" style="width: 1295px; left: -42%;">
+                                        <ul class="mega_menu" style="width: 1295px; left: -27%;">
 
                                             <li class="services-mega-box">
 
@@ -619,32 +534,52 @@ Purchase:
 
                                     </li>
 
+                                    <li class="gc_main_navigation parent"><a href="employer" class="gc_main_navigation">Looking For Staff?</a></li>
 
-                                    <li class="has-mega gc_main_navigation"><a href="blogs" class="gc_main_navigation"> Blog
-                                            <!-- <i class="fa fa-angle-down"></i> -->
+                                    <li class="gc_main_navigation parent"><a href="job-seeker" class="gc_main_navigation">Looking For Job?</a></li>
+
+                                    <li class="gc_main_navigation parent"><a href="#" class="gc_main_navigation">Jobs</a></li>
+
+                                    <li class="gc_main_navigation parent"><a href="#" class="gc_main_navigation">Locations</a></li>
+
+                                    <li class="gc_main_navigation parent"><a href="#" class="gc_main_navigation">Contact</a></li>
+
+
+                                    <!-- <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation"> What We Do&nbsp;<i class="fa fa-angle-down"></i></a>
+
+                                        <ul>
+
+                                            <li class="parent"><a href="kitchen-assistant">Kitchen Assistant </a></li>
+
+                                            <li class="parent"><a href="hr-assistant">HR Assistant </a></li>
+
+                                            <li class="parent"><a href="data-entry-operator">Data Entry Operator </a></li>
+
+                                            <li class="parent"><a href="cleaners">Cleaners </a></li>
+
+                                            <li class="parent"><a href="virtual-assistant">Virtual Assistant </a></li>
+
+
+
+                                        </ul>
+
+                                    </li> -->
+
+
+
+
+                                    <!-- <li class="has-mega gc_main_navigation"><a href="jobs" class="gc_main_navigation">Latest Jobs
                                         </a>
+                                    </li> -->
 
-                                        <!-- mega menu start -->
 
-                                        <!-- <ul>
+                                    <!-- <li class="has-mega gc_main_navigation"><a href="blogs" class="gc_main_navigation"> Blog
+                                        </a>
+                                    </li> -->
 
-                                            <li class="parent"><a href="blog_left.php ">Blog-Left</a></li>
+                                    <!-- <li class="gc_main_navigation parent"><a href="contact-us " class="gc_main_navigation">Contact</a></li>
 
-                                            <li class="parent"><a href="blog_right.php ">Blog-Right</a></li>
-
-                                            <li class="parent"><a href="blog_single_left.php ">Blog-Single-Left</a></li>
-
-                                            <li class="parent"><a href="blog_single_right.php ">Blog-Single-Right</a></li>
-
-                                        </ul> -->
-
-                                    </li>
-
-                                    <li class="gc_main_navigation parent"><a href="contact-us " class="gc_main_navigation">Contact</a></li>
-
-                                    <!-- <li class="gc_main_navigation parent"><a href="pages-links" class="gc_main_navigation">Pages Links</a></li> -->
-
-                                    <li class="gc_main_navigation parent"><a href="cv-register" class="gc_main_navigation">CV Upload</a></li>
+                                    <li class="gc_main_navigation parent"><a href="cv-register" class="gc_main_navigation">CV Upload</a></li> -->
 
 
 
@@ -718,54 +653,35 @@ Purchase:
 
                                                             <a href="about-us">About Us</a>
 
-                                                            <!-- <ul class="cd-secondary-dropdown is-hidden">
-
-                                                                <li class="go-back"><a href="#0">Menu</a></li>
-
-                                                                <li><a href="{{url('/')}}">Home1</a></li>
-
-                                                                <li><a href="index_II ">Home2</a></li>
-
-                                                                <li><a href="index_map ">Home3</a></li>
-
-                                                                <li><a href="index_iv ">Home4</a></li>
-
-                                                                <li><a href="index_v ">Home5</a></li>
-
-                                                                <li><a href="index_vi ">Home6</a></li>
-
-
-                                                            </ul> -->
-
-                                                            <!-- .cd-secondary-dropdown -->
-
                                                         </li>
+
+                                                        <li><a href="why-us">Why Us</a></li>
 
                                                         <!-- .has-children -->
 
                                                         <li class="has-children">
 
-                                                            <a href="#">What We Do</a>
+                                                            <a href="#">How We Work</a>
 
                                                             <ul class="cd-secondary-dropdown is-hidden">
 
                                                                 <li class="go-back"><a href="#0">Menu</a></li>
 
-                                                                <li class="parent"><a href="kitchen-assistant">Kitchen Assistant </a></li>
+                                                                <li class="parent"><a href="#">Our Approach </a></li>
 
-                                                                <li class="parent"><a href="hr-assistant">HR Assistant </a></li>
+                                                                <li class="parent"><a href="#">Our Statistics </a></li>
 
-                                                                <li class="parent"><a href="data-entry-operator">Data Entry Operator </a></li>
+                                                                <li class="parent"><a href="#">Our Guarantee </a></li>
 
-                                                                <li class="parent"><a href="cleaners">Cleaners </a></li>
+                                                                <li class="parent"><a href="#">Our Clients </a></li>
 
-                                                                <li class="parent"><a href="virtual-assistant">Virtual Assistant </a></li>
-
-                                                                <!-- .has-children -->
 
                                                             </ul>
 
-                                                            <!-- .cd-secondary-dropdown -->
+                                                        </li>
+
+
+                                                        <!-- .cd-secondary-dropdown -->
 
                                                         </li>
 
@@ -802,7 +718,7 @@ Purchase:
 
                                                         <li>
 
-                                                            <a href="jobs">Latest Jobs</a>
+                                                            <a href="employer">Looking For Staff</a>
 
                                                             <!-- <ul class="cd-secondary-dropdown is-hidden">
 
@@ -823,41 +739,11 @@ Purchase:
 
                                                         </li>
 
-                                                        <li>
-
-                                                            <a href="why-us">Why Us </a>
-
-                                                            <!-- <ul class="cd-secondary-dropdown is-hidden">
-
-                                                                <li class="go-back"><a href="#0">Menu</a></li>
-
-                                                                <li><a href="about-us ">About-Us</a></li>
-
-                                                                <li><a href="404-error ">404</a></li>
-
-                                                                <li><a href="submit-a-job ">SUBMIT A JOB</a></li>
-
-                                                                <li><a href="login ">Login</a></li>
-
-                                                                <li><a href="register ">Register</a></li>
-
-                                                                <li><a href="pricing ">Pricing</a></li>
-
-                                                                <li><a href="message ">message</a></li>
-
-                                                                <li><a href="client-review">client reivew</a></li>
-
-                                                            </ul> -->
-
-                                                            <!-- .cd-secondary-dropdown -->
-
-                                                        </li>
-
                                                         <!-- .has-children -->
 
                                                         <li>
 
-                                                            <a href="blogs">Blogs</a>
+                                                            <a href="job-seeker">Looking For Job?</a>
 
                                                             <!-- <ul class="cd-secondary-dropdown is-hidden">
 
@@ -895,13 +781,12 @@ Purchase:
 
                                                         <!-- .has-children -->
 
-                                                        <li>
+                                                        <li><a href="jobs">Jobs</a></li>
 
-                                                            <a href="contact-us ">Contact Us</a>
+                                                        <li><a href="#">Locations</a></li>
 
-                                                        </li>
+                                                        <li><a href="contact-us">Contact</a></li>
 
-                                                        <li><a href="cv-register">CV Upload</a></li>
                                                         <!-- <li>
 
                                                             <a href="register ">Sign Up</a>
@@ -946,7 +831,7 @@ Purchase:
 
                             <ul>
 
-                                <li><a href="submit-a-job "><i class="fa fa-plus-circle"></i> SUBMIT A JOB</a>
+                                <li><a href="cv-register"><i class="fa fa-plus-circle"></i> Get Hired</a>
 
                                 </li>
 
