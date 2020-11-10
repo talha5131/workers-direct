@@ -66,6 +66,195 @@
 
             </div>
 
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40">
+
+                <div class="about_text_wrapper">
+
+                    <div class="section_heading section_2_heading">
+
+                        <h4>FACTS & FIGURES</h4>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-40">
+
+                <div class="about_text_wrapper">
+
+                    <div class="section_heading section_2_heading">
+
+                        <h4>SIGNIFICANT EXPERIENCE</h4>
+
+                        <p>We ensure all our operatvies Must have least 1 - 2 years important Experience.</p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-40">
+
+                <div class="about_text_wrapper">
+
+                    <div class="section_heading section_2_heading">
+
+                        <h4>24/7 AVAILABILITY</h4>
+
+                        <p>Our customer service staff is available 24/7 online and on phone to fill in any urgent vacancy.</p>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-40">
+
+                <div class="about_text_wrapper">
+
+                    <div class="section_heading section_2_heading">
+
+                        <h4>ADAPTABLE AND RELIABLE</h4>
+
+                        <p>Every one of our temps are completely ready to begin on short notice at whatever point required.</p>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-40">
+
+                <div class="about_text_wrapper">
+
+                    <div class="section_heading section_2_heading">
+
+                        <h4>1000+</h4>
+
+                        <p>More than 1,000 job seekers got their expected jobs by Labourer Agency.</p>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-40">
+
+                <div class="about_text_wrapper">
+
+                    <div class="section_heading section_2_heading">
+
+                        <h4>10,000+</h4>
+
+                        <p>Temping Agency has now grown its team to more than 10,000 talented people.</p>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-top-40">
+
+                <div class="about_text_wrapper">
+
+                    <div class="section_heading section_2_heading">
+
+                        <h4>MILLIONS</h4>
+
+                        <p>Since founded, millions of job searchers have been registered with temping agency.</p>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40">
+
+                <div class="about_text_wrapper">
+
+                    <div class="section_heading section_2_heading">
+
+                        <h2>JOB SEARCHER</h2>
+
+                        <p>At Temping Agency, we don’t prioritize our clients as compared to our candidates unlike other recruitment agencies. Our main focus is our candidates and we believe that they’re important and they deserve the best service that we can offer.</p>
+                        <p>We provide the following services to our job seekers:</p>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40">
+
+                <div class="about_text_wrapper">
+
+                    <div class="section_heading section_2_heading">
+
+                        <h4>QUICK TURNAROUND</h4>
+
+                        <p>We won't leave you waiting for a call after you make your application. We will guarantee we hit you up quickly, regardless of the result of your application.</p>
+                       
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40">
+
+                <div class="about_text_wrapper">
+
+                    <div class="section_heading section_2_heading">
+
+                        <h4>CONSISTENT CONTACT</h4>
+
+                        <p>We realize the significance of building a solid and long-lasting relationship with our candidates, which is the reason we will consistently stay in touch with you. We will do this all through the recruitment process and when you start work, just to guarantee you are getting on well. We will consistently attempt to contact you back rapidly with any inquiries you may have.</p>
+                       
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40">
+
+                <div class="about_text_wrapper">
+
+                    <div class="section_heading section_2_heading">
+
+                        <h4>ADVICE AND SUPPORT</h4>
+
+                        <p>The job searching procedure can be very overwhelming, particularly if you don't have a lot of experience in it and we need to make it simpler for you by giving continuous guidance and support. We will offer guidance on your CV and interview skills, to help guarantee you perform as well as possible during interview.</p>
+                       
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-40">
+
+                <div class="about_text_wrapper">
+
+                    <div class="section_heading section_2_heading">
+
+                        <h4>FEEDBACK</h4>
+
+                        <p>There is nothing more awful than going for a job interview and not hearing anything back. It tends to be frustrating and this is the reason we will consistently give you feedback, regardless of the outcome.</p>
+                        <p>We realize how significant it is for your progress and believe it is quite reasonable when you have done the effort of applying and attend interview.</p>
+                        <p>We will talk you through your feedback and offer any help you may need to improve later and for other interviews.</p>
+                       
+                    </div>
+
+                </div>
+
+            </div>
+
+            
+
             
 
 

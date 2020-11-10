@@ -86,6 +86,20 @@
 
             </div>
 
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20 pl-0">
+
+                <div class="about_text_wrapper">
+
+                    <div class="section_heading section_2_heading">
+
+                        <h4>How Temping Agencies Work ?</h4>
+
+                    </div>
+
+                </div>
+
+            </div>
+
 
 
             
