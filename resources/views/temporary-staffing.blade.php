@@ -101,10 +101,10 @@ worker practically.')
                     </p>
                 </div>
                 <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
-                    <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/TEMPORARY STAFFING/temporary-staffing_2.jpg" width="100%" height="200px" alt="">
+                    <img style="height: 300px;" class="image-style-border" src="{{url('public/assets/images/page-pictures/TEMPORARY STAFFING/temporary-staffing_2.jpg')}}" width="100%" height="200px" alt="">
                 </div>
                 <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
-                    <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/TEMPORARY STAFFING/temporary-staffing_4.jpg" width="100%" height="200px" alt="">
+                    <img style="height: 300px;" class="image-style-border" src="{{url('public/assets/images/page-pictures/TEMPORARY STAFFING/temporary-staffing_4.jpg')}}" width="100%" height="200px" alt="">
                 </div>
                 <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
                     <div class="section_heading section_2_heading">
@@ -160,10 +160,10 @@ worker practically.')
                 </div>
 
                 <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
-                    <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/TEMPORARY STAFFING/temporary-staffing_1.jpg" width="100%" height="200px" alt="">
+                    <img style="height: 300px;" class="image-style-border" src="{{url('public/assets/images/page-pictures/TEMPORARY STAFFING/temporary-staffing_1.jpg')}}" width="100%" height="200px" alt="">
                 </div>
                 <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
-                    <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/TEMPORARY STAFFING/temporary-staffing_3.jpg" width="100%" height="200px" alt="">
+                    <img style="height: 300px;" class="image-style-border" src="{{url('public/assets/images/page-pictures/TEMPORARY STAFFING/temporary-staffing_3.jpg')}}" width="100%" height="200px" alt="">
                 </div>
 
                 <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
@@ -695,7 +695,7 @@ worker practically.')
 
                 <div class="jp_down_mob_img_wrapper">
 
-                    <img src="public/assets/images/content/mobail.png" alt="mobail_img" />
+                    <img src="{{url('public/assets/images/content/mobail.png')}}" alt="mobail_img" />
 
                 </div>
 
@@ -727,7 +727,7 @@ worker practically.')
 
                 <div class="jp_down_mob_img_wrapper">
 
-                    <img src="public/assets/images/content/mobail.png" class="img-responsive" alt="mobail_img" />
+                    <img src="{{url('public/assets/images/content/mobail.png')}}" class="img-responsive" alt="mobail_img" />
 
                 </div>
 

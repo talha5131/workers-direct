@@ -100,11 +100,11 @@
 
 
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/SCHOOL STAFFING/SCHOOL_STAFFING_1.jpg" width="100%" height="300px" alt="BUS DRIVER">
+                        <img class="image-style-border" src="{{url('public/assets/images/page-pictures/SCHOOL STAFFING/SCHOOL_STAFFING_1.jpg')}}" width="100%" height="300px" alt="BUS DRIVER">
 
                     </div>
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/SCHOOL STAFFING/SCHOOL_STAFFING_3.png" width="100%" height="300px" alt="BUS DRIVER">
+                        <img class="image-style-border" src="{{url('public/assets/images/page-pictures/SCHOOL STAFFING/SCHOOL_STAFFING_3.png')}}" width="100%" height="300px" alt="BUS DRIVER">
                     </div>
 
 
@@ -137,11 +137,11 @@
 
                     </div>
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/SCHOOL STAFFING/SCHOOL_STAFFING_2.jpeg" width="100%" height="300px" alt="BUS DRIVER">
+                        <img class="image-style-border" src="{{url('public/assets/images/page-pictures/SCHOOL STAFFING/SCHOOL_STAFFING_2.jpeg')}}" width="100%" height="300px" alt="BUS DRIVER">
 
                     </div>
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/SCHOOL STAFFING/SCHOOL_STAFFING_4.jpg" width="100%" height="300px" alt="BUS DRIVER">
+                        <img class="image-style-border" src="{{url('public/assets/images/page-pictures/SCHOOL STAFFING/SCHOOL_STAFFING_4.jpg')}}" width="100%" height="300px" alt="BUS DRIVER">
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
@@ -792,7 +792,7 @@
 
                 <div class="jp_down_mob_img_wrapper">
 
-                    <img src="public/assets/images/content/mobail.png" alt="mobail_img" />
+                    <img src="{{url('public/assets/images/content/mobail.png')}}" alt="mobail_img" />
 
                 </div>
 
@@ -824,7 +824,7 @@
 
                 <div class="jp_down_mob_img_wrapper">
 
-                    <img src="public/assets/images/content/mobail.png" class="img-responsive" alt="mobail_img" />
+                    <img src="{{url('public/assets/images/content/mobail.png')}}" class="img-responsive" alt="mobail_img" />
 
                 </div>
 

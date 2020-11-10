@@ -113,10 +113,10 @@
 
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-30">
-                            <img class="image-style-border" src="public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_2.jpg" width="100%" height="250px" alt="Genral Labourer">
+                            <img class="image-style-border" src="{{url('public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_2.jpg')}}" width="100%" height="250px" alt="Genral Labourer">
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-30">
-                            <img class="image-style-border" src="public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_7.jpg" width="100%" height="250px" alt="Genral Labourer">
+                            <img class="image-style-border" src="{{url('public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_7.jpg')}}" width="100%" height="250px" alt="Genral Labourer">
                         </div>
                     </div>
                     <div class="row margin-top-60">
@@ -138,10 +138,10 @@
                         </div>
 
                         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-30">
-                            <img class="image-style-border" src="public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_3.jpg" width="100%" height="340px" alt="Admin">
+                            <img class="image-style-border" src="{{url('public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_3.jpg')}}" width="100%" height="340px" alt="Admin">
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 margin-top-30">
-                            <img class="image-style-border" src="public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_8.jpg" width="100%" height="340px" alt="Admin">
+                            <img class="image-style-border" src="{{url('public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_8.jpg')}}" width="100%" height="340px" alt="Admin">
                         </div>
 
                     </div>
@@ -170,12 +170,12 @@
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                             <div class="margin-top-50">
-                                <img class="image-style-border" src="public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_6.jpg" width="100%" height="250px" alt="Admin">
+                                <img class="image-style-border" src="{{url('public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_6.jpg')}}" width="100%" height="250px" alt="Admin">
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
                             <div class="margin-top-50">
-                                <img class="image-style-border" src="public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_5.webp" width="100%" height="250px" alt="Admin">
+                                <img class="image-style-border" src="{{url('public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_5.webp')}}" width="100%" height="250px" alt="Admin">
                             </div>
                         </div>
                     </div>
@@ -468,12 +468,12 @@
                     </div>
 
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_1.jpg" width="100%" height="340px" alt="Admin">
+                        <img class="image-style-border" src="{{url('public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_1.jpg')}}" width="100%" height="340px" alt="Admin">
 
                     </div>
 
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-60">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_4.png" width="100%" height="340px" alt="Admin">
+                        <img class="image-style-border" src="{{url('public/assets/images/page-pictures/GENERAL LABOURER/general_labourer_4.png')}}" width="100%" height="340px" alt="Admin">
 
                     </div>
 
@@ -910,7 +910,7 @@
 
                 <div class="jp_down_mob_img_wrapper">
 
-                    <img src="public/assets/images/content/mobail.png" alt="mobail_img" />
+                    <img src="{{url('public/assets/images/content/mobail.png')}}" alt="mobail_img" />
 
                 </div>
 
@@ -942,7 +942,7 @@
 
                 <div class="jp_down_mob_img_wrapper">
 
-                    <img src="public/assets/images/content/mobail.png" class="img-responsive" alt="mobail_img" />
+                    <img src="{{url('public/assets/images/content/mobail.png')}}" class="img-responsive" alt="mobail_img" />
 
                 </div>
 

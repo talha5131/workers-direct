@@ -99,10 +99,10 @@
                     </div>
 
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
-                        <img class="image-style-border" style="height: 300px;" src="public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_1.jpg" width="100%" height="260px" alt="#">
+                        <img class="image-style-border" style="height: 300px;" src="{{url('public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_1.jpg')}}" width="100%" height="260px" alt="#">
                     </div>
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
-                        <img class="image-style-border" style="height: 300px;" src="public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_3.jpg" width="100%" height="260px" alt="#">
+                        <img class="image-style-border" style="height: 300px;" src="{{url('public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_3.jpg')}}" width="100%" height="260px" alt="#">
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
@@ -127,10 +127,10 @@
 
                     </div>
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
-                        <img class="image-style-border" style="height: 300px;" src="public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_2.jpg" width="100%" height="260px" alt="#">
+                        <img class="image-style-border" style="height: 300px;" src="{{url('public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_2.jpg')}}" width="100%" height="260px" alt="#">
                     </div>
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
-                        <img class="image-style-border" style="height: 300px;" src="public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_5.jpg" width="100%" height="260px" alt="#">
+                        <img class="image-style-border" style="height: 300px;" src="{{url('public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_5.jpg')}}" width="100%" height="260px" alt="#">
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
@@ -746,7 +746,7 @@
 
                 <div class="jp_down_mob_img_wrapper">
 
-                    <img src="public/assets/images/content/mobail.png" alt="mobail_img" />
+                    <img src="{{url('public/assets/images/content/mobail.png')}}" alt="mobail_img" />
 
                 </div>
 
@@ -778,7 +778,7 @@
 
                 <div class="jp_down_mob_img_wrapper">
 
-                    <img src="public/assets/images/content/mobail.png" class="img-responsive" alt="mobail_img" />
+                    <img src="{{url('public/assets/images/content/mobail.png')}}" class="img-responsive" alt="mobail_img" />
 
                 </div>
 

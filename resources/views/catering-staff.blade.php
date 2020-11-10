@@ -122,10 +122,10 @@ that the staff member will be the right fit')
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
-                    <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/Catering Staff/catering_staff_5.jpg" width="100%" height="200px" alt="">
+                    <img style="height: 300px;" class="image-style-border" src="{{url('public/assets/images/page-pictures/Catering Staff/catering_staff_5.jpg')}}" width="100%" height="200px" alt="">
                 </div>
                 <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
-                    <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/Catering Staff/catering_staff_4.jpg" width="100%" height="200px" alt="">
+                    <img style="height: 300px;" class="image-style-border" src="{{url('public/assets/images/page-pictures/Catering Staff/catering_staff_4.jpg')}}" width="100%" height="200px" alt="">
                 </div>
                 <div class="box">
                     <div class="grid-box" style="padding-left: 0px;">
@@ -171,10 +171,10 @@ that the staff member will be the right fit')
                         <p>Do you need an extra pair of hands? Kitchen support staff such as porters are a vital component in ensuring that you have a smoothly running kitchen. Our catering recruitment specialists will make sure that your kitchen is never shorthanded. If someone is away on holiday or perhaps ill, a temporary Kitchen assistant could be the perfect solution to fill the gap. Let us take away the stress of unexpected or ill-timed absence by providing you with that extra bit of help.</p>
                     </div>
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
-                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/Catering Staff/catering_staff_2.jpg" width="100%" height="200px" alt="">
+                        <img style="height: 300px;" class="image-style-border" src="{{url('public/assets/images/page-pictures/Catering Staff/catering_staff_2.jpg')}}" width="100%" height="200px" alt="">
                     </div>
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
-                        <img style="height: 300px;" class="image-style-border" src="public/assets/images/page-pictures/Catering Staff/catering_staff_1.png" width="100%" height="200px" alt="">
+                        <img style="height: 300px;" class="image-style-border" src="{{url('public/assets/images/page-pictures/Catering Staff/catering_staff_1.png')}}" width="100%" height="200px" alt="">
                     </div>
                     <!-- ----------- -->
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
@@ -1115,7 +1115,7 @@ that the staff member will be the right fit')
 
                 <div class="jp_down_mob_img_wrapper">
 
-                    <img src="public/assets/images/content/mobail.png" alt="mobail_img" />
+                    <img src="{{url('public/assets/images/content/mobail.png')}}" alt="mobail_img" />
 
                 </div>
 
@@ -1147,7 +1147,7 @@ that the staff member will be the right fit')
 
                 <div class="jp_down_mob_img_wrapper">
 
-                    <img src="public/assets/images/content/mobail.png" class="img-responsive" alt="mobail_img" />
+                    <img src="{{url('public/assets/images/content/mobail.png')}}" class="img-responsive" alt="mobail_img" />
 
                 </div>
 

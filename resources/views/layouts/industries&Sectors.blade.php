@@ -27,7 +27,7 @@
                                     </ul>
                                 </div>
                                 <div class="grid-box-1">
-                                    <div class="img-section"> <img src="public/assets/images/content/hospitality-&-catering-workers-direct.jpg" alt="Admin">
+                                    <div class="img-section"> <img src="{{url('public/assets/images/content/hospitality-&-catering-workers-direct.jpg')}}" alt="Admin">
                                         <div class="middle">
                                             <!-- <i class="green fa fa-plus-circle"></i>  -->
                                         </div>
@@ -51,7 +51,7 @@
                                     </ul>
                                 </div>
                                 <div class="grid-box-1">
-                                    <div class="img-section"> <img src="public/assets/images/content/admin-&-reception-workers-direct.jpg" alt="Admin">
+                                    <div class="img-section"> <img src="{{url('public/assets/images/content/admin-&-reception-workers-direct.jpg')}}" alt="Admin">
                                         <div class="middle">
                                             <!-- <i class="fa fa-plus-circle"></i> -->
                                         </div>
@@ -74,7 +74,7 @@
                                     </ul>
                                 </div>
                                 <div class="grid-box-1">
-                                    <div class="img-section"> <img src="public/assets/images/content/school-&-academics-workers-direct.jpg" alt="Admin">
+                                    <div class="img-section"> <img src="{{url('public/assets/images/content/school-&-academics-workers-direct.jpg')}}" alt="Admin">
                                         <div class="middle">
                                             <!-- <i class="fa fa-plus-circle"></i>  -->
                                         </div>
@@ -97,7 +97,7 @@
                                     </ul>
                                 </div>
                                 <div class="grid-box-1">
-                                    <div class="img-section"> <img src="public/assets/images/content/health-&-social-care-workers-direct.jpg" alt="Admin">
+                                    <div class="img-section"> <img src="{{url('public/assets/images/content/health-&-social-care-workers-direct.jpg')}}" alt="Admin">
                                         <div class="middle">
                                             <!-- <i class="green fa fa-plus-circle"></i>  -->
                                         </div>
@@ -124,7 +124,7 @@
                                     </ul>
                                 </div>
                                 <div class="grid-box-1">
-                                    <div class="img-section"> <img src="public/assets/images/content/trade-&-construction-workers-direct.jpg" alt="Admin">
+                                    <div class="img-section"> <img src="{{url('public/assets/images/content/trade-&-construction-workers-direct.jpg')}}" alt="Admin">
                                         <div class="middle">
                                             <!-- <i class="green fa fa-plus-circle"></i>  -->
                                         </div>
@@ -147,7 +147,7 @@
                                     </ul>
                                 </div>
                                 <div class="grid-box-1">
-                                    <div class="img-section"> <img src="public/assets/images/content/warehouse-&-logistics-workers-direct.jpg" alt="Admin">
+                                    <div class="img-section"> <img src="{{url('public/assets/images/content/warehouse-&-logistics-workers-direct.jpg')}}" alt="Admin">
                                         <div class="middle">
                                             <!-- <i class="fa fa-plus-circle"></i>  -->
                                         </div>
@@ -170,7 +170,7 @@
                                     </ul>
                                 </div>
                                 <div class="grid-box-1">
-                                    <div class="img-section"> <img src="public/assets/images/content/it-&-technology-workers-direct.jpg" alt="Admin">
+                                    <div class="img-section"> <img src="{{url('public/assets/images/content/it-&-technology-workers-direct.jpg')}}" alt="Admin">
                                         <div class="middle">
                                             <!-- <i class="fa fa-plus-circle"></i>  -->
                                         </div>
@@ -193,7 +193,7 @@
                                     </ul>
                                 </div>
                                 <div class="grid-box-1">
-                                    <div class="img-section"> <img src="public/assets/images/content/virtual-&-remote-employees-workers-direct.jpg" alt="Admin">
+                                    <div class="img-section"> <img src="{{url('public/assets/images/content/virtual-&-remote-employees-workers-direct.jpg')}}" alt="Admin">
                                         <div class="middle">
                                             <!-- <i class="fa fa-plus-circle"></i>  -->
                                         </div>

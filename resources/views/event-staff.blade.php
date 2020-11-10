@@ -95,10 +95,10 @@ There are many event staff agencies offering services to the clients across the 
 
                     </div>
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-40 pl-0">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/EVENT STAFF/event_staff_2.jpg" width="100%" height="250px" alt="Event Staff">
+                        <img class="image-style-border" src="{{url('public/assets/images/page-pictures/EVENT STAFF/event_staff_2.jpg')}}" width="100%" height="250px" alt="Event Staff">
                     </div>
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-40">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/EVENT STAFF/event_staff_4.jpg" width="100%" height="250px" alt="Event Staff">
+                        <img class="image-style-border" src="{{url('public/assets/images/page-pictures/EVENT STAFF/event_staff_4.jpg')}}" width="100%" height="250px" alt="Event Staff">
                     </div>
                     <div class="col-md-12 col-sm-12 pl-0">
                         <div class="section_heading section_2_heading margin-top-40">
@@ -616,7 +616,7 @@ There are many event staff agencies offering services to the clients across the 
 
                 <div class="jp_down_mob_img_wrapper">
 
-                    <img src="public/assets/images/content/mobail.png" alt="mobail_img" />
+                    <img src="{{url('public/assets/images/content/mobail.png')}}" alt="mobail_img" />
 
                 </div>
 
@@ -648,7 +648,7 @@ There are many event staff agencies offering services to the clients across the 
 
                 <div class="jp_down_mob_img_wrapper">
 
-                    <img src="public/assets/images/content/mobail.png" class="img-responsive" alt="mobail_img" />
+                    <img src="{{url('public/assets/images/content/mobail.png')}}" class="img-responsive" alt="mobail_img" />
 
                 </div>
 

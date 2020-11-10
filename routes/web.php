@@ -28,7 +28,7 @@ Route::get('/employer', function () {
 Route::get('/why-us', function () {
     return view('why-us');
 });
-Route::get('/terms-&-conditions', function () {
+Route::get('/terms-conditions', function () {
     return view('terms-&-conditions');
 });
 Route::get('/submit-a-job', 'JobController@Postajob');
@@ -129,7 +129,7 @@ Route::get('/cleaners', function () {
 Route::get('/staffing-services/event-staff', function () {
     return view('event-staff');
 });
-Route::get('/workers-direct-the-best-temping-agency-in-london', function () {
+Route::get('/temp-agency-london', function () {
     return view('best-temping-london');
 });
 Route::get('/kitchen-porter', function () {
@@ -144,10 +144,10 @@ Route::get('/staffing-services/warehouse-staff', function () {
 Route::get('/staffing-services/reception-staff', function () {
     return view('reception-staff');
 });
-Route::get('/general-labourer', function () {
+Route::get('/jobs/general-labourer', function () {
     return view('general-labourer');
 });
-Route::get('/telesales-executive', function () {
+Route::get('/latest-jobs/telesales-executive', function () {
     return view('telesales-executive');
 });
 Route::get('/picker-packer', function () {
@@ -162,7 +162,7 @@ Route::get('/it-support-technician', function () {
 Route::get('/cpcs-forklift-driver', function () {
     return view('forklift-driver');
 });
-Route::get('/packing-staff', function () {
+Route::get('/staffing-services/packing-staff', function () {
     return view('packing-staff');
 });
 Route::get('/temp-jobs-london', function () {
