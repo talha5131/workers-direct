@@ -76,7 +76,7 @@ Purchase:
 
     <!-- favicon links -->
 
-    <link rel="icon" href="public/assets/images/header/favicon.gif" />
+    <link rel="icon" href="{{url('public/assets/images/header/favicon.gif')}}" />
 
     <style>
         .jp_navi_right_btn_wrapper li:last-child a:hover {

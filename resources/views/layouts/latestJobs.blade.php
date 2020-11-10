@@ -24,7 +24,7 @@
 
                                     <div class="jp_career_img_wrapper">
 
-                                        <img src="public/assets/images/content/job-seeker-workers-direct.jpg" alt="career_img" />
+                                        <img src="{{url('public/assets/images/content/job-seeker-workers-direct.jpg')}}" alt="career_img" />
 
                                     </div>
 
@@ -60,7 +60,7 @@
 
                                     <div class="jp_career_img_wrapper">
 
-                                        <img src="public/assets/images/content/job-seeker-workers-direct.jpg" alt="career_img" />
+                                        <img src="{{url('public/assets/images/content/job-seeker-workers-direct.jpg')}}" alt="career_img" />
 
                                     </div>
 
@@ -96,7 +96,7 @@
 
                                     <div class="jp_career_img_wrapper">
 
-                                        <img src="public/assets/images/content/job-seeker-workers-direct.jpg" alt="career_img" />
+                                        <img src="{{url('public/assets/images/content/job-seeker-workers-direct.jpg')}}" alt="career_img" />
 
                                     </div>
 

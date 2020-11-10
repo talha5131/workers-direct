@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="public/assets/css/richtext.min.css">
+<link rel="stylesheet" href="{{url('public/assets/css/richtext.min.css')}}">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
 <style>
@@ -482,7 +482,7 @@
 
                 </div>
                 <div style="text-align:center; " class="col-md-4 margin-top-100">
-                    <a href="http://localhost/workers-direct"><img src="public/assets/images/header/animated-logo-dark.png" alt="Logo" title="Workers Direct" class="img-responsive" style="cursor: default; margin-left: 94px;"></a>
+                    <a href="http://localhost/workers-direct"><img src="{{url('public/assets/images/header/animated-logo-dark.png')}}" alt="Logo" title="Workers Direct" class="img-responsive" style="cursor: default; margin-left: 94px;"></a>
 
                     <p>Temping Agency is a privately owned recruitment agency based in Central London, W1 area and Established as part of the Workers Direct Group in 2010, TA has delivered excellent recruitment and employment services to clients in a variety of industries.
                     </p>
