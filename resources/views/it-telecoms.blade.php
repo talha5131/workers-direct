@@ -1,7 +1,7 @@
 @extends('layouts.base')
-@section('title','Staffing Services - Workers Direct the Best Staffing Services Agency')
-@section('keywords','staffing,service')
-@section('description','Workers Direct have been recruiting and organising Pickers and Packing Staff to assist local businesses and companies from many years. We ensure that our candidates are as observant and tenacious as we are!')
+@section('title','IT Telecoms - Workers Direct')
+@section('keywords','it,telecoms')
+@section('description','')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -33,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h1>Staffing Services</h1>
+                        <h1>IT Telecoms</h1>
 
                     </div>
 
@@ -44,7 +44,7 @@
                             <ul>
 
                                 <li><a href="{{url('/')}}">Home</a> <i class="fa fa-angle-right"></i></li>
-                                <li>Staffing Services</li>
+                                <li>IT Telecoms</li>
 
                             </ul>
 
@@ -78,7 +78,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h2>Staffing<span> Services</span></h2>
+                        <h2>It Telecoms</h2>
 
                     </div>
 
@@ -88,80 +88,7 @@
 
 
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
-
-                <div class="about_text_wrapper row">
-
-                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
-                        <h4 class="margin-bottom-20">Warehouse Staff</h4>
-                        <img class="image-style-border margin-top-20" style="height: 300px;" src="{{url('public/assets/images/page-pictures/WAREHOUSE STAFF/warehouse_staff_4.jpg')}}" width="100%" height="260px" alt="#">
-                        
-                        <p style="margin: 0;"> Does your warehouse need more staff to meet a seasonal demand? Is a member of your warehouse team on leave?.. <a href="staffing-services/warehouse-staff" style="color: #7CC24D;"><strong>Read More</strong></a></p>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
-                        <h4 class="margin-bottom-20">Catering Staff</h4>
-                        <img class="image-style-border margin-top-20" style="height: 300px;" src="{{url('public/assets/images/page-pictures/Catering Staff/catering_staff_4.jpg')}}" width="100%" height="260px" alt="#">
-                        <p style="margin: 0;">Workers Direct as one of the leading catering agency have a database of professional, fully trained and security screened.. <a href="staffing-services/catering-staff" style="color: #7CC24D;"><strong>Read More</strong></a></p>
-
-                    </div>
-
-                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
-                        <h4 class="margin-bottom-20">Reception Staff</h4>
-                        <img class="image-style-border margin-top-20" style="height: 300px;" src="{{url('public/assets/images/page-pictures/RECEPTION STAFF/reception_staff_3.jpg')}}" width="100%" height="260px" alt="#">
-                        
-                        <p style="margin: 0;">We have highly experienced Receptionist from office receptionist to a front of house staff quick.. <a href="staffing-services/reception-staff" style="color: #7CC24D;"><strong>Read More</strong></a></p>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
-                        <h4 class="margin-bottom-20">Temporary Staffing</h4>
-                        <img class="image-style-border margin-top-20" style="height: 300px;" src="{{url('public/assets/images/page-pictures/TEMPORARY STAFFING/temporary-staffing_2.jpg')}}" width="100%" height="260px" alt="#">
-                        <p style="margin: 0;">Workers Direct is the one-stop resource for all your temporary staffing needs. In today’s economy, temporary staffing.. <a href="staffing-services/temporary-staffing" style="color: #7CC24D;"><strong>Read More</strong></a></p>
-
-                    </div>
-
-                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
-                        <h4 class="margin-bottom-20">Event Staff</h4>
-                        <img class="image-style-border margin-top-20" style="height: 300px;" src="{{url('public/assets/images/page-pictures/EVENT STAFF/event_staff_2.jpg')}}" width="100%" height="260px" alt="#">
-                        
-                        <p style="margin: 0;">Event staffing in London are not very hard to find. There is an abundance of Event Helpers, waiting.. <a href="staffing-services/event-staff" style="color: #7CC24D;"><strong>Read More</strong></a></p>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
-                        <h4 class="margin-bottom-20">Admin Staff</h4>
-                        <img class="image-style-border margin-top-20" style="height: 300px;" src="{{url('public/assets/images/page-pictures/admin staff/admin_staff_2.jpg')}}" width="100%" height="260px" alt="#">
-                        <p style="margin: 0;">The team at Workers Direct specialists in matching talented office and support candidates with.. <a href="staffing-services/admin-staff" style="color: #7CC24D;"><strong>Read More</strong></a></p>
-
-                    </div>
-
-                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
-                        <h4 class="margin-bottom-20">School Staffing</h4>
-                        <img class="image-style-border margin-top-20" style="height: 300px;" src="{{url('public/assets/images/page-pictures/SCHOOL STAFFING/SCHOOL_STAFFING_1.jpg')}}" width="100%" height="260px" alt="#">
-                        
-                        <p style="margin: 0;">Teachers and staff can have the most profound and positive effect upon a child’s early years, and Workers Direct.. <a href="staffing-services/school-staffing" style="color: #7CC24D;"><strong>Read More</strong></a></p>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
-                        <h4 class="margin-bottom-20">Construction Staff</h4>
-                        <img class="image-style-border margin-top-20" style="height: 300px;" src="{{url('public/assets/images/page-pictures/CONSTRUCTION STAFF/construction_staff_2.jpg')}}" width="100%" height="260px" alt="#">
-                        <p style="margin: 0;">The role of construction agencies during the pandemic should, therefore, be to encourage their clients.. <a href="staffing-services/construction-staff" style="color: #7CC24D;"><strong>Read More</strong></a></p>
-
-                    </div>
-
-                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
-                        <h4 class="margin-bottom-20">Healthcare Staff</h4>
-                        <img class="image-style-border margin-top-20" style="height: 300px;" src="{{url('public/assets/images/page-pictures/HEALTHCARE STAFF/healthcare_staff_1.jpg')}}" width="100%" height="260px" alt="#">
-                        
-                        <p style="margin: 0;">At Workers Direct our recruitment team for the healthcare sector can find you permanent.. <a href="staffing-services/healthcare-staff" style="color: #7CC24D;"><strong>Read More</strong></a></p>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
-                        <h4 class="margin-bottom-20">Packing Staff</h4>
-                        <img class="image-style-border margin-top-20" style="height: 300px;" src="{{url('public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_1.jpg')}}" width="100%" height="260px" alt="#">
-                        <p style="margin: 0;">Workers Direct have been recruiting and organising Pickers and Packing Staff to assist local businesses.. <a href="staffing-services/packing-staff" style="color: #7CC24D;"><strong>Read More</strong></a></p>
-
-                    </div>
-
-
-
-                </div>
-
-            </div>
+            
 
             <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 ">
 

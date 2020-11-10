@@ -1,7 +1,7 @@
 @extends('layouts.base')
 @section('title','Temping Agencies - Workers Direct the Best Temping Agency')
 @section('keywords','temping,agency')
-@section('description','Workers Direct have been recruiting and organising Pickers and Packing Staff to assist local businesses and companies from many years. We ensure that our candidates are as observant and tenacious as we are!')
+@section('description','')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
