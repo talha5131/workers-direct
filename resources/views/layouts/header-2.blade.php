@@ -126,9 +126,9 @@ Purchase:
 
                             <ul>
 
-                                <li><a href="employer "><i class="fa fa-sitemap"></i>&nbsp; Employer</a></li>
+                                <li><a href="{{url('employer')}}"><i class="fa fa-sitemap"></i>&nbsp; Employer</a></li>
 
-                                <li><a href="job-seeker "><i class="fa fa-graduation-cap"></i>&nbsp; Job Seeker</a></li>
+                                <li><a href="{{url('job-seeker')}}"><i class="fa fa-graduation-cap"></i>&nbsp; Job Seeker</a></li>
 
                             </ul>
 
@@ -164,9 +164,9 @@ Purchase:
 
                             <ul>
 
-                                <li><a href="register "><i class="fa fa-user"></i>&nbsp; SIGN UP</a></li>
+                                <li><a href="{{url('register')}}"><i class="fa fa-user"></i>&nbsp; SIGN UP</a></li>
 
-                                <li><a href="login "><i class="fa fa-sign-in"></i>&nbsp; LOGIN</a></li>
+                                <li><a href="{{url('login')}}"><i class="fa fa-sign-in"></i>&nbsp; LOGIN</a></li>
 
                             </ul>
 
@@ -219,22 +219,21 @@ Purchase:
                             <div class="mainmenu">
 
 
-
                                 <ul>
 
-                                    <li class="gc_main_navigation parent"><a href="about-us " class="gc_main_navigation">About</a></li>
+                                    <li class="gc_main_navigation parent"><a href="{{url('about-us')}}" class="gc_main_navigation">About</a></li>
 
-                                    <li class="gc_main_navigation parent"><a href="why-us" class="gc_main_navigation">Why Us</a></li>
+                                    <li class="gc_main_navigation parent"><a href="{{url('why-us')}}" class="gc_main_navigation">Why Us</a></li>
 
-                                    <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation">How We Work<i class="fa fa-angle-down"></i></a>
+                                    <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation">How We Work <i class="fa fa-angle-down"></i></a>
 
                                         <ul>
 
-                                            <li class="parent"><a href="#">Our Approach </a></li>
+                                            <li class="parent"><a href="{{url('our-approach')}}">Our Approach </a></li>
 
-                                            <li class="parent"><a href="#">Our Statistics </a></li>
+                                            <li class="parent"><a href="{{url('our-statistics')}}">Our Statistics </a></li>
 
-                                            <li class="parent"><a href="#">Our Guarantee </a></li>
+                                            <li class="parent"><a href="{{url('our-gurantee')}}">Our Guarantee </a></li>
 
                                             <li class="parent"><a href="#">Our Clients </a></li>
 
@@ -243,7 +242,7 @@ Purchase:
 
                                     </li>
 
-                                    <li class="has-mega"><a href="#" class="gc_main_navigation"> Services<i class="fa fa-angle-down"></i></a>
+                                    <li class="has-mega"><a href="#" class="gc_main_navigation"> Services <i class="fa fa-angle-down"></i></a>
 
                                         <!-- mega menu start -->
 
@@ -256,7 +255,7 @@ Purchase:
                                                     <div class="col-lg-2 col-md-2">
 
                                                         <div class="list-item-service widthFull">
-                                                            <i class="green fa fa-plus-circle"></i> <a href="temporary-staffing">Staffing </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('staffing-services/temporary-staffing')}}">Staffing </a>
                                                         </div>
 
                                                         <div>
@@ -265,7 +264,7 @@ Purchase:
 
                                                         <div class="list-item-service widthFull">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="temp-jobs-london">Hire Temp </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('temp-jobs-london')}}">Hire Temp </a>
 
                                                         </div>
 
@@ -309,7 +308,7 @@ Purchase:
 
                                                         <div class="list-item-service widthFull">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="catering-staff">Catering </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('staffing-services/catering-staff')}}">Catering </a>
 
                                                         </div>
 
@@ -319,7 +318,7 @@ Purchase:
 
                                                         <div class="list-item-service widthFull">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="hospitality-staff">Hospitality </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('hospitality-staff')}}">Hospitality </a>
 
                                                         </div>
 
@@ -329,7 +328,7 @@ Purchase:
 
                                                         <div class="list-item-service widthFull">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="healthcare-staff">Healthcare </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('staffing-services/healthcare-staff')}}">Healthcare </a>
 
                                                         </div>
 
@@ -363,7 +362,7 @@ Purchase:
 
                                                         <div class="list-item-service widthFull">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="school-staffing">Academics </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('staffing-services/school-staffing')}}">Academics </a>
 
                                                         </div>
 
@@ -373,7 +372,7 @@ Purchase:
 
                                                         <div class="list-item-service widthFull">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="reception-staff">Receptionist </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('staffing-services/reception-staff')}}">Receptionist </a>
 
                                                         </div>
 
@@ -383,7 +382,7 @@ Purchase:
 
                                                         <div class="list-item-service widthFull">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="personal-assistant">PA </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('personal-assistant')}}">PA </a>
 
                                                         </div>
 
@@ -417,7 +416,7 @@ Purchase:
 
                                                         <div class="list-item-service widthFull">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="construction-staff">Construction </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('staffing-services/construction-staff')}}">Construction </a>
 
                                                         </div>
 
@@ -427,7 +426,7 @@ Purchase:
 
                                                         <div class="list-item-service widthFull">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="event-staff">Events </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('staffing-services/event-staff')}}">Events </a>
 
                                                         </div>
 
@@ -437,7 +436,7 @@ Purchase:
 
                                                         <div class="list-item-service widthFull">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="industrial-staff">Industrial </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('industrial-staff')}}">Industrial </a>
 
                                                         </div>
 
@@ -471,7 +470,7 @@ Purchase:
 
                                                         <div class="list-item-service widthFull">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="warehouse-staff">Warehouse </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('staffing-services/warehouse-staff')}}">Warehouse </a>
 
                                                         </div>
 
@@ -481,7 +480,7 @@ Purchase:
 
                                                         <div class="list-item-service widthFull">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="picker-packer">Packers </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('picker-packer')}}">Packers </a>
 
                                                         </div>
 
@@ -491,7 +490,7 @@ Purchase:
 
                                                         <div class="list-item-service widthFull">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="van-drivers">Drivers </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('van-drivers')}}">Drivers </a>
 
                                                         </div>
 
@@ -522,7 +521,7 @@ Purchase:
                                                     </div>
 
                                                     <div class="col-lg-2 col-md-2">
-                                                        <img class="img-responsive margin-top-40" src="{{asset('public/assets/images/page-pictures/CSCS PAINTER/cscs_painter_4.jpg')}}" alt="about-img" style="cursor: default; width: 100%; height: 380px;">
+                                                        <img class="img-responsive margin-top-40" src="{{asset('public/assets/images/content/header-image.jpeg')}}" alt="about-img" style="cursor: default; width: 100%; height: 380px;">
 
                                                     </div>
 
@@ -534,54 +533,15 @@ Purchase:
 
                                     </li>
 
-                                    <li class="gc_main_navigation parent"><a href="employer" class="gc_main_navigation">Looking For Staff?</a></li>
+                                    <li class="gc_main_navigation parent"><a href="{{url('employer')}}" class="gc_main_navigation">Looking For Staff?</a></li>
 
-                                    <li class="gc_main_navigation parent"><a href="job-seeker" class="gc_main_navigation">Looking For Job?</a></li>
+                                    <li class="gc_main_navigation parent"><a href="{{url('job-seeker')}}" class="gc_main_navigation">Looking For Job?</a></li>
 
                                     <li class="gc_main_navigation parent"><a href="#" class="gc_main_navigation">Jobs</a></li>
 
-                                    <li class="gc_main_navigation parent"><a href="#" class="gc_main_navigation">Locations</a></li>
+                                    <li class="gc_main_navigation parent"><a href="{{url('location')}}" class="gc_main_navigation">Locations</a></li>
 
-                                    <li class="gc_main_navigation parent"><a href="contact-us" class="gc_main_navigation">Contact</a></li>
-
-
-                                    <!-- <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation"> What We Do&nbsp;<i class="fa fa-angle-down"></i></a>
-
-                                        <ul>
-
-                                            <li class="parent"><a href="kitchen-assistant">Kitchen Assistant </a></li>
-
-                                            <li class="parent"><a href="hr-assistant">HR Assistant </a></li>
-
-                                            <li class="parent"><a href="data-entry-operator">Data Entry Operator </a></li>
-
-                                            <li class="parent"><a href="cleaners">Cleaners </a></li>
-
-                                            <li class="parent"><a href="virtual-assistant">Virtual Assistant </a></li>
-
-
-
-                                        </ul>
-
-                                    </li> -->
-
-
-
-
-                                    <!-- <li class="has-mega gc_main_navigation"><a href="jobs" class="gc_main_navigation">Latest Jobs
-                                        </a>
-                                    </li> -->
-
-
-                                    <!-- <li class="has-mega gc_main_navigation"><a href="blogs" class="gc_main_navigation"> Blog
-                                        </a>
-                                    </li> -->
-
-                                    <!-- <li class="gc_main_navigation parent"><a href="contact-us " class="gc_main_navigation">Contact</a></li>
-
-                                    <li class="gc_main_navigation parent"><a href="cv-register" class="gc_main_navigation">CV Upload</a></li> -->
-
-
+                                    <li class="gc_main_navigation parent"><a href="{{url('contact-us')}}" class="gc_main_navigation">Contact</a></li>
 
                                 </ul>
 
@@ -651,11 +611,11 @@ Purchase:
 
                                                         <li>
 
-                                                            <a href="about-us">About Us</a>
+                                                            <a href="{{url('about-us')}}">About Us</a>
 
                                                         </li>
 
-                                                        <li><a href="why-us">Why Us</a></li>
+                                                        <li><a href="{{url('why-us')}}">Why Us</a></li>
 
                                                         <!-- .has-children -->
 
@@ -667,11 +627,11 @@ Purchase:
 
                                                                 <li class="go-back"><a href="#0">Menu</a></li>
 
-                                                                <li class="parent"><a href="#">Our Approach </a></li>
+                                                                <li class="parent"><a href="{{url('our-approach')}}">Our Approach </a></li>
 
-                                                                <li class="parent"><a href="#">Our Statistics </a></li>
+                                                                <li class="parent"><a href="{{url('our-statistics')}}">Our Statistics </a></li>
 
-                                                                <li class="parent"><a href="#">Our Guarantee </a></li>
+                                                                <li class="parent"><a href="{{url('our-gurantee')}}">Our Guarantee </a></li>
 
                                                                 <li class="parent"><a href="#">Our Clients </a></li>
 
@@ -693,20 +653,20 @@ Purchase:
 
                                                                 <li class="go-back"><a href="#0">Menu</a></li>
 
-                                                                <li><a href="temporary-staffing">Staffing </a></li>
-                                                                <li><a href="temp-jobs-london">Hire Temp </a></li>
-                                                                <li><a href="admin-staff">Admin </a></li>
-                                                                <li><a href="catering-staff">Catering </a></li>
-                                                                <li><a href="hospitality-staff">Hospitality </a></li>
-                                                                <li><a href="school-staffing">Academics </a></li>
-                                                                <li><a href="reception-staff">Receptionist </a></li>
-                                                                <li><a href="personal-assistant">PA </a></li>
-                                                                <li><a href="construction-staff">Construction </a></li>
-                                                                <li><a href="event-staff">Events </a></li>
-                                                                <li><a href="industrial-staff">Industrial </a></li>
-                                                                <li><a href="warehouse-staff">Warehouse </a></li>
-                                                                <li><a href="picker-packer">Packers </a></li>
-                                                                <li><a href="van-drivers">Drivers </a></li>
+                                                                <li><a href="{{url('staffing-services')}}">Staffing </a></li>
+                                                                <li><a href="{{url('staffing-services/temporary-staffing')}}">Hire Temp </a></li>
+                                                                <li><a href="{{url('staffing-services/admin-staff')}}">Admin </a></li>
+                                                                <li><a href="{{url('staffing-services/catering-staff')}}">Catering </a></li>
+                                                                <li><a href="{{url('hospitality-staff')}}">Hospitality </a></li>
+                                                                <li><a href="{{url('staffing-services/school-staffing')}}">Academics </a></li>
+                                                                <li><a href="{{url('staffing-services/reception-staff')}}">Receptionist </a></li>
+                                                                <li><a href="{{url('personal-assistant')}}">PA </a></li>
+                                                                <li><a href="{{url('staffing-services/construction-staff')}}">Construction </a></li>
+                                                                <li><a href="{{url('staffing-services/event-staff')}}">Events </a></li>
+                                                                <li><a href="{{url('industrial-staff')}}">Industrial </a></li>
+                                                                <li><a href="{{url('staffing-services/warehouse-staff')}}">Warehouse </a></li>
+                                                                <li><a href="{{url('picker-packer')}}">Packers </a></li>
+                                                                <li><a href="{{url('van-drivers')}}">Drivers </a></li>
 
                                                             </ul>
 
@@ -718,22 +678,8 @@ Purchase:
 
                                                         <li>
 
-                                                            <a href="employer">Looking For Staff</a>
+                                                            <a href="{{url('employer')}}">Looking For Staff</a>
 
-                                                            <!-- <ul class="cd-secondary-dropdown is-hidden">
-
-                                                                <li class="go-back"><a href="#0">Menu</a></li>
-
-                                                                <li><a href="company_listing.php ">Company-Listing</a></li>
-
-                                                                <li><a href="company_listing_single.php ">Company-Single</a></li>
-
-                                                                <li><a href="candidate_listing.php ">candidate-Listing</a></li>
-
-                                                                <li><a href="candidate_profile.php ">candidate-Profile</a></li>
-
-
-                                                            </ul> -->
 
                                                             <!-- .cd-secondary-dropdown -->
 
@@ -743,7 +689,7 @@ Purchase:
 
                                                         <li>
 
-                                                            <a href="job-seeker">Looking For Job?</a>
+                                                            <a href="{{url('job-seeker')}}">Looking For Job?</a>
 
                                                             <!-- <ul class="cd-secondary-dropdown is-hidden">
 
@@ -781,11 +727,11 @@ Purchase:
 
                                                         <!-- .has-children -->
 
-                                                        <li><a href="jobs">Jobs</a></li>
+                                                        <li><a href="{{url('jobs')}}">Jobs</a></li>
 
-                                                        <li><a href="#">Locations</a></li>
+                                                        <li><a href="{{url('location')}}">Locations</a></li>
 
-                                                        <li><a href="contact-us">Contact</a></li>
+                                                        <li><a href="{{url('contact-us')}}">Contact</a></li>
 
                                                         <!-- <li>
 
@@ -831,7 +777,7 @@ Purchase:
 
                             <ul>
 
-                                <li><a href="cv-register"><i class="fa fa-plus-circle"></i> Get Hired</a>
+                                <li><a href="submit-a-job"><i class="white fa fa-plus-circle"></i> Order Staff</a>
 
                                 </li>
 

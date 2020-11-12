@@ -47,7 +47,7 @@
                                         <p>If you want to hire you can Submit a Job. We have a large pool of candidates, who always ready....</p>
                                     </div>
                                     <ul class=" margin-top-10">
-                                        <li><i class="green fa fa-plus-circle"></i> <a class="green" href="admin-staff"> READ MORE</a></li>
+                                        <li><i class="green fa fa-plus-circle"></i> <a class="green" href="staffing-services/admin-staff"> READ MORE</a></li>
                                     </ul>
                                 </div>
                                 <div class="grid-box-1">
@@ -70,7 +70,7 @@
                                         <p>If you want to hire you can Submit a Job. We have a large pool of candidates, who ....</p>
                                     </div>
                                     <ul class=" margin-top-10">
-                                        <li><i class="green fa fa-plus-circle"></i> <a class="green" href="school-staffing"> READ MORE</a></li>
+                                        <li><i class="green fa fa-plus-circle"></i> <a class="green" href="staffing-services/school-staffing"> READ MORE</a></li>
                                     </ul>
                                 </div>
                                 <div class="grid-box-1">
@@ -93,7 +93,7 @@
                                         <p>If you want to hire you can Submit a Job. We have a large pool of candidates, who always ready....</p>
                                     </div>
                                     <ul class=" margin-top-10">
-                                        <li><i class="green fa fa-plus-circle"></i> <a class="green" href="healthcare-staff"> READ MORE</a></li>
+                                        <li><i class="green fa fa-plus-circle"></i> <a class="green" href="staffing-services/healthcare-staff"> READ MORE</a></li>
                                     </ul>
                                 </div>
                                 <div class="grid-box-1">
@@ -120,7 +120,7 @@
                                         <p>If you want to hire you can Submit a Job. We have a large pool of candidates, who ....</p>
                                     </div>
                                     <ul class=" margin-top-10">
-                                        <li><i class="green fa fa-plus-circle"></i> <a class="green" href="construction-staff"> READ MORE</a></li>
+                                        <li><i class="green fa fa-plus-circle"></i> <a class="green" href="staffing-services/construction-staff"> READ MORE</a></li>
                                     </ul>
                                 </div>
                                 <div class="grid-box-1">
@@ -143,7 +143,7 @@
                                         <p>If you want to hire you can Submit a Job. We have a large pool of candidates, who ....</p>
                                     </div>
                                     <ul class=" margin-top-10">
-                                        <li><i class="green fa fa-plus-circle"></i> <a class="green" href="warehouse-staff"> READ MORE</a></li>
+                                        <li><i class="green fa fa-plus-circle"></i> <a class="green" href="staffing-services/warehouse-staff"> READ MORE</a></li>
                                     </ul>
                                 </div>
                                 <div class="grid-box-1">

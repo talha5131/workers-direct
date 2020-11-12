@@ -139,7 +139,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                 <div class="section_heading section_2_heading">
                                     <h2>Temporary <span> Staffing Solution </span></h2>
                                 </div>
-                                <p> Workers Direct is the authority when it comes to <b><a href="temporary-staffing" style="color: #7CC24D;"> temporary staffing</b></a>. We recruit for temporary, temp-to-perm and short-term roles across a range of specialisations and are dedicated to getting it right. We are as flexible as your needs, with workers that can fill a gap in any workforce from very next day. </p>
+                                <p> Workers Direct is the authority when it comes to <b><a href="staffing-services/temporary-staffing" style="color: #7CC24D;"> temporary staffing</b></a>. We recruit for temporary, temp-to-perm and short-term roles across a range of specialisations and are dedicated to getting it right. We are as flexible as your needs, with workers that can fill a gap in any workforce from very next day. </p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
@@ -366,7 +366,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                 </div>
             </div>
             <div class="gc_counter_cont_wrapper_new col-md-2">
-                <div class="count-description-new"> <span class="timer">4773600</span><i class="slider_icon_size fa fa-plus"></i>
+                <div class="count-description-new"> <span class="timer">572847</span><i class="slider_icon_size fa fa-plus"></i>
                     <h5 class="con4">WORKED HOURS</h5>
                 </div>
             </div>
@@ -376,7 +376,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                 </div>
             </div>
             <div class="gc_counter_cont_wrapper_new col-md-2">
-                <div class="count-description-new"> <span class="timer">39780</span><i class="slider_icon_size fa fa-plus"></i>
+                <div class="count-description-new"> <span class="timer">1434</span><i class="slider_icon_size fa fa-plus"></i>
                     <h5 class="con4">SITES</h5>
                 </div>
             </div>
