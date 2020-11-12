@@ -129,7 +129,7 @@ Route::get('/cleaners', function () {
 Route::get('/staffing-services/event-staff', function () {
     return view('event-staff');
 });
-Route::get('/temp-agency-london', function () {
+Route::get('/workers-direct-the-best-temping-agency-in-london', function () {
     return view('best-temping-london');
 });
 Route::get('/kitchen-porter', function () {

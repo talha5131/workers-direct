@@ -125,12 +125,12 @@
 
                         <div class="section_heading section_2_heading">
 
-                            <h2>Cost effective Recruitment Solutions</h2>
+                            <h2>Quick Hire</h2>
 
                         </div>
 
                         <p>
-                            In today’s market every business is aware that staff can be the biggest liability, and drain, on your resources and revenue. We are here to help provide you with the most cost effective recruitment solution possible, whatever your requirement – nothing is too short or unusual. Whether you have a short-term contract role to fill, or a long term need, contact our team. We can work to find the solution for any and all requirements, finding the recruitment solution that is most cost-effective for you.
+                            We understand how important it is to get things done quickly in the business world. Recruitment often drags on for weeks or months if it isn’t done by professionals; with Workers Direct recruitment agency you will benefit from speedy results.
                         </p>
                     </div>
 
@@ -139,12 +139,12 @@
 
                         <div class="section_heading section_2_heading margin-top-20">
 
-                            <h2>Benefits of hiring a Temp</h2>
+                            <h2>No Upfront Fees</h2>
 
                         </div>
 
                         <p>
-                            <a href="staffing-services/temporary-staffing">Temporary staff</a> are often the perfect solution to any recruitment need. Keen to work and as flexible as your needs, they can fill a gap in a workforce without requiring you to commit long-term. At Workers Direct we have hundreds of temporary staff on our books that could save you time and money. After a one-off cost to us, we can then manage the entire recruitment process for you, making the process as simple as possible. Let our team cover the HR and insurance requirements, Payroll process and organisation of tax responsibilities for you, leaving you to benefit from the keen worker. Our temps provide an efficient, effective solution to your staffing needs.
+                            When you become a client with Worker Direct Ltd. you won’t need to pay any upfront costs to join. This means no hefty start-up fees to get your recruitment drive going.
                         </p>
                     </div>
 
@@ -153,12 +153,54 @@
 
                         <div class="section_heading section_2_heading margin-top-20">
 
-                            <h2>Save Your Time and Money</h2>
+                            <h2>No Placement, No Fee</h2>
 
                         </div>
 
                         <p>
-                            Get in touch with us today to discuss the requirements you have, and let our staff take on the rest of the process for you. By saving you the leg work of recruitment and the man-hours involved, you avoid the loss of your valuable time and resources on HR, admin and payroll costs. Whether you need short term work or have a permanent, contract role to fill, we can source and arrange the right staff for your business, after just a small initial conversation with you. Workers Direct can take the stress out of the process by handling it from start to finish, finding and managing the staff and leaving you with the result; the worker you wanted.
+                            As well as the free cost of joining us as a client, you won’t be made to pay a thing unless we successfully manage to place a suitable candidate into your company.
+                        </p>
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+
+
+                        <div class="section_heading section_2_heading margin-top-20">
+
+                            <h2>Expertise</h2>
+
+                        </div>
+
+                        <p>
+                            Our recruiting team have worked across a diverse array of sectors over the years, so we closely understand many industries. We’ve worked with clients from construction to hospitality so get in touch whatever your line of work.
+                        </p>
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+
+
+                        <div class="section_heading section_2_heading margin-top-20">
+
+                            <h2>Modern Recruitment Strategies</h2>
+
+                        </div>
+
+                        <p>
+                            Finding the best candidates in the modern day requires the latest recruitment strategies. We use innovative recruiting techniques to narrow down the most capable individuals for your business.
+                        </p>
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+
+
+                        <div class="section_heading section_2_heading margin-top-20">
+
+                            <h2>Right Staff on Right time</h2>
+
+                        </div>
+
+                        <p>
+                            Whether your business needs temporary additions or you’re looking to add someone permanent, Worker Direct has the skill and experience to find the right talent on right time according to job requirements.
                         </p>
                     </div>
 

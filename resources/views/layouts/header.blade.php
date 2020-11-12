@@ -529,7 +529,7 @@ Purchase:
 
                                     <li class="gc_main_navigation parent"><a href="#" class="gc_main_navigation">Locations</a></li>
 
-                                    <li class="gc_main_navigation parent"><a href="#" class="gc_main_navigation">Contact</a></li>
+                                    <li class="gc_main_navigation parent"><a href="contact-us" class="gc_main_navigation">Contact</a></li>
 
 
                                     <!-- <li class="has-mega gc_main_navigation"><a href="#" class="gc_main_navigation"> What We Do&nbsp;<i class="fa fa-angle-down"></i></a>

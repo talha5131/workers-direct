@@ -3045,7 +3045,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                         <h4>I’m an EMPLOYER</h4>
                         <p>Signed in companies are able to post new<br> job offers, searching for candidate...</p>
                         <ul>
-                            <li><a href="employer.php"><i class="white fa fa-plus-circle"></i> Employer</a></li>
+                            <li><a href="employer"><i class="white fa fa-plus-circle"></i> Employer</a></li>
                         </ul>
                     </div>
                 </div>
@@ -3054,7 +3054,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                         <h4>I’m a Job Seeker</h4>
                         <p>Signed in companies are able to post new<br> job offers, searching for candidate...</p>
                         <ul>
-                            <li><a href="employer.php"><i class="white fa fa-plus-circle"></i> Job Seeker</a></li>
+                            <li><a href="job-seeker"><i class="white fa fa-plus-circle"></i> Job Seeker</a></li>
                         </ul>
                     </div>
                     <div class="jp_regis_center_tag_wrapper">
