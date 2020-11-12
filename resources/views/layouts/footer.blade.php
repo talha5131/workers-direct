@@ -148,11 +148,11 @@
 
     <div class="jp_newsletter_wrapper">
 
-        <div class="container">
+        <div class="container-fluid">
 
             <div class="row">
 
-                <div class="col-lg-3 col-md-4 col-sm-12 col-xs-12">
+                <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 
                     <div class="jp_footer_first_cont jp_contact_right_box_wrapper">
 
@@ -446,7 +446,7 @@
                                     <div class="row">
                                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                             <div class="jp_contact_inputs_wrapper jp_contact_inputs3_wrapper">
-                                                <label class="formsLabel" for="message">Detail</label>
+                                                <label class="formsLabel" for="message">Details</label>
                                                 <!-- <i class="fa fa-pencil-square-o" style="position: absolute;z-index: 1;top: 180px;left: 15px;color: #7CC24D;"></i> -->
                                                 <textarea name="message" id="message" class="footerContent" placeholder="Enter Your Details"></textarea>
                                                 <span class="error" id="message-error"></span>

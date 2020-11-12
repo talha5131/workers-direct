@@ -339,3 +339,9 @@ Route::get('/our-gurantee', function () {
 Route::get('/our-clients', function () {
     return view('our-clients');
 });
+Route::get('/location', function () {
+    return view('location');
+});
+Route::get('/temp-agency-london', function () {
+    return view('temp-agency-london');
+});

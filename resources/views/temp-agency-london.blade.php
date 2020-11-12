@@ -65,30 +65,7 @@
 
             </div>
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0" >
-
-                <div class="about_text_wrapper row margin-top-60">
-
-                    <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12" style="text-align: center;">
-                        <img class="image-style-border" src="{{url('public/assets/images/page-pictures/EVENT STAFF/event_staff_2.jpg')}}" width="100%" height="250px" alt="Event Staff">
-                        <h2 class="margin-top-20">RECRUITMENT AGENCY ILFORD, GREATER LONDON</h2>
-                        <p>Ilford, Greater London 344-348 High Road, IG1 1QP</p>
-                        <h3><strong> Tel: +442030869080 </strong></h3>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 " style="text-align: center;">
-                        <img class="image-style-border" src="{{url('public/assets/images/page-pictures/london-recruitment-agencies/london-recruitment-agencies-3.jpg')}}" width="100%" height="250px" alt="Event Staff">
-                        <h2 class="margin-top-20">RECRUITMENT AGENCY CENTRAL LONDON</h2>
-                        <p>207 Regent Street, Marylebone, London W1A 6US</p>
-                        <h3><strong> Tel: +443332422711 </strong></h3>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12" style="text-align: center;">
-                        <img class="image-style-border" src="{{url('public/assets/images/page-pictures/london-recruitment-agencies/london-recruitment-agencies-2.jpg')}}" width="100%" height="250px" alt="Event Staff">
-                        <h2 class="margin-top-20">RECRUITMENT AGENCY MANCHESTER</h2>
-                        <p>Unit 20648, Oldham Road, Manchester. M61 0BW</p>
-                        <h3><strong> Tel: +443332422711 </strong></h3>
-                    </div>
-                </div>
-            </div>
+            
 
         </div>
 

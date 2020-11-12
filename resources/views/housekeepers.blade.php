@@ -637,37 +637,7 @@
 
                     <p>We do not depend always on technology for candidate searches, preferring to use experience, industry acumen and intuition to identify what each individual could bring to a specific business. This intelligent & human approach pays surpluses time after time. We recognise the trust clients make in Workers Direct and our priority is always to make sure we attain the best results for all concerned.</p>
 
-                    <div class="row">
 
-                        <div class="col-md-6">
-
-                            <ul>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Audit &amp; Assurance</li>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Business Services</li>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;IT Control Solutions</li>
-
-                            </ul>
-
-                        </div>
-
-                        <div class="col-md-6">
-
-                            <ul>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Audit &amp; Assurance</li>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Business Services</li>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;IT Control Solutions</li>
-
-                            </ul>
-
-                        </div>
-
-                    </div>
 
 
 
@@ -780,6 +750,34 @@
                 </div>
 
             </div>
+
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 row margin-top-40">
+                <div class="margin-top-20  col-md-4">
+                    <div class="margin-top-10 jp_best_deal_icon_sec"> <i class="green fa fa-user"></i> </div>
+                    <div class="jp_best_deal_cont_sec margin-top-15">
+                        <h4><a href="register">Register </a> <span style="color: #7CC24D;">/</span> <a href="login"> Login</a></h4>
+                        <p> Our professional recruiter will contact you within no time to find out your hiring needs, skills and experience of an ideal candidate & finally the job duration and location.</p>
+                    </div>
+                </div>
+                <div class="margin-top-20 col-md-4">
+                    <div class="margin-top-10 jp_best_deal_icon_sec"> <i class="green fa fa-address-card"></i> </div>
+                    <div class="jp_best_deal_cont_sec margin-top-15">
+                        <h4><a href="cv-register">CV Registration</a></h4>
+                        <p> By registering with us, you will have exposure and access to temporary jobs easily. We will help you to get the best job that suits your qualification and skills.</p>
+                    </div>
+                </div>
+                <div class="margin-top-20 col-md-4">
+                    <div class="margin-top-10 jp_best_deal_icon_sec"> <i class="green fa fa-get-pocket"></i> </div>
+                    <div class="jp_best_deal_cont_sec margin-top-15">
+                        <h4><a href="submit-a-job">Submit a Job </a> <span style="color: #7CC24D;">/</span> <a href="jobs"> Get Hired</a></h4>
+                        <p> If you want to hire you can Submit a Job. We have a large pool of candidates, who always ready to start a job on short notice.</p>
+                    </div>
+                </div>
+            </div>
+
+
+
+
 
             <!--end of /.col-sm-6-->
 
