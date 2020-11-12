@@ -94,14 +94,13 @@
                         <p class="mb-0">When choosing a temping agency In London to provide you with London temps, you need to look out for the following features:</p>
 
                         <ul class="pt-0">
-                            <i class="fa fa-caret-right"></i>
-                            <li>Proven reliability</li>
-                            <i class="fa fa-caret-right"></i>
-                            <li>Superb knowledge and experience in the field</li>
-                            <i class="fa fa-caret-right"></i>
-                            <li>A money-back guarantee or a replacement free of charge</li>
-                            <i class="fa fa-caret-right"></i>
-                            <li>Reasonable and fair terms and conditions</li>
+                            <li><i class="fa fa-caret-right"></i> Proven reliability</li>
+
+                            <li><i class="fa fa-caret-right"></i> Superb knowledge and experience in the field</li>
+
+                            <li><i class="fa fa-caret-right"></i> A money-back guarantee or a replacement free of charge</li>
+
+                            <li><i class="fa fa-caret-right"></i> Reasonable and fair terms and conditions</li>
                         </ul>
 
                         <p>You may need them to meet other terms and conditions that will suit your company and these you will need to negotiate with the temping agency.</p>
@@ -126,7 +125,7 @@
                         <p>The temp that works in your organisation will be well groomed, well-spoken and overall very presentable. Your company’s image will be upheld at all costs. This is important to the temp as his / her working prospects depend on positive feedback from each employer after the completion of the assignment.</p>
                         <p>Using a temp agency in London means that your organisation already has an edge over the competition. You don’t lose any productive time and the work is done to an excellent standard. You may even want the temp to stay on longer than originally planned. It’s always a good idea to get a temp from a reputable temping agency.</p>
 
-                        
+
 
                     </div>
 
