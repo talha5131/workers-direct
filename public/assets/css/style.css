@@ -4365,6 +4365,10 @@ ul {
     margin-top: 13px;
 }
 
+.margin-top-85 {
+    margin-top: 85px;
+}
+
 .margin-top-10 {
     margin-top: 10px;
 }
@@ -4545,6 +4549,11 @@ i {
 
 .jp_footer_first_cont_new p {
     padding-top: 5px;
+    color: #797979;
+}
+
+.jp_footer_first_cont_new_1 p {
+    /* padding-top: 5px; */
     color: #797979;
 }
 
