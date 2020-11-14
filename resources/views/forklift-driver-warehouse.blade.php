@@ -424,17 +424,17 @@
                     <h4>STRUCTURE CHART</h4>
                 </div>
                 <div class="margin-top-60">
-                    <p class="margin-bottom-60">The role fits into the organisation as follows:</p>
-                    <img src="https://workers-direct.com/wp-content/uploads/2017/04/Structure-Chart-1.jpg" alt="Structure Job Chart">
+                    <p class="margin-bottom-60">The role fits into the organization as follows:</p>
+                    <img src="{{url('public/assets/images/page-pictures/FORKLIFT DRIVER  WAREHOUSE ASSISTANT/forklift_driver_warehouse_assistant_5.jpeg')}}" alt="Structure Job Chart">
                 </div>
 
             </div>
-            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30">
+            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-30" style="padding-left: 90px;">
                 <div class="section_heading section_2_heading about_text_wrapper">
                     <h4>DIMENSIONS</h4>
                 </div>
                 <div class="margin-top-60">
-                    <img src="https://workers-direct.com/wp-content/uploads/2017/04/Dimensions.jpg" alt="Job Role Dimensions">
+                    <img style="margin-top: 95px; margin-left: 55px;" src="{{url('public/assets/images/page-pictures/FORKLIFT DRIVER  WAREHOUSE ASSISTANT/forklift_driver_warehouse_assistant_6.jpeg')}}" alt="Job Role Dimensions">
                 </div>
 
             </div>
