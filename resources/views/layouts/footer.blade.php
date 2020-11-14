@@ -75,9 +75,13 @@
         font-size: 15px;
     }
 
-    /* .richText .richText-toolbar ul li a span:hover{
-		 background-color: red;
-	 } */
+    .richText .richText-toolbar ul li a span {
+        color: #7CC24D;
+    }
+
+    .richText .richText-toolbar ul{
+		background-color: #fff;
+	 }
     .richText-editor {
         background: #fff !important;
         color: #7CC24D;
