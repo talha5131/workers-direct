@@ -9161,6 +9161,15 @@ input[type="checkbox"]:checked+label:after {
     content: "\f0f3";
     color: #ffffff;
 }
+.accordion_wrapper .panel .panel-heading.search a:before {
+    content: "\f002";
+    color: #ffffff;
+}
+
+.accordion_wrapper .panel .panel-heading.search a.collapsed:before {
+    content: "\f002";
+    color: #ffffff;
+}
 
 .accordion_wrapper .panel .panel-heading a:after,
 .accordion_wrapper .panel .panel-heading a.collapsed:after {

@@ -109,12 +109,11 @@
 
                         <div class="section_heading section_2_heading">
 
-                            <h2> Why Workers Direct?</h2>
+                            <h2> Professional & Efficient Recruitment Services </h2>
 
                         </div>
 
-                        <p> Why Workers Direct?
-                            We have a reputation for delivering friendly and efficient service to our clients, and are committed to meeting the high targets that we set ourselves. We promise, and deliver, the best service possible. Workers Direct strive to leave every employer that requests our help more than satisfied with the staff and service that they receive from us.
+                        <p> We have a reputation for delivering professional & efficient recruitment services to our clients, and are committed to meeting the high targets that we set ourselves. We promise, and deliver, the best service possible. Workers Direct strive to leave every employer that requests our help more than satisfied with the staff and service that they receive from us.
                         </p>
                         <p>We offer a range of high quality services to meet the needs of the employers we co-operate with, locating and identifying the correct staff for you based upon the needs of your business. We make sure that the response to every request exceeds your expectations.</p>
 
@@ -168,28 +167,32 @@
 
                         </div>
 
-                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-top-20">
-
-                            <div class="jp_add_resume_wrapper">
-
-                                <div class="jp_add_resume_img_overlay"></div>
-
-                                <div class="jp_add_resume_cont">
-
-                                    <img src="public/assets/images/content/resume_logo.png" alt="logo" />
-
-                                    <h4>Hire Temporary Staff.</h4>
-
-                                    <ul>
-
-                                        <li><a href="{{url('temp-jobs-london')}}"><i class="fa fa-plus-circle"></i> Hire Temp</a></li>
-
-                                    </ul>
-
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <div class="jp_rightside_job_categories_wrapper">
+                                <div class="jp_rightside_job_categories_heading">
+                                    <h4>Hire a Temp</h4>
                                 </div>
-
+                                <div class="jp_rightside_job_categories_content" style="padding-bottom: 25px;">
+                                    <ul>
+                                        <li><i class="fa fa-caret-right"></i> <a href="service-administrator">Administrative</a></li>
+                                        <li><i class="fa fa-caret-right"></i> <a href="staffing-services/reception-staff">Receptionist</a></li>
+                                        <li><i class="fa fa-caret-right"></i> <a href="personal-assistant">PA</a></li>
+                                        <li><i class="fa fa-caret-right"></i> <a href="kitchen-assistant">Kitchen Assistant</a></li>
+                                        <li><i class="fa fa-caret-right"></i> <a href="grill-chef">Chef/Cook</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="#">KP</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="jobs/general-labourer">General Labourer</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="carpenter-multi-skilled">Multi-Skilled Operative</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="#">Handyman</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="caretaker-bus-driver">Driver</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="staffing-services/warehouse-staff">Warehouse Operative</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="it-support-technician">IT Professional</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="data-entry-operator">Data Entry Staff</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="#">Career</a></li>
+                                        <li><i class="fa fa-plus-circle" style="color: #797979 !important;"></i> <a href="nursery-nurses" style="color: #797979 !important;text-transform: capitalize;font-weight: normal;">Nurse</a></li>
+                                    </ul>
+                                    <a href="{{url('submit-a-job')}}" class="bookNowBtn"> Book Now </a>
+                                </div>
                             </div>
-
                         </div>
 
                         <!-- <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -409,8 +412,12 @@
 
 
 <div class="jp_best_deal_main_wrapper">
-
+    <div class="about_text_wrapper" style="position: absolute; top: 1914px; left: 424px; z-index: 1000;">
+        <h2><strong> Workers Direct - Your Staffing Partner </strong></h2>
+    </div>
     <div class="container">
+
+
 
         <div class="row">
 
@@ -762,28 +769,28 @@
                             <div class="margin-top-20 col-md-3 col-sm-12">
                                 <div class="margin-top-10 jp_best_deal_icon_sec"> <i class="green fa fa-user"></i> </div>
                                 <div class="jp_best_deal_cont_sec margin-top-15">
-                                    <h4><a href="{{url('register')}}">Register </a> <span style="color: #7CC24D;">/</span> <a href="{{url('login')}}"> Login</a></h4>
+                                    <h4><a href="{{url('register')}}">1. Register </a> <span style="color: #7CC24D;">/</span> <a href="{{url('login')}}"> Login</a></h4>
                                     <p> Our professional recruiter will contact you within no time to find out your hiring needs, skills and experience of an ideal candidate & finally the job duration and location.</p>
                                 </div>
                             </div>
                             <div class="margin-top-20 col-md-3 col-sm-12">
                                 <div class="margin-top-10 jp_best_deal_icon_sec"> <i class="green fa fa-address-card"></i> </div>
                                 <div class="jp_best_deal_cont_sec margin-top-15">
-                                    <h4><a href="{{url('submit-a-job')}}">Post A Job</a></h4>
+                                    <h4><a href="{{url('submit-a-job')}}">2. Post A Job</a></h4>
                                     <p> If you would like to hire any staff either is temporary or permanent basis, Post A Job on our website or via mobile app. </p>
                                 </div>
                             </div>
                             <div class="margin-top-20 col-md-3 col-sm-12">
-                                <div class="margin-top-10 jp_best_deal_icon_sec"> <i class="green fa fa-get-pocket"></i> </div>
+                                <div class="margin-top-10 jp_best_deal_icon_sec"> <i class="fas fa-search"></i> </div>
                                 <div class="jp_best_deal_cont_sec margin-top-15">
-                                    <h4>We will find the right match</h4>
+                                    <h4>3. We will find the right match</h4>
                                     <p> If you want to hire you can Submit a Job. We have a large pool of candidates, who always ready to start a job on short notice.</p>
                                 </div>
                             </div>
                             <div class="margin-top-20 col-md-3 col-sm-12">
                                 <div class="margin-top-10 jp_best_deal_icon_sec"> <i class="green fa fa-get-pocket"></i> </div>
                                 <div class="jp_best_deal_cont_sec margin-top-15">
-                                    <h4>Job Done</h4>
+                                    <h4>4. Job Done</h4>
                                     <p> Upon your confirmation we will book the candidate to start the job.</p>
                                 </div>
                             </div>
@@ -888,7 +895,7 @@
 
                         <div class="panel panel-default">
 
-                            <div class="panel-heading bell">
+                            <div class="panel-heading search">
 
                                 <h4 class="panel-title">
 
@@ -969,7 +976,7 @@
 
 <!-- jp downlord Wrapper Start -->
 
-<div class="jp_downlord_main_wrapper">
+<!-- <div class="jp_downlord_main_wrapper">
 
     <div class="jp_downlord_img_overlay"></div>
 
@@ -1023,7 +1030,7 @@
 
     </div>
 
-</div>
+</div> -->
 
 <!-- jp downlord Wrapper End -->
 

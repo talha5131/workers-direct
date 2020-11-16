@@ -30,11 +30,14 @@
 
                                     <div class="jp_career_cont_wrapper">
 
-                                        <p><i class="fa fa-calendar"></i>&nbsp;&nbsp; <a href="#">20 OCT, 2017</a></p>
+                                        <p><i class="fa fa-calendar"></i>&nbsp;&nbsp; <a href="#">ASAP (Temporary to Perm)</a></p>
 
-                                        <h3><a href="#">Construction Labourers In Recruitment Agency</a></h3>
+                                        <h3><a href="#">Receptionist (Required ASAP)</a></h3>
 
-                                        <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat.</p>
+                                        
+
+
+                                        <p>We at Workers Direct seek reliable and trustworthy Receptionist on temporary basis with experience in area of London.</p>
 
                                     </div>
 
