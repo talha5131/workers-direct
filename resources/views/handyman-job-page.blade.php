@@ -1,5 +1,5 @@
 @extends('layouts.base')
-@section('title','Receptionist Jobs')
+@section('title','Handyman Jobs')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +31,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h1>Receptionist Jobs</h1>
+                        <h1>Handyman Jobs</h1>
 
                     </div>
 
@@ -45,7 +45,7 @@
 
 
 
-                                <li>Receptionist Jobs</li>
+                                <li>Handyman Jobs</li>
 
                             </ul>
 
@@ -79,7 +79,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h2>Receptionist - London</h2>
+                        <h2>Handyman - Surrey</h2>
 
                     </div>
 
@@ -101,36 +101,32 @@
 
                             <tr>
                                 <th class="green">Job Title</th>
-                                <td>Receptionist (Required ASAP)</td>
+                                <td>Handyman</td>
 
                             </tr>
 
 
                             <tr>
                                 <th class="green">Location</th>
-                                <td> London </td>
+                                <td> Surrey </td>
 
                             </tr>
                             <tr>
-                                <th class="green">Payrate</th>
-                                <td> £9 - £12 per hour </td>
+                                <th class="green">Duration</th>
+                                <td> Temporary </td>
 
                             </tr>
                             <tr>
-                                <th class="green">Start Date </th>
+                                <th class="green">Starting Time </th>
                                 <td> ASAP </td>
 
                             </tr>
                             <tr>
-                                <th class="green">Job Types </th>
-                                <td> Temp to Perm </td>
+                                <th class="green">Payrate </th>
+                                <td> £14 - £17 per hour </td>
 
                             </tr>
-                            <tr>
-                                <th class="green">Schedule </th>
-                                <td> 8 hour shift </td>
-
-                            </tr>
+                            
                             <tr>
                                 <th class="green">Experience </th>
                                 <td> 1 year (Preferred) </td>
@@ -150,7 +146,7 @@
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
 
                         <p>
-                            We at Workers Direct seek reliable and trustworthy Receptionist on temporary basis with experience in area of London.
+                            We are hiring an experienced Handyman (multi skilled builder) on temporary, part time basis for a client based in Surrey area.
                         </p>
 
 
@@ -165,18 +161,17 @@
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-40">
 
                         <ul>
-                            <li><i class="fa fa-caret-right"></i>Greet and welcome guests as soon as they arrive at the office</li>
-                            <li><i class="fa fa-caret-right"></i>Direct visitors to the appropriate person and office</li>
-                            <li><i class="fa fa-caret-right"></i>Answer, screen and forward incoming phone calls</li>
-                            <li><i class="fa fa-caret-right"></i>Ensure reception area is tidy and presentable, with all necessary stationery and material (e.g. pens, forms and brochures)</li>
-                            <li><i class="fa fa-caret-right"></i>Provide basic and accurate information in-person and via phone/email</li>
-                            <li><i class="fa fa-caret-right"></i>Receive, sort and distribute daily mail/deliveries</li>
-                            <li><i class="fa fa-caret-right"></i>Maintain office security by following safety procedures and controlling access via the reception desk (monitor logbook, issue visitor badges)</li>
-                            <li><i class="fa fa-caret-right"></i>Order front office supplies and keep inventory of stock</li>
-                            <li><i class="fa fa-caret-right"></i>Update calendars and schedule meetings</li>
-                            <li><i class="fa fa-caret-right"></i>Arrange travel and accommodations, and prepare vouchers</li>
-                            <li><i class="fa fa-caret-right"></i>Keep updated records of office expenses and costs</li>
-                            <li><i class="fa fa-caret-right"></i>Perform other clerical receptionist duties such as filing, photocopying, transcribing and faxing</li>
+                            <li><i class="fa fa-caret-right"></i>Perform basic tasks including painting and filling crevices, clean facilities and managing maintenance repairs.</li>
+                            <li><i class="fa fa-caret-right"></i>Perform repairs on company machinery, equipment or appliances.</li>
+                            <li><i class="fa fa-caret-right"></i>Detect and report the need for major maintenance repairs.</li>
+                            <li><i class="fa fa-caret-right"></i>Regularly check community spaces to identify issues with litter, mechanical failure or breakdowns.</li>
+                            <li><i class="fa fa-caret-right"></i>Respond to clients’ maintenance requests in a timely and professional manner.</li>
+                            <li><i class="fa fa-caret-right"></i>Repair plumbing, electrical and safety systems.</li>
+                            <li><i class="fa fa-caret-right"></i>Maintain the cleanliness of outside spaces such as parking lots and sidewalks.</li>
+                            <li><i class="fa fa-caret-right"></i>Oversee the sprinkler system and trash containers on the company premises.</li>
+                            <li><i class="fa fa-caret-right"></i>Conduct performance assessments of company appliances, such as refrigerators, microwaves, stoves, ovens and coffee makers.</li>
+                            <li><i class="fa fa-caret-right"></i>Provide clients with support and guidance on maintaining their equipment.</li>
+                            
                         </ul>
                     </div>
 
@@ -188,16 +183,30 @@
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-40">
 
                         <ul>
-                            <li><i class="fa fa-caret-right"></i>Proven work experience as a Receptionist, Front Office Representative or similar role</li>
-                            <li><i class="fa fa-caret-right"></i>Proficiency in Microsoft Office Suite</li>
-                            <li><i class="fa fa-caret-right"></i>Hands-on experience with office equipment (e.g. fax machines and printers)</li>
-                            <li><i class="fa fa-caret-right"></i>Professional attitude and appearance</li>
-                            <li><i class="fa fa-caret-right"></i>Solid written and verbal communication skills</li>
-                            <li><i class="fa fa-caret-right"></i>Ability to be resourceful and proactive when issues arise</li>
-                            <li><i class="fa fa-caret-right"></i>Excellent organizational skills</li>
-                            <li><i class="fa fa-caret-right"></i>Multitasking and time-management skills, with the ability to prioritize tasks</li>
-                            <li><i class="fa fa-caret-right"></i>Customer service attitude</li>
-                            <li><i class="fa fa-caret-right"></i>Customer service attitude</li>
+                            <li><i class="fa fa-caret-right"></i>High school diploma or equivalent qualification required.</li>
+                            <li><i class="fa fa-caret-right"></i>A minimum of 2 years’ working experience in a similar role.</li>
+                            <li><i class="fa fa-caret-right"></i>Solid experience with plumbing and electrical systems.</li>
+                            <li><i class="fa fa-caret-right"></i>Ability to work with hardware tools and power equipment.</li>
+                            <li><i class="fa fa-caret-right"></i>Extremely organized with good communication skills.</li>
+                            <li><i class="fa fa-caret-right"></i>Detail-orientated with an aptitude for problem-solving.</li>
+                            
+                        </ul>
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-40">
+                        <h4>Job Type / Category</h4>
+
+
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-40">
+
+                        <ul>
+                            <li><i class="fa fa-caret-right"></i>Carpentry</li>
+                            <li><i class="fa fa-caret-right"></i>Construction</li>
+                            <li><i class="fa fa-caret-right"></i>Electrical</li>
+                            <li><i class="fa fa-caret-right"></i>Property Maintenance</li>
+                            <li><i class="fa fa-caret-right"></i>Property Repair</li>
+                            <li><i class="fa fa-caret-right"></i>Plumbing</li>
                             
                         </ul>
                     </div>
@@ -212,7 +221,7 @@
 
                     <div class="row"> -->
 
-                        <!-- <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <!-- <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
                             <div class="jp_add_resume_wrapper">
 
@@ -236,7 +245,7 @@
 
                         </div> -->
 
-                        <!-- <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <!-- <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="jp_rightside_job_categories_wrapper">
                                 <div class="jp_rightside_job_categories_heading">
                                     <h4>Hire a Temp</h4>
@@ -264,7 +273,7 @@
                             </div>
                         </div> -->
 
-                        <!-- <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <!-- <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
                             <div class="jp_spotlight_main_wrapper">
 
@@ -450,7 +459,7 @@
 
 
 
-                    <!-- </div>
+            <!-- </div>
 
                 </div>
 

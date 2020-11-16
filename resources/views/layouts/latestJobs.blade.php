@@ -24,15 +24,15 @@
 
                                     <div class="jp_career_img_wrapper">
 
-                                        <img src="{{url('public/assets/images/content/job-seeker-workers-direct.jpg')}}" alt="career_img" />
+                                        <img src="{{url('public/assets/images/page-pictures/RECEPTION STAFF/reception_staff_3.jpg')}}" height="228px" alt="career_img" />
 
                                     </div>
 
                                     <div class="jp_career_cont_wrapper">
 
-                                        <p><i class="fa fa-calendar"></i>&nbsp;&nbsp; <a href="#">ASAP (Temporary to Perm)</a></p>
+                                        <p><i class="fa fa-calendar"></i>&nbsp;&nbsp; <a href="reception-job-page">ASAP (Temporary to Perm)</a></p>
 
-                                        <h3><a href="#">Receptionist (Required ASAP)</a></h3>
+                                        <h3><a href="reception-job-page">Receptionist (Required ASAP)</a></h3>
 
                                         
 
@@ -63,17 +63,17 @@
 
                                     <div class="jp_career_img_wrapper">
 
-                                        <img src="{{url('public/assets/images/content/job-seeker-workers-direct.jpg')}}" alt="career_img" />
+                                        <img src="{{url('public/assets/images/page-pictures/TEMPORARY JOBS/temporary_jobs_3.jpg')}}" height="228px" alt="career_img" />
 
                                     </div>
 
                                     <div class="jp_career_cont_wrapper">
 
-                                        <p><i class="fa fa-calendar"></i>&nbsp;&nbsp; <a href="#">20 OCT, 2017</a></p>
+                                        <p><i class="fa fa-calendar"></i>&nbsp;&nbsp; <a href="handyman-job-page">ASAP (Temporary)</a></p>
 
-                                        <h3><a href="#">Construction Plant Hire In Recruitment Agency</a></h3>
+                                        <h3><a href="handyman-job-page">Handyman (Required ASAP)</a></h3>
 
-                                        <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat.</p>
+                                        <p>We are hiring an experienced Handyman (multi skilled builder) on temporary, part time basis for a client based in Surrey area.</p>
 
                                     </div>
 
@@ -99,17 +99,17 @@
 
                                     <div class="jp_career_img_wrapper">
 
-                                        <img src="{{url('public/assets/images/content/job-seeker-workers-direct.jpg')}}" alt="career_img" />
+                                        <img src="{{url('public/assets/images/page-pictures/admin staff/admin_staff_2.jpg')}}" height="228px" alt="career_img" />
 
                                     </div>
 
                                     <div class="jp_career_cont_wrapper">
 
-                                        <p><i class="fa fa-calendar"></i>&nbsp;&nbsp; <a href="#">20 OCT, 2017</a></p>
+                                        <p><i class="fa fa-calendar"></i>&nbsp;&nbsp; <a href="careassistant-job-page">ASAP (Permanent)</a></p>
 
-                                        <h3><a href="#">Labourer Jobs In Broadstairs</a></h3>
+                                        <h3><a href="careassistant-job-page">Care Assistant (Required ASAP)</a></h3>
 
-                                        <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat.</p>
+                                        <p>We are hiring an experienced Care Assistant on Permanent basis, for North London area.</p>
 
                                     </div>
 

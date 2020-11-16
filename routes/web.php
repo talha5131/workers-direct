@@ -345,3 +345,12 @@ Route::get('/location', function () {
 Route::get('/temp-agency-london', function () {
     return view('temp-agency-london');
 });
+Route::get('/reception-job-page', function () {
+    return view('reception-job-page');
+});
+Route::get('/handyman-job-page', function () {
+    return view('handyman-job-page');
+});
+Route::get('/careassistant-job-page', function () {
+    return view('careassistant-job-page');
+});
