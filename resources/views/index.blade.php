@@ -44,14 +44,14 @@ London we provide temp & perm warehouse, catering staff across UK.">
             <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="jp_job_heading_wrapper">
                     <div class="jp_job_heading">
-                        <p class=" wd-intro-para">As the Best Recruitment Agency, Workers Direct Can Provide Both Temporary & Permanent Recruitment Solutions for Businesses of All Needs. Whether You’re Looking for New Workers Quickly or Want to Bring in World-Class Talent Long-Term & Short Terms Basis, Our Recruitment Solutions Can Take Care of Everything on Your Behalf. </p>
+                        <p class=" wd-intro-para" style="font-size: 18px;font-family: 'Montserrat';">As the Best Recruitment Agency, Workers Direct Can Provide Both Temporary & Permanent Recruitment Solutions for Businesses of All Needs. Whether You’re Looking for New Workers Quickly or Want to Bring in World-Class Talent Long-Term & Short Terms Basis, Our Recruitment Solutions Can Take Care of Everything on Your Behalf. </p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="jp_banner_main_jobs_wrapper">
                     <div class="jp_job_heading">
-                        <p>Find Jobs, Employment & Career Opportunities.</p>
+                        <p style="font-size: 18px;font-family: 'Montserrat';">Find Jobs, Employment & Career Opportunities.</p>
                     </div>
                 </div>
             </div>
@@ -63,32 +63,32 @@ London we provide temp & perm warehouse, catering staff across UK.">
         <div class="container">
             <div id="administrative-bg" class="jp_top_jobs_category_wrapper jp_job_cate_left_border jp_job_cate_left_border_bottom">
                 <div class="jp_top_jobs_category"> <i class="fa fa-user"></i>
-                    <h3 style="font-size: 14px;"><a href="#">Admin & Reception</a></h3>
+                    <h3 style="font-size: 14px;"><a href="{{url('staffing-services/admin-staff')}}">Admin & Reception</a></h3>
                 </div>
             </div>
             <div id="catering-bg" class="jp_top_jobs_category_wrapper jp_job_cate_left_border_bottom">
                 <div class="jp_top_jobs_category"> <i class="fa fa fa-cutlery"></i> &nbsp; &nbsp; <i class="fa fa-h-square "></i>
-                    <h3 style="font-size: 14px;"><a href="#">Catering & Hospitality</a></h3>
+                    <h3 style="font-size: 14px;"><a href="{{url('staffing-services/catering-staff')}}">Catering & Hospitality</a></h3>
                 </div>
             </div>
             <div id="hospitality-bg" class="jp_top_jobs_category_wrapper jp_job_cate_left_border_bottom">
                 <div class="jp_top_jobs_category"> <i class="fa fa-trademark "></i> &nbsp; &nbsp; <i class="fa fa-building "></i>
-                    <h3 style="font-size: 14px;"><a href="#">Trade & Construction</a></h3>
+                    <h3 style="font-size: 14px;"><a href="{{url('staffing-services/construction-staff')}}">Trade & Construction</a></h3>
                 </div>
             </div>
             <div id="healthcare-bg" class="jp_top_jobs_category_wrapper jp_job_cate_left_border_res">
                 <div class="jp_top_jobs_category"> <i class="fa fa-medkit"></i>
-                    <h3 style="font-size: 14px;"><a href="#">Healthcare</a></h3>
+                    <h3 style="font-size: 14px;"><a href="{{url('staffing-services/healthcare-staff')}}">Healthcare</a></h3>
                 </div>
             </div>
             <div id="it-bg" class="jp_top_jobs_category_wrapper">
                 <div class="jp_top_jobs_category"> <i class="fa fa-code"></i>
-                    <h3 style="font-size: 14px;"><a href="#">IT Services </a></h3>
+                    <h3 style="font-size: 14px;"><a href="{{url('it-support-technician')}}">IT Services </a></h3>
                 </div>
             </div>
             <div id="all-services-bg" class="jp_top_jobs_category_wrapper">
                 <div class="jp_top_jobs_category"> <i class="fa fa fa-cogs"></i>
-                    <h3 style="font-size: 14px;"><a href="#">Warehouse & Industrial</a></h3>
+                    <h3 style="font-size: 14px;"><a href="{{url('staffing-services/warehouse-staff')}}">Warehouse & Industrial</a></h3>
                 </div>
             </div>
         </div>
@@ -2903,12 +2903,19 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <a href="https://play.google.com/store/apps/details?id=com.mst_developers.workers_direct&hl=en" class="ss_playstore"><span><i class="fa fa-android" aria-hidden="true"></i></span> Play Store</a>
                                             </div>
                                         </div>
+                                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                            <div class="ss_download_wrapper_details" style="padding-top: 14px; padding-left: 14px; padding-bottom: 24px;">
+
+
+                                                <a style="padding-right: 18px;" href="https://play.google.com/store/apps/details?id=com.mst_developers.workers_direct&hl=en" class="ss_playstore"><span><i class="fab fa-app-store-ios"></i></span> Apple Store</a>
+                                            </div>
+                                        </div>
 
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        <!-- <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="jp_rightside_job_categories_wrapper">
                                 <div class="jp_rightside_job_categories_heading">
                                     <h4>Jobs by Category</h4>
@@ -2927,13 +2934,13 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                     </ul>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="jp_rightside_job_categories_wrapper">
                                 <div class="jp_rightside_job_categories_heading">
                                     <h4>Hire a Temp</h4>
                                 </div>
-                                <div class="jp_rightside_job_categories_content">
+                                <div class="jp_rightside_job_categories_content" style="padding-bottom: 25px;">
                                     <ul>
                                         <li><i class="fa fa-caret-right"></i> <a href="service-administrator">Administrative</a></li>
                                         <li><i class="fa fa-caret-right"></i> <a href="staffing-services/reception-staff">Receptionist</a></li>
@@ -2951,6 +2958,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                         <li><i class="fa fa-plus-circle"></i> <a href="#">Career</a></li>
                                         <li><i class="fa fa-plus-circle" style="color: #797979 !important;"></i> <a href="nursery-nurses" style="color: #797979 !important;text-transform: capitalize;font-weight: normal;">Nurse</a></li>
                                     </ul>
+                                    <a href="{{url('submit-a-job')}}" class="bookNowBtn"> Book Now </a>
                                 </div>
                             </div>
                         </div>
@@ -3098,7 +3106,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
         </div>
     </div> -->
     <!-- <div class="jp_downlord_main_wrapper" style="height: 210px;"> -->
-    
+
     <!-- jp downlord Wrapper End -->
     <script src="public/assets/js/jquery-2.1.1.js"></script>
     <script src="public/assets/js/main.js"></script>

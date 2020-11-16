@@ -7903,3 +7903,45 @@ label.formsLabel {
         font-size: 15px !important;
     }
 }
+
+.bookNowBtn,
+.bookNowBtn:hover {
+    float: left;
+    width: 100px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    background: #7CC24D;
+    color: #ffffff;
+    font-size: 12px;
+    text-transform: uppercase;
+    /* -webkit-border-radius: 10px; */
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    /* padding-top: 10px; */
+    margin-top: 20px;
+}
+
+.quoteModalBtn,
+.quoteModalBtn:hover {
+    float: left;
+    width: 230px;
+    height: 50px;
+    text-align: center;
+    /* line-height: 50px; */
+    color: #ffffff;
+    /* font-weight: bold; */
+    background: #7CC24D;
+    border-radius: 10px;
+    transition: all 0.5s;
+}
+
+.jp_footer_first_cont ul.locations li {
+    font-size: 20px;
+    color: #ffffff;
+    padding-top: 20px;
+}
+
+.jp_bottom_footer_left_cont p a {
+    color: white;
+}
