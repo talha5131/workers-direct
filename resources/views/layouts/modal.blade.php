@@ -41,7 +41,7 @@
 
     <div class="modal fade right" id="modalPoll-1-new" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" data-backdrop="false">
 
-        <div class="modal-dialog modal-full-height modal-right modal-notify modal-info" role="document">
+        <div id="modalDiv" class="modal-dialog modal-full-height modal-right modal-notify modal-info" role="document" style="width: 830px;">
 
             <div class="modal-content">
 
@@ -49,7 +49,8 @@
 
                 <div class="modal-header">
 
-                    <h3>Contact Us</h3>
+                    <h3 style="float: left;">Contact Us</h3>
+                    <button class="btn" id="modalCloseBtn" style="float: right; background: #7CC24D; color: #FFFFFF;"><i style="font-size: 13px;" class="fas fa-times"></i></button>
 
                 </div>
 
@@ -61,7 +62,7 @@
 
                     <div class="text-center">
 
-                        <i class="far fa-file-alt fa-4x mb-3 animated rotateIn" style="color: #51284f;"></i>
+                        <i class="far fa-file-alt fa-4x mb-3 animated rotateIn" style="color: #7CC24D;"></i>
 
                         <p>
 
@@ -83,7 +84,7 @@
 
 
 
-                    <form id="askUsForm">
+                    <!-- <form id="askUsForm">
 
                         <div class="row">
 
@@ -135,7 +136,6 @@
                             <span class="error" id="askUsMessage-error"></span>
                         </div>
 
-                        <!--Footer-->
 
                         <div class="form-group">
 
@@ -175,11 +175,13 @@
 
                             <button type="button" style="background-color: #7CC24D; border: 1px solid #7CC24D; height: 40px;font-size:large; color:white;" class="btn btn-primary waves-effect" data-dismiss="modal">Cancel</button>
 
-                            <!-- <button type="submit" class="btn btn-primary">Save Draft</button> -->
 
                         </div>
 
-                    </form>
+                    </form> -->
+                    <div style="max-width: 500px;">
+                        <script style="max-width: 500px;" src='https://workersdirectltd.zohoworkerly.eu/workerly/WebFormServeServlet?rid=453cc1b85e261ca88e68834608c13d07gid12b1e89568431b14c7293aa4d69c0f0f&script=$sYG'></script>
+                    </div>
 
                 </div>
 
@@ -293,6 +295,13 @@
             } else {
                 $("#askUsMessage-error").html("");
             }
+        });
+
+        $(document).ready(function() {
+            $('#modalCloseBtn').click(function() {
+                console.log("WORKING!!!");
+                $('#modalDiv').hide();
+            });
         });
     </script>
 

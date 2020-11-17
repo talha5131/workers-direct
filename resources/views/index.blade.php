@@ -761,8 +761,8 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                             <div class="jp_job_post_right_btn_wrapper">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="temp-recruitment-consultant">Part Time</a></li>
+                                                                    <li><a href="temp-recruitment-consultant">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
