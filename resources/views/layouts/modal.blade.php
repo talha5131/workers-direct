@@ -49,9 +49,8 @@
 
                 <div class="modal-header">
 
-                    <h3 style="float: left;">Contact Us</h3>
-                    <button class="btn" id="modalCloseBtn" style="float: right; background: #7CC24D; color: #FFFFFF;"><i style="font-size: 13px;" class="fas fa-times"></i></button>
-
+                    <h3 style="float: left; font-weight: 700; font-size: 20px;">Contact Us</h3>
+                    <button class="btn" id="modalCloseBtn" style="float: right; background: #7CC24D; color: #FFFFFF;" data-dismiss="modal"><i style="font-size: 13px;" class="fas fa-times"></i></button>
                 </div>
 
 

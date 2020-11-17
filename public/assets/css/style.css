@@ -5325,6 +5325,7 @@ i {
     content: "\f0f3";
     color: #ffffff;
 }
+
 .accordion_wrapper .panel .panel-heading.search a:before {
     content: "\f002";
     color: #ffffff;
@@ -7953,4 +7954,12 @@ label.formsLabel {
 
 .jp_bottom_footer_left_cont p a {
     color: white;
+}
+
+.footer2ndSectionPadding {
+    padding-bottom: 25px !important;
+}
+
+.footer3ndSectionPadding {
+    padding-bottom: 16px !important;
 }
