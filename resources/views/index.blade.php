@@ -417,17 +417,18 @@ London we provide temp & perm warehouse, catering staff across UK.">
 
                                                         <div class="jp_career_img_wrapper">
 
-                                                            <img src="public/assets/images/content/job-seeker-workers-direct.jpg" alt="career_img" />
+                                                            <img src="{{url('public/assets/images/page-pictures/RECEPTION STAFF/reception_staff_3.jpg')}}" height="150px" alt="career_img" />
+
 
                                                         </div>
 
                                                         <div class="jp_career_cont_wrapper margin-top-20">
 
-                                                            <p><i class="fa fa-calendar"></i>&nbsp;&nbsp; <a style="margin-left: 50px;" href="#">20 OCT, 2017</a></p>
+                                                            <p><i style="color: #7CC24D;" class="fa fa-calendar"></i>&nbsp;&nbsp; <a href="reception-job-page">ASAP (Temporary to Perm)</a></p>
 
-                                                            <h3 class="margin-top-10"><a style="color: black;font-weight: 700;font-size: 17px;" href="#">Construction Labourers In Recruitment Agency</a></h3>
+                                                            <h3 class="margin-top-10"><a style="color: black;font-weight: 700;font-size: 17px;" href="reception-job-page">Receptionist (Required ASAP)</a></h3>
 
-                                                            <p style="margin-top: 15px;line-height: 30px;">Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat.</p>
+                                                            <p style="margin-top: 15px;line-height: 30px;">We at Workers Direct seek reliable and trustworthy Receptionist on temporary basis with experience in area of London.</p>
 
                                                         </div>
 
@@ -438,6 +439,60 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 </div>
 
                                                 <div class="item jp_recent_main">
+
+                                                    <div class="jp_career_main_box_wrapper">
+
+                                                        <div class="jp_career_img_wrapper">
+
+                                                            <img src="{{url('public/assets/images/page-pictures/TEMPORARY JOBS/temporary_jobs_3.jpg')}}" height="150px" alt="career_img" />
+
+
+                                                        </div>
+
+                                                        <div class="jp_career_cont_wrapper margin-top-20">
+
+                                                            <p><i style="color: #7CC24D;" class="fa fa-calendar"></i>&nbsp;&nbsp; <a href="handyman-job-page">ASAP (Temporary)</a></p>
+
+                                                            <h3 class="margin-top-10"><a style="color: black;font-weight: 700;font-size: 17px;" href="handyman-job-page">Handyman (Required ASAP)</a></h3>
+
+                                                            <p style="margin-top: 15px;line-height: 30px;">We are hiring an experienced Handyman (multi skilled builder) on temporary, part time basis for a client based in Surrey area.</p>
+
+                                                        </div>
+
+                                                    </div>
+
+
+
+                                                </div>
+
+                                                <div class="item jp_recent_main">
+
+                                                    <div class="jp_career_main_box_wrapper">
+
+                                                        <div class="jp_career_img_wrapper">
+
+                                                            <img src="{{url('public/assets/images/page-pictures/admin staff/admin_staff_2.jpg')}}" height="150px" alt="career_img" />
+
+
+                                                        </div>
+
+                                                        <div class="jp_career_cont_wrapper margin-top-20">
+
+                                                            <p><i style="color: #7CC24D;" class="fa fa-calendar"></i>&nbsp;&nbsp; <a href="careassistant-job-page">ASAP (Permanent)</a></p>
+
+                                                            <h3 class="margin-top-10"><a style="color: black;font-weight: 700;font-size: 17px;" href="careassistant-job-page">Care Assistant (Required ASAP)</a></h3>
+
+                                                            <p style="margin-top: 15px;line-height: 30px;">We are hiring an experienced Care Assistant on Permanent basis, for North London area.</p>
+
+                                                        </div>
+
+                                                    </div>
+
+
+
+                                                </div>
+
+                                                <!-- <div class="item jp_recent_main">
 
                                                     <div class="jp_career_main_box_wrapper">
 
@@ -487,7 +542,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
 
 
 
-                                                </div>
+                                                </div> -->
 
                                             </div>
 
