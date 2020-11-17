@@ -329,7 +329,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                 <div class="step-1 margin-top-20">
                     <div class="margin-top-10 jp_best_deal_icon_sec"> <i class="green fa fa-address-card"></i> </div>
                     <div class="jp_best_deal_cont_sec margin-top-15">
-                        <h4><a href="cv-register">CV Registration</a></h4>
+                        <h4><a href="{{url('cv-registration')}}">CV Registration</a></h4>
                         <p> By registering with us, you will have exposure and access to temporary jobs easily. We will help you to get the best job that suits your qualification and skills.</p>
                     </div>
                 </div>
@@ -2832,7 +2832,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                 <div class="jp_add_resume_cont"> <img src="public/assets/images/header/animated-logo-wd.gif" alt="logo" />
                                     <h4>Get Best Matched Jobs On your Email. Add Resume NOW!</h4>
                                     <ul>
-                                        <li><a href="cv-register"><i class="fa fa-plus-circle"></i> CV Registration</a></li>
+                                        <li><a href="{{url('cv-registration')}}"><i class="fa fa-plus-circle"></i> CV Registration</a></li>
                                     </ul>
                                 </div>
                             </div>

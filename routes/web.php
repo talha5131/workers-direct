@@ -78,7 +78,7 @@ Route::get('/index_II', function () {
 // Route::get('/index', function () {
 //     return view('index');
 // });
-Route::get('/cv-register', function () {
+Route::get('/cv-registration', function () {
     return view('cv-registration');
 });
 Route::get('/contact-us', function () {
