@@ -1,5 +1,5 @@
 @extends('layouts.base')
-@section('title','Temp Recruitment Consultant')
+@section('title','Carpenter & Joiners')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +31,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h1>Temp Recruitment Consultant</h1>
+                        <h1>Carpenter & Joiners</h1>
 
                     </div>
 
@@ -45,7 +45,7 @@
 
 
 
-                                <li>Temp Recruitment Consultant</li>
+                                <li>Carpenter & Joiners</li>
 
                             </ul>
 
@@ -79,7 +79,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h2>Temp Recruitment Consultant</h2>
+                        <h2>Carpenter & Joiners</h2>
 
                     </div>
 
@@ -98,19 +98,19 @@
 
                             <tr>
                                 <th class="green">Job Title</th>
-                                <td>Temp Recruitment Consultant</td>
+                                <td>Carpenter & Joiners</td>
 
                             </tr>
 
 
                             <tr>
                                 <th class="green">Location</th>
-                                <td> East London </td>
+                                <td> Harlow </td>
 
                             </tr>
                             <tr>
                                 <th class="green">Duration</th>
-                                <td> Part Time </td>
+                                <td> Temporary to Permanent </td>
 
                             </tr>
                             <tr>
@@ -120,7 +120,7 @@
                             </tr>
                             <tr>
                                 <th class="green">Payrate </th>
-                                <td> £9 - £12 per hour </td>
+                                <td> £17 - £18 per hour </td>
 
                             </tr>
 
@@ -143,14 +143,14 @@
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
 
                         <p>
-                            We are looking for a Temp Recruitment Consultant on part-time basis in the area of East London.
+                            We are looking for a role of an experienced Carpenter/Joiners for our client in Harlow CM17 Area.
                         </p>
 
 
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
-                        <h4>Job Duties:</h4>
+                        <h4>Responsibilities</h4>
 
 
                     </div>
@@ -158,66 +158,44 @@
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-40">
 
                         <ul>
-                            <li><i class="fa fa-caret-right"></i> Meeting, greeting and registering of all candidates</li>
-                            <li><i class="fa fa-caret-right"></i> Providing full admin support to a small team of recruitment consultants</li>
-                            <li><i class="fa fa-caret-right"></i> Applying for and following up on all references</li>
-                            <li><i class="fa fa-caret-right"></i> Operating the temp’s payroll on a weekly basis for the office</li>
-                            <li><i class="fa fa-caret-right"></i> Creating and sending out mailshots</li>
-                            <li><i class="fa fa-caret-right"></i> Liaising with and setting up various jobsites</li>
-                            <li><i class="fa fa-caret-right"></i> Purchasing office consumables</li>
-                            <li><i class="fa fa-caret-right"></i> Ensuring the reception area is always kept tidy </li>
-                            <li><i class="fa fa-caret-right"></i> Inputting candidates onto the in-house database system (training given)</li>
-                            <li><i class="fa fa-caret-right"></i>Uploading job adverts onto various jobsites</li>
-                            <li><i class="fa fa-caret-right"></i>Formatting CV`s as and when required</li>
-                            <li><i class="fa fa-caret-right"></i>Answer incoming calls and relaying precise messages in a timely manner</li>
-                            <li><i class="fa fa-caret-right"></i>Seeking new business opportunities by using various sales techniques such as canvassing (cold calling, drive rounds, door knocking)</li>
-                            <li><i class="fa fa-caret-right"></i>Assist consultants with recruitment resourcing for suitable candidates when required</li>
-
-
+                            <li><i class="fa fa-caret-right"></i> Read blueprints, drawings and sketches to fully grasp requirements</li>
+                            <li><i class="fa fa-caret-right"></i> Take measurements and calculate the size and amount of material needed</li>
+                            <li><i class="fa fa-caret-right"></i> Cut, shape and smooth lumber and other material (e.g. fiberglass) according to measurements</li>
+                            <li><i class="fa fa-caret-right"></i> Build window frames, doors, staircases and frame buildings by using raw materials or pre-constructed items</li>
+                            <li><i class="fa fa-caret-right"></i> Lay out floorings, roofing or drywalls ensuring they are levelled and compatible</li>
+                            <li><i class="fa fa-caret-right"></i> Carve and assemble furniture, cabinets, shelves and other items and install them where designated</li>
+                            <li><i class="fa fa-caret-right"></i> Inspect places and conduct repairs or maintenance</li>
+                            <li><i class="fa fa-caret-right"></i> Build scaffolding and other construction structures </li>
+                            
 
                         </ul>
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-40">
-                        <h4>Required Qualifications:</h4>
+                        <h4>Requirements</h4>
 
 
                     </div>
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-40">
 
                         <ul>
-                            <li><i class="fa fa-caret-right"></i>Recruitment consultant roles are open to graduates regardless of degree subject. Rather than specific qualifications, employers value drive, experience, skills and abilities, as well as the determination to succeed. Applying to an agency that specialises in a market or industry related to your degree subject, for example IT or engineering, may increase your chances.</li>
-                            <li><i class="fa fa-caret-right"></i>Entry with an HND or foundation degree is possible. Entry without a degree is possible for those with relevant experience, skills and abilities.</li>
-                            <li><i class="fa fa-caret-right"></i>Postgraduate study is not essential and you will probably find that relevant experience and skills are more useful.</li>
+                            <li><i class="fa fa-caret-right"></i>Proven experience as carpenter</li>
+                            <li><i class="fa fa-caret-right"></i>Hands-on experience in working with carpentry materials</li>
+                            <li><i class="fa fa-caret-right"></i>Excellent understanding of carpentry techniques and methods of installation and construction</li>
+                            <li><i class="fa fa-caret-right"></i>Proficient in using electrical and manual equipment and measurement tools (powered saws, hammers, rulers etc.)</li>
+                            <li><i class="fa fa-caret-right"></i>Ability to read technical documents and drawings</li>
+                            <li><i class="fa fa-caret-right"></i>Willingness to follow safety guidelines at all times</li>
+                            <li><i class="fa fa-caret-right"></i>Good knowledge of English</li>
+                            <li><i class="fa fa-caret-right"></i>Good understanding of basic math</li>
+                            <li><i class="fa fa-caret-right"></i>Good physical condition and endurance</li>
+                            <li><i class="fa fa-caret-right"></i>High school diploma; Successful completion of a carpentry apprenticeship program is required</li>
+                            
 
 
                         </ul>
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-40">
-                        <h4>Skills Required:</h4>
 
-                        <p>You'll need to show evidence of the following:</p>
-                    </div>
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-40">
-
-                        <ul>
-                            <li><i class="fa fa-caret-right"></i>excellent interpersonal and communication skills</li>
-                            <li><i class="fa fa-caret-right"></i>sales and negotiation skills</li>
-                            <li><i class="fa fa-caret-right"></i>a goal-orientated approach to work</li>
-                            <li><i class="fa fa-caret-right"></i>the ability to handle multiple priorities</li>
-                            <li><i class="fa fa-caret-right"></i>problem-solving ability</li>
-                            <li><i class="fa fa-caret-right"></i>the ability to meet deadlines and targets</li>
-                            <li><i class="fa fa-caret-right"></i>ambition and the determination to succeed</li>
-                            <li><i class="fa fa-caret-right"></i>tenacity</li>
-                            <li><i class="fa fa-caret-right"></i>confidence and self-motivation</li>
-                            <li><i class="fa fa-caret-right"></i>time management and organisational skills</li>
-                            <li><i class="fa fa-caret-right"></i>team-working skills</li>
-                            <li><i class="fa fa-caret-right"></i>creativity</li>
-
-
-                        </ul>
-                    </div>
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
                         <p>If you are qualified and interested, please contact ASAP.</p>
                     </div>

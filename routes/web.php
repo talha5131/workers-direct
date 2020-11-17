@@ -366,4 +366,18 @@ Route::get('/cscs-labourer-page', function () {
 Route::get('/dbs-cook-job-page', function () {
     return view('dbs-cook-job-page');
 });
-
+Route::get('/temp-recruitment-consultant', function () {
+    return view('temp-recruitment-consultant');
+});
+Route::get('/dataentry-operative', function () {
+    return view('dataentry-operative');
+});
+Route::get('/carpenters-&-joiners', function () {
+    return view('carpenters-&-joiners');
+});
+Route::get('/staffing-coordinator', function () {
+    return view('staffing-coordinator');
+});
+Route::get('/admin-assistant', function () {
+    return view('admin-assistant');
+});

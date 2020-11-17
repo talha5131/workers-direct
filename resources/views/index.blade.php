@@ -424,9 +424,9 @@ London we provide temp & perm warehouse, catering staff across UK.">
 
                                                         <div class="jp_career_cont_wrapper margin-top-20">
 
-                                                            <p><i style="color: #7CC24D;" class="fa fa-calendar"></i>&nbsp;&nbsp; <a href="reception-job-page">ASAP (Temporary to Perm)</a></p>
+                                                            <p><i style="color: #7CC24D;" class="fa fa-calendar"></i>&nbsp;&nbsp; <a href="{{url('reception-job-page')}}">ASAP (Temporary to Perm)</a></p>
 
-                                                            <h3 class="margin-top-10"><a style="color: black;font-weight: 700;font-size: 17px;" href="reception-job-page">Receptionist (Required ASAP)</a></h3>
+                                                            <h3 class="margin-top-10"><a style="color: black;font-weight: 700;font-size: 17px;" href="{{url('reception-job-page')}}">Receptionist (Required ASAP)</a></h3>
 
                                                             <p style="margin-top: 15px;line-height: 30px;">We at Workers Direct seek reliable and trustworthy Receptionist on temporary basis with experience in area of London.</p>
 
@@ -451,9 +451,9 @@ London we provide temp & perm warehouse, catering staff across UK.">
 
                                                         <div class="jp_career_cont_wrapper margin-top-20">
 
-                                                            <p><i style="color: #7CC24D;" class="fa fa-calendar"></i>&nbsp;&nbsp; <a href="handyman-job-page">ASAP (Temporary)</a></p>
+                                                            <p><i style="color: #7CC24D;" class="fa fa-calendar"></i>&nbsp;&nbsp; <a href="{{url('handyman-job-page')}}">ASAP (Temporary)</a></p>
 
-                                                            <h3 class="margin-top-10"><a style="color: black;font-weight: 700;font-size: 17px;" href="handyman-job-page">Handyman (Required ASAP)</a></h3>
+                                                            <h3 class="margin-top-10"><a style="color: black;font-weight: 700;font-size: 17px;" href="{{url('handyman-job-page')}}">Handyman (Required ASAP)</a></h3>
 
                                                             <p style="margin-top: 15px;line-height: 30px;">We are hiring an experienced Handyman (multi skilled builder) on temporary, part time basis for a client based in Surrey area.</p>
 
@@ -478,9 +478,9 @@ London we provide temp & perm warehouse, catering staff across UK.">
 
                                                         <div class="jp_career_cont_wrapper margin-top-20">
 
-                                                            <p><i style="color: #7CC24D;" class="fa fa-calendar"></i>&nbsp;&nbsp; <a href="careassistant-job-page">ASAP (Permanent)</a></p>
+                                                            <p><i style="color: #7CC24D;" class="fa fa-calendar"></i>&nbsp;&nbsp; <a href="{{url('careassistant-job-page')}}">ASAP (Permanent)</a></p>
 
-                                                            <h3 class="margin-top-10"><a style="color: black;font-weight: 700;font-size: 17px;" href="careassistant-job-page">Care Assistant (Required ASAP)</a></h3>
+                                                            <h3 class="margin-top-10"><a style="color: black;font-weight: 700;font-size: 17px;" href="{{url('careassistant-job-page')}}">Care Assistant (Required ASAP)</a></h3>
 
                                                             <p style="margin-top: 15px;line-height: 30px;">We are hiring an experienced Care Assistant on Permanent basis, for North London area.</p>
 
@@ -492,57 +492,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
 
                                                 </div>
 
-                                                <!-- <div class="item jp_recent_main">
 
-                                                    <div class="jp_career_main_box_wrapper">
-
-                                                        <div class="jp_career_img_wrapper">
-
-                                                            <img src="public/assets/images/content/job-seeker-workers-direct.jpg" alt="career_img" />
-
-                                                        </div>
-
-                                                        <div class="jp_career_cont_wrapper margin-top-20">
-
-                                                            <p><i class="fa fa-calendar"></i>&nbsp;&nbsp; <a style="margin-left: 50px;" href="#">20 OCT, 2017</a></p>
-
-                                                            <h3 class="margin-top-10"><a style="color: black;font-weight: 700;font-size: 17px;" href="#">Construction Plant Hire In Recruitment Agency</a></h3>
-
-                                                            <p style="margin-top: 15px;line-height: 30px;">Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat.</p>
-
-                                                        </div>
-
-                                                    </div>
-
-
-
-                                                </div>
-
-                                                <div class="item jp_recent_main">
-
-                                                    <div class="jp_career_main_box_wrapper">
-
-                                                        <div class="jp_career_img_wrapper">
-
-                                                            <img src="public/assets/images/content/job-seeker-workers-direct.jpg" alt="career_img" />
-
-                                                        </div>
-
-                                                        <div class="jp_career_cont_wrapper margin-top-20">
-
-                                                            <p><i class="fa fa-calendar"></i>&nbsp;&nbsp; <a style="margin-left: 50px;" href="#">20 OCT, 2017</a></p>
-
-                                                            <h3 class="margin-top-10"><a style="color: black;font-weight: 700;font-size: 17px;" href="#">Labourer Jobs In Broadstairs</a></h3>
-
-                                                            <p style="margin-top: 15px;line-height: 30px;">Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat.</p>
-
-                                                        </div>
-
-                                                    </div>
-
-
-
-                                                </div> -->
 
                                             </div>
 
@@ -579,7 +529,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img1.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img1.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
                                                                 <h4>Sales Assistant </h4>
                                                                 <p>Temporary</p>
@@ -593,8 +543,8 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                             <div class="jp_job_post_right_btn_wrapper">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="sales-assistant-job-page">Part Time</a></li>
-                                                                    <li><a href="sales-assistant-job-page">Apply</a></li>
+                                                                    <li><a href="#">Part Time</a></li>
+                                                                    <li><a href="{{url('sales-assistant-job-page')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -614,7 +564,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img2.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img2.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
                                                                 <h4>CPCS - 360 Excavator Driver </h4>
                                                                 <p>Temporary</p>
@@ -628,8 +578,8 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                             <div class="jp_job_post_right_btn_wrapper">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="cpcs-job-page">Part Time</a></li>
-                                                                    <li><a href="cpcs-job-page">Apply</a></li>
+                                                                    <li><a href="#">Part Time</a></li>
+                                                                    <li><a href="{{url('cpcs-job-page')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -650,7 +600,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img3.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img3.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
                                                                 <h4>CSCS Labourer</h4>
                                                                 <p>Permanent, Full Time</p>
@@ -664,8 +614,8 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                             <div class="jp_job_post_right_btn_wrapper">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="cscs-labourer-page">Part Time</a></li>
-                                                                    <li><a href="cscs-labourer-page">Apply</a></li>
+                                                                    <li><a href="#">Part Time</a></li>
+                                                                    <li><a href="{{url('cscs-labourer-page')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -683,81 +633,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 </div>
                                             </div>
 
-                                            <!-- <div class="jp_job_post_main_wrapper_cont jp_job_post_main_wrapper_cont2">
-                                                <div class="jp_job_post_main_wrapper">
-                                                    <div class="row">
-                                                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img4.jpg" alt="post_img" /> </div>
-                                                            <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
-                                                                <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                                            <div class="jp_job_post_right_btn_wrapper">
-                                                                <ul>
-                                                                    <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="jp_job_post_keyword_wrapper">
-                                                    <ul>
-                                                        <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
-                                                    </ul>
-                                                </div>
-                                            </div> -->
 
-                                            <!-- <div class="jp_job_post_main_wrapper_cont jp_job_post_main_wrapper_cont2">
-                                                <div class="jp_job_post_main_wrapper">
-                                                    <div class="row">
-                                                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img5.jpg" alt="post_img" /> </div>
-                                                            <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
-                                                                <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                                            <div class="jp_job_post_right_btn_wrapper">
-                                                                <ul>
-                                                                    <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="jp_job_post_keyword_wrapper">
-                                                    <ul>
-                                                        <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
-                                                    </ul>
-                                                </div>
-                                            </div> -->
 
                                         </div>
                                         <div class="item" data-hash="one">
@@ -765,7 +641,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img1.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img1.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
                                                                 <h4>DBS Cook </h4>
                                                                 <p>Part Time</p>
@@ -779,8 +655,8 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                             <div class="jp_job_post_right_btn_wrapper">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="dbs-cook-job-page">Part Time</a></li>
-                                                                    <li><a href="dbs-cook-job-page">Apply</a></li>
+                                                                    <li><a href="#">Part Time</a></li>
+                                                                    <li><a href="{{url('dbs-cook-job-page')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -789,12 +665,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">cook,</a></li>
+                                                        <li><a href="#">food,</a></li>
+                                                        <li><a href="#">dbs cook</a></li>
+                                                        <li><a href="#">chef,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
@@ -802,7 +677,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img2.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img2.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
                                                                 <h4>Temp Recruitment Consultant </h4>
                                                                 <p>Part Time</p>
@@ -816,8 +691,8 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                             <div class="jp_job_post_right_btn_wrapper">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="temp-recruitment-consultant">Part Time</a></li>
-                                                                    <li><a href="temp-recruitment-consultant">Apply</a></li>
+                                                                    <li><a href="#">Part Time</a></li>
+                                                                    <li><a href="{{url('temp-recruitment-consultant')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -826,12 +701,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">recruitment,</a></li>
+                                                        <li><a href="#">temp recruitment,</a></li>
+                                                        <li><a href="#">consultant</a></li>
+                                                        <li><a href="#">hiring,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
@@ -839,13 +713,13 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img3.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img3.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>Data Entry Operatives </h4>
+                                                                <p>Temporary</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £8.72 - £9 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Southampton</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -854,7 +728,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('dataentry-operative')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -863,102 +737,28 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">typing,</a></li>
+                                                        <li><a href="#">dataentry,</a></li>
+                                                        <li><a href="#">jobs</a></li>
+                                                        <li><a href="#">typing speed,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <div class="jp_job_post_main_wrapper_cont jp_job_post_main_wrapper_cont2">
-                                                <div class="jp_job_post_main_wrapper">
-                                                    <div class="row">
-                                                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img4.jpg" alt="post_img" /> </div>
-                                                            <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
-                                                                <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                                            <div class="jp_job_post_right_btn_wrapper">
-                                                                <ul>
-                                                                    <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="jp_job_post_keyword_wrapper">
-                                                    <ul>
-                                                        <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div class="jp_job_post_main_wrapper_cont jp_job_post_main_wrapper_cont2">
-                                                <div class="jp_job_post_main_wrapper">
-                                                    <div class="row">
-                                                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img5.jpg" alt="post_img" /> </div>
-                                                            <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
-                                                                <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                                            <div class="jp_job_post_right_btn_wrapper">
-                                                                <ul>
-                                                                    <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="jp_job_post_keyword_wrapper">
-                                                    <ul>
-                                                        <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
+
                                         </div>
                                         <div class="item" data-hash="two">
                                             <div class="jp_job_post_main_wrapper_cont">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img1.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img1.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>Carpenters & Joiners </h4>
+                                                                <p>Temporary to Permanent</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £17 - £18 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Harlow</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -967,7 +767,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('carpenters-&-joiners')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -976,12 +776,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">carpenters,</a></li>
+                                                        <li><a href="#">temp labourer,</a></li>
+                                                        <li><a href="#">worker</a></li>
+                                                        <li><a href="#">furniture,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
@@ -989,13 +788,13 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img2.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img2.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>Staffing Coordinator </h4>
+                                                                <p>Temporary</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £9 - £12 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; London</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1004,7 +803,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('staffing-coordinator')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1013,12 +812,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">staffing,</a></li>
+                                                        <li><a href="#">staffing coordinator,</a></li>
+                                                        <li><a href="#">coordinator</a></li>
+                                                        <li><a href="#">staff,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
@@ -1026,13 +824,13 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img3.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img3.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>Admin Assistant </h4>
+                                                                <p>Temporary to Permanent </p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £9 - £10 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp;London</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1041,7 +839,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('admin-assistant')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1050,89 +848,15 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">admin assistant,</a></li>
+                                                        <li><a href="#">assistant,</a></li>
+                                                        <li><a href="#">admin</a></li>
+                                                        <li><a href="#">Administrative Assistant,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <div class="jp_job_post_main_wrapper_cont jp_job_post_main_wrapper_cont2">
-                                                <div class="jp_job_post_main_wrapper">
-                                                    <div class="row">
-                                                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img4.jpg" alt="post_img" /> </div>
-                                                            <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
-                                                                <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                                            <div class="jp_job_post_right_btn_wrapper">
-                                                                <ul>
-                                                                    <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="jp_job_post_keyword_wrapper">
-                                                    <ul>
-                                                        <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div class="jp_job_post_main_wrapper_cont jp_job_post_main_wrapper_cont2">
-                                                <div class="jp_job_post_main_wrapper">
-                                                    <div class="row">
-                                                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img5.jpg" alt="post_img" /> </div>
-                                                            <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
-                                                                <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                                            <div class="jp_job_post_right_btn_wrapper">
-                                                                <ul>
-                                                                    <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="jp_job_post_keyword_wrapper">
-                                                    <ul>
-                                                        <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
+
                                         </div>
                                     </div>
                                 </div>
@@ -1154,13 +878,13 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img1.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img1.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>Sales Assistant </h4>
+                                                                <p>Temporary</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £8.72 - £9 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; London</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1169,7 +893,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('sales-assistant-job-page')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1178,12 +902,10 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">sales assistant,</a></li>
+                                                        <li><a href="#">vendor job,</a></li>
+                                                        <li><a href="#">dealer</a></li>
+                                                        <li><a href="#">salesclerk,</a></li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -1191,13 +913,13 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img2.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img2.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>CPCS - 360 Excavator Driver </h4>
+                                                                <p>Temporary</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £17 - £18 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Leatherhead</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1206,7 +928,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('cpcs-job-page')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1215,12 +937,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">driver,</a></li>
+                                                        <li><a href="#">excavate,</a></li>
+                                                        <li><a href="#">machinist</a></li>
+                                                        <li><a href="#">operator,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
@@ -1228,13 +949,13 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img3.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img3.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>CSCS Labourer</h4>
+                                                                <p>Permanent, Full Time</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £9- £12 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; London</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1243,7 +964,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('cscs-labourer-page')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1252,102 +973,28 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">worker,</a></li>
+                                                        <li><a href="#">employee,</a></li>
+                                                        <li><a href="#">operative,</a></li>
+                                                        <li><a href="#">handyman,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <div class="jp_job_post_main_wrapper_cont jp_job_post_main_wrapper_cont2">
-                                                <div class="jp_job_post_main_wrapper">
-                                                    <div class="row">
-                                                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img4.jpg" alt="post_img" /> </div>
-                                                            <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
-                                                                <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                                            <div class="jp_job_post_right_btn_wrapper">
-                                                                <ul>
-                                                                    <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="jp_job_post_keyword_wrapper">
-                                                    <ul>
-                                                        <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div class="jp_job_post_main_wrapper_cont jp_job_post_main_wrapper_cont2">
-                                                <div class="jp_job_post_main_wrapper">
-                                                    <div class="row">
-                                                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img5.jpg" alt="post_img" /> </div>
-                                                            <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
-                                                                <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                                            <div class="jp_job_post_right_btn_wrapper">
-                                                                <ul>
-                                                                    <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="jp_job_post_keyword_wrapper">
-                                                    <ul>
-                                                        <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
+
                                         </div>
                                         <div class="item" data-hash="one">
                                             <div class="jp_job_post_main_wrapper_cont">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img1.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img1.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>DBS Cook </h4>
+                                                                <p>Part Time</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £10 - £13 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; West London</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1356,7 +1003,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('dbs-cook-job-page')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1365,12 +1012,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">cook,</a></li>
+                                                        <li><a href="#">food,</a></li>
+                                                        <li><a href="#">dbs cook</a></li>
+                                                        <li><a href="#">chef,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
@@ -1378,13 +1024,13 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img2.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img2.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>Temp Recruitment Consultant </h4>
+                                                                <p>Part Time</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £9 - £12 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; East London</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1393,7 +1039,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('temp-recruitment-consultant')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1402,12 +1048,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">recruitment,</a></li>
+                                                        <li><a href="#">temp recruitment,</a></li>
+                                                        <li><a href="#">consultant</a></li>
+                                                        <li><a href="#">hiring,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
@@ -1415,13 +1060,13 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img3.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img3.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>Data Entry Operatives </h4>
+                                                                <p>Temporary</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £8.72 - £9 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Southampton</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1430,7 +1075,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('dataentry-operative')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1439,102 +1084,28 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">typing,</a></li>
+                                                        <li><a href="#">dataentry,</a></li>
+                                                        <li><a href="#">jobs</a></li>
+                                                        <li><a href="#">typing speed,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <div class="jp_job_post_main_wrapper_cont jp_job_post_main_wrapper_cont2">
-                                                <div class="jp_job_post_main_wrapper">
-                                                    <div class="row">
-                                                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img4.jpg" alt="post_img" /> </div>
-                                                            <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
-                                                                <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                                            <div class="jp_job_post_right_btn_wrapper">
-                                                                <ul>
-                                                                    <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="jp_job_post_keyword_wrapper">
-                                                    <ul>
-                                                        <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div class="jp_job_post_main_wrapper_cont jp_job_post_main_wrapper_cont2">
-                                                <div class="jp_job_post_main_wrapper">
-                                                    <div class="row">
-                                                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img5.jpg" alt="post_img" /> </div>
-                                                            <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
-                                                                <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                                            <div class="jp_job_post_right_btn_wrapper">
-                                                                <ul>
-                                                                    <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="jp_job_post_keyword_wrapper">
-                                                    <ul>
-                                                        <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
+
                                         </div>
                                         <div class="item" data-hash="two">
                                             <div class="jp_job_post_main_wrapper_cont">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img1.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img1.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>Carpenters & Joiners </h4>
+                                                                <p>Temporary to Permanent</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £17 - £18 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Harlow</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1543,7 +1114,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('carpenters-&-joiners')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1552,12 +1123,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">carpenters,</a></li>
+                                                        <li><a href="#">temp labourer,</a></li>
+                                                        <li><a href="#">worker</a></li>
+                                                        <li><a href="#">furniture,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
@@ -1565,13 +1135,13 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img2.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img2.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>Staffing Coordinator </h4>
+                                                                <p>Temporary</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £9 - £12 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; London</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1580,7 +1150,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('staffing-coordinator')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1589,12 +1159,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">staffing,</a></li>
+                                                        <li><a href="#">staffing coordinator,</a></li>
+                                                        <li><a href="#">coordinator</a></li>
+                                                        <li><a href="#">staff,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
@@ -1602,13 +1171,13 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img3.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img3.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>Admin Assistant </h4>
+                                                                <p>Temporary to Permanent </p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £9 - £10 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp;London</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1617,7 +1186,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('admin-assistant')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1626,89 +1195,15 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">admin assistant,</a></li>
+                                                        <li><a href="#">assistant,</a></li>
+                                                        <li><a href="#">admin</a></li>
+                                                        <li><a href="#">Administrative Assistant,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <div class="jp_job_post_main_wrapper_cont jp_job_post_main_wrapper_cont2">
-                                                <div class="jp_job_post_main_wrapper">
-                                                    <div class="row">
-                                                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img4.jpg" alt="post_img" /> </div>
-                                                            <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
-                                                                <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                                            <div class="jp_job_post_right_btn_wrapper">
-                                                                <ul>
-                                                                    <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="jp_job_post_keyword_wrapper">
-                                                    <ul>
-                                                        <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div class="jp_job_post_main_wrapper_cont jp_job_post_main_wrapper_cont2">
-                                                <div class="jp_job_post_main_wrapper">
-                                                    <div class="row">
-                                                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img5.jpg" alt="post_img" /> </div>
-                                                            <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
-                                                                <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                                            <div class="jp_job_post_right_btn_wrapper">
-                                                                <ul>
-                                                                    <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="jp_job_post_keyword_wrapper">
-                                                    <ul>
-                                                        <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
+
                                         </div>
                                     </div>
                                 </div>
@@ -1730,13 +1225,13 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img1.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img1.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>Sales Assistant </h4>
+                                                                <p>Temporary</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £8.72 - £9 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; London</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1745,7 +1240,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('sales-assistant-job-page')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1754,12 +1249,10 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">sales assistant,</a></li>
+                                                        <li><a href="#">vendor job,</a></li>
+                                                        <li><a href="#">dealer</a></li>
+                                                        <li><a href="#">salesclerk,</a></li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -1767,13 +1260,13 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img2.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img2.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>CPCS - 360 Excavator Driver </h4>
+                                                                <p>Temporary</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £17 - £18 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Leatherhead</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1782,7 +1275,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('cpcs-job-page')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1791,12 +1284,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">driver,</a></li>
+                                                        <li><a href="#">excavate,</a></li>
+                                                        <li><a href="#">machinist</a></li>
+                                                        <li><a href="#">operator,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
@@ -1804,13 +1296,13 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img3.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img3.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>CSCS Labourer</h4>
+                                                                <p>Permanent, Full Time</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £9- £12 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; London</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1819,7 +1311,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('cscs-labourer-page')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1828,102 +1320,28 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">worker,</a></li>
+                                                        <li><a href="#">employee,</a></li>
+                                                        <li><a href="#">operative,</a></li>
+                                                        <li><a href="#">handyman,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <div class="jp_job_post_main_wrapper_cont jp_job_post_main_wrapper_cont2">
-                                                <div class="jp_job_post_main_wrapper">
-                                                    <div class="row">
-                                                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img4.jpg" alt="post_img" /> </div>
-                                                            <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
-                                                                <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                                            <div class="jp_job_post_right_btn_wrapper">
-                                                                <ul>
-                                                                    <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="jp_job_post_keyword_wrapper">
-                                                    <ul>
-                                                        <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div class="jp_job_post_main_wrapper_cont jp_job_post_main_wrapper_cont2">
-                                                <div class="jp_job_post_main_wrapper">
-                                                    <div class="row">
-                                                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img5.jpg" alt="post_img" /> </div>
-                                                            <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
-                                                                <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                                            <div class="jp_job_post_right_btn_wrapper">
-                                                                <ul>
-                                                                    <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="jp_job_post_keyword_wrapper">
-                                                    <ul>
-                                                        <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
+
                                         </div>
                                         <div class="item" data-hash="one">
                                             <div class="jp_job_post_main_wrapper_cont">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img1.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img1.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>DBS Cook </h4>
+                                                                <p>Part Time</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £10 - £13 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; West London</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1932,7 +1350,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('dbs-cook-job-page')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1941,12 +1359,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">cook,</a></li>
+                                                        <li><a href="#">food,</a></li>
+                                                        <li><a href="#">dbs cook</a></li>
+                                                        <li><a href="#">chef,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
@@ -1954,13 +1371,13 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img2.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img2.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>Temp Recruitment Consultant </h4>
+                                                                <p>Part Time</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £9 - £12 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; East London</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1969,7 +1386,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('temp-recruitment-consultant')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1978,12 +1395,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">recruitment,</a></li>
+                                                        <li><a href="#">temp recruitment,</a></li>
+                                                        <li><a href="#">consultant</a></li>
+                                                        <li><a href="#">hiring,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
@@ -1991,13 +1407,13 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img3.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img3.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>Data Entry Operatives </h4>
+                                                                <p>Temporary</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £8.72 - £9 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Southampton</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -2006,7 +1422,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('dataentry-operative')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -2015,102 +1431,28 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">typing,</a></li>
+                                                        <li><a href="#">dataentry,</a></li>
+                                                        <li><a href="#">jobs</a></li>
+                                                        <li><a href="#">typing speed,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <div class="jp_job_post_main_wrapper_cont jp_job_post_main_wrapper_cont2">
-                                                <div class="jp_job_post_main_wrapper">
-                                                    <div class="row">
-                                                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img4.jpg" alt="post_img" /> </div>
-                                                            <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
-                                                                <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                                            <div class="jp_job_post_right_btn_wrapper">
-                                                                <ul>
-                                                                    <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="jp_job_post_keyword_wrapper">
-                                                    <ul>
-                                                        <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div class="jp_job_post_main_wrapper_cont jp_job_post_main_wrapper_cont2">
-                                                <div class="jp_job_post_main_wrapper">
-                                                    <div class="row">
-                                                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img5.jpg" alt="post_img" /> </div>
-                                                            <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
-                                                                <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                                            <div class="jp_job_post_right_btn_wrapper">
-                                                                <ul>
-                                                                    <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="jp_job_post_keyword_wrapper">
-                                                    <ul>
-                                                        <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
+
                                         </div>
                                         <div class="item" data-hash="two">
                                             <div class="jp_job_post_main_wrapper_cont">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img1.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img1.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>Carpenters & Joiners </h4>
+                                                                <p>Temporary to Permanent</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £17 - £18 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Harlow</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -2119,7 +1461,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('carpenters-&-joiners')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -2128,12 +1470,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">carpenters,</a></li>
+                                                        <li><a href="#">temp labourer,</a></li>
+                                                        <li><a href="#">worker</a></li>
+                                                        <li><a href="#">furniture,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
@@ -2141,13 +1482,13 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img2.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img2.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>Staffing Coordinator </h4>
+                                                                <p>Temporary</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £9 - £12 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; London</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -2156,7 +1497,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('staffing-coordinator')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -2165,12 +1506,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">staffing,</a></li>
+                                                        <li><a href="#">staffing coordinator,</a></li>
+                                                        <li><a href="#">coordinator</a></li>
+                                                        <li><a href="#">staff,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
@@ -2178,13 +1518,13 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img3.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img3.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>Admin Assistant </h4>
+                                                                <p>Temporary to Permanent </p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £9 - £10 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp;London</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -2193,7 +1533,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('admin-assistant')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -2202,89 +1542,15 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">admin assistant,</a></li>
+                                                        <li><a href="#">assistant,</a></li>
+                                                        <li><a href="#">admin</a></li>
+                                                        <li><a href="#">Administrative Assistant,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <div class="jp_job_post_main_wrapper_cont jp_job_post_main_wrapper_cont2">
-                                                <div class="jp_job_post_main_wrapper">
-                                                    <div class="row">
-                                                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img4.jpg" alt="post_img" /> </div>
-                                                            <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
-                                                                <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                                            <div class="jp_job_post_right_btn_wrapper">
-                                                                <ul>
-                                                                    <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="jp_job_post_keyword_wrapper">
-                                                    <ul>
-                                                        <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div class="jp_job_post_main_wrapper_cont jp_job_post_main_wrapper_cont2">
-                                                <div class="jp_job_post_main_wrapper">
-                                                    <div class="row">
-                                                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img5.jpg" alt="post_img" /> </div>
-                                                            <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
-                                                                <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                                            <div class="jp_job_post_right_btn_wrapper">
-                                                                <ul>
-                                                                    <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="jp_job_post_keyword_wrapper">
-                                                    <ul>
-                                                        <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
+
                                         </div>
                                     </div>
                                 </div>
@@ -2306,13 +1572,13 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img1.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img1.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>Sales Assistant </h4>
+                                                                <p>Temporary</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £8.72 - £9 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; London</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -2321,7 +1587,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('sales-assistant-job-page')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -2330,12 +1596,10 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">sales assistant,</a></li>
+                                                        <li><a href="#">vendor job,</a></li>
+                                                        <li><a href="#">dealer</a></li>
+                                                        <li><a href="#">salesclerk,</a></li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -2343,13 +1607,13 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img2.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img2.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>CPCS - 360 Excavator Driver </h4>
+                                                                <p>Temporary</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £17 - £18 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Leatherhead</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -2358,7 +1622,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('cpcs-job-page')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -2367,12 +1631,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">driver,</a></li>
+                                                        <li><a href="#">excavate,</a></li>
+                                                        <li><a href="#">machinist</a></li>
+                                                        <li><a href="#">operator,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
@@ -2380,13 +1643,13 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img3.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img3.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>CSCS Labourer</h4>
+                                                                <p>Permanent, Full Time</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £9- £12 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; London</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -2395,7 +1658,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('cscs-labourer-page')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -2404,86 +1667,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div class="jp_job_post_main_wrapper_cont jp_job_post_main_wrapper_cont2">
-                                                <div class="jp_job_post_main_wrapper">
-                                                    <div class="row">
-                                                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img4.jpg" alt="post_img" /> </div>
-                                                            <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
-                                                                <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                                            <div class="jp_job_post_right_btn_wrapper">
-                                                                <ul>
-                                                                    <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="jp_job_post_keyword_wrapper">
-                                                    <ul>
-                                                        <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div class="jp_job_post_main_wrapper_cont jp_job_post_main_wrapper_cont2">
-                                                <div class="jp_job_post_main_wrapper">
-                                                    <div class="row">
-                                                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img5.jpg" alt="post_img" /> </div>
-                                                            <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
-                                                                <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                                            <div class="jp_job_post_right_btn_wrapper">
-                                                                <ul>
-                                                                    <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="jp_job_post_keyword_wrapper">
-                                                    <ul>
-                                                        <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">worker,</a></li>
+                                                        <li><a href="#">employee,</a></li>
+                                                        <li><a href="#">operative,</a></li>
+                                                        <li><a href="#">handyman,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
@@ -2493,13 +1681,13 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img1.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img1.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>DBS Cook </h4>
+                                                                <p>Part Time</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £10 - £13 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; West London</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -2508,7 +1696,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('dbs-cook-job-page')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -2517,12 +1705,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">cook,</a></li>
+                                                        <li><a href="#">food,</a></li>
+                                                        <li><a href="#">dbs cook</a></li>
+                                                        <li><a href="#">chef,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
@@ -2530,13 +1717,13 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img2.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img2.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>Temp Recruitment Consultant </h4>
+                                                                <p>Part Time</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £9 - £12 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; East London</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -2545,7 +1732,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('temp-recruitment-consultant')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -2554,12 +1741,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">recruitment,</a></li>
+                                                        <li><a href="#">temp recruitment,</a></li>
+                                                        <li><a href="#">consultant</a></li>
+                                                        <li><a href="#">hiring,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
@@ -2567,13 +1753,13 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img3.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img3.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>Data Entry Operatives </h4>
+                                                                <p>Temporary</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £8.72 - £9 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Southampton</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -2582,7 +1768,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('dataentry-operative')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -2591,86 +1777,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div class="jp_job_post_main_wrapper_cont jp_job_post_main_wrapper_cont2">
-                                                <div class="jp_job_post_main_wrapper">
-                                                    <div class="row">
-                                                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img4.jpg" alt="post_img" /> </div>
-                                                            <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
-                                                                <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                                            <div class="jp_job_post_right_btn_wrapper">
-                                                                <ul>
-                                                                    <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="jp_job_post_keyword_wrapper">
-                                                    <ul>
-                                                        <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div class="jp_job_post_main_wrapper_cont jp_job_post_main_wrapper_cont2">
-                                                <div class="jp_job_post_main_wrapper">
-                                                    <div class="row">
-                                                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img5.jpg" alt="post_img" /> </div>
-                                                            <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
-                                                                <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                                            <div class="jp_job_post_right_btn_wrapper">
-                                                                <ul>
-                                                                    <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="jp_job_post_keyword_wrapper">
-                                                    <ul>
-                                                        <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">typing,</a></li>
+                                                        <li><a href="#">dataentry,</a></li>
+                                                        <li><a href="#">jobs</a></li>
+                                                        <li><a href="#">typing speed,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
@@ -2680,13 +1791,13 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img1.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img1.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>Carpenters & Joiners </h4>
+                                                                <p>Temporary to Permanent</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £17 - £18 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Harlow</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -2695,7 +1806,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('carpenters-&-joiners')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -2704,12 +1815,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">carpenters,</a></li>
+                                                        <li><a href="#">temp labourer,</a></li>
+                                                        <li><a href="#">worker</a></li>
+                                                        <li><a href="#">furniture,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
@@ -2717,13 +1827,13 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img2.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img2.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>Staffing Coordinator </h4>
+                                                                <p>Temporary</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £9 - £12 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; London</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -2732,7 +1842,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('staffing-coordinator')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -2741,12 +1851,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">staffing,</a></li>
+                                                        <li><a href="#">staffing coordinator,</a></li>
+                                                        <li><a href="#">coordinator</a></li>
+                                                        <li><a href="#">staff,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>
@@ -2754,13 +1863,13 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_main_wrapper">
                                                     <div class="row">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img3.jpg" alt="post_img" /> </div>
+                                                            <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img3.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
+                                                                <h4>Admin Assistant </h4>
+                                                                <p>Temporary to Permanent </p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £9 - £10 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp;London</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -2769,7 +1878,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
+                                                                    <li><a href="{{url('admin-assistant')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -2778,86 +1887,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div class="jp_job_post_main_wrapper_cont jp_job_post_main_wrapper_cont2">
-                                                <div class="jp_job_post_main_wrapper">
-                                                    <div class="row">
-                                                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img4.jpg" alt="post_img" /> </div>
-                                                            <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
-                                                                <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                                            <div class="jp_job_post_right_btn_wrapper">
-                                                                <ul>
-                                                                    <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="jp_job_post_keyword_wrapper">
-                                                    <ul>
-                                                        <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div class="jp_job_post_main_wrapper_cont jp_job_post_main_wrapper_cont2">
-                                                <div class="jp_job_post_main_wrapper">
-                                                    <div class="row">
-                                                        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-                                                            <div class="jp_job_post_side_img"> <img src="public/assets/images/content/job_post_img5.jpg" alt="post_img" /> </div>
-                                                            <div class="jp_job_post_right_cont">
-                                                                <h4>HTML Developer (1 - 2 Yrs Exp.)</h4>
-                                                                <p>Webstrot Technology Pvt. Ltd.</p>
-                                                                <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; $12K - 15k P.A.</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Caliphonia, PO 455001</li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                                            <div class="jp_job_post_right_btn_wrapper">
-                                                                <ul>
-                                                                    <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
-                                                                    <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="#">Apply</a></li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="jp_job_post_keyword_wrapper">
-                                                    <ul>
-                                                        <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">ui designer,</a></li>
-                                                        <li><a href="#">developer,</a></li>
-                                                        <li><a href="#">senior</a></li>
-                                                        <li><a href="#">it company,</a></li>
-                                                        <li><a href="#">design,</a></li>
-                                                        <li><a href="#">call center</a></li>
+                                                        <li><a href="#">admin assistant,</a></li>
+                                                        <li><a href="#">assistant,</a></li>
+                                                        <li><a href="#">admin</a></li>
+                                                        <li><a href="#">Administrative Assistant,</a></li>
+
                                                     </ul>
                                                 </div>
                                             </div>

@@ -1,5 +1,5 @@
 @extends('layouts.base')
-@section('title','Temp Recruitment Consultant')
+@section('title','Admin Assistant ')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +31,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h1>Temp Recruitment Consultant</h1>
+                        <h1>Admin Assistant  </h1>
 
                     </div>
 
@@ -45,7 +45,7 @@
 
 
 
-                                <li>Temp Recruitment Consultant</li>
+                                <li>Admin Assistant </li>
 
                             </ul>
 
@@ -79,7 +79,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h2>Temp Recruitment Consultant</h2>
+                        <h2>Admin Assistant </h2>
 
                     </div>
 
@@ -98,19 +98,19 @@
 
                             <tr>
                                 <th class="green">Job Title</th>
-                                <td>Temp Recruitment Consultant</td>
+                                <td>Admin Assistant </td>
 
                             </tr>
 
 
                             <tr>
                                 <th class="green">Location</th>
-                                <td> East London </td>
+                                <td> London </td>
 
                             </tr>
                             <tr>
                                 <th class="green">Duration</th>
-                                <td> Part Time </td>
+                                <td> Temporary to Permanent  </td>
 
                             </tr>
                             <tr>
@@ -120,7 +120,7 @@
                             </tr>
                             <tr>
                                 <th class="green">Payrate </th>
-                                <td> £9 - £12 per hour </td>
+                                <td> £9 - £10 per hour </td>
 
                             </tr>
 
@@ -143,14 +143,14 @@
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
 
                         <p>
-                            We are looking for a Temp Recruitment Consultant on part-time basis in the area of East London.
+                        We are looking for a role of an experienced Admin Assistant in Central London.
                         </p>
 
 
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
-                        <h4>Job Duties:</h4>
+                        <h4>Responsibilities</h4>
 
 
                     </div>
@@ -158,66 +158,51 @@
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-40">
 
                         <ul>
-                            <li><i class="fa fa-caret-right"></i> Meeting, greeting and registering of all candidates</li>
-                            <li><i class="fa fa-caret-right"></i> Providing full admin support to a small team of recruitment consultants</li>
-                            <li><i class="fa fa-caret-right"></i> Applying for and following up on all references</li>
-                            <li><i class="fa fa-caret-right"></i> Operating the temp’s payroll on a weekly basis for the office</li>
-                            <li><i class="fa fa-caret-right"></i> Creating and sending out mailshots</li>
-                            <li><i class="fa fa-caret-right"></i> Liaising with and setting up various jobsites</li>
-                            <li><i class="fa fa-caret-right"></i> Purchasing office consumables</li>
-                            <li><i class="fa fa-caret-right"></i> Ensuring the reception area is always kept tidy </li>
-                            <li><i class="fa fa-caret-right"></i> Inputting candidates onto the in-house database system (training given)</li>
-                            <li><i class="fa fa-caret-right"></i>Uploading job adverts onto various jobsites</li>
-                            <li><i class="fa fa-caret-right"></i>Formatting CV`s as and when required</li>
-                            <li><i class="fa fa-caret-right"></i>Answer incoming calls and relaying precise messages in a timely manner</li>
-                            <li><i class="fa fa-caret-right"></i>Seeking new business opportunities by using various sales techniques such as canvassing (cold calling, drive rounds, door knocking)</li>
-                            <li><i class="fa fa-caret-right"></i>Assist consultants with recruitment resourcing for suitable candidates when required</li>
-
+                            <li><i class="fa fa-caret-right"></i> Answer and direct phone calls</li>
+                            <li><i class="fa fa-caret-right"></i> Organize and schedule appointments</li>
+                            <li><i class="fa fa-caret-right"></i> Plan meetings and take detailed minutes</li>
+                            <li><i class="fa fa-caret-right"></i> Write and distribute email, correspondence memos, letters, faxes and forms</li>
+                            <li><i class="fa fa-caret-right"></i> Assist in the preparation of regularly scheduled reports</li>
+                            <li><i class="fa fa-caret-right"></i> Develop and maintain a filing system</li>
+                            <li><i class="fa fa-caret-right"></i> Update and maintain office policies and procedures</li>
+                            <li><i class="fa fa-caret-right"></i> Order office supplies and research new deals and suppliers </li>
+                            <li><i class="fa fa-caret-right"></i> Maintain contact lists</li>
+                            <li><i class="fa fa-caret-right"></i> Book travel arrangements</li>
+                            <li><i class="fa fa-caret-right"></i> Submit and reconcile expense reports</li>
+                            <li><i class="fa fa-caret-right"></i> Provide general support to visitors</li>
+                            <li><i class="fa fa-caret-right"></i> Act as the point of contact for internal and external clients</li>
+                            
+                            <li><i class="fa fa-caret-right"></i> Liaise with executive and senior administrative assistants to handle requests and queries from senior managers</li>
 
 
                         </ul>
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-40">
-                        <h4>Required Qualifications:</h4>
+                        <h4>Requirements</h4>
 
 
                     </div>
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-40">
 
                         <ul>
-                            <li><i class="fa fa-caret-right"></i>Recruitment consultant roles are open to graduates regardless of degree subject. Rather than specific qualifications, employers value drive, experience, skills and abilities, as well as the determination to succeed. Applying to an agency that specialises in a market or industry related to your degree subject, for example IT or engineering, may increase your chances.</li>
-                            <li><i class="fa fa-caret-right"></i>Entry with an HND or foundation degree is possible. Entry without a degree is possible for those with relevant experience, skills and abilities.</li>
-                            <li><i class="fa fa-caret-right"></i>Postgraduate study is not essential and you will probably find that relevant experience and skills are more useful.</li>
+                            <li><i class="fa fa-caret-right"></i>Proven experience as an Administrative Assistant, Virtual Assistant or Office Admin Assistant</li>
+                            <li><i class="fa fa-caret-right"></i>Knowledge of office management systems and procedures</li>
+                            <li><i class="fa fa-caret-right"></i>Working knowledge of office equipment, like printers and fax machines</li>
+                            <li><i class="fa fa-caret-right"></i>Proficiency in MS Office (MS Excel and MS PowerPoint, in particular)</li>
+                            <li><i class="fa fa-caret-right"></i>Excellent time management skills and the ability to prioritize work</li>
+                            <li><i class="fa fa-caret-right"></i>Attention to detail and problem-solving skills</li>
+                            <li><i class="fa fa-caret-right"></i>Excellent written and verbal communication skills</li>
+                            <li><i class="fa fa-caret-right"></i>Strong organizational skills with the ability to multi-task</li>
+                            <li><i class="fa fa-caret-right"></i>High School degree; additional qualification as an Administrative assistant or Secretary will be a plus</li>
+
+
 
 
                         </ul>
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-40">
-                        <h4>Skills Required:</h4>
 
-                        <p>You'll need to show evidence of the following:</p>
-                    </div>
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-40">
-
-                        <ul>
-                            <li><i class="fa fa-caret-right"></i>excellent interpersonal and communication skills</li>
-                            <li><i class="fa fa-caret-right"></i>sales and negotiation skills</li>
-                            <li><i class="fa fa-caret-right"></i>a goal-orientated approach to work</li>
-                            <li><i class="fa fa-caret-right"></i>the ability to handle multiple priorities</li>
-                            <li><i class="fa fa-caret-right"></i>problem-solving ability</li>
-                            <li><i class="fa fa-caret-right"></i>the ability to meet deadlines and targets</li>
-                            <li><i class="fa fa-caret-right"></i>ambition and the determination to succeed</li>
-                            <li><i class="fa fa-caret-right"></i>tenacity</li>
-                            <li><i class="fa fa-caret-right"></i>confidence and self-motivation</li>
-                            <li><i class="fa fa-caret-right"></i>time management and organisational skills</li>
-                            <li><i class="fa fa-caret-right"></i>team-working skills</li>
-                            <li><i class="fa fa-caret-right"></i>creativity</li>
-
-
-                        </ul>
-                    </div>
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
                         <p>If you are qualified and interested, please contact ASAP.</p>
                     </div>

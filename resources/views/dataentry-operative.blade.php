@@ -1,5 +1,5 @@
 @extends('layouts.base')
-@section('title','Temp Recruitment Consultant')
+@section('title','Data Entry Operative')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -31,7 +31,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h1>Temp Recruitment Consultant</h1>
+                        <h1>Data Entry Operative</h1>
 
                     </div>
 
@@ -45,7 +45,7 @@
 
 
 
-                                <li>Temp Recruitment Consultant</li>
+                                <li>Data Entry Operative</li>
 
                             </ul>
 
@@ -79,7 +79,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h2>Temp Recruitment Consultant</h2>
+                        <h2>Data Entry Operative</h2>
 
                     </div>
 
@@ -98,19 +98,19 @@
 
                             <tr>
                                 <th class="green">Job Title</th>
-                                <td>Temp Recruitment Consultant</td>
+                                <td>Data Entry Operative</td>
 
                             </tr>
 
 
                             <tr>
                                 <th class="green">Location</th>
-                                <td> East London </td>
+                                <td> Southampton </td>
 
                             </tr>
                             <tr>
                                 <th class="green">Duration</th>
-                                <td> Part Time </td>
+                                <td> Temporary </td>
 
                             </tr>
                             <tr>
@@ -120,7 +120,7 @@
                             </tr>
                             <tr>
                                 <th class="green">Payrate </th>
-                                <td> £9 - £12 per hour </td>
+                                <td> £8.72 - £9 per hour </td>
 
                             </tr>
 
@@ -143,14 +143,14 @@
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
 
                         <p>
-                            We are looking for a Temp Recruitment Consultant on part-time basis in the area of East London.
+                            We are looking for a Data Entry Administrator role for our client in Southampton SO18 Area.
                         </p>
 
 
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
-                        <h4>Job Duties:</h4>
+                        <h4>Responsibilities</h4>
 
 
                     </div>
@@ -158,66 +158,42 @@
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-40">
 
                         <ul>
-                            <li><i class="fa fa-caret-right"></i> Meeting, greeting and registering of all candidates</li>
-                            <li><i class="fa fa-caret-right"></i> Providing full admin support to a small team of recruitment consultants</li>
-                            <li><i class="fa fa-caret-right"></i> Applying for and following up on all references</li>
-                            <li><i class="fa fa-caret-right"></i> Operating the temp’s payroll on a weekly basis for the office</li>
-                            <li><i class="fa fa-caret-right"></i> Creating and sending out mailshots</li>
-                            <li><i class="fa fa-caret-right"></i> Liaising with and setting up various jobsites</li>
-                            <li><i class="fa fa-caret-right"></i> Purchasing office consumables</li>
-                            <li><i class="fa fa-caret-right"></i> Ensuring the reception area is always kept tidy </li>
-                            <li><i class="fa fa-caret-right"></i> Inputting candidates onto the in-house database system (training given)</li>
-                            <li><i class="fa fa-caret-right"></i>Uploading job adverts onto various jobsites</li>
-                            <li><i class="fa fa-caret-right"></i>Formatting CV`s as and when required</li>
-                            <li><i class="fa fa-caret-right"></i>Answer incoming calls and relaying precise messages in a timely manner</li>
-                            <li><i class="fa fa-caret-right"></i>Seeking new business opportunities by using various sales techniques such as canvassing (cold calling, drive rounds, door knocking)</li>
-                            <li><i class="fa fa-caret-right"></i>Assist consultants with recruitment resourcing for suitable candidates when required</li>
-
-
-
+                            <li><i class="fa fa-caret-right"></i> Insert customer and account data by inputting text based and numerical information from source documents within time limits</li>
+                            <li><i class="fa fa-caret-right"></i> Compile, verify accuracy and sort information according to priorities to prepare source data for computer entry</li>
+                            <li><i class="fa fa-caret-right"></i> Review data for deficiencies or errors, correct any incompatibilities if possible and check output</li>
+                            <li><i class="fa fa-caret-right"></i> Research and obtain further information for incomplete documents</li>
+                            <li><i class="fa fa-caret-right"></i> Apply data program techniques and procedures</li>
+                            <li><i class="fa fa-caret-right"></i> Generate reports, store completed work in designated locations and perform backup operations</li>
+                            <li><i class="fa fa-caret-right"></i> Scan documents and print files, when needed</li>
+                            <li><i class="fa fa-caret-right"></i> Keep information confidential </li>
+                            <li><i class="fa fa-caret-right"></i> Respond to queries for information and access relevant files</li>
+                            <li><i class="fa fa-caret-right"></i>Comply with data integrity and security policies</li>
+                            <li><i class="fa fa-caret-right"></i>Ensure proper use of office equipment and address any malfunctions</li>
+                        
                         </ul>
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-40">
-                        <h4>Required Qualifications:</h4>
-
-
+                        <h4>Requirements</h4>
                     </div>
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-40">
 
                         <ul>
-                            <li><i class="fa fa-caret-right"></i>Recruitment consultant roles are open to graduates regardless of degree subject. Rather than specific qualifications, employers value drive, experience, skills and abilities, as well as the determination to succeed. Applying to an agency that specialises in a market or industry related to your degree subject, for example IT or engineering, may increase your chances.</li>
-                            <li><i class="fa fa-caret-right"></i>Entry with an HND or foundation degree is possible. Entry without a degree is possible for those with relevant experience, skills and abilities.</li>
-                            <li><i class="fa fa-caret-right"></i>Postgraduate study is not essential and you will probably find that relevant experience and skills are more useful.</li>
+                            <li><i class="fa fa-caret-right"></i>Proven data entry work experience, as a Data Entry Operator or Office Clerk</li>
+                            <li><i class="fa fa-caret-right"></i>Experience with MS Office and data programs</li>
+                            <li><i class="fa fa-caret-right"></i>Experience using office equipment, like fax machine and scanner</li>
+                            <li><i class="fa fa-caret-right"></i>Typing speed and accuracy</li>
+                            <li><i class="fa fa-caret-right"></i>Excellent knowledge of correct spelling, grammar and punctuation</li>
+                            <li><i class="fa fa-caret-right"></i>Attention to detail</li>
+                            <li><i class="fa fa-caret-right"></i>Confidentiality</li>
+                            <li><i class="fa fa-caret-right"></i>Organization skills, with an ability to stay focused on assigned tasks</li>
+                            <li><i class="fa fa-caret-right"></i>High school diploma; additional computer training or certification will be an asset</li>
 
 
                         </ul>
                     </div>
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-40">
-                        <h4>Skills Required:</h4>
-
-                        <p>You'll need to show evidence of the following:</p>
-                    </div>
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-40">
-
-                        <ul>
-                            <li><i class="fa fa-caret-right"></i>excellent interpersonal and communication skills</li>
-                            <li><i class="fa fa-caret-right"></i>sales and negotiation skills</li>
-                            <li><i class="fa fa-caret-right"></i>a goal-orientated approach to work</li>
-                            <li><i class="fa fa-caret-right"></i>the ability to handle multiple priorities</li>
-                            <li><i class="fa fa-caret-right"></i>problem-solving ability</li>
-                            <li><i class="fa fa-caret-right"></i>the ability to meet deadlines and targets</li>
-                            <li><i class="fa fa-caret-right"></i>ambition and the determination to succeed</li>
-                            <li><i class="fa fa-caret-right"></i>tenacity</li>
-                            <li><i class="fa fa-caret-right"></i>confidence and self-motivation</li>
-                            <li><i class="fa fa-caret-right"></i>time management and organisational skills</li>
-                            <li><i class="fa fa-caret-right"></i>team-working skills</li>
-                            <li><i class="fa fa-caret-right"></i>creativity</li>
-
-
-                        </ul>
-                    </div>
+                    
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
                         <p>If you are qualified and interested, please contact ASAP.</p>
                     </div>
