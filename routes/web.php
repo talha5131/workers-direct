@@ -354,3 +354,16 @@ Route::get('/handyman-job-page', function () {
 Route::get('/careassistant-job-page', function () {
     return view('careassistant-job-page');
 });
+Route::get('/sales-assistant-job-page', function () {
+    return view('sales-assistant-job-page');
+});
+Route::get('/cpcs-job-page', function () {
+    return view('cpcs-job-page');
+});
+Route::get('/cscs-labourer-page', function () {
+    return view('cscs-labourer-page');
+});
+Route::get('/dbs-cook-job-page', function () {
+    return view('dbs-cook-job-page');
+});
+
