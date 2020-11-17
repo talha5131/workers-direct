@@ -255,7 +255,7 @@ Purchase:
                                                     <div class="col-lg-2 col-md-2">
 
                                                         <div class="list-item-service widthFull">
-                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('staffing-services/temporary-staffing')}}">Staffing </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('staffing-services')}}">Staffing </a>
                                                         </div>
 
                                                         <div>
@@ -264,7 +264,7 @@ Purchase:
 
                                                         <div class="list-item-service widthFull">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('temp-jobs-london')}}">Hire Temp </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('staffing-services/temporary-staffing')}}">Hire Temp </a>
 
                                                         </div>
 
@@ -274,7 +274,7 @@ Purchase:
 
                                                         <div class="list-item-service widthFull">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="admin-staff">Admin </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('staffing-services/admin-staff')}}">Admin </a>
 
                                                         </div>
 
