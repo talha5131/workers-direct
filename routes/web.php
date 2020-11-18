@@ -441,3 +441,27 @@ Route::get('/registered-nurse', function () {
 Route::get('/ask-us', function () {
     return view('ask-us');
 });
+Route::get('/delivery-driver', function () {
+    return view('delivery-driver');
+});
+Route::get('/warehouse-assistant', function () {
+    return view('warehouse-assistant');
+});
+Route::get('/telehandler', function () {
+    return view('telehandler');
+});
+Route::get('/painters-&-decorators', function () {
+    return view('painters-&-decorators');
+});
+Route::get('/pickers-&-packers', function () {
+    return view('pickers-&-packers');
+});
+Route::get('/customer-service-representative', function () {
+    return view('customer-service-representative');
+});
+Route::get('/part-time-cleaners', function () {
+    return view('part-time-cleaners');
+});
+Route::get('/school-caretaker', function () {
+    return view('school-caretaker');
+});
