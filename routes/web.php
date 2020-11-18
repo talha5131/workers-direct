@@ -384,3 +384,6 @@ Route::get('/admin-assistant', function () {
 Route::get('/warehouse-operatives', function () {
     return view('warehouse-operatives');
 });
+Route::get('/quick-staffing', function () {
+    return view('quick-staffing111');
+});
