@@ -429,4 +429,15 @@ Route::get('/career-advice', function () {
 Route::get('/time-sheet', function () {
     return view('time-sheet');
 });
-
+Route::get('/catering-assistant', function () {
+    return view('catering-assistant');
+});
+Route::get('/ground-workers', function () {
+    return view('ground-workers');
+});
+Route::get('/registered-nurse', function () {
+    return view('registered-nurse');
+});
+Route::get('/ask-us', function () {
+    return view('ask-us');
+});
