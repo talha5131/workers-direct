@@ -385,5 +385,48 @@ Route::get('/warehouse-operatives', function () {
     return view('warehouse-operatives');
 });
 Route::get('/quick-staffing', function () {
-    return view('quick-staffing111');
+    return view('quick-staffing');
 });
+Route::get('/temp-to-perm', function () {
+    return view('temp-to-perm');
+});
+Route::get('/nation-wide-temp', function () {
+    return view('nation-wide-temp');
+});
+Route::get('/payroll-service', function () {
+    return view('payroll-service');
+});
+Route::get('/reference-check', function () {
+    return view('reference-check');
+});
+Route::get('/candidate-screening-selection', function () {
+    return view('candidate-screening-selection');
+});
+Route::get('/on-site-recruitment', function () {
+    return view('on-site-recruitment');
+});
+Route::get('/how-we-work', function () {
+    return view('how-we-work');
+});
+Route::get('/quick-placement', function () {
+    return view('quick-placement');
+});
+Route::get('/cost-effective-way', function () {
+    return view('cost-effective-way');
+});
+Route::get('/f-a-q', function () {
+    return view('f-a-q');
+});
+Route::get('/immediate-start', function () {
+    return view('immediate-start');
+});
+Route::get('/temp-to-perm-jobs', function () {
+    return view('temp-to-permjobs');
+});
+Route::get('/career-advice', function () {
+    return view('career-advice');
+});
+Route::get('/time-sheet', function () {
+    return view('time-sheet');
+});
+

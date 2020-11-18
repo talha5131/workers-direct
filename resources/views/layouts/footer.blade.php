@@ -224,18 +224,18 @@
 
                                             <li><a href="{{url('staffing-services/temporary-staffing')}}"><i class="fa fa-caret-right" aria-hidden="true"></i> Temporary Staff </a></li>
 
-                                            <li><a href="#"><i class="fa fa-caret-right" aria-hidden="true"></i> Quick Staffing <a></li>
+                                            <li><a href="{{url('quick-staffing')}}"><i class="fa fa-caret-right" aria-hidden="true"></i> Quick Staffing <a></li>
 
-                                            <li><a href="#"><i class="fa fa-caret-right" aria-hidden="true"></i> Temp to Perm Recruitment</a></li>
+                                            <li><a href="{{url('temp-to-perm')}}"><i class="fa fa-caret-right" aria-hidden="true"></i> Temp to Perm Recruitment</a></li>
 
-                                            <li><a href="#"><i class="fa fa-caret-right" aria-hidden="true"></i> Nationwide Temp </a></li>
-                                            <li><a href="#"><i class="fa fa-caret-right" aria-hidden="true"></i> Payroll Service </a></li>
+                                            <li><a href="{{url('nation-wide-temp')}}"><i class="fa fa-caret-right" aria-hidden="true"></i> Nationwide Temp </a></li>
+                                            <li><a href="{{url('payroll-service')}}"><i class="fa fa-caret-right" aria-hidden="true"></i> Payroll Service </a></li>
 
-                                            <li><a href="#"><i class="fa fa-caret-right" aria-hidden="true"></i> Reference Check </a></li>
-                                            <li><a href="#"><i class="fa fa-caret-right" aria-hidden="true"></i>
+                                            <li><a href="{{url('reference-check')}}"><i class="fa fa-caret-right" aria-hidden="true"></i> Reference Check </a></li>
+                                            <li><a href="{{url('candidate-screening-selection')}}"><i class="fa fa-caret-right" aria-hidden="true"></i>
                                                     Candidate Screening & Selection </a>
                                             </li>
-                                            <li><a href="#"><i class="fa fa-caret-right" aria-hidden="true"></i> On Site Recruitment </a></li>
+                                            <li><a href="{{url('on-site-recruitment')}}"><i class="fa fa-caret-right" aria-hidden="true"></i> On Site Recruitment </a></li>
 
 
                                         </ul>
@@ -258,17 +258,17 @@
 
                                             <li class="footer2ndSectionPadding"><a href="{{url('staffing-services/temporary-staffing')}}"><i class="fa fa-caret-right" aria-hidden="true"></i> Hire The Best Talent</a></li>
 
-                                            <li class="footer2ndSectionPadding"><a href="#"><i class="fa fa-caret-right" aria-hidden="true"></i> How We Work </a></li>
+                                            <li class="footer2ndSectionPadding"><a href="{{url('how-we-work')}}"><i class="fa fa-caret-right" aria-hidden="true"></i> How We Work </a></li>
 
                                             <li class="footer2ndSectionPadding"><a href="{{url('why-us')}}"><i class="fa fa-caret-right" aria-hidden="true"></i> Why Workers Direct </a></li>
 
-                                            <li class="footer2ndSectionPadding"><a href="#"><i class="fa fa-caret-right" aria-hidden="true"></i> Quick Placement </a></li>
+                                            <li class="footer2ndSectionPadding"><a href="{{url('quick-placement')}}"><i class="fa fa-caret-right" aria-hidden="true"></i> Quick Placement </a></li>
 
-                                            <li class="footer2ndSectionPadding"><a href="#"><i class="fa fa-caret-right" aria-hidden="true"></i> Most Cost-Effective Way to Hire</a></li>
+                                            <li class="footer2ndSectionPadding"><a href="{{url('cost-effective-way')}}"><i class="fa fa-caret-right" aria-hidden="true"></i> Most Cost-Effective Way to Hire</a></li>
 
                                             <li class="footer2ndSectionPadding"><a href="{{url('our-gurantee')}}"><i class="fa fa-caret-right" aria-hidden="true"></i> Our Guarantee </a></li>
 
-                                            <li class="footer2ndSectionPadding"><a href="#"><i class="fa fa-caret-right" aria-hidden="true"></i> FAQ </a></li>
+                                            <li class="footer2ndSectionPadding"><a href="{{url('f-a-q')}}"><i class="fa fa-caret-right" aria-hidden="true"></i> FAQ </a></li>
 
                                         </ul>
 
@@ -289,19 +289,19 @@
                                         <ul>
                                             <li class="footer3ndSectionPadding"><a href="{{url('latest-jobs')}}"><i class="fa fa-caret-right" aria-hidden="true"></i> Find The Perfect Job</a></li>
 
-                                            <li class="footer3ndSectionPadding"><a href="#"><i class="fa fa-caret-right" aria-hidden="true"></i> Immediate Start</a></li>
+                                            <li class="footer3ndSectionPadding"><a href="{{url('immediate-start')}}"><i class="fa fa-caret-right" aria-hidden="true"></i> Immediate Start</a></li>
 
                                             <li class="footer3ndSectionPadding"><a href="{{url('temporary-jobs')}}"><i class="fa fa-caret-right" aria-hidden="true"></i> Temporary Jobs</a></li>
 
-                                            <li class="footer3ndSectionPadding"><a href="#"><i class="fa fa-caret-right" aria-hidden="true"></i> Temp to Perm Jobs</a></li>
+                                            <li class="footer3ndSectionPadding"><a href="{{url('temp-to-perm-jobs')}}"><i class="fa fa-caret-right" aria-hidden="true"></i> Temp to Perm Jobs</a></li>
 
-                                            <li class="footer3ndSectionPadding"><a href="#"><i class="fa fa-caret-right" aria-hidden="true"></i> How We Work</a></li>
+                                            <li class="footer3ndSectionPadding"><a href="{{url('how-we-work')}}"><i class="fa fa-caret-right" aria-hidden="true"></i> How We Work</a></li>
 
                                             <li class="footer3ndSectionPadding"><a href="{{url('why-us')}}"><i class="fa fa-caret-right" aria-hidden="true"></i> Why Workers Direct</a></li>
 
-                                            <li class="footer3ndSectionPadding"><a href="#"><i class="fa fa-caret-right" aria-hidden="true"></i> Career Advice</a></li>
+                                            <li class="footer3ndSectionPadding"><a href="{{url('career-advice')}}"><i class="fa fa-caret-right" aria-hidden="true"></i> Career Advice</a></li>
 
-                                            <li class="footer3ndSectionPadding"><a href="#"><i class="fa fa-caret-right" aria-hidden="true"></i> Time Sheet</a></li>
+                                            <li class="footer3ndSectionPadding"><a href="{{url('time-sheet')}}"><i class="fa fa-caret-right" aria-hidden="true"></i> Time Sheet</a></li>
 
                                             <li class="footer3ndSectionPadding"><a href="https://play.google.com/store/apps/details?id=com.mst_developers.workers_direct&hl=en"><i class="fa fa-caret-right" aria-hidden="true"></i> Download Mobile App</a></li>
 

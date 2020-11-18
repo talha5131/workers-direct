@@ -1,6 +1,6 @@
 @extends('layouts.base')
-@section('title','Time Sheet| Recruitment Agency London')
-@section('keywords','timesheet, sheet')
+@section('title','Career Advice| Recruitment Agency London')
+@section('keywords','reference, faq')
 @section('description','')
 @section('content')
 
@@ -33,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h1>Time Sheet</h1>
+                        <h1>Career Advice</h1>
 
                     </div>
 
@@ -47,7 +47,7 @@
 
 
 
-                                <li>Time Sheet</li>
+                                <li>Career Advice</li>
 
                             </ul>
 
@@ -81,7 +81,7 @@
 
                     <div class="section_heading section_2_heading ">
 
-                        <h2>Time Sheet</h2>
+                        <h2>Career Advice</h2>
 
                     </div>
 
