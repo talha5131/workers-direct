@@ -293,9 +293,8 @@ London we provide temp & perm warehouse, catering staff across UK.">
     </div>
 </div>
 @include('layouts.industries&Sectors')
-<!-- How We Work -->
-<!-- <div class="jp_best_deal_main_wrapper">		<div class="container">			<div class="row">				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">					<div class="jp_best_deal_heading_wrapper">						<div class="jp_best_deal_heading">							<h4>How We Work</h4>						</div>					</div>				</div>				<div class="container">					<div class="margin-top-60"> </div>					<div class="cont">						<div class="flow-icon">                            <img src="public/assets/images/content/flow-icon.png" alt="">                             <div class="box-line"></div>						</div>						<div class="row">							<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">															</div>							<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">															</div>							<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">															</div>													</div>					</div>				</div>			</div> -->
-<!-- 2 jp best deal Wrapper End -->
+
+
 <div class="jp_best_deal_main_wrapper">
     <div class="container">
         <div class="row">
@@ -343,9 +342,8 @@ London we provide temp & perm warehouse, catering staff across UK.">
             </div>
         </div>
     </div>
-</div> <!-- 2 jp best deal Wrapper End -->
-<!-- jp tittle slider Wrapper Start			<div class="jp_tittle_slider_main_wrapper" style="float:left; width:100%; margin-top:30px;">				<div class="container">					<div class="jp_tittle_name_wrapper">						<div class="jp_tittle_name">							<h3>Tranding</h3>							<h4>Jobs</h4>						</div>					</div>					<div class="jp_tittle_slider_wrapper">						<div class="jp_tittle_slider_content_wrapper">							<div class="owl-carousel owl-theme">								<div class="item">									<div class="jp_tittle_slides_one">										<div class="jp_tittle_side_img_wrapper">											<img src="public/assets/images/content/tittle_img1.png" alt="tittle_img" />										</div>										<div class="jp_tittle_side_cont_wrapper">											<h4>Graphic Designer (UI / UX)</h4>											<p>Webstrot Pvt. Ltd.</p>										</div>									</div>									<div class="jp_tittle_slides_one jp_tittle_slides_two">										<div class="jp_tittle_side_img_wrapper">											<img src="public/assets/images/content/tittle_img2.png" alt="tittle_img" />										</div>										<div class="jp_tittle_side_cont_wrapper">											<h4>Graphic Designer (UI / UX)</h4>											<p>Webstrot Pvt. Ltd.</p>										</div>									</div>									<div class="jp_tittle_slides_one jp_tittle_slides_third">										<div class="jp_tittle_side_img_wrapper">											<img src="public/assets/images/content/tittle_img3.png" alt="tittle_img" />										</div>										<div class="jp_tittle_side_cont_wrapper">											<h4>Graphic Designer (UI / UX)</h4>											<p>Webstrot Pvt. Ltd.</p>										</div>									</div>								</div>								<div class="item">									<div class="jp_tittle_slides_one">										<div class="jp_tittle_side_img_wrapper">											<img src="public/assets/images/content/tittle_img2.png" alt="tittle_img" />										</div>										<div class="jp_tittle_side_cont_wrapper">											<h4>Graphic Designer (UI / UX)</h4>											<p>Webstrot Pvt. Ltd.</p>										</div>									</div>									<div class="jp_tittle_slides_one jp_tittle_slides_two">										<div class="jp_tittle_side_img_wrapper">											<img src="public/assets/images/content/tittle_img3.png" alt="tittle_img" />										</div>										<div class="jp_tittle_side_cont_wrapper">											<h4>Graphic Designer (UI / UX)</h4>											<p>Webstrot Pvt. Ltd.</p>										</div>									</div>									<div class="jp_tittle_slides_one jp_tittle_slides_third">										<div class="jp_tittle_side_img_wrapper">											<img src="public/assets/images/content/tittle_img1.png" alt="tittle_img" />										</div>										<div class="jp_tittle_side_cont_wrapper">											<h4>Graphic Designer (UI / UX)</h4>											<p>Webstrot Pvt. Ltd.</p>										</div>									</div>								</div>								<div class="item">									<div class="jp_tittle_slides_one">										<div class="jp_tittle_side_img_wrapper">											<img src="public/assets/images/content/tittle_img3.png" alt="tittle_img" />										</div>										<div class="jp_tittle_side_cont_wrapper">											<h4>Graphic Designer (UI / UX)</h4>											<p>Webstrot Pvt. Ltd.</p>										</div>									</div>									<div class="jp_tittle_slides_one jp_tittle_slides_two">										<div class="jp_tittle_side_img_wrapper">											<img src="public/assets/images/content/tittle_img1.png" alt="tittle_img" />										</div>										<div class="jp_tittle_side_cont_wrapper">											<h4>Graphic Designer (UI / UX)</h4>											<p>Webstrot Pvt. Ltd.</p>										</div>									</div>									<div class="jp_tittle_slides_one jp_tittle_slides_third">										<div class="jp_tittle_side_img_wrapper">											<img src="public/assets/images/content/tittle_img2.png" alt="tittle_img" />										</div>										<div class="jp_tittle_side_cont_wrapper">											<h4>Graphic Designer (UI / UX)</h4>											<p>Webstrot Pvt. Ltd.</p>										</div>									</div>								</div>							</div>						</div>					</div>				</div>			</div> -->
-<!-- jp tittle slider Wrapper End -->
+</div> 
+
 <!-- jp counter Wrapper Start -->
 <div class="jp_counter_main_wrapper">
     <div class="container-fluid pl-0 pr-0">
@@ -880,11 +878,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img1.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>Sales Assistant </h4>
-                                                                <p>Temporary</p>
+                                                                <h4>Warehouse Operatives </h4>
+                                                                <p>Temporary to Permanent </p>
                                                                 <ul>
                                                                     <li><i class="fa fa-cc-paypal"></i>&nbsp; £8.72 - £9 per hour</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; London</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Southall</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -893,7 +891,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="{{url('sales-assistant-job-page')}}">Apply</a></li>
+                                                                    <li><a href="{{url('warehouse-operatives')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -902,10 +900,10 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">sales assistant,</a></li>
-                                                        <li><a href="#">vendor job,</a></li>
-                                                        <li><a href="#">dealer</a></li>
-                                                        <li><a href="#">salesclerk,</a></li>
+                                                        <li><a href="#">warehouse operatives,</a></li>
+                                                        <li><a href="#">warehouse,</a></li>
+                                                        <li><a href="#">operatives</a></li>
+                                                        <li><a href="#">workers,</a></li>
                                                     </ul>
                                                 </div>
                                             </div>
