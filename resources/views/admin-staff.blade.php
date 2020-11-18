@@ -101,10 +101,10 @@
 
                     </div>
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
-                        <img class="image-style-border" src="{{url('public/assets/images/page-pictures/admin staff/admin_staff_2.jpg')}}" alt="Temp Agency London" height="300px" width="100%">
+                        <img class="image-style-border" src="{{url('public/assets/images/page-pictures/ADMIN STAFF/admin_staff_2.jpg')}}" alt="Temp Agency London" height="300px" width="100%">
                     </div>
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
-                        <img class="image-style-border" src="{{url('public/assets/images/page-pictures/admin staff/admin_staff_3.jpg')}}" alt="Temp Agency London" height="300px" width="100%">
+                        <img class="image-style-border" src="{{url('public/assets/images/page-pictures/ADMIN STAFF/admin_staff_3.jpg')}}" alt="Temp Agency London" height="300px" width="100%">
                     </div>
 
                     <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
