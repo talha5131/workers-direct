@@ -4,61 +4,61 @@
 @section('description','If you are looking for a Temporary Job or career change, all of our Jobs are published here and updated on regular basis. View our current list of jobs you can register your CV online for vacancies using our online CV Registration form.')
 @section('content')
 
-    <!-- jp Tittle Wrapper Start -->
+<!-- jp Tittle Wrapper Start -->
 
-    <div class="jp_tittle_main_wrapper">
+<div class="jp_tittle_main_wrapper">
 
-        <div class="jp_tittle_img_overlay"></div>
+	<div class="jp_tittle_img_overlay"></div>
 
-        <div class="container">
+	<div class="container">
 
-            <div class="row">
+		<div class="row">
 
-                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-                    <div class="jp_tittle_heading_wrapper">
+				<div class="jp_tittle_heading_wrapper">
 
-                        <div class="jp_tittle_heading">
+					<div class="jp_tittle_heading">
 
-                            <h1>Temporary Jobs Registration Form</h1>
+						<h1>Temporary Jobs Registration Form</h1>
 
-                        </div>
+					</div>
 
-                        <div class="jp_tittle_breadcrumb_main_wrapper">
+					<div class="jp_tittle_breadcrumb_main_wrapper">
 
-                            <div class="jp_tittle_breadcrumb_wrapper">
+						<div class="jp_tittle_breadcrumb_wrapper">
 
-                                <ul>
+							<ul>
 
-                                    <li><a href="#">Home</a> <i class="fa fa-angle-right"></i></li>
+								<li><a href="#">Home</a> <i class="fa fa-angle-right"></i></li>
 
-                                    <li>Temporary Jobs Registration Form</li>
+								<li>Temporary Jobs Registration Form</li>
 
-                                </ul>
+							</ul>
 
-                            </div>
+						</div>
 
-                        </div>
+					</div>
 
-                    </div>
+				</div>
 
-                </div>
+			</div>
 
-            </div>
+		</div>
 
-        </div>
+	</div>
 
-    </div>
+</div>
 
-    <!-- jp Tittle Wrapper End -->
+<!-- jp Tittle Wrapper End -->
 
-    <!-- jp ad post Wrapper Start -->
+<!-- jp ad post Wrapper Start -->
 
-	<div class="jp_adp_main_section_wrapper">
+<div class="jp_adp_main_section_wrapper">
 
-		<div class="container">
+	<div class="container">
 
-			<div class="row">
+		<!-- <div class="row">
 
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
@@ -218,66 +218,67 @@
 
 				</div>
 
+			</div> -->
+		<iframe style=width:810px;height:1260px; src='https://workersdirectltd.zohoworkerly.eu/workerly/WebFormServeServlet?rid=9c3c7e330606412acdefd65b6f399f56gid12b1e89568431b14c7293aa4d69c0f0f'></iframe>
+
+	</div>
+
+</div>
+
+<!-- jp ad post Wrapper End -->
+
+<!-- jp downlord Wrapper Start -->
+
+<div class="jp_downlord_main_wrapper">
+
+	<div class="jp_downlord_img_overlay"></div>
+
+	<div class="container">
+
+		<div class="row">
+
+			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 hidden-sm hidden-xs">
+
+				<div class="jp_down_mob_img_wrapper">
+
+					<img src="public/assets/images/content/mobail.png" alt="mobail_img" />
+
+				</div>
+
+			</div>
+
+			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+
+				<div class="ss_download_wrapper_details">
+
+					<h2><span>Download</span><br>Job Portal App Now!</h2>
+
+					<p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
+
+
+
+					<a href="https://play.google.com/store/apps/details?id=com.mst_developers.workers_direct&hl=en" class="ss_playstore"><span><i class="fa fa-android" aria-hidden="true"></i></span> Play Store</a>
+
+				</div>
+
+			</div>
+
+			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 visible-sm visible-xs">
+
+				<div class="jp_down_mob_img_wrapper">
+
+					<img src="public/assets/images/content/mobail.png" class="img-responsive" alt="mobail_img" />
+
+				</div>
+
 			</div>
 
 		</div>
 
 	</div>
 
-    <!-- jp ad post Wrapper End -->
+</div>
 
-    <!-- jp downlord Wrapper Start -->
+<!-- jp downlord Wrapper End -->
 
-    <div class="jp_downlord_main_wrapper">
-
-        <div class="jp_downlord_img_overlay"></div>
-
-        <div class="container">
-
-            <div class="row">
-
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 hidden-sm hidden-xs">
-
-                    <div class="jp_down_mob_img_wrapper">
-
-                        <img src="public/assets/images/content/mobail.png" alt="mobail_img" />
-
-                    </div>
-
-                </div>
-
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-
-                    <div class="ss_download_wrapper_details">
-
-                        <h2><span>Download</span><br>Job Portal App Now!</h2>
-
-                        <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
-
-                        
-
-                        <a href="https://play.google.com/store/apps/details?id=com.mst_developers.workers_direct&hl=en" class="ss_playstore"><span><i class="fa fa-android" aria-hidden="true"></i></span> Play Store</a>
-
-                    </div>
-
-                </div>
-
-                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 visible-sm visible-xs">
-
-                    <div class="jp_down_mob_img_wrapper">
-
-                        <img src="public/assets/images/content/mobail.png" class="img-responsive" alt="mobail_img" />
-
-                    </div>
-
-                </div>
-
-            </div>
-
-        </div>
-
-    </div>
-
-    <!-- jp downlord Wrapper End -->
-
-    @endsection
+@endsection

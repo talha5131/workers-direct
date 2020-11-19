@@ -86,7 +86,7 @@
 			</div>
 
 			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-				<form action="" id="form-validation-job-seeker" class="col-xs-12" name="job-seeker">
+				<!-- <form action="" id="form-validation-job-seeker" class="col-xs-12" name="job-seeker">
 
 					<div class="jp_contact_form_box">
 
@@ -323,11 +323,9 @@
 											<option data-countryCode="TC" value="+1649">+1649</option>
 											<option data-countryCode="TV" value="+688">+688</option>
 											<option data-countryCode="UG" value="+256">+256</option>
-											<!-- <option data-countryCode="GB" value="+44">UK +44</option> -->
 											<option data-countryCode="UA" value="+380">+380</option>
 											<option data-countryCode="AE" value="+971">+971</option>
 											<option data-countryCode="UY" value="+598">+598</option>
-											<!-- <option data-countryCode="US" value="+1">USA +1</option> -->
 											<option data-countryCode="UZ" value="+7">+7</option>
 											<option data-countryCode="VU" value="+678">+678</option>
 											<option data-countryCode="VA" value="+379">+379</option>
@@ -479,13 +477,6 @@
 
 						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-							<div class="jp_contact_form_btn_wrapper">
-
-								<ul>
-
-									<!-- <li><a href="#"><i class="white fa fa-plus-circle"></i>&nbsp; Submit</a></li> -->
-
-								</ul>
 
 								<label for="submit_button" class="submit_button_custom_styling">Submit</label>
 								<div class="form_upload_btn_custom">
@@ -493,7 +484,6 @@
 
 
 
-									<!-- <input id="submit_button" type="submit"> -->
 
 								</div>
 
@@ -504,7 +494,8 @@
 
 
 					</div>
-				</form>
+				</form> -->
+				<iframe style=width:810px;height:1260px; src='https://workersdirectltd.zohoworkerly.eu/workerly/WebFormServeServlet?rid=9c3c7e330606412acdefd65b6f399f56gid12b1e89568431b14c7293aa4d69c0f0f'></iframe>
 			</div>
 
 

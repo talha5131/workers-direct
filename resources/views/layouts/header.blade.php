@@ -766,7 +766,7 @@ Purchase:
 
                             <ul>
 
-                                <li><a href="submit-a-job"><i class="white fa fa-plus-circle"></i> Order Staff</a>
+                                <li><a href="{{url('submit-a-job')}}"><i class="white fa fa-plus-circle"></i> Order Staff</a>
 
                                 </li>
 
