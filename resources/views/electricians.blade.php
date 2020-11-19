@@ -1,7 +1,5 @@
 @extends('layouts.base')
-@section('title','Kitchen Assistant | Kitchen Assistant Jobs London')
-@section('keywords','kitchen,assistant')
-@section('description','If you are seeking a role as a kitchen assistant, it is crucial that you use the best kitchen assistant recruitment agency to help you find the role that is right for you.')
+@section('title','Electricians')
 @section('content')
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -33,7 +31,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h1>Kitchen Assistant</h1>
+                        <h1>Electricians</h1>
 
                     </div>
 
@@ -47,7 +45,7 @@
 
 
 
-                                <li>Kitchen Assistant</li>
+                                <li>Electricians</li>
 
                             </ul>
 
@@ -75,13 +73,13 @@
 
         <div class="row">
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20 pl-0">
 
                 <div class="about_text_wrapper">
 
                     <div class="section_heading section_2_heading">
 
-                        <h2>Kitchen <span> Assistant</span></h2>
+                        <h2>Electricians</h2>
 
                     </div>
 
@@ -93,121 +91,106 @@
 
             <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
 
-                <div class="about_text_wrapper">
+                <div class="about_text_wrapper ">
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-                        <p style="margin: 0;">
-                            If you are seeking a role as a kitchen assistant, it is crucial that you use the best kitchen assistant recruitment agency to help you find the role that is right for you.
-                        </p>
-                        <p style="margin: 0;">
-                            The top catering agency will help you to find kitchen assistant temporary roles in an efficient and effective way because they have relationships with catering businesses throughout London. When you turn to temporary catering assistant agencies, you can be sure that you are in the right place because they will help you to determine your specific skills and needs and then pair you up with an employer that suits you.
-                        </p>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/KITCHEN ASSISTANT/kitchen-assistant_1.jpg" width="100%" height="240px" alt="IT Support">
-
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
-
-                        <img class="image-style-border " src="public/assets/images/page-pictures/KITCHEN ASSISTANT/kitchen-assistant_2.jpg" width="100%" height="240px" alt="IT Support">
-                    </div>
-
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-20">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-top-30 pl-0">
                         <table class="table table-bordered">
 
                             <tr>
                                 <th class="green">Job Title</th>
-                                <td>Kitchen Assistant (Full Time)</td>
-
-                            </tr>
-
-
-                            <tr>
-                                <th class="green">Job Location</th>
-                                <td>Central London</td>
+                                <td>Electricians</td>
 
                             </tr>
                             <tr>
-                                <th class="green">Job Duration</th>
-                                <td>Full time, Mon to Fri – 9am to 3pm & Temporary to Permanent basis</td>
+                                <th class="green">Location</th>
+                                <td> Newhaven </td>
 
                             </tr>
                             <tr>
-                                <th class="green">Job Start</th>
-                                <td>ASAP</td>
+                                <th class="green">Duration</th>
+                                <td>Temporary</td>
 
                             </tr>
                             <tr>
-                                <th class="green">Salary</th>
-                                <td>8 – 9 per hour</td>
+                                <th class="green">Starting Time </th>
+                                <td> ASAP </td>
 
                             </tr>
                             <tr>
-                                <th class="green">Requirments</th>
-                                <td>
-                                    <ul>
-                                        <li><i class="green fa fa-caret-right"></i> Must have 1 – 2 years experience as a Kitchen Assist</li>
-                                        <li><i class="green fa fa-caret-right"></i> Two Employment References</li>
-                                        <li><i class="green fa fa-caret-right"></i> DBS certificate</li>
-                                        <li><i class="green fa fa-caret-right"></i> Immediate availability</li>
-                                    </ul>
-                                </td>
+                                <th class="green">Payrate </th>
+                                <td> £15 - £22 per hour </td>
+
+                            </tr>
+
+                            <tr>
+                                <th class="green">Experience </th>
+                                <td> 1 year (Preferred) </td>
 
                             </tr>
                             <tr>
-                                <th class="green">Responsible for</th>
-                                <td>
-                                    <ul>
-                                        <li><i class="green fa fa-caret-right"></i> Help Chef in Food Preparation As Kitchen Assistant</li>
-                                        <li><i class="green fa fa-caret-right"></i> Help in Cleaning & Washing up etc</li>
-
-                                    </ul>
-                                </td>
+                                <th class="green">Work remotely </th>
+                                <td> NO </td>
 
                             </tr>
+
 
                         </table>
+
                     </div>
 
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
+
+                        <p>
+                            We are looking for role of experienced Electricians in the area of Newhaven.
+                        </p>
 
 
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
-
-                        <p style="margin: 0;">We are looking for a hard working Kitchen Assistant to join growing team who are available to work day shifts in Central London.</p>
-
-                        <h4 class="margin-top-20"> Summary of <span> Post</span></h4>
-                        <p>Assist with food preparation and the effective delivery of service and standards</p>
                     </div>
-                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/KITCHEN ASSISTANT/kitchen-assistant_3.jpg" width="100%" height="300px" alt="IT Support">
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/KITCHEN ASSISTANT/kitchen-assistant_4.jpg" width="100%" height="300px" alt="IT Support">
-                    </div>
-                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 ">
 
-                        <h4 class="margin-bottom-60 margin-top-20"> Main Responsibilities & <span> Job Requirement</span></h4>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
+                        <h4>Responsibilities</h4>
+
+
+
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-40">
 
                         <ul>
-
-                            <li><i class="green fa fa-caret-right"></i>Ensure that a high level of cleanliness is maintained within the site and stock storage areas.</li>
-
-                            <li><i class="green fa fa-caret-right"></i>Work in a safe manner, seeking to minimise hazards to ensure the safety of other staff and customers.</li>
-
-                            <li><i class="green fa fa-caret-right"></i>Assist with receiving stock deliveries including the verification of delivery goods.</li>
-
-                            <li><i class="green fa fa-caret-right"></i>To help the chef in prepare,cook the food and serve food.</li>
-                            <li><i class="green fa fa-caret-right"></i>Assist in the running of external functions as and when required.</li>
-                            <li><i class="green fa fa-caret-right"></i>To carry out daily and weekly procedures, including temperature checks, food and storage – ensuring food quality is kept to the highest standards at all times.</li>
-                            <li><i class="green fa fa-caret-right"></i>It’s really important that you have very high personal and professional standards and the ability to work very quickly and efficiently.</li>
-                            <li><i class="green fa fa-caret-right"></i>Undertake any other task appropriate for the grade and responsibilities of the post that may from time to time be reasonably.</li>
-                            <li><i class="green fa fa-caret-right"></i>Operate in accordance with health and safety practices and regulations at all times.</li>
-                            <li><i class="green fa fa-caret-right"></i>Have a flexible approach to duties and work and, in particular, adopt a teamwork style with departments and activities across the Organisation. This may involve undertaking duties in support of the activities and services of other departments.</li>
+                            <li><i class="fa fa-caret-right"></i> Execute plans of electrical wiring for well functioning lighting, intercom and other electrical systems</li>
+                            <li><i class="fa fa-caret-right"></i> Install electrical apparatus, fixtures and equipment for alarm and other systems</li>
+                            <li><i class="fa fa-caret-right"></i> Install safety and distribution components (e.g. switches, resistors, circuit-breaker panels etc.)</li>
+                            <li><i class="fa fa-caret-right"></i> Connect wiring in electrical circuits and networks ensuring compatibility of components</li>
+                            <li><i class="fa fa-caret-right"></i> Prepare and assemble conduits and connect wiring through them</li>
+                            <li><i class="fa fa-caret-right"></i> Prevent breakdown of systems by routinely inspecting and replacing old wiring and insulated cables, cleaning circuits etc.</li>
+                            <li><i class="fa fa-caret-right"></i> Perform effective troubleshooting to identify hazards or malfunctions and repair or substitute damaged units</li>
 
                         </ul>
-
                     </div>
 
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-40">
+                        <h4>Requirements</h4>
+
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0 margin-top-40">
+
+                        <ul>
+                            <li><i class="fa fa-caret-right"></i> Proven experience as an electrician</li>
+                            <li><i class="fa fa-caret-right"></i> Experience in industrial and/or commercial electrical systems</li>
+                            <li><i class="fa fa-caret-right"></i> Demonstrable ability to use electrical and hand tools (e.g. wire strippers, voltmeter etc.) and electrical drawings and blueprints</li>
+                            <li><i class="fa fa-caret-right"></i> Thorough knowledge of safety procedures and legal regulations and guidelines</li>
+                            <li><i class="fa fa-caret-right"></i> Excellent critical thinking and problem-solving ability</li>
+                            <li><i class="fa fa-caret-right"></i> Excellent physical condition and flexibility to work long shifts and overnight</li>
+                            <li><i class="fa fa-caret-right"></i> Diploma in relevant vocational training or successfully completed apprenticeship as an electrician</li>
+                            <li><i class="fa fa-caret-right"></i> Valid license to practice profession</li>
+
+                        </ul>
+                    </div>
+
+
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 pl-0">
+                        <p>If you are qualified and interested, please contact ASAP.</p>
+                    </div>
 
 
 
@@ -219,9 +202,9 @@
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
-                    <div class="row">
+                    <div class="row"> -->
 
-                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <!-- <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
                             <div class="jp_add_resume_wrapper">
 
@@ -231,11 +214,11 @@
 
                                     <img src="public/assets/images/content/resume_logo.png" alt="logo" />
 
-                                    <h4>Get Best Matched Jobs On your Email. Add Resume NOW!</h4>
+                                    <h4>Get Best Matched Candidates On your Email.</h4>
 
                                     <ul>
 
-                                        <li><a href="#"><i class="fa fa-plus-circle"></i> &nbsp;ADD RESUME</a></li>
+                                        <li><a href="{{url('submit-a-job')}}"><i class="fa fa-plus-circle"></i> Post A Job</a></li>
 
                                     </ul>
 
@@ -243,9 +226,37 @@
 
                             </div>
 
-                        </div>
+                        </div> -->
 
-                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <!-- <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <div class="jp_rightside_job_categories_wrapper">
+                                <div class="jp_rightside_job_categories_heading">
+                                    <h4>Hire a Temp</h4>
+                                </div>
+                                <div class="jp_rightside_job_categories_content" style="padding-bottom: 25px;">
+                                    <ul>
+                                        <li><i class="fa fa-caret-right"></i> <a href="service-administrator">Administrative</a></li>
+                                        <li><i class="fa fa-caret-right"></i> <a href="staffing-services/reception-staff">Receptionist</a></li>
+                                        <li><i class="fa fa-caret-right"></i> <a href="personal-assistant">PA</a></li>
+                                        <li><i class="fa fa-caret-right"></i> <a href="kitchen-assistant">Kitchen Assistant</a></li>
+                                        <li><i class="fa fa-caret-right"></i> <a href="grill-chef">Chef/Cook</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="#">KP</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="jobs/general-labourer">General Labourer</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="carpenter-multi-skilled">Multi-Skilled Operative</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="#">Handyman</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="caretaker-bus-driver">Driver</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="staffing-services/warehouse-staff">Warehouse Operative</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="it-support-technician">IT Professional</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="data-entry-operator">Data Entry Staff</a></li>
+                                        <li><i class="fa fa-plus-circle"></i> <a href="#">Career</a></li>
+                                        <li><i class="fa fa-plus-circle" style="color: #797979 !important;"></i> <a href="nursery-nurses" style="color: #797979 !important;text-transform: capitalize;font-weight: normal;">Nurse</a></li>
+                                    </ul>
+                                    <a href="{{url('submit-a-job')}}" class="bookNowBtn"> Book Now </a>
+                                </div>
+                            </div>
+                        </div> -->
+
+            <!-- <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
                             <div class="jp_spotlight_main_wrapper">
 
@@ -425,19 +436,17 @@
 
                             </div>
 
-                        </div>
+                        </div> -->
 
 
 
 
 
-                    </div>
+            <!-- </div>
 
                 </div>
 
             </div> -->
-
-
 
 
 
@@ -463,128 +472,7 @@
 
 
 
-<div class="jp_best_deal_main_wrapper">
 
-    <div class="container">
-
-        <div class="row">
-
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
-
-                <a href="#">
-
-                    <div class="box">
-
-                        <div class="grid-box">
-
-                            <div class="iconn green">
-
-                                <i class=" font-size-icon green far fa-check-square"></i>
-
-                            </div>
-
-                            <div class="heading">
-
-                                <h2> <a> Relevant Experience </a> </h2>
-
-                            </div>
-
-                            <div class="content margin-top-10">
-
-                                <p>We make sure all our operatvies Must have minimum 2 - 5 years relevant Experience.</p>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </a>
-
-            </div>
-
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
-
-                <a href="#">
-
-                    <div class="box">
-
-
-
-                        <div class="grid-box">
-
-                            <div class="iconn green">
-
-                                <i class="font-size-icon green far fa-hand-point-down"></i>
-
-                            </div>
-
-                            <div class="heading">
-
-                                <h2> <a> Immediate Availability </a> </h2>
-
-                            </div>
-
-                            <div class="content margin-top-10">
-
-                                <p>An ideal kitchen assistant must available to start on immediate basis.</p>
-
-                            </div>
-
-
-
-                        </div>
-
-
-
-                    </div>
-
-                </a>
-
-            </div>
-
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
-
-                <a href="#">
-
-                    <div class="box">
-
-
-
-                        <div class="grid-box">
-
-                            <div class="iconn green">
-
-                                <i class="green font-size-icon fas fa-paper-plane"></i>
-
-                            </div>
-
-                            <div class="heading">
-
-                                <h2> <a> Flexible & Reliable </a> </h2>
-
-                            </div>
-
-                            <div class="content margin-top-10">
-
-                                <p>Are you flexible on weekdays & weekends shifts and also fully able to start on short noitce whenever require.</p>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </a>
-
-            </div>
-
-        </div>
-
-
-    </div>
-
-</div>
 <!-- jp career Wrapper Start -->
 
 
@@ -594,6 +482,44 @@
 <!-- jp counter Wrapper Start -->
 
 <div class="jp_counter_main_wrapper">
+    <div class="container-fluid pl-0 pr-0">
+        <div class="row">
+            <div class="gc_counter_cont_wrapper_new col-md-2">
+                <div class="count-description-new"> <span class="timer">52950</span><i class="slider_icon_size fa fa-plus"></i>
+                    <h5 class="con1">WORKERS</h5>
+                </div>
+            </div>
+            <div class="gc_counter_cont_wrapper_new col-md-2">
+                <div class="count-description-new"> <span class="timer">98</span><i class="slider_icon_size fas fa-percent"></i>
+                    <h5 class="con2">ENJOY WORK WITH US</h5>
+                </div>
+            </div>
+            <div class="gc_counter_cont_wrapper_new col-md-2">
+                <div class="count-description-new"> <span class="timer">92</span><i class="slider_icon_size fas fa-percent"></i>
+                    <h5 class="con3">RETAINED WORKERS</h5>
+                </div>
+            </div>
+            <div class="gc_counter_cont_wrapper_new col-md-2">
+                <div class="count-description-new"> <span class="timer">572847</span><i class="slider_icon_size fa fa-plus"></i>
+                    <h5 class="con4">WORKED HOURS</h5>
+                </div>
+            </div>
+            <div class="gc_counter_cont_wrapper_new col-md-2">
+                <div class="count-description-new"> <span class="timer">1200</span><i class="slider_icon_size fa fa-plus"></i>
+                    <h5 class="con4">CLIENTS</h5>
+                </div>
+            </div>
+            <div class="gc_counter_cont_wrapper_new col-md-2">
+                <div class="count-description-new"> <span class="timer">1434</span><i class="slider_icon_size fa fa-plus"></i>
+                    <h5 class="con4">SITES</h5>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!-- <div class="jp_counter_main_wrapper">
 
     <div class="gc_counter_cont_wrapper">
 
@@ -643,7 +569,7 @@
 
     </div>
 
-</div>
+</div> -->
 
 <!-- jp counter Wrapper End -->
 
@@ -655,7 +581,7 @@
 
         <div class="row">
 
-            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
                 <div class="aboutus_text_section abt_txt_page_2">
 
@@ -665,32 +591,35 @@
 
                     <div class="row">
 
-                        <div class="col-md-6">
-
-                            <ul>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Audit &amp; Assurance</li>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Business Services</li>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;IT Control Solutions</li>
-
-                            </ul>
-
-                        </div>
-
-                        <div class="col-md-6">
-
-                            <ul>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Audit &amp; Assurance</li>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Business Services</li>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;IT Control Solutions</li>
-
-                            </ul>
-
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 row margin-top-40">
+                            <div class="margin-top-20 col-md-3 col-sm-12">
+                                <div class="margin-top-10 jp_best_deal_icon_sec"> <i class="green fa fa-user"></i> </div>
+                                <div class="jp_best_deal_cont_sec margin-top-15">
+                                    <h4><a href="{{url('register')}}">1. Register </a> <span style="color: #7CC24D;">/</span> <a href="{{url('login')}}"> Login</a></h4>
+                                    <p> Our professional recruiter will contact you within no time to find out your hiring needs, skills and experience of an ideal candidate & finally the job duration and location.</p>
+                                </div>
+                            </div>
+                            <div class="margin-top-20 col-md-3 col-sm-12">
+                                <div class="margin-top-10 jp_best_deal_icon_sec"> <i class="green fa fa-address-card"></i> </div>
+                                <div class="jp_best_deal_cont_sec margin-top-15">
+                                    <h4><a href="{{url('submit-a-job')}}">2. Post A Job</a></h4>
+                                    <p> If you would like to hire any staff either is temporary or permanent basis, Post A Job on our website or via mobile app. </p>
+                                </div>
+                            </div>
+                            <div class="margin-top-20 col-md-3 col-sm-12">
+                                <div class="margin-top-10 jp_best_deal_icon_sec"> <i class="fas fa-search"></i> </div>
+                                <div class="jp_best_deal_cont_sec margin-top-15">
+                                    <h4>3. We will find the right match</h4>
+                                    <p> If you want to hire you can Submit a Job. We have a large pool of candidates, who always ready to start a job on short notice.</p>
+                                </div>
+                            </div>
+                            <div class="margin-top-20 col-md-3 col-sm-12">
+                                <div class="margin-top-10 jp_best_deal_icon_sec"> <i class="green fa fa-get-pocket"></i> </div>
+                                <div class="jp_best_deal_cont_sec margin-top-15">
+                                    <h4>4. Job Done</h4>
+                                    <p> Upon your confirmation we will book the candidate to start the job.</p>
+                                </div>
+                            </div>
                         </div>
 
                     </div>
@@ -702,10 +631,31 @@
             </div>
 
 
+            <!--end of /.col-sm-6-->
 
-            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+        </div>
 
-                <div class="accordion_wrapper abt_page_2_wrapper">
+    </div>
+
+</div>
+
+<div class="aboutus_page_2_section pt-0">
+
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+
+                <div class="aboutus_text_section abt_txt_page_2 margin-bottom-30">
+
+                    <h2>Why Workers Direct?</h2>
+
+                </div>
+
+                <p>Workers Direct possess many desirable qualities and policies that you would hope for in a recruiter:</p>
+
+                <div class="accordion_wrapper abt_page_2_wrapper margin-top-30">
 
                     <div class="panel-group" id="accordion_threeLeft">
 
@@ -717,7 +667,7 @@
 
                                     <a class="collapsed" data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftone" aria-expanded="true">
 
-                                        Our Visions and Missions
+                                        Speed of Results
 
                                     </a>
 
@@ -729,7 +679,7 @@
 
                                 <div class="panel-body">
 
-                                    Praesent in nisl egestas mauris aliquam luctus. Ut auctor faucibus orci, nec semper purus ultrices idorbi nec lorem risus orbi vitae felis gravida Pellentesque id eros quis massa convallis feugiat eu quis urna.
+                                    One of the downsides of recruitment is how long it can drag on for, especially if you manage your own recruitment in-house. Progress can take weeks or months, all while your company is lacking vital employees. Workers Direct recruitment agency provides extremely quick results to ensure companies aren’t lacking in important workers. In many cases, clients have found suitable workers within a matter of hours.
 
                                 </div>
 
@@ -747,7 +697,7 @@
 
                                     <a data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftTwo" aria-expanded="false">
 
-                                        Our Corporate Responsibility
+                                        Happy Clients
 
                                     </a>
 
@@ -759,7 +709,7 @@
 
                                 <div class="panel-body">
 
-                                    Praesent in nisl egestas mauris aliquam luctus. Ut auctor faucibus orci, nec semper purus ultrices idorbi nec lorem risus orbi vitae felis gravida Pellentesque id eros quis massa convallis feugiat eu quis urna.
+                                    Our clients are almost always very happy with the end results of our recruitment drives. You can see through our reviews and testimonials just how skilled we are at providing recruitment solutions. By consistently performing at the top of our game, we have built a strong track-record of excellence in the field of recruiting.
 
                                 </div>
 
@@ -771,13 +721,13 @@
 
                         <div class="panel panel-default">
 
-                            <div class="panel-heading bell">
+                            <div class="panel-heading search">
 
                                 <h4 class="panel-title">
 
                                     <a class="collapsed" data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftThree" aria-expanded="false">
 
-                                        Visual Page Builder
+                                        Top Experts
 
                                     </a>
 
@@ -789,7 +739,39 @@
 
                                 <div class="panel-body">
 
-                                    Praesent in nisl egestas mauris aliquam luctus. Ut auctor faucibus orci, nec semper purus ultrices idorbi nec lorem risus orbi vitae felis gravida Pellentesque id eros quis massa convallis feugiat eu quis urna.
+                                    The Workers Direct recruiting team is one of the best in the country, with a wide range of experience and expertise. We have worked with companies from many sectors ranging from construction to IT. With our decades of expertise, your business can benefit from world-class recruitment strategies and invaluable guidance.
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                        <!-- /.panel-default -->
+
+                        <!-- /.panel-default -->
+
+                        <div class="panel panel-default">
+
+                            <div class="panel-heading bell">
+
+                                <h4 class="panel-title">
+
+                                    <a class="collapsed" data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftFourth" aria-expanded="false">
+
+                                        Innovative Solutions
+
+                                    </a>
+
+                                </h4>
+
+                            </div>
+
+                            <div id="collapseTwentyLeftFourth" class="panel-collapse collapse" aria-expanded="false" role="tablist">
+
+                                <div class="panel-body">
+
+                                    Workers Direct utilise a wide range of techniques and strategies to get the best results. Along with conventional forms of recruitment and evaluation such as interviews, we draw upon new technologies and the latest in recruitment philosophy to maximise our effectiveness.
 
                                 </div>
 
@@ -807,6 +789,7 @@
 
             </div>
 
+
             <!--end of /.col-sm-6-->
 
         </div>
@@ -819,7 +802,7 @@
 
 <!-- jp downlord Wrapper Start -->
 
-<div class="jp_downlord_main_wrapper">
+<!-- <div class="jp_downlord_main_wrapper">
 
     <div class="jp_downlord_img_overlay"></div>
 
@@ -873,7 +856,8 @@
 
     </div>
 
-</div>
+</div> -->
 
 <!-- jp downlord Wrapper End -->
+
 @endsection

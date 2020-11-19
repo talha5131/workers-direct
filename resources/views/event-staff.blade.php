@@ -372,7 +372,7 @@ There are many event staff agencies offering services to the clients across the 
 
 <!-- jp career Wrapper Start -->
 
-@include('layouts.latestJobs')
+
 
 <!-- jp career Wrapper End -->
 

@@ -891,7 +891,7 @@ professional schedule to complete the task.")
 
 <!-- jp career Wrapper Start -->
 
-@include('layouts.latestJobs')
+
 
 <!-- jp career Wrapper End -->
 

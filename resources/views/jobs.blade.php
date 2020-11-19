@@ -103,10 +103,10 @@
                         </div>
 
                         <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
-                            <img  class="image-style-border" src="public/assets/images/page-pictures/JOBS/jobs_1.jpg" width="100%" height="300px" alt="jobs">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/JOBS/jobs_1.jpg" width="100%" height="300px" alt="jobs">
                         </div>
                         <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 pl-0 margin-top-30">
-                            <img  class="image-style-border" src="public/assets/images/page-pictures/JOBS/jobs_2.jpg" width="100%" height="300px" alt="jobs">
+                            <img class="image-style-border" src="public/assets/images/page-pictures/JOBS/jobs_2.jpg" width="100%" height="300px" alt="jobs">
                         </div>
 
 
@@ -147,10 +147,6 @@
                                 <p>Temporary workers are in high demand in today’s job climate and the prospects are good; varied, practical work that can grow your skills and knowledge, giving you on-the-job learning without the need to commit until you find that dream role. Registering with our consultants couldn’t be simpler. Contact us and we’ll make an appointment to talk through what you need and who you are, and to assess your ability. When we know your requirements, we can start seeking short-term work for you immediately. Give us a call and try us out – we guarantee you will be satisfied.</p>
                             </div>
                         </div>
-
-
-
-
                     </div>
 
                 </div>
@@ -383,11 +379,7 @@
 
 
 
-            <!-- <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 margin-bottom-20"> -->
 
-
-
-            <!-- </div> -->
 
 
 
@@ -533,57 +525,8 @@
 
 <!-- jp counter Wrapper Start -->
 
-<div class="jp_counter_main_wrapper">
+@include('layouts.number-counter')
 
-    <div class="gc_counter_cont_wrapper">
-
-        <div class="count-description">
-
-            <span class="timer">2540</span><i class="fa fa-plus"></i>
-
-            <h5 class="con1">Jobs Available</h5>
-
-        </div>
-
-    </div>
-
-    <div class="gc_counter_cont_wrapper2">
-
-        <div class="count-description">
-
-            <span class="timer">7325</span><i class="fa fa-plus"></i>
-
-            <h5 class="con2">Members</h5>
-
-        </div>
-
-    </div>
-
-    <div class="gc_counter_cont_wrapper3">
-
-        <div class="count-description">
-
-            <span class="timer">1924</span><i class="fa fa-plus"></i>
-
-            <h5 class="con3">Resumes</h5>
-
-        </div>
-
-    </div>
-
-    <div class="gc_counter_cont_wrapper4">
-
-        <div class="count-description">
-
-            <span class="timer">4275</span><i class="fa fa-plus"></i>
-
-            <h5 class="con4">Company</h5>
-
-        </div>
-
-    </div>
-
-</div>
 
 <!-- jp counter Wrapper End -->
 

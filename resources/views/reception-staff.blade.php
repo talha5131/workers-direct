@@ -580,7 +580,7 @@ requirements.Workers-direct offer a service where the client can get anything fr
 </div>
 <!-- jp career Wrapper Start -->
 
-@include('layouts.latestJobs')
+
 
 <!-- jp career Wrapper End -->
 

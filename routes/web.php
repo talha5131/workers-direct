@@ -465,3 +465,21 @@ Route::get('/part-time-cleaners', function () {
 Route::get('/school-caretaker', function () {
     return view('school-caretaker');
 });
+Route::get('/forklift-driver-job', function () {
+    return view('forklift-driver-job');
+});
+Route::get('/electricians', function () {
+    return view('electricians');
+});
+Route::get('/chef-de-partie', function () {
+    return view('chef-de-partie');
+});
+Route::get('/electricians-mate', function () {
+    return view('electricians-mate');
+});
+Route::get('/kitchen-porter-job', function () {
+    return view('kitchen-porter-job');
+});
+Route::get('/head-sous-chef', function () {
+    return view('head-sous-chef');
+});

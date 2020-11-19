@@ -745,7 +745,7 @@ This staffing agency has been one of the leading temp agency London, especially 
 
 <!-- jp career Wrapper Start -->
 
-@include('layouts.latestJobs')
+
 
 <!-- jp career Wrapper End -->
 

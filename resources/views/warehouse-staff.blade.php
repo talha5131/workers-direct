@@ -674,7 +674,7 @@ movement.")
     </div>
 </div>
 
-@include('layouts.latestJobs')
+
 
 <!-- jp career Wrapper End -->
 

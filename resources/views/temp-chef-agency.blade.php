@@ -574,7 +574,7 @@ extensive demands of all that we deal with. ")
 
 <!-- jp career Wrapper Start -->
 
-@include('layouts.latestJobs')
+
 
 <!-- jp career Wrapper End -->
 

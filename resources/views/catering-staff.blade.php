@@ -871,7 +871,7 @@ that the staff member will be the right fit')
 
 <!-- jp career Wrapper Start -->
 
-@include('layouts.latestJobs')
+
 
 <!-- jp career Wrapper End -->
 

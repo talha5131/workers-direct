@@ -342,7 +342,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
             </div>
         </div>
     </div>
-</div> 
+</div>
 
 <!-- jp counter Wrapper Start -->
 <div class="jp_counter_main_wrapper">
@@ -381,7 +381,8 @@ London we provide temp & perm warehouse, catering staff across UK.">
         </div>
 
     </div>
-</div> <!-- jp counter Wrapper End -->
+</div> 
+<!-- jp counter Wrapper End -->
 <!-- jp first sidebar Wrapper Start -->
 
 <div class="jp_first_sidebar_main_wrapper">
@@ -1024,7 +1025,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img2.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>Delivery Driver  </h4>
+                                                                <h4>Delivery Driver </h4>
                                                                 <p>Permanent</p>
                                                                 <ul>
                                                                     <li><i class="fa fa-cc-paypal"></i>&nbsp; £9- £11 per hour</li>
@@ -1060,7 +1061,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img3.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>Warehouse Assistant  </h4>
+                                                                <h4>Warehouse Assistant </h4>
                                                                 <p>Temporary</p>
                                                                 <ul>
                                                                     <li><i class="fa fa-cc-paypal"></i>&nbsp; £8.72 - £9 per hour</li>
@@ -1135,7 +1136,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img2.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>Painters & Decorators  </h4>
+                                                                <h4>Painters & Decorators </h4>
                                                                 <p>Temporary</p>
                                                                 <ul>
                                                                     <li><i class="fa fa-cc-paypal"></i>&nbsp; £15 - £17 per hour</li>
@@ -1260,7 +1261,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img2.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>Part Time Cleaners  </h4>
+                                                                <h4>Part Time Cleaners </h4>
                                                                 <p>Permanent </p>
                                                                 <ul>
                                                                     <li><i class="fa fa-cc-paypal"></i>&nbsp; £8.72 - £10 per hour</li>
@@ -1335,11 +1336,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img1.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>DBS Cook </h4>
-                                                                <p>Part Time</p>
+                                                                <h4>Forklift Driver </h4>
+                                                                <p>Temporary</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £10 - £13 per hour</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; West London</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £9- £11 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Bourne</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1348,7 +1349,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="{{url('dbs-cook-job-page')}}">Apply</a></li>
+                                                                    <li><a href="{{url('forklift-driver-job')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1357,11 +1358,10 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">cook,</a></li>
-                                                        <li><a href="#">food,</a></li>
-                                                        <li><a href="#">dbs cook</a></li>
-                                                        <li><a href="#">chef,</a></li>
-
+                                                        <li><a href="#">forklift driver,</a></li>
+                                                        <li><a href="#">driver,</a></li>
+                                                        <li><a href="#">forklift</a></li>
+                                                        <li><a href="#">staff,</a></li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -1371,11 +1371,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img2.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>Temp Recruitment Consultant </h4>
-                                                                <p>Part Time</p>
+                                                                <h4>Electricians </h4>
+                                                                <p>Temporary</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £9 - £12 per hour</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; East London</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £15 - £22 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Newhaven</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1384,7 +1384,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="{{url('temp-recruitment-consultant')}}">Apply</a></li>
+                                                                    <li><a href="{{url('electricians')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1393,10 +1393,10 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">recruitment,</a></li>
-                                                        <li><a href="#">temp recruitment,</a></li>
-                                                        <li><a href="#">consultant</a></li>
-                                                        <li><a href="#">hiring,</a></li>
+                                                        <li><a href="#">electricians,</a></li>
+                                                        <li><a href="#">electric,</a></li>
+                                                        <li><a href="#">wiring,</a></li>
+                                                        <li><a href="#">rewiring,</a></li>
 
                                                     </ul>
                                                 </div>
@@ -1407,11 +1407,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img3.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>Data Entry Operatives </h4>
-                                                                <p>Temporary</p>
+                                                                <h4>Chef de Partie </h4>
+                                                                <p>Temporary to Permanent </p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £8.72 - £9 per hour</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Southampton</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £9 - £12 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Reading</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1420,7 +1420,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="{{url('dataentry-operative')}}">Apply</a></li>
+                                                                    <li><a href="{{url('chef-de-partie')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1429,10 +1429,10 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">typing,</a></li>
-                                                        <li><a href="#">dataentry,</a></li>
-                                                        <li><a href="#">jobs</a></li>
-                                                        <li><a href="#">typing speed,</a></li>
+                                                        <li><a href="#">chef,</a></li>
+                                                        <li><a href="#">partie,</a></li>
+                                                        <li><a href="#">chef de partie,</a></li>
+                                                        <li><a href="#">Station chef,</a></li>
 
                                                     </ul>
                                                 </div>
@@ -1446,11 +1446,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img1.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>Carpenters & Joiners </h4>
-                                                                <p>Temporary to Permanent</p>
+                                                                <h4>Electricians Mate </h4>
+                                                                <p>Temporary</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £17 - £18 per hour</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Harlow</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £10 - £12 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; City of London</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1459,7 +1459,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="{{url('carpenters-&-joiners')}}">Apply</a></li>
+                                                                    <li><a href="{{url('electricians-mate')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1468,10 +1468,10 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">carpenters,</a></li>
-                                                        <li><a href="#">temp labourer,</a></li>
-                                                        <li><a href="#">worker</a></li>
-                                                        <li><a href="#">furniture,</a></li>
+                                                        <li><a href="#">electricians mate,</a></li>
+                                                        <li><a href="#">electricians,</a></li>
+                                                        <li><a href="#">electric</a></li>
+                                                        <li><a href="#">wiring,</a></li>
 
                                                     </ul>
                                                 </div>
@@ -1482,11 +1482,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img2.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>Staffing Coordinator </h4>
-                                                                <p>Temporary</p>
+                                                                <h4>Kitchen Porter </h4>
+                                                                <p>Temporary to Permanent </p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £9 - £12 per hour</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; London</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £8.72 - £10 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp; Cumbria</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1495,7 +1495,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="{{url('staffing-coordinator')}}">Apply</a></li>
+                                                                    <li><a href="{{url('kitchen-porter-job')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1504,10 +1504,10 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">staffing,</a></li>
-                                                        <li><a href="#">staffing coordinator,</a></li>
-                                                        <li><a href="#">coordinator</a></li>
-                                                        <li><a href="#">staff,</a></li>
+                                                        <li><a href="#">chef,</a></li>
+                                                        <li><a href="#">kitchen,</a></li>
+                                                        <li><a href="#">porter,</a></li>
+                                                        <li><a href="#">kitchen porter,</a></li>
 
                                                     </ul>
                                                 </div>
@@ -1518,11 +1518,11 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
                                                             <div class="jp_job_post_side_img"> <img src="{{url('public/assets/images/content/job_post_img3.jpg')}}" alt="post_img" /> </div>
                                                             <div class="jp_job_post_right_cont">
-                                                                <h4>Admin Assistant </h4>
-                                                                <p>Temporary to Permanent </p>
+                                                                <h4>Head chef / Sous Chef </h4>
+                                                                <p>Temporary</p>
                                                                 <ul>
-                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £9 - £10 per hour</li>
-                                                                    <li><i class="fa fa-map-marker"></i>&nbsp;London</li>
+                                                                    <li><i class="fa fa-cc-paypal"></i>&nbsp; £11 - £14 per hour</li>
+                                                                    <li><i class="fa fa-map-marker"></i>&nbsp;Barnet</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1531,7 +1531,7 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                                 <ul>
                                                                     <li><a href="#"><i class="fa fa-heart-o"></i></a></li>
                                                                     <li><a href="#">Part Time</a></li>
-                                                                    <li><a href="{{url('admin-assistant')}}">Apply</a></li>
+                                                                    <li><a href="{{url('head-sous-chef')}}">Apply</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1540,10 +1540,10 @@ London we provide temp & perm warehouse, catering staff across UK.">
                                                 <div class="jp_job_post_keyword_wrapper">
                                                     <ul>
                                                         <li><i class="fa fa-tags"></i>Keywords :</li>
-                                                        <li><a href="#">admin assistant,</a></li>
-                                                        <li><a href="#">assistant,</a></li>
-                                                        <li><a href="#">admin</a></li>
-                                                        <li><a href="#">Administrative Assistant,</a></li>
+                                                        <li><a href="#">Head chef,</a></li>
+                                                        <li><a href="#">Sous Chef,</a></li>
+                                                        <li><a href="#">chef,</a></li>
+                                                        <li><a href="#">kitchen,</a></li>
 
                                                     </ul>
                                                 </div>
