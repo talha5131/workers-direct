@@ -113,7 +113,7 @@
                         <p class="pt-0">Some of our policies include:</p>
 
                         <ul>
-                            <li><i class="fa fa-caret-right"></i> <span style="color: #7CC24D;"> No placement, no fee </span>: One of our most attractive policies is our no placement, no fee guarantee. This means that clients working with us won't have to pay anything if we can't successfully hire any candidates for them. This attracts many more clients to become part of our team, boosting your prospects of finding employment as a warehouse operative.</li>
+                            <!-- <li><i class="fa fa-caret-right"></i> <span style="color: #7CC24D;"> No placement, no fee </span>: One of our most attractive policies is our no placement, no fee guarantee. This means that clients working with us won't have to pay anything if we can't successfully hire any candidates for them. This attracts many more clients to become part of our team, boosting your prospects of finding employment as a warehouse operative.</li> -->
 
                             <li><i class="fa fa-caret-right"></i> <span style="color: #7CC24D;"> No upfront costs </span>: Neither businesses nor workers are required to pay a single penny when becoming a part of our team. A lot of other warehouse agencies charge upfront, whereas we only believe in charging our fee once we have upheld our end of the deal.</li>
 
