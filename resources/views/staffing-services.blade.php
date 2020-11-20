@@ -95,7 +95,7 @@
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
                         <h4 class="margin-bottom-20">Warehouse Staff</h4>
                         <img class="image-style-border margin-top-20" style="height: 300px;" src="{{url('public/assets/images/page-pictures/WAREHOUSE STAFF/warehouse_staff_4.jpg')}}" width="100%" height="260px" alt="#">
-                        
+
                         <p style="margin: 0;"> Does your warehouse need more staff to meet a seasonal demand? Is a member of your warehouse team on leave?.. <a href="staffing-services/warehouse-staff" style="color: #7CC24D;"><strong>Read More</strong></a></p>
                     </div>
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
@@ -108,7 +108,7 @@
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
                         <h4 class="margin-bottom-20">Reception Staff</h4>
                         <img class="image-style-border margin-top-20" style="height: 300px;" src="{{url('public/assets/images/page-pictures/RECEPTION STAFF/reception_staff_3.jpg')}}" width="100%" height="260px" alt="#">
-                        
+
                         <p style="margin: 0;">We have highly experienced Receptionist from office receptionist to a front of house staff quick.. <a href="staffing-services/reception-staff" style="color: #7CC24D;"><strong>Read More</strong></a></p>
                     </div>
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
@@ -121,12 +121,12 @@
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
                         <h4 class="margin-bottom-20">Event Staff</h4>
                         <img class="image-style-border margin-top-20" style="height: 300px;" src="{{url('public/assets/images/page-pictures/EVENT STAFF/event_staff_2.jpg')}}" width="100%" height="260px" alt="#">
-                        
+
                         <p style="margin: 0;">Event staffing in London are not very hard to find. There is an abundance of Event Helpers, waiting.. <a href="staffing-services/event-staff" style="color: #7CC24D;"><strong>Read More</strong></a></p>
                     </div>
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
                         <h4 class="margin-bottom-20">Admin Staff</h4>
-                        <img class="image-style-border margin-top-20" style="height: 300px;" src="{{url('public/assets/images/page-pictures/admin staff/admin_staff_2.jpg')}}" width="100%" height="260px" alt="#">
+                        <img class="image-style-border margin-top-20" style="height: 300px;" src="{{url('public/assets/images/page-pictures/ADMIN STAFF/admin_staff_2.jpg')}}" width="100%" height="260px" alt="#">
                         <p style="margin: 0;">The team at Workers Direct specialists in matching talented office and support candidates with.. <a href="staffing-services/admin-staff" style="color: #7CC24D;"><strong>Read More</strong></a></p>
 
                     </div>
@@ -134,7 +134,7 @@
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
                         <h4 class="margin-bottom-20">School Staffing</h4>
                         <img class="image-style-border margin-top-20" style="height: 300px;" src="{{url('public/assets/images/page-pictures/SCHOOL STAFFING/SCHOOL_STAFFING_1.jpg')}}" width="100%" height="260px" alt="#">
-                        
+
                         <p style="margin: 0;">Teachers and staff can have the most profound and positive effect upon a child’s early years, and Workers Direct.. <a href="staffing-services/school-staffing" style="color: #7CC24D;"><strong>Read More</strong></a></p>
                     </div>
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
@@ -147,7 +147,7 @@
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
                         <h4 class="margin-bottom-20">Healthcare Staff</h4>
                         <img class="image-style-border margin-top-20" style="height: 300px;" src="{{url('public/assets/images/page-pictures/HEALTHCARE STAFF/healthcare_staff_1.jpg')}}" width="100%" height="260px" alt="#">
-                        
+
                         <p style="margin: 0;">At Workers Direct our recruitment team for the healthcare sector can find you permanent.. <a href="staffing-services/healthcare-staff" style="color: #7CC24D;"><strong>Read More</strong></a></p>
                     </div>
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-20">
@@ -161,7 +161,179 @@
 
                 </div>
 
+                <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12 margin-top-60 pl-0">
+
+                    <div class="aboutus_text_section abt_txt_page_2 margin-bottom-30">
+
+                        <h2>Why Workers Direct?</h2>
+
+                    </div>
+
+                    <p>Workers Direct possess many desirable qualities and policies that you would hope for in a recruiter:</p>
+
+                    <div class="accordion_wrapper abt_page_2_wrapper margin-top-30">
+
+                        <div class="panel-group" id="accordion_threeLeft">
+
+                            <div class="panel panel-default">
+
+                                <div class="panel-heading desktop">
+
+                                    <h4 class="panel-title">
+
+                                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftone" aria-expanded="true">
+
+                                            Speed of Results
+
+                                        </a>
+
+                                    </h4>
+
+                                </div>
+
+                                <div id="collapseTwentyLeftone" class="panel-collapse collapse" aria-expanded="true" role="tablist">
+
+                                    <div class="panel-body">
+
+                                        One of the downsides of recruitment is how long it can drag on for, especially if you manage your own recruitment in-house. Progress can take weeks or months, all while your company is lacking vital employees. Workers Direct recruitment agency provides extremely quick results to ensure companies aren’t lacking in important workers. In many cases, clients have found suitable workers within a matter of hours.
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                            <!-- /.panel-default -->
+
+                            <div class="panel panel-default">
+
+                                <div class="panel-heading horn">
+
+                                    <h4 class="panel-title">
+
+                                        <a data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftTwo" aria-expanded="false">
+
+                                            Happy Clients
+
+                                        </a>
+
+                                    </h4>
+
+                                </div>
+
+                                <div id="collapseTwentyLeftTwo" class="panel-collapse collapse in" aria-expanded="false" role="tablist">
+
+                                    <div class="panel-body">
+
+                                        Our clients are almost always very happy with the end results of our recruitment drives. You can see through our reviews and testimonials just how skilled we are at providing recruitment solutions. By consistently performing at the top of our game, we have built a strong track-record of excellence in the field of recruiting.
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                            <!-- /.panel-default -->
+
+                            <div class="panel panel-default">
+
+                                <div class="panel-heading search">
+
+                                    <h4 class="panel-title">
+
+                                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftThree" aria-expanded="false">
+
+                                            Top Experts
+
+                                        </a>
+
+                                    </h4>
+
+                                </div>
+
+                                <div id="collapseTwentyLeftThree" class="panel-collapse collapse" aria-expanded="false" role="tablist">
+
+                                    <div class="panel-body">
+
+                                        The Workers Direct recruiting team is one of the best in the country, with a wide range of experience and expertise. We have worked with companies from many sectors ranging from construction to IT. With our decades of expertise, your business can benefit from world-class recruitment strategies and invaluable guidance.
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                            <!-- /.panel-default -->
+
+                            <!-- /.panel-default -->
+
+                            <div class="panel panel-default">
+
+                                <div class="panel-heading bell">
+
+                                    <h4 class="panel-title">
+
+                                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftFourth" aria-expanded="false">
+
+                                            Innovative Solutions
+
+                                        </a>
+
+                                    </h4>
+
+                                </div>
+
+                                <div id="collapseTwentyLeftFourth" class="panel-collapse collapse" aria-expanded="false" role="tablist">
+
+                                    <div class="panel-body">
+
+                                        Workers Direct utilise a wide range of techniques and strategies to get the best results. Along with conventional forms of recruitment and evaluation such as interviews, we draw upon new technologies and the latest in recruitment philosophy to maximise our effectiveness.
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                            <!-- /.panel-default -->
+
+                        </div>
+
+                        <!--end of /.panel-group-->
+
+                    </div>
+
+                </div>
+
+                <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-165">
+
+                    <div class="jp_add_resume_wrapper">
+
+                        <div class="jp_add_resume_img_overlay"></div>
+
+                        <div class="jp_add_resume_cont">
+
+                            <img src="public/assets/images/content/resume_logo.png" alt="logo" />
+
+                            <h4>Get Best Matched Candidates On your Email.</h4>
+
+                            <ul>
+
+                                <li><a href="{{url('submit-a-job')}}"><i class="fa fa-plus-circle"></i> Post A Job</a></li>
+
+                            </ul>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+
             </div>
+
+
 
             <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 ">
 
@@ -390,11 +562,247 @@
 
 </div>
 
-
-
 <!-- jp best deal Wrapper Start -->
 
+<div class="jp_best_deal_main_wrapper">
+    <div class="about_text_wrapper" style="position: absolute; top: 3532px; left: 424px; z-index: 1000;">
+        <h2><strong> Workers Direct - Your Staffing Partner </strong></h2>
+    </div>
+    <div class="container">
 
+
+
+        <div class="row">
+
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+
+                <a href="#">
+
+                    <div class="box">
+
+                        <div class="grid-box">
+
+                            <div class="iconn green">
+
+                                <i class=" font-size-icon green far fa-check-square"></i>
+
+                            </div>
+
+                            <div class="heading">
+
+                                <h2> <a> Quick Hire </a> </h2>
+
+                            </div>
+
+                            <div class="content margin-top-10">
+
+                                <p>We understand how important it is to get things done quickly in the business world. Recruitment often drags on for weeks or months if it isn’t done by professionals; with Workers Direct recruitment agency you will benefit from speedy results.</p>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </a>
+
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+
+                <a href="#">
+
+                    <div class="box">
+
+
+
+                        <div class="grid-box">
+
+                            <div class="iconn green">
+
+                                <i class="font-size-icon green far fa-hand-point-down"></i>
+
+                            </div>
+
+                            <div class="heading">
+
+                                <h2> <a> No Upfront Fees </a> </h2>
+
+                            </div>
+
+                            <div class="content margin-top-10">
+
+                                <p>When you become a client with Worker Direct Ltd. you won’t need to pay any upfront costs to join. This means no hefty start-up fees to get your recruitment drive going.</p>
+
+                            </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+
+                </a>
+
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+
+                <a href="#">
+
+                    <div class="box">
+
+
+
+                        <div class="grid-box">
+
+                            <div class="iconn green">
+
+                                <i class="green font-size-icon fas fa-paper-plane"></i>
+
+                            </div>
+
+                            <div class="heading">
+
+                                <h2> <a> No Placement, No Fee</a> </h2>
+
+                            </div>
+
+                            <div class="content margin-top-10">
+
+                                <p>As well as the free cost of joining us as a client, you won’t be made to pay a thing unless we successfully manage to place a suitable candidate into your company.</p>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </a>
+
+            </div>
+        </div>
+        <div class="row margin-top-30">
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+
+                <a href="#">
+
+                    <div class="box">
+
+                        <div class="grid-box">
+
+                            <div class="iconn green">
+
+                                <i class="font-size-icon green fa fa-graduation-cap"></i>
+
+                            </div>
+
+                            <div class="heading">
+
+                                <h2> <a> Expertise </a> </h2>
+
+                            </div>
+
+                            <div class="content margin-top-10">
+
+                                <p>Our recruiting team have worked across a diverse array of sectors over the years, so we closely understand many industries. We’ve worked with clients from construction to hospitality so get in touch whatever your line of work.</p>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </a>
+
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+
+                <a href="#">
+
+                    <div class="box">
+
+
+
+                        <div class="grid-box">
+
+                            <div class="iconn green">
+
+                                <i class="font-size-icon green fas fa-chess-knight"></i>
+
+                            </div>
+
+                            <div class="heading">
+
+                                <h2> <a> Modern Recruitment Strategies</a> </h2>
+
+                            </div>
+
+                            <div class="content margin-top-10">
+
+                                <p>Finding the best candidates in the modern day requires the latest recruitment strategies. We use innovative recruiting techniques to narrow down the most capable individuals for your business.</p>
+
+                            </div>
+
+
+
+                        </div>
+
+
+
+                    </div>
+
+                </a>
+
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+
+                <a href="#">
+
+                    <div class="box">
+
+
+
+                        <div class="grid-box">
+
+                            <div class="iconn green">
+
+                                <i class="green font-size-icon fa fa-sitemap"></i>
+
+                            </div>
+
+                            <div class="heading">
+
+                                <h2> <a> Right Staff on Right time </a> </h2>
+
+                            </div>
+
+                            <div class="content margin-top-10">
+
+                                <p>Whether your business needs temporary additions or you’re looking to add someone permanent, Worker Direct has the skill and experience to find the right talent on right time according to job requirements.</p>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </a>
+
+            </div>
+        </div>
+
+
+    </div>
+
+</div>
+<!-- jp career Wrapper Start -->
+
+<!-- jp best deal Wrapper Start -->
 
 <div class="jp_best_deal_main_wrapper">
 
@@ -526,57 +934,7 @@
 
 <!-- jp counter Wrapper Start -->
 
-<div class="jp_counter_main_wrapper">
-
-    <div class="gc_counter_cont_wrapper">
-
-        <div class="count-description">
-
-            <span class="timer">2540</span><i class="fa fa-plus"></i>
-
-            <h5 class="con1">Jobs Available</h5>
-
-        </div>
-
-    </div>
-
-    <div class="gc_counter_cont_wrapper2">
-
-        <div class="count-description">
-
-            <span class="timer">7325</span><i class="fa fa-plus"></i>
-
-            <h5 class="con2">Members</h5>
-
-        </div>
-
-    </div>
-
-    <div class="gc_counter_cont_wrapper3">
-
-        <div class="count-description">
-
-            <span class="timer">1924</span><i class="fa fa-plus"></i>
-
-            <h5 class="con3">Resumes</h5>
-
-        </div>
-
-    </div>
-
-    <div class="gc_counter_cont_wrapper4">
-
-        <div class="count-description">
-
-            <span class="timer">4275</span><i class="fa fa-plus"></i>
-
-            <h5 class="con4">Company</h5>
-
-        </div>
-
-    </div>
-
-</div>
+@include('layouts.number-counter')
 
 <!-- jp counter Wrapper End -->
 
@@ -588,7 +946,7 @@
 
         <div class="row">
 
-            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
 
                 <div class="aboutus_text_section abt_txt_page_2">
 
@@ -598,32 +956,35 @@
 
                     <div class="row">
 
-                        <div class="col-md-6">
-
-                            <ul>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Audit &amp; Assurance</li>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Business Services</li>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;IT Control Solutions</li>
-
-                            </ul>
-
-                        </div>
-
-                        <div class="col-md-6">
-
-                            <ul>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Audit &amp; Assurance</li>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Business Services</li>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;IT Control Solutions</li>
-
-                            </ul>
-
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 row margin-top-40">
+                            <div class="margin-top-20 col-md-3 col-sm-12">
+                                <div class="margin-top-10 jp_best_deal_icon_sec"> <i class="green fa fa-user"></i> </div>
+                                <div class="jp_best_deal_cont_sec margin-top-15">
+                                    <h4><a href="{{url('register')}}">1. Register </a> <span style="color: #7CC24D;">/</span> <a href="{{url('login')}}"> Login</a></h4>
+                                    <p> Our professional recruiter will contact you within no time to find out your hiring needs, skills and experience of an ideal candidate & finally the job duration and location.</p>
+                                </div>
+                            </div>
+                            <div class="margin-top-20 col-md-3 col-sm-12">
+                                <div class="margin-top-10 jp_best_deal_icon_sec"> <i class="green fa fa-address-card"></i> </div>
+                                <div class="jp_best_deal_cont_sec margin-top-15">
+                                    <h4><a href="{{url('submit-a-job')}}">2. Post A Job</a></h4>
+                                    <p> If you would like to hire any staff either is temporary or permanent basis, Post A Job on our website or via mobile app. </p>
+                                </div>
+                            </div>
+                            <div class="margin-top-20 col-md-3 col-sm-12">
+                                <div class="margin-top-10 jp_best_deal_icon_sec"> <i class="fas fa-search"></i> </div>
+                                <div class="jp_best_deal_cont_sec margin-top-15">
+                                    <h4>3. We will find the right match</h4>
+                                    <p> If you want to hire you can Submit a Job. We have a large pool of candidates, who always ready to start a job on short notice.</p>
+                                </div>
+                            </div>
+                            <div class="margin-top-20 col-md-3 col-sm-12">
+                                <div class="margin-top-10 jp_best_deal_icon_sec"> <i class="green fa fa-get-pocket"></i> </div>
+                                <div class="jp_best_deal_cont_sec margin-top-15">
+                                    <h4>4. Job Done</h4>
+                                    <p> Upon your confirmation we will book the candidate to start the job.</p>
+                                </div>
+                            </div>
                         </div>
 
                     </div>
@@ -634,111 +995,6 @@
 
             </div>
 
-
-
-            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
-
-                <div class="accordion_wrapper abt_page_2_wrapper">
-
-                    <div class="panel-group" id="accordion_threeLeft">
-
-                        <div class="panel panel-default">
-
-                            <div class="panel-heading desktop">
-
-                                <h4 class="panel-title">
-
-                                    <a class="collapsed" data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftone" aria-expanded="true">
-
-                                        Our Visions and Missions
-
-                                    </a>
-
-                                </h4>
-
-                            </div>
-
-                            <div id="collapseTwentyLeftone" class="panel-collapse collapse" aria-expanded="true" role="tablist">
-
-                                <div class="panel-body">
-
-                                    Praesent in nisl egestas mauris aliquam luctus. Ut auctor faucibus orci, nec semper purus ultrices idorbi nec lorem risus orbi vitae felis gravida Pellentesque id eros quis massa convallis feugiat eu quis urna.
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <!-- /.panel-default -->
-
-                        <div class="panel panel-default">
-
-                            <div class="panel-heading horn">
-
-                                <h4 class="panel-title">
-
-                                    <a data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftTwo" aria-expanded="false">
-
-                                        Our Corporate Responsibility
-
-                                    </a>
-
-                                </h4>
-
-                            </div>
-
-                            <div id="collapseTwentyLeftTwo" class="panel-collapse collapse in" aria-expanded="false" role="tablist">
-
-                                <div class="panel-body">
-
-                                    Praesent in nisl egestas mauris aliquam luctus. Ut auctor faucibus orci, nec semper purus ultrices idorbi nec lorem risus orbi vitae felis gravida Pellentesque id eros quis massa convallis feugiat eu quis urna.
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <!-- /.panel-default -->
-
-                        <div class="panel panel-default">
-
-                            <div class="panel-heading bell">
-
-                                <h4 class="panel-title">
-
-                                    <a class="collapsed" data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftThree" aria-expanded="false">
-
-                                        Visual Page Builder
-
-                                    </a>
-
-                                </h4>
-
-                            </div>
-
-                            <div id="collapseTwentyLeftThree" class="panel-collapse collapse" aria-expanded="false" role="tablist">
-
-                                <div class="panel-body">
-
-                                    Praesent in nisl egestas mauris aliquam luctus. Ut auctor faucibus orci, nec semper purus ultrices idorbi nec lorem risus orbi vitae felis gravida Pellentesque id eros quis massa convallis feugiat eu quis urna.
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <!-- /.panel-default -->
-
-                    </div>
-
-                    <!--end of /.panel-group-->
-
-                </div>
-
-            </div>
 
             <!--end of /.col-sm-6-->
 
