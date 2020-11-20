@@ -7716,6 +7716,9 @@ html {
     padding-right: 0px;
 }
 
+.mr-0 {
+    margin-right: 0px;
+}
 .pt-0 {
     padding-top: 0px !important;
 }

@@ -138,7 +138,11 @@
 
     </div>
 </div>
-</div>
+
+@include('layouts.number-counter')
+
+@include('layouts.how-we-work')
+
 
 
 

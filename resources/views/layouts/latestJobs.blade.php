@@ -99,7 +99,7 @@
 
                                     <div class="jp_career_img_wrapper">
 
-                                        <img src="{{url('public/assets/images/page-pictures/admin staff/admin_staff_2.jpg')}}" height="228px" alt="career_img" />
+                                        <img src="{{url('public/assets/images/page-pictures/ADMIN STAFF/admin_staff_2.jpg')}}" height="228px" alt="career_img" />
 
                                     </div>
 

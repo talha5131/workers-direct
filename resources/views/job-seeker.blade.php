@@ -332,6 +332,174 @@
                 </div>
             </div>
 
+            <div class="col-lg-9 col-md-9 col-xs-12 col-sm-12 margin-top-60 pl-0">
+
+                <div class="aboutus_text_section abt_txt_page_2 margin-bottom-30">
+
+                    <h2>Why Workers Direct?</h2>
+
+                </div>
+
+                <p>Workers Direct possess many desirable qualities and policies that you would hope for in a recruiter:</p>
+
+                <div class="accordion_wrapper abt_page_2_wrapper margin-top-30">
+
+                    <div class="panel-group" id="accordion_threeLeft">
+
+                        <div class="panel panel-default">
+
+                            <div class="panel-heading desktop">
+
+                                <h4 class="panel-title">
+
+                                    <a class="collapsed" data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftone" aria-expanded="true">
+
+                                        Speed of Results
+
+                                    </a>
+
+                                </h4>
+
+                            </div>
+
+                            <div id="collapseTwentyLeftone" class="panel-collapse collapse" aria-expanded="true" role="tablist">
+
+                                <div class="panel-body">
+
+                                    One of the downsides of recruitment is how long it can drag on for, especially if you manage your own recruitment in-house. Progress can take weeks or months, all while your company is lacking vital employees. Workers Direct recruitment agency provides extremely quick results to ensure companies aren’t lacking in important workers. In many cases, clients have found suitable workers within a matter of hours.
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                        <!-- /.panel-default -->
+
+                        <div class="panel panel-default">
+
+                            <div class="panel-heading horn">
+
+                                <h4 class="panel-title">
+
+                                    <a data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftTwo" aria-expanded="false">
+
+                                        Happy Clients
+
+                                    </a>
+
+                                </h4>
+
+                            </div>
+
+                            <div id="collapseTwentyLeftTwo" class="panel-collapse collapse in" aria-expanded="false" role="tablist">
+
+                                <div class="panel-body">
+
+                                    Our clients are almost always very happy with the end results of our recruitment drives. You can see through our reviews and testimonials just how skilled we are at providing recruitment solutions. By consistently performing at the top of our game, we have built a strong track-record of excellence in the field of recruiting.
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                        <!-- /.panel-default -->
+
+                        <div class="panel panel-default">
+
+                            <div class="panel-heading search">
+
+                                <h4 class="panel-title">
+
+                                    <a class="collapsed" data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftThree" aria-expanded="false">
+
+                                        Top Experts
+
+                                    </a>
+
+                                </h4>
+
+                            </div>
+
+                            <div id="collapseTwentyLeftThree" class="panel-collapse collapse" aria-expanded="false" role="tablist">
+
+                                <div class="panel-body">
+
+                                    The Workers Direct recruiting team is one of the best in the country, with a wide range of experience and expertise. We have worked with companies from many sectors ranging from construction to IT. With our decades of expertise, your business can benefit from world-class recruitment strategies and invaluable guidance.
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                        <!-- /.panel-default -->
+
+                        <!-- /.panel-default -->
+
+                        <div class="panel panel-default">
+
+                            <div class="panel-heading bell">
+
+                                <h4 class="panel-title">
+
+                                    <a class="collapsed" data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftFourth" aria-expanded="false">
+
+                                        Innovative Solutions
+
+                                    </a>
+
+                                </h4>
+
+                            </div>
+
+                            <div id="collapseTwentyLeftFourth" class="panel-collapse collapse" aria-expanded="false" role="tablist">
+
+                                <div class="panel-body">
+
+                                    Workers Direct utilise a wide range of techniques and strategies to get the best results. Along with conventional forms of recruitment and evaluation such as interviews, we draw upon new technologies and the latest in recruitment philosophy to maximise our effectiveness.
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                        <!-- /.panel-default -->
+
+                    </div>
+
+                    <!--end of /.panel-group-->
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-165">
+
+                <div class="jp_add_resume_wrapper">
+
+                    <div class="jp_add_resume_img_overlay"></div>
+
+                    <div class="jp_add_resume_cont">
+
+                        <img src="public/assets/images/content/resume_logo.png" alt="logo" />
+
+                        <h4>Get Best Matched Candidates On your Email.</h4>
+
+                        <ul>
+
+                            <li><a href="{{url('submit-a-job')}}"><i class="fa fa-plus-circle"></i> Post A Job</a></li>
+
+                        </ul>
+
+                    </div>
+
+                </div>
+
+            </div>
+
         </div>
 
     </div>
@@ -475,69 +643,8 @@
 
 <!-- aboutus_section end -->
 
-<div class="aboutus_page_2_section">
+@include('layouts.how-we-work')
 
-    <div class="container">
-
-        <div class="row">
-
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-
-                <div class="aboutus_text_section abt_txt_page_2">
-
-                    <h2>How We <span>Work</span></h2>
-
-                    <p>We do not depend always on technology for candidate searches, preferring to use experience, industry acumen and intuition to identify what each individual could bring to a specific business. This intelligent & human approach pays surpluses time after time. We recognise the trust clients make in Workers Direct and our priority is always to make sure we attain the best results for all concerned.</p>
-
-                    <div class="row">
-
-                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 row margin-top-40">
-                            <div class="margin-top-20 col-md-3 col-sm-12">
-                                <div class="margin-top-10 jp_best_deal_icon_sec"> <i class="green fa fa-user"></i> </div>
-                                <div class="jp_best_deal_cont_sec margin-top-15">
-                                    <h4><a href="{{url('register')}}">1. Register </a> <span style="color: #7CC24D;">/</span> <a href="{{url('login')}}"> Login</a></h4>
-                                    <p> Our professional recruiter will contact you within no time to find out your hiring needs, skills and experience of an ideal candidate & finally the job duration and location.</p>
-                                </div>
-                            </div>
-                            <div class="margin-top-20 col-md-3 col-sm-12">
-                                <div class="margin-top-10 jp_best_deal_icon_sec"> <i class="green fa fa-address-card"></i> </div>
-                                <div class="jp_best_deal_cont_sec margin-top-15">
-                                    <h4><a href="{{url('submit-a-job')}}">2. Post A Job</a></h4>
-                                    <p> If you would like to hire any staff either is temporary or permanent basis, Post A Job on our website or via mobile app. </p>
-                                </div>
-                            </div>
-                            <div class="margin-top-20 col-md-3 col-sm-12">
-                                <div class="margin-top-10 jp_best_deal_icon_sec"> <i class="fas fa-search"></i> </div>
-                                <div class="jp_best_deal_cont_sec margin-top-15">
-                                    <h4>3. We will find the right match</h4>
-                                    <p> If you want to hire you can Submit a Job. We have a large pool of candidates, who always ready to start a job on short notice.</p>
-                                </div>
-                            </div>
-                            <div class="margin-top-20 col-md-3 col-sm-12">
-                                <div class="margin-top-10 jp_best_deal_icon_sec"> <i class="green fa fa-get-pocket"></i> </div>
-                                <div class="jp_best_deal_cont_sec margin-top-15">
-                                    <h4>4. Job Done</h4>
-                                    <p> Upon your confirmation we will book the candidate to start the job.</p>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-
-
-
-                </div>
-
-            </div>
-
-
-            <!--end of /.col-sm-6-->
-
-        </div>
-
-    </div>
-
-</div>
 
 <!--end of /.col-sm-6-->
 

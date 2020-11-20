@@ -574,7 +574,7 @@
 
         <div class="row">
 
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 ">
 
                 <a href="#">
 
@@ -582,19 +582,19 @@
 
                         <div class="grid-box">
 
-                            <div class="iconn green">
+                            <div class="iconn green text-center">
 
                                 <i class=" font-size-icon green far fa-check-square"></i>
 
                             </div>
 
-                            <div class="heading">
+                            <div class="heading text-center">
 
-                                <h2> <a> Quick Hire </a> </h2>
+                                <h2><a> Quick Hire </a></h2>
 
                             </div>
 
-                            <div class="content margin-top-10">
+                            <div class=" margin-top-10">
 
                                 <p>We understand how important it is to get things done quickly in the business world. Recruitment often drags on for weeks or months if it isn’t done by professionals; with Workers Direct recruitment agency you will benefit from speedy results.</p>
 
@@ -608,7 +608,7 @@
 
             </div>
 
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 
                 <a href="#">
 
@@ -618,19 +618,19 @@
 
                         <div class="grid-box">
 
-                            <div class="iconn green">
+                            <div class="iconn green text-center">
 
                                 <i class="font-size-icon green far fa-hand-point-down"></i>
 
                             </div>
 
-                            <div class="heading">
+                            <div class="heading text-center">
 
                                 <h2> <a> No Upfront Fees </a> </h2>
 
                             </div>
 
-                            <div class="content margin-top-10">
+                            <div class=" margin-top-10">
 
                                 <p>When you become a client with Worker Direct Ltd. you won’t need to pay any upfront costs to join. This means no hefty start-up fees to get your recruitment drive going.</p>
 
@@ -648,7 +648,7 @@
 
             </div>
 
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 ">
 
                 <a href="#">
 
@@ -658,19 +658,19 @@
 
                         <div class="grid-box">
 
-                            <div class="iconn green">
+                            <div class="iconn green text-center">
 
                                 <i class="green font-size-icon fas fa-paper-plane"></i>
 
                             </div>
 
-                            <div class="heading">
+                            <div class="heading text-center">
 
                                 <h2> <a> No Placement, No Fee</a> </h2>
 
                             </div>
 
-                            <div class="content margin-top-10">
+                            <div class=" margin-top-10">
 
                                 <p>As well as the free cost of joining us as a client, you won’t be made to pay a thing unless we successfully manage to place a suitable candidate into your company.</p>
 
@@ -685,7 +685,7 @@
             </div>
         </div>
         <div class="row margin-top-30">
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 ">
 
                 <a href="#">
 
@@ -693,19 +693,19 @@
 
                         <div class="grid-box">
 
-                            <div class="iconn green">
+                            <div class="iconn green text-center">
 
                                 <i class="font-size-icon green fa fa-graduation-cap"></i>
 
                             </div>
 
-                            <div class="heading">
+                            <div class="heading text-center">
 
                                 <h2> <a> Expertise </a> </h2>
 
                             </div>
 
-                            <div class="content margin-top-10">
+                            <div class=" margin-top-10">
 
                                 <p>Our recruiting team have worked across a diverse array of sectors over the years, so we closely understand many industries. We’ve worked with clients from construction to hospitality so get in touch whatever your line of work.</p>
 
@@ -719,7 +719,7 @@
 
             </div>
 
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 ">
 
                 <a href="#">
 
@@ -729,19 +729,19 @@
 
                         <div class="grid-box">
 
-                            <div class="iconn green">
+                            <div class="iconn green text-center">
 
                                 <i class="font-size-icon green fas fa-chess-knight"></i>
 
                             </div>
 
-                            <div class="heading">
+                            <div class="heading text-center">
 
                                 <h2> <a> Modern Recruitment Strategies</a> </h2>
 
                             </div>
 
-                            <div class="content margin-top-10">
+                            <div class=" margin-top-10">
 
                                 <p>Finding the best candidates in the modern day requires the latest recruitment strategies. We use innovative recruiting techniques to narrow down the most capable individuals for your business.</p>
 
@@ -759,7 +759,7 @@
 
             </div>
 
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 text-center">
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 
                 <a href="#">
 
@@ -769,19 +769,19 @@
 
                         <div class="grid-box">
 
-                            <div class="iconn green">
+                            <div class="iconn green text-center">
 
                                 <i class="green font-size-icon fa fa-sitemap"></i>
 
                             </div>
 
-                            <div class="heading">
+                            <div class="heading text-center">
 
                                 <h2> <a> Right Staff on Right time </a> </h2>
 
                             </div>
 
-                            <div class="content margin-top-10">
+                            <div class=" margin-top-10">
 
                                 <p>Whether your business needs temporary additions or you’re looking to add someone permanent, Worker Direct has the skill and experience to find the right talent on right time according to job requirements.</p>
 
@@ -940,129 +940,14 @@
 
 <!-- aboutus_section end -->
 
-<div class="aboutus_page_2_section">
+@include('layouts.how-we-work')
 
-    <div class="container">
-
-        <div class="row">
-
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
-
-                <div class="aboutus_text_section abt_txt_page_2">
-
-                    <h2>How We <span>Work</span></h2>
-
-                    <p>We do not depend always on technology for candidate searches, preferring to use experience, industry acumen and intuition to identify what each individual could bring to a specific business. This intelligent & human approach pays surpluses time after time. We recognise the trust clients make in Workers Direct and our priority is always to make sure we attain the best results for all concerned.</p>
-
-                    <div class="row">
-
-                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 row margin-top-40">
-                            <div class="margin-top-20 col-md-3 col-sm-12">
-                                <div class="margin-top-10 jp_best_deal_icon_sec"> <i class="green fa fa-user"></i> </div>
-                                <div class="jp_best_deal_cont_sec margin-top-15">
-                                    <h4><a href="{{url('register')}}">1. Register </a> <span style="color: #7CC24D;">/</span> <a href="{{url('login')}}"> Login</a></h4>
-                                    <p> Our professional recruiter will contact you within no time to find out your hiring needs, skills and experience of an ideal candidate & finally the job duration and location.</p>
-                                </div>
-                            </div>
-                            <div class="margin-top-20 col-md-3 col-sm-12">
-                                <div class="margin-top-10 jp_best_deal_icon_sec"> <i class="green fa fa-address-card"></i> </div>
-                                <div class="jp_best_deal_cont_sec margin-top-15">
-                                    <h4><a href="{{url('submit-a-job')}}">2. Post A Job</a></h4>
-                                    <p> If you would like to hire any staff either is temporary or permanent basis, Post A Job on our website or via mobile app. </p>
-                                </div>
-                            </div>
-                            <div class="margin-top-20 col-md-3 col-sm-12">
-                                <div class="margin-top-10 jp_best_deal_icon_sec"> <i class="fas fa-search"></i> </div>
-                                <div class="jp_best_deal_cont_sec margin-top-15">
-                                    <h4>3. We will find the right match</h4>
-                                    <p> If you want to hire you can Submit a Job. We have a large pool of candidates, who always ready to start a job on short notice.</p>
-                                </div>
-                            </div>
-                            <div class="margin-top-20 col-md-3 col-sm-12">
-                                <div class="margin-top-10 jp_best_deal_icon_sec"> <i class="green fa fa-get-pocket"></i> </div>
-                                <div class="jp_best_deal_cont_sec margin-top-15">
-                                    <h4>4. Job Done</h4>
-                                    <p> Upon your confirmation we will book the candidate to start the job.</p>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-
-
-
-                </div>
-
-            </div>
-
-
-            <!--end of /.col-sm-6-->
-
-        </div>
-
-    </div>
-
-</div>
 
 <!--end of /.col-sm-6-->
 
 <!-- jp downlord Wrapper Start -->
 
-<div class="jp_downlord_main_wrapper">
 
-    <div class="jp_downlord_img_overlay"></div>
-
-    <div class="container">
-
-        <div class="row">
-
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 hidden-sm hidden-xs">
-
-                <div class="jp_down_mob_img_wrapper">
-
-                    <img src="{{url('public/assets/images/content/mobail.png')}}" alt="mobail_img" />
-
-                </div>
-
-            </div>
-
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-
-                <div class="ss_download_wrapper_details">
-
-                    <h2><span>Download</span><br>Job Portal App Now!</h2>
-
-                    <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
-
-
-
-                    <a href="https://play.google.com/store/apps/details?id=com.mst_developers.workers_direct&hl=en" class="ss_playstore"><span><i class="fa fa-android" aria-hidden="true"></i></span> Play Store</a>
-
-
-
-
-
-
-
-                </div>
-
-            </div>
-
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 visible-sm visible-xs">
-
-                <div class="jp_down_mob_img_wrapper">
-
-                    <img src="{{url('public/assets/images/content/mobail.png')}}" class="img-responsive" alt="mobail_img" />
-
-                </div>
-
-            </div>
-
-        </div>
-
-    </div>
-
-</div>
 
 <!-- jp downlord Wrapper End -->
 @endsection
