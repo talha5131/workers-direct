@@ -115,7 +115,7 @@
                         <ul>
                             <!-- <li><i class="fa fa-caret-right"></i> <span style="color: #7CC24D;"> No placement, no fee </span>: One of our most attractive policies is our no placement, no fee guarantee. This means that clients working with us won't have to pay anything if we can't successfully hire any candidates for them. This attracts many more clients to become part of our team, boosting your prospects of finding employment as a warehouse operative.</li> -->
 
-                            <li><i class="fa fa-caret-right"></i> <span style="color: #7CC24D;"> No upfront costs </span>: Neither businesses nor workers are required to pay a single penny when becoming a part of our team. A lot of other warehouse agencies charge upfront, whereas we only believe in charging our fee once we have upheld our end of the deal.</li>
+                            <li><i class="fa fa-caret-right"></i> <span style="color: #7CC24D;"> No upfront costs </span>: Neither businesses nor workers are required to pay a single penny when becoming a part of our team. A lot of other "temp agencies" charge upfront, whereas we only believe in charging our fee once we have upheld our end of the deal.</li>
 
                             <li><i class="fa fa-caret-right"></i> <span style="color: #7CC24D;"> Rapid response </span>: Time is crucial in many lines of business. Often companies will need new temporary jobs with just a few hours or day’s notice. We pride ourselves on our very fast responses, so we can potentially find our candidates new jobs within just a matter of hours</li>
 
