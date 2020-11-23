@@ -186,7 +186,7 @@ Route::get('/temp-jobs-registration', function () {
 Route::get('/cscs-painter', function () {
     return view('cscs-painter');
 });
-Route::get('/kitchen-assistant', function () {
+Route::get('/jobs/catering/kitchen-assistant', function () {
     return view('kitchen-assistant');
 });
 Route::get('/housekeepers', function () {

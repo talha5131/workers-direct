@@ -80,7 +80,7 @@ Purchase:
     <link rel="shortcut icon" type="image/png" href="{{asset('public/assets/images/header/animated-logo-dark.png')}}" />
 
 
-
+    <meta name="google-site-verification" content="Om27GXWkdS9_E9KWnybniDRQqPL43KBriLc0nqqfPfA" />
 
 
 </head>
