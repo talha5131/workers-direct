@@ -1,6 +1,6 @@
 @extends('layouts.base')
-@section('title','Poea Cook Jobs Abroad | Workers Direct')
-@section('keywords','cook,poea')
+@section('title','Agency Chef Jobs | Workers Direct')
+@section('keywords','cook,chef')
 @section('description','')
 @section('content')
 
@@ -33,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h1>Poea Cook Jobs Abroad</h1>
+                        <h1>Agency Chef Jobs</h1>
 
                     </div>
 
@@ -47,7 +47,7 @@
 
 
 
-                                <li>Poea Cook Jobs Abroad</li>
+                                <li>Agency Chef Jobs</li>
 
                             </ul>
 
@@ -81,7 +81,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h2>Poea Cook Jobs Abroad</h2>
+                        <h2>Agency Chef Jobs</h2>
 
                     </div>
 
@@ -508,172 +508,6 @@
 <!-- jp counter Wrapper End -->
 
 <!-- aboutus_section end -->
-
-<div class="aboutus_page_2_section">
-
-    <div class="container">
-
-        <div class="row">
-
-            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
-
-                <div class="aboutus_text_section abt_txt_page_2">
-
-                    <h2>How We <span>Work</span></h2>
-
-                    <p>We do not depend always on technology for candidate searches, preferring to use experience, industry acumen and intuition to identify what each individual could bring to a specific business. This intelligent & human approach pays surpluses time after time. We recognise the trust clients make in Workers Direct and our priority is always to make sure we attain the best results for all concerned.</p>
-
-                    <div class="row">
-
-                        <div class="col-md-6">
-
-                            <ul>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Audit &amp; Assurance</li>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Business Services</li>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;IT Control Solutions</li>
-
-                            </ul>
-
-                        </div>
-
-                        <div class="col-md-6">
-
-                            <ul>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Audit &amp; Assurance</li>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Business Services</li>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;IT Control Solutions</li>
-
-                            </ul>
-
-                        </div>
-
-                    </div>
-
-
-
-                </div>
-
-            </div>
-
-
-
-            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
-
-                <div class="accordion_wrapper abt_page_2_wrapper">
-
-                    <div class="panel-group" id="accordion_threeLeft">
-
-                        <div class="panel panel-default">
-
-                            <div class="panel-heading desktop">
-
-                                <h4 class="panel-title">
-
-                                    <a class="collapsed" data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftone" aria-expanded="true">
-
-                                        Our Visions and Missions
-
-                                    </a>
-
-                                </h4>
-
-                            </div>
-
-                            <div id="collapseTwentyLeftone" class="panel-collapse collapse" aria-expanded="true" role="tablist">
-
-                                <div class="panel-body">
-
-                                    Praesent in nisl egestas mauris aliquam luctus. Ut auctor faucibus orci, nec semper purus ultrices idorbi nec lorem risus orbi vitae felis gravida Pellentesque id eros quis massa convallis feugiat eu quis urna.
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <!-- /.panel-default -->
-
-                        <div class="panel panel-default">
-
-                            <div class="panel-heading horn">
-
-                                <h4 class="panel-title">
-
-                                    <a data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftTwo" aria-expanded="false">
-
-                                        Our Corporate Responsibility
-
-                                    </a>
-
-                                </h4>
-
-                            </div>
-
-                            <div id="collapseTwentyLeftTwo" class="panel-collapse collapse in" aria-expanded="false" role="tablist">
-
-                                <div class="panel-body">
-
-                                    Praesent in nisl egestas mauris aliquam luctus. Ut auctor faucibus orci, nec semper purus ultrices idorbi nec lorem risus orbi vitae felis gravida Pellentesque id eros quis massa convallis feugiat eu quis urna.
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <!-- /.panel-default -->
-
-                        <div class="panel panel-default">
-
-                            <div class="panel-heading bell">
-
-                                <h4 class="panel-title">
-
-                                    <a class="collapsed" data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftThree" aria-expanded="false">
-
-                                        Visual Page Builder
-
-                                    </a>
-
-                                </h4>
-
-                            </div>
-
-                            <div id="collapseTwentyLeftThree" class="panel-collapse collapse" aria-expanded="false" role="tablist">
-
-                                <div class="panel-body">
-
-                                    Praesent in nisl egestas mauris aliquam luctus. Ut auctor faucibus orci, nec semper purus ultrices idorbi nec lorem risus orbi vitae felis gravida Pellentesque id eros quis massa convallis feugiat eu quis urna.
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <!-- /.panel-default -->
-
-                    </div>
-
-                    <!--end of /.panel-group-->
-
-                </div>
-
-            </div>
-
-            <!--end of /.col-sm-6-->
-
-        </div>
-
-    </div>
-
-</div>
 
 <!--end of /.col-sm-6-->
 

@@ -1,6 +1,6 @@
 @extends('layouts.base')
-@section('title','Poea Cook Jobs Abroad | Workers Direct')
-@section('keywords','cook,poea')
+@section('title','Agency Chef')
+@section('keywords','agency,chef')
 @section('description','')
 @section('content')
 
@@ -33,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h1>Poea Cook Jobs Abroad</h1>
+                        <h1>Agency Chef</h1>
 
                     </div>
 
@@ -47,7 +47,7 @@
 
 
 
-                                <li>Poea Cook Jobs Abroad</li>
+                                <li>Agency Chef</li>
 
                             </ul>
 
@@ -81,15 +81,15 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h2>Poea Cook Jobs Abroad</h2>
+                        <h2>Agency Chef</h2>
 
                     </div>
 
                 </div>
 
-            </div>
+            </div>    
 
-            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-40">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
 
@@ -381,13 +381,13 @@
 
                             <div class="heading">
 
-                                <h2> <a> Immediate Availability </a> </h2>
+                                <h2> <a> 24/7 Availability </a> </h2>
 
                             </div>
 
                             <div class="content margin-top-10">
 
-                                <p>An ideal kitchen assistant must available to start on immediate basis.</p>
+                                <p>Our Customer Service staff available online & on phone 24/7 to fill any urgent vacancy.</p>
 
                             </div>
 
@@ -427,7 +427,7 @@
 
                             <div class="content margin-top-10">
 
-                                <p>Are you flexible on weekdays & weekends shifts and also fully able to start on short noitce whenever require.</p>
+                                <p>All our temps are fully able to start on short noitce whenever require.</p>
 
                             </div>
 
@@ -678,7 +678,6 @@
 <!--end of /.col-sm-6-->
 
 <!-- jp downlord Wrapper Start -->
-
 
 
 <!-- jp downlord Wrapper End -->

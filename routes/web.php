@@ -153,8 +153,14 @@ Route::get('/latest-jobs/telesales-executive', function () {
 Route::get('/picker-packer', function () {
     return view('picker-packer');
 });
-Route::get('/pastry-chef', function () {
+Route::get('/jobs/pastry-chef', function () {
     return view('pastry-chef');
+});
+Route::get('/jobs/catering/relief-chef-agency', function () {
+    return view('relief-chef-agency');
+});
+Route::get('/jobs/catering/local-chef-agency', function () {
+    return view('local-chef-agency');
 });
 Route::get('/it-support-technician', function () {
     return view('it-support-technician');
@@ -188,6 +194,21 @@ Route::get('/cscs-painter', function () {
 });
 Route::get('/jobs/catering/kitchen-assistant', function () {
     return view('kitchen-assistant');
+});
+Route::get('/jobs/catering/poea-cook-jobs-abroad', function () {
+    return view('poea-cook-jobs-abroad');
+});
+Route::get('/jobs/catering/pastry-chef-recruitment-agencies', function () {
+    return view('pastry-chef-recruitment');
+});
+Route::get('/jobs/catering/freelance-chef-agency', function () {
+    return view('freelance-chef-agency');
+});
+Route::get('/jobs/catering/school-cook', function () {
+    return view('school-cook');
+});
+Route::get('/jobs/catering/agency-chef-jobs', function () {
+    return view('agency-chef-jobs');
 });
 Route::get('/housekeepers', function () {
     return view('housekeepers');
@@ -246,11 +267,59 @@ Route::get('/hospitality-staff', function () {
 Route::get('/van-drivers', function () {
     return view('van-drivers');
 });
-Route::get('/waitress', function () {
+Route::get('/jobs/catering/waitress', function () {
     return view('waitress');
 });
-Route::get('/grill-chef', function () {
+Route::get('/jobs/catering/temp-chef-agencies', function () {
+    return view('temp-chef-agencies');
+});
+Route::get('/jobs/catering/pizza-chef-agency', function () {
+    return view('pizza-chef-agency');
+});
+Route::get('/jobs/catering/sushi-chef-agency', function () {
+    return view('sushi-chef-agency');
+});
+Route::get('/jobs/catering/private-chef-agency', function () {
+    return view('private-chef-agency');
+});
+Route::get('/jobs/catering/chinese-chef', function () {
+    return view('chinese-chef');
+});
+Route::get('/jobs/catering/personal-chef-agencies', function () {
+    return view('personal-chef-agencies');
+});
+Route::get('/jobs/catering/front-of-house', function () {
+    return view('front-of-house');
+});
+Route::get('/jobs/grill-chef', function () {
     return view('grill-chef');
+});
+Route::get('/jobs/catering/indian-chef', function () {
+    return view('indian-chef');
+});
+Route::get('/jobs/catering/freelance-chef-recruitment-agencies', function () {
+    return view('freelance-chef-recruitment-agencies');
+});
+Route::get('/jobs/catering/head-chef', function () {
+    return view('head-chef');
+});
+Route::get('/jobs/catering/agency-chef', function () {
+    return view('agency-chef');
+});
+Route::get('/jobs/catering/executive-chef-recruitment-agencies', function () {
+    return view('executive-chef-recruitment');
+});
+Route::get('/jobs/catering/international-chef-recruitment-agencies', function () {
+    return view('international-chef-recruitment');
+});
+Route::get('/jobs/catering/dishwasher', function () {
+    return view('dishwasher');
+});
+Route::get('/jobs/catering/executive-chef', function () {
+    return view('executive-chef');
+});
+Route::get('/what-we-do/agency-workers', function () {
+    return view('agency-workers');
 });
 Route::get('/nursery-nurses', function () {
     return view('nursery-nurses');
