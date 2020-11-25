@@ -552,3 +552,132 @@ Route::get('/kitchen-porter-job', function () {
 Route::get('/head-sous-chef', function () {
     return view('head-sous-chef');
 });
+Route::get('/terms-of-engagement-for-agency-workers', function () {
+    return view('terms-of-engagement');
+});
+Route::get('/locations/england/recruitment-agency-in-bowling-alley', function () {
+    return view('recruitment-agency-in-bowling');
+});
+Route::get('/locations/england/recruitment-agency-in-iver', function () {
+    return view('recruitment-agency-iver');
+});
+Route::get('/locations/england/job-agency-in-west-worldham', function () {
+    return view('job-agency-west');
+});
+Route::get('/best-temp-talent', function () {
+    return view('best-temp-talent');
+});
+Route::get('/locations/england/recruitment-agency-in-grazeley-green', function () {
+    return view('recruitment-agency-grazeley');
+});
+Route::get('/recruitment-agency-ashburton', function () {
+    return view('recruitment-agency-ashburton');
+});
+Route::get('/locations/england/job-agency-in-upper-holloway', function () {
+    return view('job-agency-upper-holloway');
+});
+Route::get('/locations/england/recruitment-agency-in-harmans-water', function () {
+    return view('recruitment-agency-harmans');
+});
+Route::get('/locations/england/recruitment-agency-in-sydenham', function () {
+    return view('recruitment-agency-sydenham');
+});
+Route::get('/workers-direct-a-platform-for-hiring-employees', function () {
+    return view('workers-direct-platform-hiring');
+});
+Route::get('/recruitment-agency-abdon', function () {
+    return view('recruitment-agency-abdon');
+});
+Route::get('/recruitment-agency-aldreth', function () {
+    return view('recruitment-agency-aldreth');
+});
+Route::get('/locations/england/recruitment-agency-in-brooks-green', function () {
+    return view('recruitment-agency-brooks');
+});
+Route::get('/recruitment-agency-allington', function () {
+    return view('recruitment-agency-allington');
+});
+Route::get('/recruitment-agency-abbeystead', function () {
+    return view('recruitment-agency-abbeystead');
+});
+Route::get('/locations/england/recruitment-agency-in-latchingdon', function () {
+    return view('recruitment-agency-latchingdon');
+});
+Route::get('/services/adult-education', function () {
+    return view('adult-education');
+});
+Route::get('/locations/england/recruitment-agency-in-great-henny', function () {
+    return view('recruitment-agency-henny');
+});
+Route::get('/what-we-do/job-advertisements-solutions', function () {
+    return view('job-advertisements-solutions');
+});
+Route::get('/locations/england/recruitment-agency-in-redhill', function () {
+    return view('recruitment-agency-redhill');
+});
+Route::get('/survey-staff', function () {
+    return view('survey-staff');
+});
+Route::get('/locations/england/recruitment-agency-in-hatchford-end', function () {
+    return view('recruitment-agency-hatchford');
+});
+Route::get('/locations/england/recruitment-agency-in-smiths-green', function () {
+    return view('recruitment-agency-smiths');
+});
+Route::get('/recruitment-agency-aspull', function () {
+    return view('recruitment-agency-aspull');
+});
+Route::get('/locations/england/recruitment-agency-in-haywards-heath', function () {
+    return view('recruitment-agency-haywards');
+});
+Route::get('/locations/england/recruitment-agency-in-nasty', function () {
+    return view('recruitment-agency-nasty');
+});
+Route::get('/locations/england/recruitment-agency-in-dungate', function () {
+    return view('recruitment-agency-dungate');
+});
+Route::get('/locations/england/recruitment-agency-in-minsted', function () {
+    return view('recruitment-agency-minsted');
+});
+Route::get('/locations/england/recruitment-agency-in-crockham-hill', function () {
+    return view('recruitment-agency-crockham');
+});
+Route::get('/locations/england/recruitment-agency-in-peppers-green', function () {
+    return view('recruitment-agency-peppers');
+});
+Route::get('/locations/england/recruitment-agency-in-bromham', function () {
+    return view('recruitment-agency-bromham');
+});
+Route::get('/locations/england/recruitment-agency-in-hollingbourne', function () {
+    return view('recruitment-agency-hollingbourne');
+});
+Route::get('/locations/england/recruitment-agency-in-runwell', function () {
+    return view('recruitment-agency-runwell');
+});
+Route::get('/recruitment-agency-alderley', function () {
+    return view('recruitment-agency-alderley');
+});
+Route::get('/locations/england/recruitment-agency-in-furnace-green', function () {
+    return view('recruitment-agency-furnace');
+});
+Route::get('/locations/england/recruitment-agency-in-south-croydon', function () {
+    return view('recruitment-agency-south');
+});
+Route::get('/sous-chef-head-chef', function () {
+    return view('sous-chef-head-chef');
+});
+Route::get('/recruitment-agency-anmore', function () {
+    return view('recruitment-agency-anmore');
+});
+Route::get('/locations/england/recruitment-agency-in-smarden', function () {
+    return view('recruitment-agency-smarden');
+});
+Route::get('/locations/england/recruitment-agency-in-shalden', function () {
+    return view('recruitment-agency-shalden');
+});
+Route::get('/locations/england/recruitment-agency-in-elmdon', function () {
+    return view('recruitment-agency-elmdon');
+});
+Route::get('/locations/england/recruitment-agency-in-etchingham', function () {
+    return view('recruitment-agency-etchingham');
+});
