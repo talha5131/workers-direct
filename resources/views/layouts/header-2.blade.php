@@ -63,6 +63,12 @@ Purchase:
 
     <meta name="MobileOptimized" content="320" />
 
+    <script>
+        var clicky_site_ids = clicky_site_ids || [];
+        clicky_site_ids.push(100621036);
+    </script>
+    <script async src="//static.getclicky.com/js"></script>
+
     <!--srart theme style -->
     <link rel="stylesheet" type="text/css" href="{{url('public/assets/css/animate.css')}}" />
 

@@ -102,7 +102,12 @@ Purchase:
 
     <meta name="google-site-verification" content="Om27GXWkdS9_E9KWnybniDRQqPL43KBriLc0nqqfPfA" />
 
-
+    <script>
+        var clicky_site_ids = clicky_site_ids || [];
+        clicky_site_ids.push(100621036);
+    </script>
+    <script async src="//static.getclicky.com/js"></script>
+    
 </head>
 
 <body>
@@ -110,7 +115,7 @@ Purchase:
     <!-- Google Tag Manager (noscript) -->
 
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P8PDBR5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-        
+
     <!-- End Google Tag Manager (noscript) -->
 
     <!-- preloader Start -->
