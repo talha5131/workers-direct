@@ -8,12 +8,14 @@
                 </div>
             </div>
             <div class="gc_counter_cont_wrapper_new col-md-2">
-                <div class="count-description-new"> <span class="timer">98</span><i class="slider_icon_size fas fa-percent"></i>
+                <div class="count-description-new"> <span class="timer">98</span><span>%</span>
+                    <!-- <i class="slider_icon_size fas fa-percent"></i> -->
                     <h5 class="con2">ENJOY WORK WITH US</h5>
                 </div>
             </div>
             <div class="gc_counter_cont_wrapper_new col-md-2">
-                <div class="count-description-new"> <span class="timer">92</span><i class="slider_icon_size fas fa-percent"></i>
+                <div class="count-description-new"> <span class="timer">92</span><span>%</span>
+                    <!-- <i class="slider_icon_size fas fa-percent"></i> -->
                     <h5 class="con3">RETAINED WORKERS</h5>
                 </div>
             </div>

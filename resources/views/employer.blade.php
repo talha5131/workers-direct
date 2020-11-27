@@ -796,7 +796,7 @@
 
 <!-- jp counter Wrapper Start -->
 
-<div class="jp_counter_main_wrapper">
+<!-- <div class="jp_counter_main_wrapper">
     <div class="container-fluid pl-0 pr-0">
         <div class="row">
             <div class="gc_counter_cont_wrapper_new col-md-2">
@@ -805,7 +805,8 @@
                 </div>
             </div>
             <div class="gc_counter_cont_wrapper_new col-md-2">
-                <div class="count-description-new"> <span class="timer">98</span><i class="slider_icon_size fas fa-percent"></i>
+                <div class="count-description-new"> <span class="timer">98%</span>
+                    <i class="slider_icon_size fas fa-percent"></i>
                     <h5 class="con2">ENJOY WORK WITH US</h5>
                 </div>
             </div>
@@ -832,7 +833,9 @@
         </div>
 
     </div>
-</div>
+</div> -->
+
+@include('layouts.number-counter')
 
 <!-- <div class="jp_counter_main_wrapper">
 

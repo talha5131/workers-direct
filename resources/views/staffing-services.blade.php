@@ -564,7 +564,7 @@
 
 <!-- jp best deal Wrapper Start -->
 
-<div class="jp_best_deal_main_wrapper">
+<!-- <div class="jp_best_deal_main_wrapper">
     <div class="about_text_wrapper" style="position: absolute; top: 3532px; left: 424px; z-index: 1000;">
         <h2><strong> Workers Direct - Your Staffing Partner </strong></h2>
     </div>
@@ -799,12 +799,15 @@
 
     </div>
 
-</div>
+</div> -->
+
+@include('layouts.wd-staffing-partner')
+
 <!-- jp career Wrapper Start -->
 
 <!-- jp best deal Wrapper Start -->
 
-<div class="jp_best_deal_main_wrapper">
+<div class="jp_best_deal_main_wrapper pt-0">
 
     <div class="container">
 

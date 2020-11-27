@@ -72,7 +72,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>Welcome <span>To workers Direct</span></h1>
+                        <h1>Welcome To workers Direct</h1>
 
                     </div>
 
@@ -105,7 +105,7 @@
 
                     <div class="section_heading section_2_heading">
 
-                        <h1>why we<span> do it ?</span></h1>
+                        <h2>What We Do?</h2>
 
                     </div>
 
@@ -442,7 +442,7 @@
 
 <!-- jp career Wrapper Start -->
 
-<div class="jp_career_main_wrapper">
+<!-- <div class="jp_career_main_wrapper">
 
     <div class="container">
 
@@ -582,7 +582,7 @@
 
     </div>
 
-</div>
+</div> -->
 
 <!-- jp career Wrapper End -->
 
@@ -602,7 +602,7 @@
 
 <!-- jp downlord Wrapper Start -->
 
-<div class="jp_downlord_main_wrapper">
+<!-- <div class="jp_downlord_main_wrapper">
 
     <div class="jp_downlord_img_overlay"></div>
 
@@ -656,7 +656,7 @@
 
     </div>
 
-</div>
+</div> -->
 
 <!-- jp downlord Wrapper End -->
 @endsection
