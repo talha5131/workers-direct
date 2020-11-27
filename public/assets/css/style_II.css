@@ -2518,8 +2518,8 @@ ul {
     padding-top: 170px;
     padding-bottom: 170px;
     background: url('../images/content/condi_bg.jpg') 50% 0 repeat-y;
-    background-position":center 0;
- background-size: cover;
+    background-position: center 0;
+    background-size: cover;
     background-repeat: no-repeat;
     position: relative;
     text-align: center;
@@ -8575,7 +8575,7 @@ input[type="checkbox"]:checked+label:after {
 
 .jp_cs_com_info_img_cont h2 {
     font-size: 18px;
-    color: ##344154;
+    color: #344154;
 }
 
 .jp_cs_tittle_main_wrapper {
@@ -9161,6 +9161,7 @@ input[type="checkbox"]:checked+label:after {
     content: "\f0f3";
     color: #ffffff;
 }
+
 .accordion_wrapper .panel .panel-heading.search a:before {
     content: "\f002";
     color: #ffffff;
