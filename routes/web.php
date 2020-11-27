@@ -912,6 +912,6 @@ Route::get('/chef-wanted', function () {
 Route::get('/recruitment-agency-aller', function () {
     return view('recruitment-agency-aller');
 });
-Route::get('/hr-recruitment-agencies {{url('/')}}', function () {
+Route::get('/hr-recruitment-agencies', function () {
     return view('hr-recruitment-agencies');
 });
