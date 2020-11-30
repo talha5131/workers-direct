@@ -336,7 +336,7 @@ Route::get('/staffing-services/construction-staff', function () {
 Route::get('/pages-links', function () {
     return view('pages-links');
 });
-Route::get('/upholsterer-upholstery-tailor', function () {
+Route::get('/latest-jobs/upholsterer-upholstery-tailor', function () {
     return view('upholsterer-upholstery-tailor');
 });
 Route::get('/london-recruitment-agencies', function () {
@@ -915,3 +915,73 @@ Route::get('/recruitment-agency-aller', function () {
 Route::get('/hr-recruitment-agencies', function () {
     return view('hr-recruitment-agencies');
 });
+Route::get('/hiring-a-temp', function () {
+    return view('hiring-a-temp');
+});
+Route::get('/locations/england/recruitment-agency-in-gatton', function () {
+    return view('recruitment-agency-gatton');
+});
+Route::get('/services/chemical-process', function () {
+    return view('chemical-process');
+});
+Route::get('/locations/england/job-agency-in-warrens-green', function () {
+    return view('job-agency-warrens');
+});
+Route::get('/support-workers', function () {
+    return view('support-workers');
+});
+Route::get('/locations/england/recruitment-agency-in-chilton', function () {
+    return view('recruitment-agency-chilton');
+});
+Route::get('/recruitment-agency-arne', function () {
+    return view('recruitment-agency-arne');
+});
+Route::get('/recruitment-agency-ardminish', function () {
+    return view('recruitment-agency-ardminish');
+});
+Route::get('/grill-chef-jobs', function () {
+    return view('grill-chef-jobs');
+});
+Route::get('/recruitment-agency-aby', function () {
+    return view('recruitment-agency-aby');
+});
+Route::get('/locations/england/recruitment-agency-in-stiff-street', function () {
+    return view('recruitment-agency-stiff');
+});
+Route::get('/locations/england/recruitment-agency-in-stiff-street', function () {
+    return view('recruitment-agency-stiff');
+});
+Route::get('/temporary-companies', function () {
+    return view('temporary-companies');
+});
+Route::get('/recruitment-agency-apuldram', function () {
+    return view('recruitment-agency-apuldram');
+});
+Route::get('/hospitlaity-staff', function () {
+    return view('hospitlaity-staff');
+});
+Route::get('/terms-of-engagement-for-agency-workers', function () {
+    return view('terms-of-engagement-agency-workers');
+});
+Route::get('/locations/england/recruitment-agency-in-golden-cross', function () {
+    return view('recruitment-agency-golden-cross');
+});
+Route::get('/what-we-do/recruitment-solutions', function () {
+    return view('recruitment-solutions');
+});
+Route::get('/locations/england/recruitment-agency-in-gaston-green', function () {
+    return view('recruitment-agency-gaston');
+});
+Route::get('/pickers-packers', function () {
+    return view('pickers-packers');
+});
+Route::get('/why-are-cooks-in-demand', function () {
+    return view('why-cooks-demand');
+});
+Route::get('/locations/england/recruitment-agency-in-brock-hill', function () {
+    return view('recruitment-agency-brock');
+});
+Route::get('/employers/get-a-quote', function () {
+    return view('get-a-quote');
+});
+
