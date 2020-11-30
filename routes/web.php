@@ -984,4 +984,81 @@ Route::get('/locations/england/recruitment-agency-in-brock-hill', function () {
 Route::get('/employers/get-a-quote', function () {
     return view('get-a-quote');
 });
-
+Route::get('/locations/england/recruitment-agency-in-east-acton', function () {
+    return view('recruitment-agency-east-acton');
+});
+Route::get('/locations/england/recruitment-agency-in-caring', function () {
+    return view('recruitment-agency-caring');
+});
+Route::get('/locations/england/job-agency-in-waltham-abbey', function () {
+    return view('job-agency-waltham');
+});
+Route::get('/locations/england/job-agency-in-west-kilburn', function () {
+    return view('job-agency-kilburn');
+});
+Route::get('/labour-supply', function () {
+    return view('labour-supply');
+});
+Route::get('/locations/england/recruitment-agency-in-fyning', function () {
+    return view('recruitment-agency-fyning');
+});
+Route::get('/locations/england/recruitment-agency-in-lower-morden', function () {
+    return view('recruitment-agency-morden');
+});
+Route::get('/recruitment-agency-aley', function () {
+    return view('recruitment-agency-aley');
+});
+Route::get('/locations/england/recruitment-agency-in-roe-green', function () {
+    return view('recruitment-agency-roe');
+});
+Route::get('/locations/england/job-agency-in-upper-clapton', function () {
+    return view('job-agency-clapton');
+});
+Route::get('/locations/england/recruitment-agency-in-sunningdale', function () {
+    return view('recruitment-agency-sunningdale');
+});
+Route::get('/recruitment-agency-acklam', function () {
+    return view('recruitment-agency-acklam');
+});
+Route::get('/locations/england/recruitment-agency-in-farringdon', function () {
+    return view('recruitment-agency-farringdon');
+});
+Route::get('/assistant-general-manager-restaurant', function () {
+    return view('assistant-general-manager');
+});
+Route::get('/locations/england/recruitment-agency-in-five-ashes', function () {
+    return view('recruitment-agency-ashes');
+});
+Route::get('/recruitment-agency-ascott', function () {
+    return view('recruitment-agency-ascott');
+});
+Route::get('/locations/england/recruitment-agency-in-chappel', function () {
+    return view('recruitment-agency-chappel');
+});
+Route::get('/locations/england/recruitment-agency-in-brill', function () {
+    return view('recruitment-agency-brill');
+});
+Route::get('/locations/england/recruitment-agency-in-crosswater', function () {
+    return view('recruitment-agency-crosswater');
+});
+Route::get('/locations/england/recruitment-agency-in-eltham', function () {
+    return view('recruitment-agency-eltham');
+});
+Route::get('/locations/england/recruitment-agency-in-play-hatch', function () {
+    return view('recruitment-agency-hatch');
+});
+Route::get('/locations/england/recruitment-agency-in-harvel', function () {
+    return view('recruitment-agency-harvel');
+});
+Route::get('/phone-systems-for-call-centers', function () {
+    return view('phone-call-centers');
+});
+Route::get('/recruitment-agency-aughton-park', function () {
+    return view('recruitment-agency-aughton');
+});
+Route::get('/locations/england/recruitment-agency-in-taplow', function () {
+    return view('recruitment-agency-taplow');
+});
+Route::get('/cscs-labourers', function () {
+    return view('cscs-labourers');
+});
