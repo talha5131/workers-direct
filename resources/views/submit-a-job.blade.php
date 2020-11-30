@@ -17,6 +17,7 @@
 
 
 <style type="text/css">
+
 	.badge-info {
 
 		color: #fff;
