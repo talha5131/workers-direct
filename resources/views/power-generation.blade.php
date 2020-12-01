@@ -1,5 +1,5 @@
 @extends('layouts.base')
-@section('title','Recruitment Agency In Marden')
+@section('title','Power Generation')
 @section('keywords','engagement,agency,workers')
 @section('description','')
 @section('content')

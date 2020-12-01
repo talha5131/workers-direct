@@ -1,5 +1,5 @@
 @extends('layouts.base')
-@section('title','Recruitment Agency In Marden')
+@section('title','Recruitment Agency In Hammer')
 @section('keywords','engagement,agency,workers')
 @section('description','')
 @section('content')
@@ -14,8 +14,6 @@
 <!-- Top Scroll End -->
 
 <!-- Top Header Wrapper Start -->
-
-
 
 <!-- jp Tittle Wrapper Start -->
 

@@ -691,7 +691,7 @@ Route::get('/locations/england/recruitment-agency-in-horsleys-green', function (
     return view('recruitment-agency-horsleys');
 });
 Route::get('/locations/england/recruitment-agency-in-marden-beech', function () {
-    return view('recruitment-agency-marden');
+    return view('recruitment-agency-marden-beech');
 });
 Route::get('/locations/england/job-agency-in-wavendon-gate', function () {
     return view('job-agency-wavendon');
@@ -1045,7 +1045,7 @@ Route::get('/locations/england/recruitment-agency-in-eltham', function () {
     return view('recruitment-agency-eltham');
 });
 Route::get('/locations/england/recruitment-agency-in-play-hatch', function () {
-    return view('recruitment-agency-hatch');
+    return view('recruitment-agency-play-hatch');
 });
 Route::get('/locations/england/recruitment-agency-in-harvel', function () {
     return view('recruitment-agency-harvel');
@@ -1061,4 +1061,181 @@ Route::get('/locations/england/recruitment-agency-in-taplow', function () {
 });
 Route::get('/cscs-labourers', function () {
     return view('cscs-labourers');
+});
+Route::get('/locations/england/recruitment-agency-in-charter-alley', function () {
+    return view('recruitment-agency-charter-alley');
+});
+Route::get('/locations/england/recruitment-agency-in-ridgmont', function () {
+    return view('recruitment-agency-ridgmont');
+});
+Route::get('/sales-assistants', function () {
+    return view('sales-assistants');
+});
+Route::get('/locations/england/recruitment-agency-in-broadfield', function () {
+    return view('recruitment-agency-broadfield');
+});
+Route::get('/call-center-script', function () {
+    return view('call-center-script');
+});
+Route::get('/locations/england/recruitment-agency-in-blue-town/', function () {
+    return view('recruitment-agency-blue-town');
+});
+Route::get('/recruitment-agency-abinger-common', function () {
+    return view('recruitment-agency-abinger-common');
+});
+Route::get('/locations/england/recruitment-agency-in-hooley/', function () {
+    return view('recruitment-agency-hooley');
+});
+Route::get('/locations/england/recruitment-agency-in-faygate/', function () {
+    return view('recruitment-agency-faygate');
+});
+Route::get('/locations/england/recruitment-agency-in-stoner-hill/', function () {
+    return view('recruitment-agency-stoner-hill');
+});
+Route::get('/locations/england/job-agency-in-upper-halliford/', function () {
+    return view('job-agency-upper-halliford');
+});
+Route::get('/locations/england/recruitment-agency-in-poling/', function () {
+    return view('recruitment-agency-poling');
+});
+Route::get('/recruitment-agency-almeley', function () {
+    return view('recruitment-agency-almeley');
+});
+Route::get('/locations/england/recruitment-agency-in-hammer/', function () {
+    return view('recruitment-agency-in-hammer');
+});
+Route::get('/services/power-generation/', function () {
+    return view('power-generation');
+});
+Route::get('/recruitment-agency-afon-wen', function () {
+    return view('recruitment-agency-afon-wen');
+});
+Route::get('/recruitment-agency-acton-burnell', function () {
+    return view('recruitment-agency-acton-burnell');
+});
+Route::get('/locations/england/recruitment-agency-in-longford/', function () {
+    return view('recruitment-agency-in-longford');
+});
+Route::get('/locations/england/recruitment-agency-in-hatch/', function () {
+    return view('recruitment-agency-hatch');
+});
+Route::get('/workers-agencies', function () {
+    return view('workers-agencies');
+});
+Route::get('/locations/england/recruitment-agency-in-denton/', function () {
+    return view('recruitment-agency-denton');
+});
+Route::get('/locations/england/job-agency-in-uplees/', function () {
+    return view('job-agency-uplees');
+});
+Route::get('/locations/england/recruitment-agency-in-bray/', function () {
+    return view('recruitment-agency-bray');
+});
+Route::get('/tractor-driver-temporary', function () {
+    return view('tractor-driver-temporary');
+});
+Route::get('/recruitment-agency-asney', function () {
+    return view('recruitment-agency-asney');
+});
+Route::get('/recruitment-agency-ashe', function () {
+    return view('recruitment-agency-ashe');
+});
+Route::get('/locations/england/recruitment-agency-in-marsh/', function () {
+    return view('recruitment-agency-marsh');
+});
+Route::get('/recruitment-agency-abbey-hulton', function () {
+    return view('recruitment-agency-abbey-hulton');
+});
+Route::get('/locations/england/recruitment-agency-in-harlton/', function () {
+    return view('recruitment-agency-in-harlton');
+});
+Route::get('/locations/england/recruitment-agency-in-cherry-green/', function () {
+    return view('recruitment-agency-in-cherry-green');
+});
+Route::get('/locations/england/job-agency-in-woolbridge/', function () {
+    return view('job-agency-in-woolbridge');
+});
+Route::get('/locations/england/recruitment-agency-in-dinton/', function () {
+    return view('recruitment-agency-dinton');
+});
+Route::get('/recruitment-agency-alderford', function () {
+    return view('recruitment-agency-alderford');
+});
+Route::get('/locations/england/recruitment-agency-in-sipson/', function () {
+    return view('recruitment-agency-sipson');
+});
+Route::get('/locations/england/recruitment-agency-in-southborough/', function () {
+    return view('recruitment-agency-southborough');
+});
+Route::get('/locations/england/job-agency-in-warningcamp/', function () {
+    return view('job-agency-warningcamp');
+});
+Route::get('/locations/england/recruitment-agency-in-bolney/', function () {
+    return view('recruitment-agency-in-bolney');
+});
+Route::get('/locations/england/recruitment-agency-in-bryants-bottom/', function () {
+    return view('recruitment-agency-bryants-bottom');
+});
+Route::get('/locations/england/recruitment-agency-in-elsted/', function () {
+    return view('recruitment-agency-elsted');
+});
+Route::get('/locations/england/recruitment-agency-in-marden/', function () {
+    return view('recruitment-agency-marden');
+});
+Route::get('/services/qualified-by-experience/', function () {
+    return view('qualified-by-experience');
+});
+Route::get('/locations/england/recruitment-agency-in-danbury/', function () {
+    return view('recruitment-agency-danbury');
+});
+Route::get('/hr-recruitment-agencies-2', function () {
+    return view('hr-recruitment-agencies-2');
+});
+Route::get('/locations/england/job-agency-in-woodhatch/', function () {
+    return view('job-agency-woodhatch');
+});
+Route::get('/temp-job-agencies-2', function () {
+    return view('temp-job-agencies-2');
+});
+Route::get('/temp-job-agencies', function () {
+    return view('temp-job-agencies');
+});
+Route::get('/locations/england/recruitment-agency-in-farleywood/', function () {
+    return view('recruitment-agency-farleywood');
+});
+Route::get('/locations/england/job-agency-in-upper-edmonton', function () {
+    return view('job-agency-upper-edmonton');
+});
+Route::get('/commis-chef', function () {
+    return view('commis-chef');
+});
+Route::get('/locations/england/recruitment-agency-in-burroughs-grove', function () {
+    return view('recruitment-agency-burroughs');
+});
+Route::get('/locations/england/recruitment-agency-in-ellens-green', function () {
+    return view('recruitment-agency-ellens');
+});
+Route::get('/locations/england/recruitment-agency-in-pratling-street', function () {
+    return view('recruitment-agency-pratling');
+});
+Route::get('/locations/england/recruitment-agency-in-new-southgate', function () {
+    return view('recruitment-agency-southgate');
+});
+Route::get('/locations/england/recruitment-agency-in-iping', function () {
+    return view('recruitment-agency-iping');
+});
+Route::get('/locations/england/recruitment-agency-in-childwick-green', function () {
+    return view('recruitment-agency-childwick');
+});
+Route::get('/locations/england/recruitment-agency-in-dogkennel-green', function () {
+    return view('recruitment-agency-dogkennel');
+});
+Route::get('/locations/england/recruitment-agency-in-harrow', function () {
+    return view('recruitment-agency-harrow');
+});
+Route::get('/locations/england/recruitment-agency-in-temple-dinsley', function () {
+    return view('recruitment-agency-dinsley');
+});
+Route::get('/locations/england/recruitment-agency-in-richmonds-green', function () {
+    return view('recruitment-agency-richmonds');
 });
