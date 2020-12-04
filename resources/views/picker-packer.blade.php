@@ -137,10 +137,10 @@
                         </table>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_2.jpg" width="100%" height="340px" alt="IT Support">
+                        <img class="image-style-border" src="{{asset('public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_2.jpg')}}" width="100%" height="340px" alt="IT Support">
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_5.jpg" width="100%" height="340px" alt="IT Support">
+                        <img class="image-style-border" src="{{asset('public/assets/images/page-pictures/PICKER & PACKER/picker_&_packer_5.jpg')}}" width="100%" height="340px" alt="IT Support">
                     </div>
 
 

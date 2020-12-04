@@ -523,63 +523,15 @@
 
 <!-- jp counter Wrapper Start -->
 
-<div class="jp_counter_main_wrapper">
-
-    <div class="gc_counter_cont_wrapper">
-
-        <div class="count-description">
-
-            <span class="timer">2540</span><i class="fa fa-plus"></i>
-
-            <h5 class="con1">Jobs Available</h5>
-
-        </div>
-
-    </div>
-
-    <div class="gc_counter_cont_wrapper2">
-
-        <div class="count-description">
-
-            <span class="timer">7325</span><i class="fa fa-plus"></i>
-
-            <h5 class="con2">Members</h5>
-
-        </div>
-
-    </div>
-
-    <div class="gc_counter_cont_wrapper3">
-
-        <div class="count-description">
-
-            <span class="timer">1924</span><i class="fa fa-plus"></i>
-
-            <h5 class="con3">Resumes</h5>
-
-        </div>
-
-    </div>
-
-    <div class="gc_counter_cont_wrapper4">
-
-        <div class="count-description">
-
-            <span class="timer">4275</span><i class="fa fa-plus"></i>
-
-            <h5 class="con4">Company</h5>
-
-        </div>
-
-    </div>
-
-</div>
+@include('layouts.number-counter')
 
 <!-- jp counter Wrapper End -->
 
+@include('layouts.how-we-work')
+
 <!-- aboutus_section end -->
 
-<div class="aboutus_page_2_section">
+<!-- <div class="aboutus_page_2_section">
 
     <div class="container">
 
@@ -667,7 +619,6 @@
 
                         </div>
 
-                        <!-- /.panel-default -->
 
                         <div class="panel panel-default">
 
@@ -697,7 +648,6 @@
 
                         </div>
 
-                        <!-- /.panel-default -->
 
                         <div class="panel panel-default">
 
@@ -727,73 +677,9 @@
 
                         </div>
 
-                        <!-- /.panel-default -->
 
                     </div>
 
-                    <!--end of /.panel-group-->
-
-                </div>
-
-            </div>
-
-            <!--end of /.col-sm-6-->
-
-        </div>
-
-    </div>
-
-</div>
-
-<!--end of /.col-sm-6-->
-
-<!-- jp downlord Wrapper Start -->
-
-<div class="jp_downlord_main_wrapper">
-
-    <div class="jp_downlord_img_overlay"></div>
-
-    <div class="container">
-
-        <div class="row">
-
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 hidden-sm hidden-xs">
-
-                <div class="jp_down_mob_img_wrapper">
-
-                    <img src="public/assets/images/content/mobail.png" alt="mobail_img" />
-
-                </div>
-
-            </div>
-
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-
-                <div class="ss_download_wrapper_details">
-
-                    <h2><span>Download</span><br>Job Portal App Now!</h2>
-
-                    <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
-
-
-
-                    <a href="https://play.google.com/store/apps/details?id=com.mst_developers.workers_direct&hl=en" class="ss_playstore"><span><i class="fa fa-android" aria-hidden="true"></i></span> Play Store</a>
-
-
-
-
-
-
-
-                </div>
-
-            </div>
-
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 visible-sm visible-xs">
-
-                <div class="jp_down_mob_img_wrapper">
-
-                    <img src="public/assets/images/content/mobail.png" class="img-responsive" alt="mobail_img" />
 
                 </div>
 
@@ -803,7 +689,7 @@
 
     </div>
 
-</div>
+</div> -->
 
-<!-- jp downlord Wrapper End -->
+
 @endsection

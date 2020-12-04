@@ -103,10 +103,10 @@ extensive demands of all that we deal with. ")
             </div>
 
             <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
-                <img class="image-style-border" src="public/assets/images/page-pictures/TEMP CHEF AGENCY/temp_chef_agency_1.JPG" width="100%" height="300px" alt="#">
+                <img class="image-style-border" src="public/assets/images/page-pictures/TEMP CHEF AGENCY/temp_chef_agency_1.jpg" width="100%" height="300px" alt="#">
             </div>
             <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
-                <img class="image-style-border" src="public/assets/images/page-pictures/TEMP CHEF AGENCY/temp_chef_agency_2.JPG" width="100%" height="300px" alt="#">
+                <img class="image-style-border" src="public/assets/images/page-pictures/TEMP CHEF AGENCY/temp_chef_agency_2.jpg" width="100%" height="300px" alt="#">
             </div>
 
 
@@ -134,10 +134,10 @@ extensive demands of all that we deal with. ")
                         what makes us unique.</p>
 
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
-                        <img class="image-style-border margin-top-30 margin-bottom-30" src="public/assets/images/page-pictures/TEMP CHEF AGENCY/temp_chef_agency_3.JPG" width="100%" height="300px" alt="#">
+                        <img class="image-style-border margin-top-30 margin-bottom-30" src="public/assets/images/page-pictures/TEMP CHEF AGENCY/temp_chef_agency_3.jpg" width="100%" height="300px" alt="#">
                     </div>
                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
-                        <img class="image-style-border margin-top-30 margin-bottom-30" src="public/assets/images/page-pictures/TEMP CHEF AGENCY/temp_chef_agency_4.JPG" width="100%" height="300px" alt="#">
+                        <img class="image-style-border margin-top-30 margin-bottom-30" src="public/assets/images/page-pictures/TEMP CHEF AGENCY/temp_chef_agency_4.jpg" width="100%" height="300px" alt="#">
                     </div>
 
                     <p style="margin: 0;"> We cover a wide range of industries and that makes us flexible and adaptable. It also means that we
@@ -580,287 +580,23 @@ extensive demands of all that we deal with. ")
 
 <!-- jp counter Wrapper Start -->
 
-<div class="jp_counter_main_wrapper">
+<div class="container margin-bottom-30 margin-top-30">
 
-    <div class="gc_counter_cont_wrapper">
-
-        <div class="count-description">
-
-            <span class="timer">2540</span><i class="fa fa-plus"></i>
-
-            <h5 class="con1">Jobs Available</h5>
-
-        </div>
-
-    </div>
-
-    <div class="gc_counter_cont_wrapper2">
-
-        <div class="count-description">
-
-            <span class="timer">7325</span><i class="fa fa-plus"></i>
-
-            <h5 class="con2">Members</h5>
-
-        </div>
-
-    </div>
-
-    <div class="gc_counter_cont_wrapper3">
-
-        <div class="count-description">
-
-            <span class="timer">1924</span><i class="fa fa-plus"></i>
-
-            <h5 class="con3">Resumes</h5>
-
-        </div>
-
-    </div>
-
-    <div class="gc_counter_cont_wrapper4">
-
-        <div class="count-description">
-
-            <span class="timer">4275</span><i class="fa fa-plus"></i>
-
-            <h5 class="con4">Company</h5>
-
-        </div>
-
-    </div>
+    @include('layouts.why-workers-direct')
 
 </div>
+
+@include('layouts.number-counter')
+
+@include('layouts.how-we-work')
 
 <!-- jp counter Wrapper End -->
 
 <!-- aboutus_section end -->
 
-<div class="aboutus_page_2_section">
-
-    <div class="container">
-
-        <div class="row">
-
-            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
-
-                <div class="aboutus_text_section abt_txt_page_2">
-
-                    <h2>How We <span>Work</span></h2>
-
-                    <p>We do not depend always on technology for candidate searches, preferring to use experience, industry acumen and intuition to identify what each individual could bring to a specific business. This intelligent & human approach pays surpluses time after time. We recognise the trust clients make in Workers Direct and our priority is always to make sure we attain the best results for all concerned.</p>
-
-                    <div class="row">
-
-                        <div class="col-md-6">
-
-                            <ul>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Audit &amp; Assurance</li>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Business Services</li>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;IT Control Solutions</li>
-
-                            </ul>
-
-                        </div>
-
-                        <div class="col-md-6">
-
-                            <ul>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Audit &amp; Assurance</li>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;Business Services</li>
-
-                                <li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>&nbsp;&nbsp;IT Control Solutions</li>
-
-                            </ul>
-
-                        </div>
-
-                    </div>
-
-
-
-                </div>
-
-            </div>
-
-
-
-            <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
-
-                <div class="accordion_wrapper abt_page_2_wrapper">
-
-                    <div class="panel-group" id="accordion_threeLeft">
-
-                        <div class="panel panel-default">
-
-                            <div class="panel-heading desktop">
-
-                                <h4 class="panel-title">
-
-                                    <a class="collapsed" data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftone" aria-expanded="true">
-
-                                        Our Visions and Missions
-
-                                    </a>
-
-                                </h4>
-
-                            </div>
-
-                            <div id="collapseTwentyLeftone" class="panel-collapse collapse" aria-expanded="true" role="tablist">
-
-                                <div class="panel-body">
-
-                                    Praesent in nisl egestas mauris aliquam luctus. Ut auctor faucibus orci, nec semper purus ultrices idorbi nec lorem risus orbi vitae felis gravida Pellentesque id eros quis massa convallis feugiat eu quis urna.
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <!-- /.panel-default -->
-
-                        <div class="panel panel-default">
-
-                            <div class="panel-heading horn">
-
-                                <h4 class="panel-title">
-
-                                    <a data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftTwo" aria-expanded="false">
-
-                                        Our Corporate Responsibility
-
-                                    </a>
-
-                                </h4>
-
-                            </div>
-
-                            <div id="collapseTwentyLeftTwo" class="panel-collapse collapse in" aria-expanded="false" role="tablist">
-
-                                <div class="panel-body">
-
-                                    Praesent in nisl egestas mauris aliquam luctus. Ut auctor faucibus orci, nec semper purus ultrices idorbi nec lorem risus orbi vitae felis gravida Pellentesque id eros quis massa convallis feugiat eu quis urna.
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <!-- /.panel-default -->
-
-                        <div class="panel panel-default">
-
-                            <div class="panel-heading bell">
-
-                                <h4 class="panel-title">
-
-                                    <a class="collapsed" data-toggle="collapse" data-parent="#accordion_threeLeft" href="#collapseTwentyLeftThree" aria-expanded="false">
-
-                                        Visual Page Builder
-
-                                    </a>
-
-                                </h4>
-
-                            </div>
-
-                            <div id="collapseTwentyLeftThree" class="panel-collapse collapse" aria-expanded="false" role="tablist">
-
-                                <div class="panel-body">
-
-                                    Praesent in nisl egestas mauris aliquam luctus. Ut auctor faucibus orci, nec semper purus ultrices idorbi nec lorem risus orbi vitae felis gravida Pellentesque id eros quis massa convallis feugiat eu quis urna.
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <!-- /.panel-default -->
-
-                    </div>
-
-                    <!--end of /.panel-group-->
-
-                </div>
-
-            </div>
-
-            <!--end of /.col-sm-6-->
-
-        </div>
-
-    </div>
-
-</div>
-
 <!--end of /.col-sm-6-->
 
 <!-- jp downlord Wrapper Start -->
-
-<div class="jp_downlord_main_wrapper">
-
-    <div class="jp_downlord_img_overlay"></div>
-
-    <div class="container">
-
-        <div class="row">
-
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 hidden-sm hidden-xs">
-
-                <div class="jp_down_mob_img_wrapper">
-
-                    <img src="public/assets/images/content/mobail.png" alt="mobail_img" />
-
-                </div>
-
-            </div>
-
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-
-                <div class="ss_download_wrapper_details">
-
-                    <h2><span>Download</span><br>Job Portal App Now!</h2>
-
-                    <p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
-
-
-
-                    <a href="https://play.google.com/store/apps/details?id=com.mst_developers.workers_direct&hl=en" class="ss_playstore"><span><i class="fa fa-android" aria-hidden="true"></i></span> Play Store</a>
-
-
-
-
-
-
-
-                </div>
-
-            </div>
-
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 visible-sm visible-xs">
-
-                <div class="jp_down_mob_img_wrapper">
-
-                    <img src="public/assets/images/content/mobail.png" class="img-responsive" alt="mobail_img" />
-
-                </div>
-
-            </div>
-
-        </div>
-
-    </div>
-
-</div>
 
 <!-- jp downlord Wrapper End -->
 @endsection

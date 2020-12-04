@@ -351,7 +351,7 @@ Purchase:
 
                                                         <div class="list-item-service widthFull">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('hospitality-staff')}}">Hospitality </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('staffing-services/hospitality-staff')}}">Hospitality </a>
 
                                                         </div>
 
@@ -415,7 +415,7 @@ Purchase:
 
                                                         <div class="list-item-service widthFull">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('personal-assistant')}}">PA </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('staffing-services/personal-assistant')}}">PA </a>
 
                                                         </div>
 
@@ -469,7 +469,7 @@ Purchase:
 
                                                         <div class="list-item-service widthFull">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('industrial-staff')}}">Industrial </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('staffing-services/industrial-staff')}}">Industrial </a>
 
                                                         </div>
 
@@ -513,7 +513,7 @@ Purchase:
 
                                                         <div class="list-item-service widthFull">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('picker-packer')}}">Packers </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('staffing-services/picker-packer')}}">Packers </a>
 
                                                         </div>
 
@@ -523,7 +523,7 @@ Purchase:
 
                                                         <div class="list-item-service widthFull">
 
-                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('van-drivers')}}">Drivers </a>
+                                                            <i class="green fa fa-plus-circle"></i> <a href="{{url('staffing-services/van-drivers')}}">Drivers </a>
 
                                                         </div>
 
@@ -690,16 +690,16 @@ Purchase:
                                                                 <li><a href="{{url('staffing-services/temporary-staffing')}}">Hire Temp </a></li>
                                                                 <li><a href="{{url('staffing-services/admin-staff')}}">Admin </a></li>
                                                                 <li><a href="{{url('staffing-services/catering-staff')}}">Catering </a></li>
-                                                                <li><a href="{{url('hospitality-staff')}}">Hospitality </a></li>
+                                                                <li><a href="{{url('staffing-services/hospitality-staff')}}">Hospitality </a></li>
                                                                 <li><a href="{{url('staffing-services/school-staffing')}}">Academics </a></li>
                                                                 <li><a href="{{url('staffing-services/reception-staff')}}">Receptionist </a></li>
-                                                                <li><a href="{{url('personal-assistant')}}">PA </a></li>
+                                                                <li><a href="{{url('staffing-services/personal-assistant')}}">PA </a></li>
                                                                 <li><a href="{{url('staffing-services/construction-staff')}}">Construction </a></li>
                                                                 <li><a href="{{url('staffing-services/event-staff')}}">Events </a></li>
-                                                                <li><a href="{{url('industrial-staff')}}">Industrial </a></li>
+                                                                <li><a href="{{url('staffing-services/industrial-staff')}}">Industrial </a></li>
                                                                 <li><a href="{{url('staffing-services/warehouse-staff')}}">Warehouse </a></li>
-                                                                <li><a href="{{url('picker-packer')}}">Packers </a></li>
-                                                                <li><a href="{{url('van-drivers')}}">Drivers </a></li>
+                                                                <li><a href="{{url('staffing-services/picker-packer')}}">Packers </a></li>
+                                                                <li><a href="{{url('staffing-services/van-drivers')}}">Drivers </a></li>
 
                                                             </ul>
 

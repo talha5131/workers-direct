@@ -150,7 +150,7 @@ Route::get('/jobs/general-labourer', function () {
 Route::get('/latest-jobs/telesales-executive', function () {
     return view('telesales-executive');
 });
-Route::get('/picker-packer', function () {
+Route::get('/staffing-services/picker-packer', function () {
     return view('picker-packer');
 });
 Route::get('/jobs/pastry-chef', function () {
@@ -261,10 +261,10 @@ Route::get('/beautician-jobs', function () {
 Route::get('/forklift-driver-warehouse-assistant', function () {
     return view('forklift-driver-warehouse');
 });
-Route::get('/hospitality-staff', function () {
+Route::get('/staffing-services/hospitality-staff', function () {
     return view('hospitality-staff');
 });
-Route::get('/van-drivers', function () {
+Route::get('/staffing-services/van-drivers', function () {
     return view('van-drivers');
 });
 Route::get('/jobs/catering/waitress', function () {
@@ -375,10 +375,10 @@ Route::get('/temp-agencies-near-me', function () {
 Route::get('/admin', function () {
     return view('admin.index');
 });
-Route::get('/industrial-staff', function () {
+Route::get('/staffing-services/industrial-staff', function () {
     return view('industrial-staff');
 });
-Route::get('/personal-assistant', function () {
+Route::get('/staffing-services/personal-assistant', function () {
     return view('personal-assistant');
 });
 Route::get('/staffing-services', function () {

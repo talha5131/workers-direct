@@ -121,11 +121,11 @@
                         </div>
                     </div>
                     <div class="col-md-6 pl-0">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/HOSPITALITY STAFF/hospitality_staff_1.jpg" width="100%" height="300px" alt="career_img" />
+                        <img class="image-style-border" src="{{asset('public/assets/images/page-pictures/HOSPITALITY STAFF/hospitality_staff_1.jpg')}}" width="100%" height="300px" alt="career_img" />
                     </div>
 
                     <div class="col-md-6 pl-0">
-                        <img class="image-style-border" src="public/assets/images/page-pictures/HOSPITALITY STAFF/hospitality_staff_2.jpg" width="100%" height="300px" alt="career_img" />
+                        <img class="image-style-border" src="{{asset('public/assets/images/page-pictures/HOSPITALITY STAFF/hospitality_staff_2.jpg')}}" width="100%" height="300px" alt="career_img" />
                     </div>
 
 
@@ -546,7 +546,7 @@
 
                 <div class="jp_down_mob_img_wrapper">
 
-                    <img src="public/assets/images/content/mobail.png" alt="mobail_img" />
+                    <img src="{{asset('public/assets/images/content/mobail.png')}}" alt="mobail_img" />
 
                 </div>
 

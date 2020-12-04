@@ -111,13 +111,13 @@
 
                         <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12  margin-top-40">
 
-                            <img class="image-style-border" src="public/assets/images/page-pictures/VAN DRIVERS/van_drivers_2.jpg" width="100%" height="300px" alt="about-img">
+                            <img class="image-style-border" src="{{asset('public/assets/images/page-pictures/VAN DRIVERS/van_drivers_2.jpg')}}" width="100%" height="300px" alt="about-img">
 
                         </div>
 
                         <div class="col-lg-6 col-md-6 col-xs-12 col-sm-12 margin-top-40">
 
-                            <img class="image-style-border" src="public/assets/images/page-pictures/VAN DRIVERS/van_drivers_1.jpg" width="100%" height="300px" alt="about-img">
+                            <img class="image-style-border" src="{{asset('public/assets/images/page-pictures/VAN DRIVERS/van_drivers_1.jpg')}}" width="100%" height="300px" alt="about-img">
 
                         </div>
 

@@ -821,7 +821,7 @@ worker practically.')
 
 
             </div>
-            
+
             <!-- <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 margin-top-60">
 
                 <div class="jp_first_right_sidebar_main_wrapper">
@@ -1597,7 +1597,7 @@ worker practically.')
 
 <!-- jp career Wrapper Start -->
 
-<div class="jp_career_main_wrapper">
+<!-- <div class="jp_career_main_wrapper">
 
     <div class="container">
 
@@ -1737,13 +1737,13 @@ worker practically.')
 
     </div>
 
-</div>
+</div> -->
 
 <!-- jp career Wrapper End -->
 
 <!-- jp counter Wrapper Start -->
 
-<div class="jp_counter_main_wrapper">
+<!-- <div class="jp_counter_main_wrapper">
 
     <div class="gc_counter_cont_wrapper">
 
@@ -1793,13 +1793,15 @@ worker practically.')
 
     </div>
 
-</div>
+</div> -->
+@include('layouts.number-counter')
+
 
 <!-- jp counter Wrapper End -->
 
 <!-- aboutus_section end -->
 
-<div class="aboutus_page_2_section">
+<!-- <div class="aboutus_page_2_section">
 
     <div class="container">
 
@@ -1887,7 +1889,6 @@ worker practically.')
 
                         </div>
 
-                        <!-- /.panel-default -->
 
                         <div class="panel panel-default">
 
@@ -1917,7 +1918,6 @@ worker practically.')
 
                         </div>
 
-                        <!-- /.panel-default -->
 
                         <div class="panel panel-default">
 
@@ -1947,29 +1947,28 @@ worker practically.')
 
                         </div>
 
-                        <!-- /.panel-default -->
 
                     </div>
 
-                    <!--end of /.panel-group-->
 
                 </div>
 
             </div>
 
-            <!--end of /.col-sm-6-->
 
         </div>
 
     </div>
 
-</div>
+</div> -->
+
+@include('layouts.how-we-work')
 
 <!--end of /.col-sm-6-->
 
 <!-- jp downlord Wrapper Start -->
 
-<div class="jp_downlord_main_wrapper">
+<!-- <div class="jp_downlord_main_wrapper">
 
     <div class="jp_downlord_img_overlay"></div>
 
@@ -2023,7 +2022,7 @@ worker practically.')
 
     </div>
 
-</div>
+</div> -->
 
 <!-- jp downlord Wrapper End -->
 @endsection
