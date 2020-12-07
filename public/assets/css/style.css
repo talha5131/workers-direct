@@ -4955,6 +4955,9 @@ i {
     .chat-logs {
         height: 40vh;
     }
+    .jp_top_header_img_wrapper .gc_main_menu_wrapper {
+        background: #000000df;
+    }
 }
 
 .chat-msg.user>.msg-avatar img {
@@ -7922,6 +7925,7 @@ label.formsLabel {
     .wd-intro-para {
         font-size: 15px !important;
     }
+    
 }
 
 .bookNowBtn,
