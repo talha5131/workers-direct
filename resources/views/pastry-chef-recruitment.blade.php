@@ -445,75 +445,25 @@
     </div>
 
 </div>
-<!-- jp career Wrapper Start -->
 
+<div class="container margin-bottom-30 margin-top-30">
 
+    @include('layouts.why-workers-direct')
+
+</div>
 
 <!-- jp career Wrapper End -->
 
 <!-- jp counter Wrapper Start -->
 
-<div class="jp_counter_main_wrapper">
-
-    <div class="gc_counter_cont_wrapper">
-
-        <div class="count-description">
-
-            <span class="timer">2540</span><i class="fa fa-plus"></i>
-
-            <h5 class="con1">Jobs Available</h5>
-
-        </div>
-
-    </div>
-
-    <div class="gc_counter_cont_wrapper2">
-
-        <div class="count-description">
-
-            <span class="timer">7325</span><i class="fa fa-plus"></i>
-
-            <h5 class="con2">Members</h5>
-
-        </div>
-
-    </div>
-
-    <div class="gc_counter_cont_wrapper3">
-
-        <div class="count-description">
-
-            <span class="timer">1924</span><i class="fa fa-plus"></i>
-
-            <h5 class="con3">Resumes</h5>
-
-        </div>
-
-    </div>
-
-    <div class="gc_counter_cont_wrapper4">
-
-        <div class="count-description">
-
-            <span class="timer">4275</span><i class="fa fa-plus"></i>
-
-            <h5 class="con4">Company</h5>
-
-        </div>
-
-    </div>
-
-</div>
+@include('layouts.number-counter')
 
 <!-- jp counter Wrapper End -->
 
 <!-- aboutus_section end -->
 
-<!--end of /.col-sm-6-->
 
-<!-- jp downlord Wrapper Start -->
+<!-- How We Work -->
+@include('layouts.how-we-work')
 
-
-
-<!-- jp downlord Wrapper End -->
 @endsection

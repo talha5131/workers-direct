@@ -225,60 +225,24 @@
 
 </div>
 
-<!-- jp ad post Wrapper End -->
+<div class="container margin-bottom-30 margin-top-30">
 
-<!-- jp downlord Wrapper Start -->
-
-<div class="jp_downlord_main_wrapper">
-
-	<div class="jp_downlord_img_overlay"></div>
-
-	<div class="container">
-
-		<div class="row">
-
-			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 hidden-sm hidden-xs">
-
-				<div class="jp_down_mob_img_wrapper">
-
-					<img src="public/assets/images/content/mobail.png" alt="mobail_img" />
-
-				</div>
-
-			</div>
-
-			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-
-				<div class="ss_download_wrapper_details">
-
-					<h2><span>Download</span><br>Job Portal App Now!</h2>
-
-					<p>Fast, Simple & Delightful. All it takes is 30 seconds to Download.</p>
-
-
-
-					<a href="https://play.google.com/store/apps/details?id=com.mst_developers.workers_direct&hl=en" class="ss_playstore"><span><i class="fa fa-android" aria-hidden="true"></i></span> Play Store</a>
-
-				</div>
-
-			</div>
-
-			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 visible-sm visible-xs">
-
-				<div class="jp_down_mob_img_wrapper">
-
-					<img src="public/assets/images/content/mobail.png" class="img-responsive" alt="mobail_img" />
-
-				</div>
-
-			</div>
-
-		</div>
-
-	</div>
+    @include('layouts.why-workers-direct')
 
 </div>
 
-<!-- jp downlord Wrapper End -->
+<!-- jp career Wrapper End -->
+
+<!-- jp counter Wrapper Start -->
+
+@include('layouts.number-counter')
+
+<!-- jp counter Wrapper End -->
+
+<!-- aboutus_section end -->
+
+
+<!-- How We Work -->
+@include('layouts.how-we-work')
 
 @endsection
