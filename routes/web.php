@@ -1,6 +1,9 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\UserController;
+use App\Http\Controllers\DashboardController;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -1239,6 +1242,9 @@ Route::get('/locations/england/recruitment-agency-in-temple-dinsley', function (
 Route::get('/locations/england/recruitment-agency-in-richmonds-green', function () {
     return view('recruitment-agency-richmonds');
 });
-Route::get('/admin-login', function () {
-    return view('admin.login');
-});
+
+
+Route::get('admin-login', 'UserController@login');
+Route::post('admin-login', 'UserController@check')->name('login');
+Route::get('/admin','DashboardController@index')->name('dashboard');
+Route::get('admin-logout', 'UserController@logout')->name('logout');

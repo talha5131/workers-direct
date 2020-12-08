@@ -317,7 +317,7 @@
                                     screen</a>
                             </li>
                             <li>
-                                <a href="pages-login.html"><i class="demo-pli-unlock icon-lg icon-fw"></i>
+                                <a href="{{route('logout')}}"><i class="demo-pli-unlock icon-lg icon-fw"></i>
                                     Logout</a>
                             </li>
                         </ul>
