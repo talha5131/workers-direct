@@ -1239,3 +1239,6 @@ Route::get('/locations/england/recruitment-agency-in-temple-dinsley', function (
 Route::get('/locations/england/recruitment-agency-in-richmonds-green', function () {
     return view('recruitment-agency-richmonds');
 });
+Route::get('/admin-login', function () {
+    return view('admin.login');
+});
