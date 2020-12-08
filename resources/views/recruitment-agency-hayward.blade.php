@@ -1,6 +1,6 @@
 @extends('layouts.base')
-@section('title','Recruitment Agency In Westland | Workers Direct')
-@section('keywords','recruitment,westland')
+@section('title','Recruitment Agency Haywars | Workers Direct')
+@section('keywords','recruitment,agency,hayward')
 @section('description','')
 @section('content')
 
@@ -33,7 +33,7 @@
 
                     <div class="jp_tittle_heading">
 
-                        <h1>Recruitment Agency In Westland</h1>
+                        <h1>Recruitment Agency Hayward</h1>
 
                     </div>
 
@@ -47,7 +47,7 @@
 
 
 
-                                <li>Recruitment Agency In Westland</li>
+                                <li>Recruitment Agency Hayward</li>
 
                             </ul>
 
@@ -75,13 +75,13 @@
 
         <div class="row">
 
-            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12 margin-bottom-20">
+            <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12  margin-bottom-20">
 
                 <div class="about_text_wrapper">
 
                     <div class="section_heading section_2_heading">
 
-                        <h2>Recruitment Agency In Westland</h2>
+                        <h2>Recruitment Agency Hayward</h2>
 
                     </div>
 
