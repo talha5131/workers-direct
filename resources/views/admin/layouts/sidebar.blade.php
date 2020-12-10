@@ -157,15 +157,15 @@
                                 </span><i class="arrow"></i>
                             </a>
                             <ul class="collapse">
-                                <li><a href="#">Jobs 1</a></li>
-                                <li><a href="#">Jobs 2</a></li>
-                                <li><a href="#">Jobs 3</a></li>
-                                <li><a href="#">Jobs 4</a></li>
-                                <li><a href="#">Jobs 5</a></li>
-                                <li><a href="#">Jobs 6</a></li>
-                                <li><a href="#">Jobs 7</a></li>
+                                <li class="nav-item">
+                                    <a href="admin-addJob" >
+                                        <p>Add Job with Single Page</p>
+                                    </a>
+                                </li>
                             </ul>
                         </li>
+
+                       
 
                         <li>
                             <a href="#">

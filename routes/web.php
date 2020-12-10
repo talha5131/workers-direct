@@ -1245,9 +1245,14 @@ Route::get('/locations/england/recruitment-agency-in-richmonds-green', function 
 Route::get('/recruitment-agency-haywards', function () {
     return view('recruitment-agency-hayward');
 });
+Auth::routes();
 
+Route::get('/home', 'HomeController@index')->name('home');
 
 Route::get('admin-login', 'UserController@login');
 Route::post('admin-login', 'UserController@check')->name('login');
-Route::get('/admin','DashboardController@index')->name('dashboard');
+Route::get('admin','DashboardController@index')->name('dashboard');
 Route::get('admin-logout', 'UserController@logout')->name('logout');
+
+Route::get('admin-addJob', 'JobController@create');
+

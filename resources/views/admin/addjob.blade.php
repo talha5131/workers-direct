@@ -1,4 +1,4 @@
-@extends('admin.layout.base')
+@extends('admin.layouts.base')
 @section('title','Add Job')
 @section('content')
 
@@ -33,7 +33,7 @@
             <!-- Main content -->
             <section class="content">
                 <div class="container">
-                    <form id="postAJob" action="{{ route('admin.addJob')}}" method="post">
+                    <form id="postAJob"  method="post">
                         @csrf
                         {{-- <div class="form-group">--}}
                         {{-- <label for="">Have an account?</label>--}}
