@@ -106,6 +106,20 @@
 
                         </li>
 
+                        <li>
+                            <a href="#">
+                                <i class="demo-pli-split-vertical-2"></i>
+                                <span class="menu-title">Categories</span>
+                                <i class="arrow"></i>
+                            </a>
+
+                            <!--Submenu-->
+                            <ul class="collapse">
+                                <li><a href="#">Categories</a></li>
+                                <li><a href="#">Add Categories</a></li>
+                            </ul>
+                        </li>
+
                         <!--Menu list item-->
                         <li>
                             <a href="#">
